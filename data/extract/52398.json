@@ -1,0 +1,1179 @@
+{
+  "clip_id": 52398,
+  "items": [
+    {
+      "meta_id": 1239802,
+      "summary": "Board President Rafael Mandelman called the regular meeting to order and the Clerk conducted roll call, confirming a quorum with ten members present and Supervisor Jackie Fielder absent. President Mandelman then delivered the ancestral land acknowledgment of the Ramaytush Ohlone and led the Pledge of Allegiance.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1239806,
+      "summary": "Mayor Daniel Lurie appeared before the Board for his monthly address. He highlighted preliminary results from the 2026 Point-in-Time count indicating that unsheltered homelessness in San Francisco reached its lowest level in 15 years, down 22% since 2024 with tent counts down 85%. He discussed the addition of stabilization and treatment beds, assistance transitioning families out of RVs, and ongoing efforts to address family homelessness.",
+      "outcome": "no_action",
+      "topics": [
+        "homelessness",
+        "health",
+        "public_safety"
+      ],
+      "speakers": [
+        {
+          "name": "Mayor",
+          "stance": "support",
+          "quote": "ACCORDING TO THE PRELIMINARY READ 2026 POINT IN TIME COUNT UNSHELTERED HOMELESSNESS IN SAN FRANCISCO IS NOW AT THE LOWEST LEVELS IN 15 YEARS. SINCE 2024, UNSHELTERED HOMELESSNESS IS DOWN 22%. THE NUMBER OF PEOPLE IN TENTS IS DOWN 85%",
+          "t0": 181.375,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1239803,
+      "summary": "The Clerk announced communications regarding public attendance, broadcast details, written public comment procedures, and ADA accommodation requests. The Board then considered a motion by Supervisor Chan, seconded by Supervisor Walton, to excuse Supervisor Jackie Fielder from the meeting pursuant to her leave memo, which was approved without objection.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1239804,
+      "summary": "The Board considered the approval of the meeting minutes from the regular meeting of April 7, 2026. On a motion moved by Supervisor Chen and seconded by Supervisor Sherrill, the minutes were approved unanimously on a roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1239811,
+      "summary": "The Board considered an ordinance appropriating $1,500,000 from the General Reserve to the Public Defender to support projected increases in salary and fringe benefit costs for fiscal year 2025-2026. Requiring a two-thirds vote of all members pursuant to Charter Section 9.113, the ordinance was finally passed unanimously on roll call.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1239813,
+      "summary": "The Board considered an ordinance amending Division 1 of the Transportation Code to authorize the Director of Transportation to approve temporary street use permits and amending the Administrative Code to approve certain street closures proposed by Community Benefit Districts under the Downtown Entertainment Event Activation Program. The ordinance was finally passed without objection.",
+      "outcome": "passed",
+      "topics": [
+        "transit",
+        "small_business"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1239814,
+      "summary": "The Board took up an ordinance amending the Housing Code to revise qualifications and deadlines for conducting structural maintenance inspections and affirming the CEQA determination. The ordinance was finally passed without objection.",
+      "outcome": "passed",
+      "topics": [
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1239815,
+      "summary": "The Board considered an ordinance conditionally accepting an offer of dedication and quitclaim deed from OCII for a segment of East Clementina Street between Beale and Main streets for maintenance and liability. The ordinance also establishes official public right-of-way widths and street grades, accepts public improvements and sidewalk easements associated with Transbay 2, and waives sidewalk width requirements. The ordinance was finally passed without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "transit"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1239816,
+      "summary": "The Board considered an ordinance amending the Administrative Code to authorize the Public Utilities Commission to purchase utility infrastructure from customers that the SFPUC would otherwise be required to install, subject to specified conditions. The ordinance was finally passed without objection.",
+      "outcome": "passed",
+      "topics": [
+        "environment",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1239819,
+      "summary": "The Board considered an ordinance establishing City policy to expand drug-free permanent supportive housing (PSH) and restricting City funding for new site-based PSH that prohibits evictions on the basis of drug use alone. Supervisor Dorsey reported that an agreement in principle on clarifying eviction protections had been reached with the San Francisco-Marin Medical Society, necessitating substantive amendments. On Supervisor Dorsey's motion, the Board voted without objection to re-refer the item to committee.",
+      "outcome": "referred",
+      "topics": [
+        "housing",
+        "homelessness",
+        "health"
+      ],
+      "speakers": [
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "after a lot of back and forth between us over the last month we have reached an agreement at least in principle on clarifying language for eviction protections that I am very comfortable with. ... the amendment is going to be substantive meaning the item will need to go back to committee",
+          "t0": 878.379,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1239823,
+      "summary": "The Board considered an ordinance appropriating ambulance billing and overtime revenues and reallocating funding across the Fire Department, Department of Emergency Management, and Public Utilities Commission to support projected overtime increases. Requiring a two-thirds vote, the ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1239824,
+      "summary": "The Board considered an ordinance appropriating $2,500,000 from open space acquisition funding to the Recreation and Park Department for a loan to the San Francisco Zoological Society for fiscal year 2025-2026. Supervisor Melgar spoke in support, highlighting that the loan is tied to audit findings and requires strict financial sustainability and strategic milestones. The ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "parks"
+      ],
+      "speakers": [
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "The proposed ordinance it before you would be appropriate 2.5 million for the open space acquisition reserve and appropriate those funds to park rack and to be used as an initial load disbursement to the San Francisco Zoo in the year 2526.",
+          "t0": 1134.257,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1239825,
+      "summary": "The Board considered a resolution approving a grant agreement amendment between the Department of Homelessness and Supportive Housing and Tenderloin Housing Clinic for the Abigail Housing Ladder Program. The amendment extends the term by 36 months to June 30, 2029, and increases the agreement amount by $5,500,000 for a new total not to exceed $15,496,140. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "homelessness"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1239826,
+      "summary": "The Board considered a resolution approving a second amendment to the grant agreement with Tenderloin Housing Clinic for support services, property management, and master lease stewardship at the Garland Hotel. The amendment extends the term through June 30, 2029, and increases funding by $7,300,000 for a total not to exceed $17,340,154. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "homelessness"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1239827,
+      "summary": "The Board considered a resolution approving a second amendment to the grant agreement between HSH and Community Forward SF for support services, property management, and master lease stewardship at the Coronado Hotel. The amendment extends the term through June 30, 2027, and adds $2,100,000 for a total amount not to exceed $11,907,978. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "homelessness"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1239828,
+      "summary": "The Board considered a resolution approving a second amendment to the contract with Five Keys Schools and Programs for the operation of the Ellis semi-congregate shelter. The amendment extends the term by 24 months through June 30, 2028, and increases the contract amount by $12,200,000 for a total not to exceed $39,569,622. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "homelessness"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1239829,
+      "summary": "The Board considered a resolution retroactively authorizing the Office of Economic and Workforce Development to accept and expend a $5,000,000 grant from the California Natural Resources Agency. The funds support historic preservation, revitalization, and economic development for the Castro Theatre for the term running through December 31, 2027. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "small_business",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1239832,
+      "summary": "The Board considered a resolution authorizing a 10-year and 4-month lease with 33 Eighth Street LLC for property at 33 8th Street on behalf of the Drug Market Agency Coordination Center at an initial base rent of $448,224. Supervisor Dorsey recused himself as the landlord is his personal landlord, and the Board excused him from voting. The resolution was adopted 9-0 on a roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "budget"
+      ],
+      "speakers": [
+        {
+          "name": "Matt Dorsey",
+          "stance": "neutral",
+          "quote": "BECAUSE THIS AGREEMENT HAPPENS TO BE WITH MY OWN LANDLORD I HAVE BEEN ADVISED BY COUNSEL THAT I SHOULD RECUSE MYSELF FROM THIS VOTE RIGHT.",
+          "t0": 1435.309,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1239835,
+      "summary": "The Board considered a resolution retroactively authorizing the Department of Public Health to accept and expend a $1,000,000 grant from the California Department of Health Care Services for the San Francisco Chinese Hospital to support its new oncology clinic and chemotherapy center. Supervisor Wong was added as a co-sponsor, and the resolution was adopted unanimously on roll call.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "health"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1239836,
+      "summary": "The Board considered a resolution retroactively authorizing DPH to accept and expend an $87,675 grant from the California State Water Resources Control Board for the Public Beach Safety Program to collect bay and ocean shoreline water samples for pathogen analysis through June 30, 2028. The resolution was adopted unanimously on roll call.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "environment",
+        "health"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1239837,
+      "summary": "The Board considered a resolution designating the Executive Director of the Department of Emergency Management, the Controller, and the Deputy Controller as authorized agents on behalf of the City and County of San Francisco to obtain state and federal disaster and emergency assistance funding. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "budget",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1239845,
+      "summary": "The Board held its special order recognizing meritorious service and commendations. Supervisors presented commendations to Rabbi Martin Rawlings-Fein, the City Hall Sheriff's Cadets, the San Francisco and Bay Area Korea Center, officers of the Tenderloin Station Patrol, Jay Pham of the Recovery Room bar, music educator Marla Perkins, environmental leader David Assmann, and the organizers of the St. Patrick's Day Parade and Festival.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "EACH DAY OUR SHERIFF'S CADETS AND AS THEY COME FORWARD BEFORE THE MEETINGS BEGIN, BEFORE THE CONVERSATION HAS HAPPENED, BEFORE THE WORK OF GOVERNMENT GETS UNDERWAY. YOU ARE HERE. YOU WELCOME STAFF MEMBERS OF THE PUBLIC.",
+          "t0": 2046.8,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1239838,
+      "summary": "The Board considered a resolution authorizing the execution and delivery of multifamily housing revenue notes in an aggregate principal amount not to exceed $30,000,000. The financing supports the construction of a 94-unit multifamily affordable rental housing development known as 1687 Market Residences by Mercy Housing California 120, L.P. The resolution was adopted unanimously on roll call.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1239841,
+      "summary": "The Board considered a motion appointing Jasper Verduin, Michael Fittro, Sam Ustrzynski (residency requirement waived), Kescha Mason, Brandon Fountain, Amelia Harmon, Stephanie Gonzales, and Tara Gamboa-Eastman to various terms on the Behavioral Health Commission. The motion was approved without objection.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1239844,
+      "summary": "The Board considered an ordinance implementing the recommendations of the Commission Streamlining Task Force created by Proposition E to abolish inactive bodies, reorganize code chapters, and standardize terms, term limits, and advisory body powers. Supervisor Melgar voiced strong opposition to eliminating the Early Care and Education Oversight and Advisory Committee and consolidating it into First 5, with Supervisors Walton, Chan, and Chen also objecting to broad eliminations. The ordinance passed on first reading by a 6-4 vote.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [
+        {
+          "name": "Myrna Melgar",
+          "stance": "oppose",
+          "quote": "THE EARLY CARE AND EDUCATION IN THIS ORDINANCE PROPOSES THE ELIMINATION OF THE EARLY CARE AND EDUCATION OVERSIGHT AND ADVISORY COMMITTEE ON WHICH I SAT WITH ITS DUTIES CONSOLIDATING IT INTO THE FIRST FIVE COMMISSION ... I DON'T FEEL LIKE THIS ORDINANCE ENCAPSULATES ALL THE CHANGES THAT I WANT TO SEE",
+          "t0": 5686.185,
+          "verified": false
+        },
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "SAN FRANCISCO HAS 152 BOARDS AND COMMISSIONS WITH OVER 1000 RESIDENTS VOLUNTEERING THEIR TIME BUT ONLY 115 OF THOSE BODIES WERE EVER EVEN ACTIVE. ... WHAT WE ARE ELIMINATING IS BUREAUCRATIC REDUNDANCY NOT COMMUNITY VOICE.",
+          "t0": 5879.385,
+          "verified": false
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "oppose",
+          "quote": "THERE ARE SOME SOME COMMITTEES THAT ARE STILL IMPORTANT THAT DID PROVIDE A LOT OF COMMUNITY VOICE THAT WE STILL NEED. I ALSO THINK THAT WE ARE UNDER THE GUN IN TERMS OF WHAT WE CAN DO HERE TODAY. AND SO THIS IS ONE OF THOSE THINGS WHERE IF YOU DON'T ACCEPT EVERYTHING THEN YOU KNOW WE'RE STUCK.",
+          "t0": 6051.706,
+          "verified": false
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "I THINK IT IS GOOD FOR THE PEOPLE WHO TRY TO MAKE OUR GOVERNMENT WORK. IT WOULD BE GOOD IF WE DID A LITTLE MORE PRUNING, A LITTLE MORE OFTEN. I THINK THE FORCING FUNCTION HERE OF MAKING THIS BOARD VOTE ON SOMETHING AND HAVING IT TAKE EFFECT EVEN IF WE DON'T ... WAS PROBABLY A LITTLE BIT OF GENIUS",
+          "t0": 6157.416,
+          "verified": false
+        }
+      ],
+      "votes": [
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "no",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1239849,
+      "summary": "Sitting as a Committee of the Whole, the Board convened a public hearing to consider objections to assessment costs for sidewalk and curb repairs performed under the Sidewalk Inspection and Repair Program (SIRP). Public Works reported that the vast majority of outstanding invoices had been paid or placed on payment plans, leaving six unpaid invoices totaling $23,121.28. Following public testimony, the hearing was closed and filed, and property owners were directed to confer with staff in the hallway.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": [
+        "Unfairness of holding property owners liable for tree root sidewalk damage caused by city trees",
+        "Administrative friction and unresponsiveness within city departments",
+        "Sidewalk tripping hazards and pedestrian safety"
+      ]
+    },
+    {
+      "meta_id": 1239852,
+      "summary": "The Board received the Public Works Director's report of assessment costs for sidewalk and curb repairs under the Sidewalk Inspection and Repair Program. The report was considered during the Committee of the Whole hearing, with formal action deferred pending staff discussions with property owners outside the chamber.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1239856,
+      "summary": "Sitting as a Committee of the Whole, the Board conducted a public hearing on assessment costs for the inspection and repair of blighted properties under the Accelerated Sidewalk Abatement Program. Public Works presented an updated list of 15 remaining unpaid invoices totaling $6,647.20 after numerous payments and fee waivers. After hearing public testimony, the hearing was closed and filed to allow property owners to negotiate specific assessments with staff.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": [
+        "Financial strain of blight fines and assessments on struggling homeowners and businesses",
+        "Disputes over whether sidewalk damage resulted from private neglect or city tree roots"
+      ]
+    },
+    {
+      "meta_id": 1239860,
+      "summary": "The Board received the Public Works report of assessment costs for blighted properties under the Accelerated Sidewalk Abatement Program. Action on the report was temporarily paused following public testimony so that Public Works staff could resolve specific disputes with property owners in the hallway.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1239865,
+      "summary": "Sitting as a Committee of the Whole, the Board considered a hearing to receive updates on the implementation of U.S. Department of Justice recommendations regarding reforms within the Police Department. Supervisor Walton moved to continue the hearing to November 10, 2026, stating there was no new information to report. Following public testimony criticizing ongoing delays and police accountability, the Board voted 9-0 to continue the hearing.",
+      "outcome": "continued",
+      "topics": [
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": [
+        "Frustration with repeated continuances of DOJ police reform updates",
+        "Lack of justice and accountability for victims of police violence",
+        "Proposals to explore community policing models and private patrol alternatives"
+      ]
+    },
+    {
+      "meta_id": 1239869,
+      "summary": "The Board considered an ordinance amending the Administrative Code to create a Downtown Hospitality Zone authorizing up to 15 new special on-sale general liquor licenses pursuant to state legislation. Supervisor Sauter explained that the legislation implements a state law signed by Governor Newsom and had been amended in Rules Committee to reduce the license cap from 20 to 15, with a duplicated file retained in committee for future amendments. The ordinance passed on first reading unanimously.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "planning_land_use"
+      ],
+      "speakers": [
+        {
+          "name": "Danny Sauter",
+          "stance": "support",
+          "quote": "THIS IS THE LOCAL IMPLEMENTATION OF A STATE LAW THAT WOULD ALLOW FOR UP TO 20 NEW LIQUOR LICENSES SPECIFICALLY DESIGNATED FOR DOWNTOWN SAN FRANCISCO WITHIN A HOSPITALITY ZONE. ... AN AMENDMENT WAS MADE AND RULES COMMITTEE YESTERDAY TO REDUCE THE NUMBER OF TOTAL LICENSES AVAILABLE",
+          "t0": 8236.824,
+          "verified": false
+        }
+      ],
+      "votes": [
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1239870,
+      "summary": "Supervisors introduced new legislation and resolutions during roll call. Introductions included a resolution commemorating the 140th anniversary of the Yick Wo v. Hopkins civil rights case, support for state legislation expanding full-scope Medi-Cal access (SB 1422) and tenant notice protections (SB 436), federal crime survivor assistance legislation (HR 8426), and a hearing request on improving transit accessibility for families with strollers.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance",
+        "public_safety",
+        "health",
+        "transit",
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1239857,
+      "summary": "Following hallway consultations between property owners and Public Works staff, the Board reconvened on the Committee of the Whole hearing for the Accelerated Sidewalk Abatement Program. Public Works announced that 514 Visitacion Avenue had been removed from the assessment list, lowering the final approved assessment total to $6,204.80. The Board accepted the amendment and adopted the reports without objection on roll call.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1239861,
+      "summary": "The Board adopted the resolution approving the report of assessment costs for blighted properties under the Accelerated Sidewalk Abatement Program as amended, removing 514 Visitacion Avenue from the assessment list for a revised total of $6,204.80. The resolution was adopted 10-0 on roll call alongside Item 22.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1239871,
+      "summary": "The Board held general public comment on matters within its subject-matter jurisdiction. Members of the public testified on a variety of local issues, including governance of the Ella Hill Hutch Community Center, preserving city housing subsidies for transgender residents, regulating artificial intelligence companies, expanding automated speed safety cameras, and environmental planning in the Marina District.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": [
+        "Demanding a community-led co-director model for the Ella Hill Hutch Community Center and opposing lease transfers without community input",
+        "Urgent requests to maintain rental housing subsidies preventing transgender homelessness",
+        "Concerns regarding mass surveillance and automated speed enforcement cameras",
+        "Calls for municipal licensing and taxation of artificial intelligence companies"
+      ]
+    },
+    {
+      "meta_id": 1239872,
+      "summary": "The Board considered resolutions introduced for adoption without committee reference. After Item 30 was removed and sent to committee upon supervisor request, the Board considered Item 29 declaring May 15, 2026 as Yau Kung Moon Day and Item 31. Both resolutions were adopted unanimously on roll call.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1239876,
+      "summary": "The Board considered a resolution affirming support for the Speed Safety System Pilot Program and urging state exploration of changes to strengthen automated speed enforcement. Supervisor Walton and Supervisor Wong exercised supervisor privilege to send the item to committee, noting surveillance concerns and procedural rules against debating unreferenced items. Supervisor Dorsey spoke on the proven 80% reduction in dangerous speeding across 33 pilot camera sites before the item was referred to committee.",
+      "outcome": "referred",
+      "topics": [
+        "public_safety",
+        "transit",
+        "settlements"
+      ],
+      "speakers": [
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "",
+          "t0": 12517.403,
+          "verified": false
+        },
+        {
+          "name": "Alan Wong",
+          "stance": "oppose",
+          "quote": "ANYTHING WITH SURVEILLANCE INVOLVED IN IT? I AM GOING TO SEND IT TO COMMITTEE FOR ADOPTION WITHOUT COMMITTEE REFERENCE MAKES A BLANKET STATEMENT THAT WE'RE ALL IN AGREEMENT WITH EVERYTHING AND THAT'S NOT ALWAYS THE CASE.",
+          "t0": 12589.275,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1239899,
+      "summary": "President Mandelman inquired whether there were any imperative agenda items for consideration. The Clerk reported that no imperative items were submitted.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1239900,
+      "summary": "The Board adjourned the meeting in memory of Lawrence Michael Stefani, a decorated veteran and financial services executive, and the father of California State Assemblywoman and former Supervisor Catherine Stefani.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    }
+  ],
+  "quote_verification": {
+    "verified": 4,
+    "partial": 7,
+    "dropped": 1
+  }
+}

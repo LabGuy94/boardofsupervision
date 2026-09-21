@@ -1,0 +1,676 @@
+{
+  "clip_id": 48405,
+  "items": [
+    {
+      "meta_id": 1112168,
+      "summary": "The Board of Supervisors convened for its regular meeting on January 14, 2025. The clerk took roll call, confirming all members were present, followed by an Ohlone land acknowledgment and the Pledge of Allegiance.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1112169,
+      "summary": "The clerk read general communications, including information on meeting broadcasts, ADA accessibility requests, language assistance, and procedures for public comment.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1112170,
+      "summary": "The Board considered the approval of meeting minutes from November 19, December 3, and December 10, 2024. The minutes were approved unanimously on a roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1112175,
+      "summary": "Supervisor Dorsey presented an ordinance amending the Planning Code and Zoning Map for the 30 Van Ness Avenue Special Use District to improve project feasibility and jumpstart construction on a stalled multi-family housing development. Following committee discussion and non-substantive amendments confirmed by the City Attorney, the Board approved the amendments and passed the ordinance on first reading.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "planning_land_use"
+      ],
+      "speakers": [
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "30 van ness is an stance the developer started the project in AUGUST of 2022 and affordable housing fee indexes to the city up front on site permits that is at a critical intersection at van ness and multi-family has visually stalled.",
+          "t0": 328.269,
+          "verified": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "Many of us come to work in this building every single day see that project a hole in the ground. At the corner of market street and there were during the pandemic wood structures built around this we say a lot of hurt at that um, intersection a lot of our neighbors suffering",
+          "t0": 497.84,
+          "verified": true
+        },
+        {
+          "name": "City Attorney",
+          "stance": "neutral",
+          "quote": "Deputy city attorney the amendments by supervisor dorsey are not substantive and no go back to the committee.",
+          "t0": 602.546,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1112177,
+      "summary": "Supervisors introduced new legislation and made preliminary remarks during the roll call for introductions. Items discussed included resolutions reaffirming San Francisco's sanctuary city ordinance, support and oversight for the mayor's fentanyl emergency proposal, hearings on the closure of the Fillmore Safeway, public trash can maintenance, and small business fee waiver extensions.",
+      "outcome": "no_action",
+      "topics": [
+        "public_safety",
+        "health",
+        "small_business",
+        "housing",
+        "transit",
+        "elections_governance"
+      ],
+      "speakers": [
+        {
+          "name": "Jackie Fielder",
+          "stance": "support",
+          "quote": "This town was built by people who are immigrant and wouldn't function without people who migrate and because we get a new PRESIDENT We'll not abandoned our community but our sanctuary city ordinance is here to stay.",
+          "t0": 1045.763,
+          "verified": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "I want to second supervisor dorseys co-sponsoring for the mayors statement of emergency I'm proud to be a co-children and the reason is because this type of focus and decisive action to address the concerns about fentanyl and it's devastating impacts",
+          "t0": 1100.618,
+          "verified": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "I'll be doing doing everything we can to make sure we negotiate with each other and with the state and the mayor's office to get to the finish line. I'll be concentrating on the legislation to finalize the co-op housing legislation I've been working on to quite a while",
+          "t0": 1408.596,
+          "verified": true
+        },
+        {
+          "name": "Danny Sauter",
+          "stance": "support",
+          "quote": "that's why I'm asking for a hearing calling on the city's policy and progress that relates to this we have questions and looking for answers resident want to know how to address the track cans and businesses why the trash cans on the corner is over flowing",
+          "t0": 1805.366,
+          "verified": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "stance": "support",
+          "quote": "Do I want to introduce and request for the study for the impacts explore how to extend those key waivers for the future and san francisco commercial corridors with the backbone of the city",
+          "t0": 1887.983,
+          "verified": false
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "oppose",
+          "quote": "Right now we have legislation that requests waiving process to allow for the swift sdibts and supporting this legislation is premature without the presence of a plan that demonstrates exactly what the mayor and the city plans to do.",
+          "t0": 2025.623,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1112178,
+      "summary": "Members of the public addressed the Board during general public comment. Prominent topics included outrage and concern regarding the impending closure of the Fillmore Safeway grocery store and its impact on the community, support for special police training and reentry programs, neighborhood safety, and city accountability.",
+      "outcome": "no_action",
+      "topics": [
+        "health",
+        "public_safety",
+        "small_business",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Public commenter",
+          "stance": "oppose",
+          "quote": "we are really calling this an emergency because not only the western addition and fillmore not only japantown but all the sensor community and have to make sure that everyone gets nutrition they have access to medication",
+          "t0": 3792.48,
+          "verified": false
+        },
+        {
+          "name": "Public commenter",
+          "stance": "oppose",
+          "quote": "Safeway got away. And time for us to put the brakes on. And to say that all lists will not turnover one spade of dirt for this ground they're on they stole it through safeway who got to. Below the value.",
+          "t0": 5075.414,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": [
+        "Closure of Fillmore Safeway creating a food desert and impacting community access to groceries and pharmacy",
+        "Funding and support for Special Police Officers Association and formerly incarcerated reentry programs",
+        "Community trauma and historical disinvestment in the Fillmore district"
+      ]
+    },
+    {
+      "meta_id": 1112183,
+      "summary": "The Board considered an approval of a 90-day extension for Planning Commission review of window replacement standards. The extension was adopted unanimously without committee reference.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1112184,
+      "summary": "The Board approved the motion to hold a Committee of the Whole to consider urgent accept and expend resolutions for federal grants, along with the consent agenda items.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "settlements",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1112222,
+      "summary": "The Board convened as a Committee of the Whole to conduct a special hearing considering 15 urgent accept and expend resolutions across six city departments to secure over $133 million in federal grant funds.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "environment",
+        "transit",
+        "public_safety",
+        "health"
+      ],
+      "speakers": [
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "",
+          "t0": 6245.734,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1112224,
+      "summary": "The Board of Supervisors sat as a Committee of the Whole to hear department presentations on urgent accept and expend grant resolutions prior to returning to the regular board meeting.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "environment",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1112225,
+      "summary": "The Committee of the Whole hearing was concluded and reported back to the full Board of Supervisors.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1112226,
+      "summary": "The Board considered a resolution to accept and expend a $2,700,000 FEMA grant through Cal OES for the Pier 94/96 Seismic Improvements Project. The resolution was amended and adopted unanimously.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "environment"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1112227,
+      "summary": "The Board considered a resolution authorizing the acceptance and expenditure of a $159,900 grant from FEMA through Cal OES to establish an Engineering with Nature working group. The item was amended and adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "environment"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1112228,
+      "summary": "The Board considered a resolution retroactively authorizing the Department of the Environment to accept and expend a $19,994,217 federal grant from the Department of Energy for building performance standards. Following discussion on staffing and position authority, the resolution was amended and adopted.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "environment"
+      ],
+      "speakers": [
+        {
+          "name": "Chyanne Chen",
+          "stance": "support",
+          "quote": "",
+          "t0": 8373.258,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1112229,
+      "summary": "The Board considered a resolution authorizing the Department of the Environment to accept and expend $284,800 from the US Department of Energy to fund a community engagement liaison position. The resolution was amended regarding position funding conditions and adopted.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "environment"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1112230,
+      "summary": "The Board considered a resolution authorizing the Department of Public Health to accept and expend $791,433 in vocational rehabilitation services grant funds from the US Department of Education. The resolution was amended and adopted.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "health",
+        "labor"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1112231,
+      "summary": "The Board considered a resolution accepting and expending a $14,996,876 US Department of Transportation grant to boost electric vehicle charging in San Francisco. The resolution was amended and adopted.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "environment",
+        "transit"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1112232,
+      "summary": "The Board considered a resolution retroactively approving the acceptance and expenditure of $223,673 in CalAIM JI PATH funding from the California Department of Health Care Services for individuals transitioning out of incarceration. The resolution was amended and adopted.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "health",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1112233,
+      "summary": "Supervisor Chan moved to refer the Visitacion Avenue Pedestrian and Bicycle Safety Improvement Project grant resolution of $750,000 back to the Budget and Finance Committee because it is a state grant not subject to federal urgency. The motion to refer passed without objection.",
+      "outcome": "referred",
+      "topics": [
+        "budget",
+        "transit"
+      ],
+      "speakers": [
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "",
+          "t0": 6533.826,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1112234,
+      "summary": "The Board considered a resolution authorizing the acceptance and expenditure of a $20,000,000 grant from the US Department of Transportation for the Bayview Connections Harney Way BRT and cycletrack project. The resolution was amended and adopted.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "transit"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1112236,
+      "summary": "The Board considered a resolution retroactively approving an $832,804 grant from the California Department of Social Services for Refugee Support Services. The resolution was amended and adopted.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1112237,
+      "summary": "The Board considered a resolution retroactively authorizing the Recreation and Park Department to accept and expend $1,493,692 from the California Department of Parks and Recreation for the Twin Peaks Promenade Project. The resolution was amended to place funds on reserve and adopted.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "parks"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1112238,
+      "summary": "The Board considered a resolution retroactively authorizing the Department of Public Health to accept and expend $13,635,302 from the CDC for STD prevention and control. The resolution was amended and adopted.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "health"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1112239,
+      "summary": "The Board considered a resolution retroactively authorizing the Department of Public Health to accept and expend a grant increase to $104,508 from the NIH through UT Southwestern Medical Center for clinical trials network research. The resolution was amended and adopted.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "health"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1112240,
+      "summary": "The Board considered a resolution retroactively authorizing the acceptance and expenditure of a $1,600,000 grant from the Department of Justice for the Comprehensive Opioid, Stimulant, and Substance Use Site-Based Program. The resolution was amended and adopted.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "health",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1112241,
+      "summary": "The Board considered a resolution to apply for, accept, and expend a $55,386,000 grant from the EPA Clean Ports Program to fund the San Francisco waterfront emissions-free ferry system. The resolution was amended to place funds on reserve and adopted.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "environment",
+        "transit"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1112242,
+      "summary": "The meeting was adjourned in memory of Colonel Peter.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    }
+  ],
+  "quote_verification": {
+    "verified": 9,
+    "partial": 2,
+    "dropped": 3
+  }
+}

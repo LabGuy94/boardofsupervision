@@ -1,0 +1,4065 @@
+{
+  "clip_id": 50483,
+  "items": [
+    {
+      "meta_id": 1173948,
+      "summary": "President Rafael Mandelman called the meeting to order, and the Clerk took the roll with all eleven supervisors present. The Board then acknowledged the ancestral homeland of the Ramaytush Ohlone and recited the Pledge of Allegiance.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1173949,
+      "summary": "The Clerk announced communications regarding meeting attendance, public comment instructions, language access, and accommodations under the Americans with Disabilities Act. The Clerk also noted that public comment on the City budget items and vehicle parking restrictions had closed.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1173950,
+      "summary": "The Board considered the approval of the minutes for the June 17, 2025 regular meeting and the June 18, 20, and 23, 2025 special meetings of the Budget and Appropriations Committee. The minutes were approved unanimously on a roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1173953,
+      "summary": "The Board took up the Consent Agenda comprising Items 1 through 4. Without any items severed or objection raised, the consent agenda ordinances finally passed on a unanimous roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "planning_land_use",
+        "health"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1173955,
+      "summary": "The Board passed Items 1 through 4 on the consent agenda on final reading. The measures included bond appropriations and de-appropriations for health and recovery, Planning Code amendments on fenestration and signage in C-3 and RC districts, and Administrative Code contracting thresholds.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "planning_land_use",
+        "health"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1173966,
+      "summary": "The Board considered the Annual Budget and Appropriation Ordinance for City departments for FYs 2025-2026 and 2026-2027. Voted together with Items 22, 23, and 24, the ordinance finally passed with ten ayes and one no.",
+      "outcome": "passed",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1173967,
+      "summary": "The Board considered the Annual Salary Ordinance for FYs 2025-2026 and 2026-2027, fixing compensation and enumerating positions across City departments. Voted with the batch of Items 6 through 21, the ordinance finally passed unanimously.",
+      "outcome": "passed",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1173968,
+      "summary": "The Board considered an ordinance amending the Administrative Code to modify short-term license fees for the use of City Hall. The ordinance finally passed unanimously as part of Items 6 through 21.",
+      "outcome": "passed",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1173969,
+      "summary": "The Board considered an ordinance transferring oversight duties for sexual orientation and gender identity data collection from the City Administrator to the Human Rights Commission. The ordinance was finally passed unanimously with Items 6 through 21.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1173970,
+      "summary": "The Board considered an ordinance amending the Administrative Code to clarify the status of the Treasure Island Development Authority as a City department. It was finally passed unanimously with Items 6 through 21.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1173971,
+      "summary": "The Board considered an ordinance amending the Administrative Code to eliminate the Budget Savings Incentive Fund. The ordinance was finally passed unanimously as part of the roll call on Items 6 through 21.",
+      "outcome": "passed",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1173972,
+      "summary": "The Board considered an ordinance adopting the tax designation ceiling for the Neighborhood Beautification and Graffiti Clean-up Fund for tax year 2025. It finally passed unanimously along with Items 6 through 21.",
+      "outcome": "passed",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1173973,
+      "summary": "The Board considered an ordinance modifying baseline funding requirements for Early Care and Education programs and authorizing the use of interest earned from the commercial rents tax. The ordinance finally passed unanimously as part of Items 6 through 21.",
+      "outcome": "passed",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1173974,
+      "summary": "The Board considered an ordinance retroactively authorizing the Public Defender's Office to accept and expend a $3.4 million grant from the Crankstart Foundation for the Immigration Defense Unit and amending the salary ordinance for four positions. It finally passed unanimously as part of Items 6 through 21.",
+      "outcome": "passed",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1173977,
+      "summary": "The Board considered an ordinance de-appropriating approximately $87,000 in the SFPUC capital projects budget for FY 2025-2026. The ordinance was finally passed unanimously with Items 6 through 21.",
+      "outcome": "passed",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1173978,
+      "summary": "The Board considered an ordinance authorizing the issuance and sale of up to approximately $1.05 billion in SFPUC water revenue bonds and other debt to finance capital water and Hetch Hetchy projects. The ordinance finally passed unanimously as part of Items 6 through 21.",
+      "outcome": "passed",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1173979,
+      "summary": "The Board considered an ordinance de-appropriating approximately $12.99 million in the SFPUC benefiting Water Enterprise capital improvements in FY 2025-2026. The ordinance finally passed unanimously as part of Items 6 through 21.",
+      "outcome": "passed",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1173982,
+      "summary": "The Board considered an ordinance amending various City codes regarding environmental health permit fees and penalties. The ordinance finally passed unanimously as part of Items 6 through 21.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "health"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1173983,
+      "summary": "The Board considered an ordinance amending the Health Code to set patient rates for Department of Public Health services and authorize fee waivers and reductions for low-income patients. It was finally passed unanimously with Items 6 through 21.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "health"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1173984,
+      "summary": "The Board considered an ordinance amending Public Works and Subdivision Codes to modify permit fees, including fee waivers for cafe tables, chairs, display merchandise, and minor sidewalk encroachments. The ordinance finally passed unanimously as part of Items 6 through 21.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "small_business"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1173985,
+      "summary": "The Board considered an ordinance amending Building, Subdivision, and Administrative Codes to adjust Department of Building Inspection fees and create subfunds within the Building Inspection Fund. It was finally passed unanimously as part of Items 6 through 21.",
+      "outcome": "passed",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1173986,
+      "summary": "The Board considered an ordinance amending the Park Code to authorize cost recovery surcharges for golf courses, event facilities, picnic areas, and athletic fields, and increasing golf course fees. The ordinance finally passed unanimously as part of Items 6 through 21.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "parks"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1173987,
+      "summary": "The Board considered an ordinance amending the Administrative Code to authorize fees for vehicles to fund law enforcement programs and establish the Police Fingerprint Identification Fund. Voted with Items 5, 22, 23, and 24, the ordinance finally passed 10-1, with Supervisor Fielder voting no.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1173988,
+      "summary": "The Board considered an ordinance amending the Park Code to authorize the Recreation and Park Department to charge reservation fees for tennis and pickleball courts. Voted with Items 5, 22, 23, and 24, the ordinance finally passed with ten ayes and one no.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "parks"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1173989,
+      "summary": "The Board considered an ordinance amending the Park Code to permit the Recreation and Park Department to set recreation program fees based on operating costs and update scholarship discounts. Voted with Items 5, 22, 23, and 24, the ordinance finally passed 10-1.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "parks"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1173992,
+      "summary": "The Board considered reallocating approximately $34.8 million plus up to $19.1 million in future revenues from the Our City, Our Home fund for homelessness services. The question was divided: Section 4 passed 8-3 (Supervisors Fielder, Walton, and Chen voting no), and the balance of the ordinance passed unanimously 11-0, finally enacting the ordinance.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "homelessness"
+      ],
+      "speakers": [
+        {
+          "name": "Jackie Fielder",
+          "stance": "question",
+          "quote": "I JUST WANTED TO MAKE SURE THAT THAT WAS GOING TO HAPPEN AGAIN. THANKS.",
+          "t0": 878.773,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1173995,
+      "summary": "The Board considered an ordinance amending the Transportation Code to reduce allowable parking for large vehicles to two hours on City streets and modify commercial vehicle parking rules. The ordinance was finally passed on a 9-2 vote, with Supervisors Fielder and Walton voting in opposition.",
+      "outcome": "passed",
+      "topics": [
+        "transit",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1173998,
+      "summary": "The Board considered an ordinance amending the Administrative Code regarding emergency procurement and contract modifications. Supervisor Chan moved a technical clarifying amendment from the Office of Contract Administration regarding voter-approved contract provisions, and the ordinance as amended passed on first reading unanimously.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance",
+        "budget"
+      ],
+      "speakers": [
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "THE OFFICE OF CONTRACT MINISTRATION IS REQUESTING A TECHNICAL AMENDMENT TO REFERENCE VOTER APPROVED CONTRACT PROVISION... THIS IS REALLY FOR CLARIFYING JUST MAKING SURE THAT WE ARE CLEAR OF WHAT CONSTITUTES EMERGENCY SINCE WE'RE EXPANDING THE EMERGENCY DEFINITION",
+          "t0": 1094.459,
+          "verified": false
+        }
+      ],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1173999,
+      "summary": "The Board passed on first reading an ordinance authorizing the acquisition of real property at 601-617 Laguna Street from Pacifica SFO LLC for an amount not to exceed $20 million, including certain Administrative Code waivers.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1174000,
+      "summary": "The Board considered an ordinance approving Health Service System plans and contribution rates for calendar year 2026, requiring a three-fourths vote. The ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1174001,
+      "summary": "The Board adopted a resolution approving a first amendment to the enterprise agreement with Carahsoft Technology Corporation for ServiceNow software products, extending the term through August 31, 2029, for a new not-to-exceed amount of $28.3 million.",
+      "outcome": "passed",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1174002,
+      "summary": "The Board adopted a resolution approving the third amendment to the lease with American Express Travel Related Services Company to temporarily relocate the Centurion Lounge from Terminal 3 to Terminal 2 at San Francisco International Airport.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1174003,
+      "summary": "The Board adopted a resolution approving an agreement with The Dutra Group for a custom crane barge for the Port of San Francisco for an initial term through July 2027 in an amount not to exceed $16.7 million.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1174004,
+      "summary": "The Board adopted a resolution retroactively authorizing the Department of Public Works to accept and expend a $626,000 Caltrans Sustainable Transportation Planning Grant to fund planning for the South of Market Under Freeway Park.",
+      "outcome": "passed",
+      "topics": [
+        "parks",
+        "budget",
+        "transit"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1174005,
+      "summary": "The Board adopted a resolution retroactively authorizing a sublease agreement with the California State Lands Commission for City use of property at Candlestick Point State Recreation Area as the Bayview Vehicle Triage Center.",
+      "outcome": "passed",
+      "topics": [
+        "homelessness",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1174006,
+      "summary": "The Board held a TEFRA hearing and adopted a resolution approving the issuance of revenue obligations by the California Enterprise Development Authority in an amount not to exceed $10 million for educational facilities operated by La Scuola International School.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1174007,
+      "summary": "The Board held a TEFRA hearing and adopted a resolution approving the issuance and sale of revenue obligations by the California Enterprise Development Authority up to $80 million to finance facilities for the National Center for International Schools and The International School of San Francisco.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1174008,
+      "summary": "The Board adopted a resolution retroactively authorizing the City Administrator to accept and expend a grant award of up to approximately $5.05 million from the California Energy Commission for electric vehicle charging infrastructure for government fleets.",
+      "outcome": "passed",
+      "topics": [
+        "environment",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1174009,
+      "summary": "The Board adopted a resolution approving a third amendment to the grant agreement with Abode Services for problem-solving fiscal agent services, extending the term through June 2027 and increasing the amount to not exceed $17.1 million.",
+      "outcome": "passed",
+      "topics": [
+        "homelessness",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1174010,
+      "summary": "The Board adopted a resolution authorizing the Police Department to accept and expend in-kind gifts valued at approximately $866,500 from the San Francisco Police Community Foundation to support officer wellness, community engagement, and district station equipment.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1174012,
+      "summary": "The Board passed on first reading an ordinance accepting irrevocable offers of public infrastructure and establishing official public right-of-way widths, street grades, and sidewalk widths for Phase 2 of the Potrero HOPE SF project.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1174013,
+      "summary": "The Board adopted a resolution adopting the 2025 Hazards and Climate Resilience Plan as San Francisco's update to the 2020 Local Hazard Mitigation Plan.",
+      "outcome": "passed",
+      "topics": [
+        "environment"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1174022,
+      "summary": "The Board conducted commendations honoring community leaders and historic milestones. Honorees included newly promoted SFPD Commander Luke Martin, the staff and owner of Jolene's Bar, the 50th anniversary of the 126th SFPD recruit class (the first women sworn patrol officers), the Tonelli family and staff of Central Drugstore upon its retirement after over a century, retiring SFERS executive assistant Darlene Armanino, and DPW street inspector and labor leader Mohammad Yasir.",
+      "outcome": "no_action",
+      "topics": [
+        "public_safety",
+        "small_business",
+        "labor",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "FROM DAY ONE, CAPTAIN MARTIN LED WITH PROFESSIONALISM, INTEGRITY AND A RELENTLESS COMMITMENT TO COMMUNITY ENGAGEMENT AND PUBLIC SAFETY. HE DIDN'T JUST SHOW UP. HE WAS PRESENT",
+          "t0": 1756.763,
+          "verified": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "support",
+          "quote": "JOLENE'S HAS BECOME A SANCTUARY A PLACE FOR COMMUNITY CELEBRATION AND LIBERATION. JOLENE ISN'T JUST A BAR. IT'S A HOME... FOR SAN FRANCISCO'S LGBTQ PLUS COMMUNITY FOR WOMEN, FOR PEOPLE OF COLOR",
+          "t0": 2358.325,
+          "verified": false
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "WE ARE RECOGNIZING THE COURAGEOUS WOMEN OF THE 126TH PRECINCT RECRUIT CLASS... THE VERY FIRST WOMEN IN THE SAN FRANCISCO HISTORY TO BE SWORN IN ASSIGNED TO FULL PATROL DUTIES IN OUR POLICE DEPARTMENT.",
+          "t0": 2521.503,
+          "verified": false
+        },
+        {
+          "name": "Chyanne Chen",
+          "stance": "support",
+          "quote": "TODAY WE HONOR A TRUE PILLAR OF OUR COMMUNITY CENTRAL DRUGSTORE OR A LEGACY BUSINESS THAT HAS BEEN A CORNERSTONE AFTER EXCELSIOR DISTRICT FOR OVER A CENTURY.",
+          "t0": 3079.493,
+          "verified": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "stance": "support",
+          "quote": "CONGRATULATIONS ON THE OCCASION OF YOUR RETIREMENT FOLLOWING AN EXTRAORDINARY 50 YEAR CAREER ACROSS SAN FRANCISCO'S LEGAL AND PUBLIC SERVICE SECTORS.",
+          "t0": 3623.952,
+          "verified": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "YASIR IS A PUBLIC SERVANT IN THE TRUEST SENSE OF THE WORD... HE HAS WORN MANY HATS FROM HIS TIME WITH DPW TO A LABOR LEADER COMMUNITY ORGANIZER, FATHER AND CAREGIVER.",
+          "t0": 3832.763,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1174026,
+      "summary": "The Board convened as a Committee of the Whole to hold a public hearing on the renewal and expansion of the Dogpatch and Northwest Potrero Hill Green Benefit District. Public Works representatives and GBD board leadership presented on the district's accomplishments and proposed expansion, followed by supportive public testimony before the hearing was closed.",
+      "outcome": "no_action",
+      "topics": [
+        "parks",
+        "environment"
+      ],
+      "speakers": [
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "THIS IS THE ONLY GREEN BENEFITS DISTRICT IN ALL OF SAN FRANCISCO I BELIEVE. AND IT'S A MODEL FOR HOW COMMUNITIES CAN LEAD THE WAY IN MAKING OUR NEIGHBORHOODS GREENER, CLEANER AND MORE LIVABLE",
+          "t0": 4674.452,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": [
+        "Creation and maintenance of green spaces near freeways",
+        "Neighborhood-led governance and community activation"
+      ]
+    },
+    {
+      "meta_id": 1174029,
+      "summary": "Following the tabulation of ballots by the Department of Elections, which reported 60.91% weighted approval and no majority protest, the Board considered the resolution to establish, renew, and expand the Dogpatch and Northwest Potrero Hill Green Benefit District for a 15-year term. The resolution was adopted unanimously on a roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "parks",
+        "environment"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1174015,
+      "summary": "The Board debated a resolution opposing California Senate Bill 79 unless amended to protect local control and prevent the demolition of rent-controlled units. Supervisors Chan, Chen, and Fielder warned about the potential displacement of vulnerable tenants, while Supervisors Melgar, Mahmood, Dorsey, and Sherrill argued the state legislation contains anti-demolition protections and is vital for regional housing, transit ridership, and climate goals. The resolution failed on a 4-7 vote.",
+      "outcome": "failed",
+      "topics": [
+        "housing",
+        "transit",
+        "planning_land_use"
+      ],
+      "speakers": [
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "WHAT IT HAS LEFT US IS THAT THE ALLOWANCE FOR A STATE Y DEMOLITION OF ANY STRUCTURE WOULD TO RENT CONTROL UNITS OR LESS. THAT'S NOT GOOD ENOUGH FOR SAN FRANCISCO.",
+          "t0": 6287.485,
+          "verified": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "stance": "oppose",
+          "quote": "WHAT IT IS MEANT TO DO IS TO GUIDE DEVELOPMENT AROUND TRANSIT SITES, HIGH TRANSIT SITES, RAIL AND YOU KNOW, BRT SITES... I AM NOT READY TO SAY TODAY THAT I OPPOSE IT UNLESS AMENDED.",
+          "t0": 6576.207,
+          "verified": false
+        },
+        {
+          "name": "Bilal Mahmood",
+          "stance": "oppose",
+          "quote": "THERE ARE ADDITIONAL RESTRICTIONS ON DEMOLITION IN THIS LEGISLATION WHICH ARE SOME OF THE STRONGEST IN STATE LAW AND ALSO DOESN'T OVERRIDE LOCAL TENANT PROTECTIONS",
+          "t0": 6731.77,
+          "verified": false
+        },
+        {
+          "name": "Matt Dorsey",
+          "stance": "oppose",
+          "quote": "I BELIEVE THAT TRANSIT ORIENTED EVELOPMENT IS ONE OF THE BEST TOOLS WE HAVE TO MEET THE HOUSING TRANSIT AND CLIMATE NEEDS OF OUR CITY... FINDING NEW HOUSING ONLY HELPS ONE GROUP LANDLORDS",
+          "t0": 6828.399,
+          "verified": false
+        },
+        {
+          "name": "Chyanne Chen",
+          "stance": "support",
+          "quote": "WE MUST PRIORITIZE ANTI DISPLACEMENT STRATEGY, ROBUST TENANT PROTECTION AND PROTECTION FOR OUR STOCK OF RENT CONTROL HOUSING AND SIGNIFICANTLY INVESTING IN TRULY AFFORDABLE HOUSING.",
+          "t0": 6990.11,
+          "verified": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "stance": "oppose",
+          "quote": "",
+          "t0": 6191.317,
+          "verified": false
+        }
+      ],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1174017,
+      "summary": "The Board considered a resolution determining that the issuance of a Type 42 beer and wine liquor license to Blue Stream Gallery and Wines at 555 Grant Avenue would serve the public convenience. The resolution was adopted with ten ayes, with Supervisor Melgar recorded absent.",
+      "outcome": "passed",
+      "topics": [
+        "small_business"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "absent",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1174018,
+      "summary": "The Board considered a resolution determining that the issuance of a Type 90 music venue liquor license to the International Art Museum of America at 1025 Market Street would serve the public convenience. The resolution was adopted on a 10-0 vote, with Supervisor Melgar absent.",
+      "outcome": "passed",
+      "topics": [
+        "small_business"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "absent",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1174019,
+      "summary": "The Board considered a resolution determining that the transfer of a Type 21 off-sale liquor license to Amador Liquors and Wines at 550 Montgomery Street would serve the public convenience. The resolution was adopted with ten ayes, with Supervisor Melgar absent.",
+      "outcome": "passed",
+      "topics": [
+        "small_business"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "absent",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1174021,
+      "summary": "The Board approved a motion confirming the Mayor's nomination of Lindsey Maclise for appointment to the Building Inspection Commission for a term ending July 1, 2026.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1174031,
+      "summary": "The Board received committee reports from the Government Audit and Oversight Committee regarding Items 49 through 63, which comprised proposed litigation settlements. All settlement ordinances were passed on first reading unanimously.",
+      "outcome": "passed",
+      "topics": [
+        "settlements"
+      ],
+      "speakers": [
+        {
+          "name": "Connie Chan",
+          "stance": "neutral",
+          "quote": "",
+          "t0": 7716.139,
+          "verified": false
+        }
+      ],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1174032,
+      "summary": "The Board considered an ordinance authorizing the settlement of a California Public Records Act lawsuit filed by Pattern As Proof, Inc. against the City for $69,500. The ordinance passed on first reading unanimously as part of Items 49 through 63.",
+      "outcome": "passed",
+      "topics": [
+        "settlements"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1174033,
+      "summary": "The Board considered an ordinance authorizing the settlement of an employment dispute lawsuit filed by Mary Tramil against the City for $230,000. It passed on first reading unanimously along with Items 49 through 63.",
+      "outcome": "passed",
+      "topics": [
+        "settlements",
+        "labor"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1174034,
+      "summary": "The Board considered an ordinance authorizing an offer to compromise of up to $650,000 in a lawsuit filed by Renee Owens alleging wrongful death on a city sidewalk. The ordinance passed on first reading unanimously as part of Items 49 through 63.",
+      "outcome": "passed",
+      "topics": [
+        "settlements"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1174035,
+      "summary": "No discussion was captured in the meeting record for this item.",
+      "outcome": "unknown",
+      "topics": [
+        "settlements"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1174036,
+      "summary": "The Board considered an ordinance authorizing a $400,000 partial settlement of a lawsuit filed by Ralph Bower involving alleged personal injury on a city street. The ordinance passed on first reading unanimously as part of Items 49 through 63.",
+      "outcome": "passed",
+      "topics": [
+        "settlements"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1174037,
+      "summary": "The Board considered an ordinance authorizing a $100,000 settlement of a lawsuit filed by Rieyahane Blaylock involving alleged personal injury on a city sidewalk. The ordinance passed on first reading unanimously with Items 49 through 63.",
+      "outcome": "passed",
+      "topics": [
+        "settlements"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1174038,
+      "summary": "The Board considered an ordinance authorizing a $95,000 settlement of a personal injury lawsuit filed by Rachael Tsukayama arising from a vehicle collision. The ordinance passed on first reading unanimously as part of Items 49 through 63.",
+      "outcome": "passed",
+      "topics": [
+        "settlements"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1174039,
+      "summary": "The Board considered an ordinance authorizing a $250,000 settlement of a lawsuit filed by Mary Feller and Gordon Feller involving alleged personal injury on a city sidewalk. The ordinance passed on first reading unanimously along with Items 49 through 63.",
+      "outcome": "passed",
+      "topics": [
+        "settlements"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1174040,
+      "summary": "The Board considered an ordinance authorizing a $247,500 settlement of a lawsuit filed by the Archdiocese of San Francisco Parish and School Juridic Persons Real Property Support Corporation for property damage resulting from a water pipeline break. The ordinance passed on first reading unanimously as part of Items 49 through 63.",
+      "outcome": "passed",
+      "topics": [
+        "settlements"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1174041,
+      "summary": "The Board considered an ordinance authorizing a $65,000 settlement of a personal injury lawsuit filed by Frank Mufarreh arising from a fall on a city sidewalk. The ordinance passed on first reading unanimously along with Items 49 through 63.",
+      "outcome": "passed",
+      "topics": [
+        "settlements"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1174042,
+      "summary": "The Board considered an ordinance authorizing an $850,000 settlement of a breach of contract lawsuit filed by UnitedLayer, LLC arising from disputed costs under a data center co-location agreement. The ordinance passed on first reading unanimously as part of Items 49 through 63.",
+      "outcome": "passed",
+      "topics": [
+        "settlements"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1174043,
+      "summary": "The Board considered an ordinance authorizing an $80,000 settlement of a personal injury lawsuit filed by Jada Navaeh Williams arising from a vehicle collision involving SFPD officers. It passed on first reading unanimously with Items 49 through 63.",
+      "outcome": "passed",
+      "topics": [
+        "settlements"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1174044,
+      "summary": "The Board considered an ordinance authorizing a $650,000 settlement of a lawsuit filed by Michael Rivas and others alleging flood property damage to four Lakefront Avenue homes in December 2022. The ordinance passed on first reading unanimously as part of Items 49 through 63.",
+      "outcome": "passed",
+      "topics": [
+        "settlements"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1174045,
+      "summary": "The Board considered an ordinance authorizing a $50,000 settlement of a personal injury lawsuit filed by Sherrell Whitfield involving a city sidewalk. The ordinance passed on first reading unanimously along with Items 49 through 63.",
+      "outcome": "passed",
+      "topics": [
+        "settlements"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1174046,
+      "summary": "The Board considered an ordinance authorizing a $300,000 settlement of a lawsuit filed by 2121 Pine Street SF, LLC seeking a refund of transfer taxes, penalties, and interest. The ordinance passed on first reading unanimously as part of Items 49 through 63.",
+      "outcome": "passed",
+      "topics": [
+        "settlements"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1174049,
+      "summary": "The Board considered an ordinance amending the Planning Code regarding noncomplying structures in required yards and granting noncomplying status to pre-2003 unpermitted residential yard structures. It also amended the Building Code to exempt accessory structures up to 120 square feet from building permits, passing on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1174052,
+      "summary": "The Board passed on first reading an ordinance amending the Administrative Code to allow City employees to make charitable payroll deductions to the San Francisco Firefighter and EMS Behavioral Health Foundation.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1174053,
+      "summary": "The Board considered an ordinance waiving competitive solicitation requirements under Chapter 21 of the Administrative Code for SFPD procurements supporting the Real Time Investigation Center using gift funds from the Police Community Foundation. The ordinance passed on first reading on a 10-1 vote, with Supervisor Walton voting no.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1174054,
+      "summary": "The Board considered an ordinance waiving competitive solicitation requirements under Chapter 21 of the Administrative Code for SFPD procurements for the Regional Vehicle Interdiction Desk using federal Bureau of Justice Assistance grant funds. The ordinance passed on first reading 10-1, with Supervisor Walton dissenting.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1174056,
+      "summary": "Supervisors introduced new legislation and requested hearings during Roll Call for Introductions. Introductions included landmarking the Mint Mall, requesting hearings on traffic enforcement and GEO Group's reentry facility, support for the Golden State Valkyries' collective bargaining, South Asian American Heritage Month, rezoning policies for well-resourced neighborhoods, the Workers Opportunity to Purchase Act, and Lady Gaga Day.",
+      "outcome": "no_action",
+      "topics": [
+        "planning_land_use",
+        "public_safety",
+        "labor",
+        "elections_governance",
+        "small_business"
+      ],
+      "speakers": [
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "FIRST I'M INTRODUCING A RESOLUTION TO INITIATE THE LANDMARKING PROCESS FOR THE MINT MALL AN INVALUABLE NEIGHBORHOOD ASSET FOR THE SELMA AND FILIPINO COMMUNITIES",
+          "t0": 8040.8,
+          "verified": true
+        },
+        {
+          "name": "Joel Engardio",
+          "stance": "neutral",
+          "quote": "TODAY I AM REQUESTING A HEARING TO LEARN MORE ABOUT THE ROOT CAUSE OF LOW LEVELS OF TRAFFIC ENFORCEMENT ACROSS OUR CITY.",
+          "t0": 8354.749,
+          "verified": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "support",
+          "quote": "TODAY I'M INTRODUCING A RESOLUTION IN SUPPORT OF THE GOLDEN STATE VALKYRIES AND THEIR EFFORTS ALONG WITH THE WOMEN'S NATIONAL BASKETBALL PLAYERS ASSOCIATION TO SECURE A FAIR COLLECTIVE BARGAINING AGREEMENT",
+          "t0": 8540.85,
+          "verified": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "I AM REQUESTING A HEARING TO INVESTIGATE THE CONDITIONS OF A REENTRY FACILITY AT 111 TAYLOR AND THE ONGOING ROLE OF ITS OPERATOR ICE CONTRACTOR AND PRIVATE PRISON CORPORATION GEO GROUP IN SAN FRANCISCO FOLLOWING THE DEATH OF MELVIN BALOGUN",
+          "t0": 8941.972,
+          "verified": false
+        },
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "I AM TODAY INTRODUCING THE FIRST PART OF A REZONING RESPONSE IN READINESS PACKAGE. AS ONE OF THE SUPERVISORS WHO REPRESENTS THE WEST SIDE... IT IS IMPORTANT TO ME THAT WE PROTECT EXISTING RENT CONTROLLED UNITS.",
+          "t0": 9360.91,
+          "verified": false
+        },
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "THE SECOND PIECE OF LEGISLATION I WOULD LIKE TO INTRODUCE IS THE WORKERS OPPORTUNITY TO PURCHASE ACT TO CREATE A PATHWAY FOR EXISTING WORKERS TO PURCHASE A BUSINESS AS A COOPERATIVE WHEN THE OWNER INTENDS TO SELL.",
+          "t0": 9808.892,
+          "verified": false
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "THE RESOLUTION I'M INTRODUCING TODAY WILL AVOID THAT WRONG BY RECOGNIZING JULY 22ND, 2025 AS LADY GAGA DAY IN THE CITY AND COUNTY OF SAN FRANCISCO.",
+          "t0": 9969.206,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1174057,
+      "summary": "Members of the public provided general public comment on topics within the Board's jurisdiction. Commenters testified about the death of Melvin Balogun and living conditions at the GEO Group reentry facility at 111 Taylor Street, spoke in support of South Asian American Heritage Month and the Workers Opportunity to Purchase Act, and shared personal appeals regarding unsolved homicides.",
+      "outcome": "no_action",
+      "topics": [
+        "public_safety",
+        "health",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": [
+        "Accountability for GEO Group and poor conditions at the 111 Taylor Street reentry facility",
+        "Support for South Asian American Heritage Month resolution",
+        "Support for the Workers Opportunity to Purchase Act (WOPA)",
+        "Demands for justice and support for mothers of unsolved homicide victims"
+      ]
+    },
+    {
+      "meta_id": 1174059,
+      "summary": "The Board considered Items 70 through 77 introduced for adoption without committee reference. Items 70, 71, and 74 were severed for separate consideration, and the remaining items (72, 73, 75, 76, and 77) were adopted unanimously on a roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1174061,
+      "summary": "The Board voted on the unsevered items on the adoption without committee reference agenda. Items 72, 73, 75, 76, and 77 were adopted unanimously without objection.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1174062,
+      "summary": "The Board considered a motion to adopt findings in support of its disapproval of the Planning Commission's approval of a Conditional Use Authorization for 3400 Laguna Street. Called and voted together with Item 71, the motion was approved 10-1, with Supervisor Chan voting no.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1174063,
+      "summary": "The Board considered a motion adopting findings in support of its disapproval of the Historic Preservation Commission's approval of a Certificate of Appropriateness for 3400 Laguna Street. The motion was approved on a 10-1 vote, with Supervisor Chan dissenting.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1174066,
+      "summary": "The Board considered a resolution declaring August 2025 as Afghan American Heritage Month in San Francisco. Supervisor Dorsey spoke to honor the contributions of the Afghan American community and recognize his legislative aide Mohana Sadat. The resolution was adopted unanimously on roll call.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "THIS MEASURE OFFERS US AN IMPORTANT OPPORTUNITY TO FORMALLY RECOGNIZE AND CELEBRATE THE MANY CULTURAL, CIVIC AND ECONOMIC CONTRIBUTION THAT AFGHAN AMERICANS HAVE MADE TO THE FABRIC OF OUR CITY.",
+          "t0": 14241.471,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1174085,
+      "summary": "The Board adjourned the meeting in memory of community leader Dan Dillon, cyclist and audiologist Christopher Charles Brunetti, longtime resident Maureen Dowling, and Melvin Balogun.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    }
+  ],
+  "quote_verification": {
+    "verified": 11,
+    "partial": 11,
+    "dropped": 2
+  }
+}

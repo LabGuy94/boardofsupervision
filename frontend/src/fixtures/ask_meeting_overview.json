@@ -1,0 +1,225 @@
+{
+  "answer": "The September 15 meeting included the Mayor's appearance, a consent agenda with 15 items, Street Tree Standards, and later budget and policy business. This agenda-level rehearsal view will be replaced by grounded Gemini summaries when the live API is available.",
+  "bullets": [
+    {
+      "text": "The Mayor's appearance began at 2:32 into the meeting.",
+      "clip_id": 53160,
+      "meta_id": 1262829,
+      "t0": 152,
+      "date": "2026-09-15",
+      "item_title": "Mayor's Appearance Before the Board",
+      "url": "https://sanfrancisco.granicus.com/player/clip/53160?view_id=10&meta_id=1262829&redirect=true&starttime=152",
+      "evidence": {
+        "item_title": "3 SPECIAL ORDER 2:00 P.M. - Mayor\u2019s Appearance Before The Board[Mayor Appearance Boiler 01-2013|B1,B2]",
+        "summary": "Mayor Daniel Lurie addressed the Board during the special order regarding San Francisco's rental emergency and housing affordability. He highlighted proposed caps on banked rent increases, enhanced tenant eviction protections, and expanded right-to-counsel funding, while announcing early labor contract agreements reached with over a dozen city employee unions. The matter was discussed and filed.",
+        "outcome": "no_action",
+        "date": "2026-09-15",
+        "topics": [
+          "housing",
+          "labor",
+          "budget"
+        ],
+        "votes": [],
+        "vote_tally": {},
+        "quotes": [
+          {
+            "name": "Mayor",
+            "text": "SAN FRANCISCO IS IN A RENT EMERGENCY. AND I WANT TO SAY HOW GRATEFUL I AM FOR YOUR PARTNERSHIP IN COMING TOGETHER TO MEET THIS MOMENT.",
+            "t0": 193.73
+          }
+        ],
+        "speakers": [
+          {
+            "name": "Mayor",
+            "stance": "support"
+          }
+        ]
+      }
+    },
+    {
+      "text": "The consent agenda grouped items 1 through 15, including listed lawsuit settlements and unlitigated claims.",
+      "clip_id": 53160,
+      "meta_id": 1262832,
+      "t0": 636,
+      "date": "2026-09-15",
+      "item_title": "Consent agenda items 1 through 15",
+      "url": "https://sanfrancisco.granicus.com/player/clip/53160?view_id=10&meta_id=1262832&redirect=true&starttime=636",
+      "evidence": {
+        "item_title": "Items 1 through 15",
+        "summary": "The Board considered routine consent agenda items 1 through 15 together. The ordinances passed on first reading and the resolutions were adopted by a unanimous vote.",
+        "outcome": "passed",
+        "date": "2026-09-15",
+        "topics": [
+          "other"
+        ],
+        "votes": [
+          {
+            "name": "Connie Chan",
+            "vote": "aye",
+            "inferred": true
+          },
+          {
+            "name": "Chyanne Chen",
+            "vote": "aye",
+            "inferred": true
+          },
+          {
+            "name": "Matt Dorsey",
+            "vote": "aye",
+            "inferred": true
+          },
+          {
+            "name": "Jackie Fielder",
+            "vote": "aye",
+            "inferred": true
+          },
+          {
+            "name": "Bilal Mahmood",
+            "vote": "aye",
+            "inferred": true
+          },
+          {
+            "name": "Rafael Mandelman",
+            "vote": "aye",
+            "inferred": true
+          },
+          {
+            "name": "Myrna Melgar",
+            "vote": "aye",
+            "inferred": true
+          },
+          {
+            "name": "Danny Sauter",
+            "vote": "aye",
+            "inferred": true
+          },
+          {
+            "name": "Stephen Sherrill",
+            "vote": "aye",
+            "inferred": true
+          },
+          {
+            "name": "Shamann Walton",
+            "vote": "aye",
+            "inferred": true
+          },
+          {
+            "name": "Alan Wong",
+            "vote": "aye",
+            "inferred": true
+          }
+        ],
+        "vote_tally": {
+          "aye": 11
+        },
+        "quotes": [],
+        "speakers": []
+      }
+    },
+    {
+      "text": "Street Tree Standards, appeals, and the Adopt-A-Tree Fund followed the consent agenda.",
+      "clip_id": 53160,
+      "meta_id": 1262853,
+      "t0": 696,
+      "date": "2026-09-15",
+      "item_title": "Street Tree Standards, Appeals, and Adopt-A-Tree Fund",
+      "url": "https://sanfrancisco.granicus.com/player/clip/53160?view_id=10&meta_id=1262853&redirect=true&starttime=696",
+      "evidence": {
+        "item_title": "Public Works, Administrative, Planning, Business and Tax Regulations Codes - Street Tree Standards, Appeals, and Adopt-A-Tree Fund",
+        "summary": "The Board took up an ordinance amending the Public Works, Administrative, Planning, and Business and Tax Regulations Codes to allow in-lieu fees for street tree planting, exempt accessory dwelling units from planting rules, and adjust appeal procedures for hazardous tree removals. The ordinance was finally passed on a 7-4 vote.",
+        "outcome": "passed",
+        "date": "2026-09-15",
+        "topics": [
+          "environment",
+          "planning_land_use"
+        ],
+        "votes": [
+          {
+            "name": "Connie Chan",
+            "vote": "no",
+            "inferred": true
+          },
+          {
+            "name": "Chyanne Chen",
+            "vote": "aye",
+            "inferred": true
+          },
+          {
+            "name": "Matt Dorsey",
+            "vote": "aye",
+            "inferred": true
+          },
+          {
+            "name": "Jackie Fielder",
+            "vote": "no",
+            "inferred": true
+          },
+          {
+            "name": "Bilal Mahmood",
+            "vote": "aye",
+            "inferred": true
+          },
+          {
+            "name": "Rafael Mandelman",
+            "vote": "aye",
+            "inferred": true
+          },
+          {
+            "name": "Myrna Melgar",
+            "vote": "aye",
+            "inferred": true
+          },
+          {
+            "name": "Danny Sauter",
+            "vote": "no",
+            "inferred": true
+          },
+          {
+            "name": "Stephen Sherrill",
+            "vote": "aye",
+            "inferred": true
+          },
+          {
+            "name": "Shamann Walton",
+            "vote": "no",
+            "inferred": true
+          },
+          {
+            "name": "Alan Wong",
+            "vote": "aye",
+            "inferred": true
+          }
+        ],
+        "vote_tally": {
+          "no": 4,
+          "aye": 7
+        },
+        "quotes": [],
+        "speakers": []
+      }
+    }
+  ],
+  "retrieval": {
+    "mode": "summaries",
+    "template": null,
+    "cypher": "MATCH (m:Meeting {clip_id: $clip_id})-[:HAS_ITEM]->(i:Item) RETURN m.clip_id AS clip_id, i.meta_id AS meta_id, m.date AS date, i.title AS item_title ORDER BY i.start_sec",
+    "rows": [
+      {
+        "clip_id": 53160,
+        "meta_id": 1262829,
+        "item_title": "Mayor's Appearance Before the Board"
+      },
+      {
+        "clip_id": 53160,
+        "meta_id": 1262832,
+        "item_title": "Consent agenda items 1 through 15"
+      },
+      {
+        "clip_id": 53160,
+        "meta_id": 1262853,
+        "item_title": "Street Tree Standards, Appeals, and Adopt-A-Tree Fund"
+      }
+    ]
+  },
+  "latency_ms": 684
+}

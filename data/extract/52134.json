@@ -1,0 +1,1240 @@
+{
+  "clip_id": 52134,
+  "items": [
+    {
+      "meta_id": 1231500,
+      "summary": "President Rafael Mandelman opened the regular meeting and the Clerk called the roll, confirming a quorum. The Board recited the Land Acknowledgement and the Pledge of Allegiance.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1231501,
+      "summary": "The Clerk presented communications, including a request from Supervisor Jackie Fielder to be excused from meetings through June 30th. On a motion by Supervisor Bilal Mahmood, seconded by Supervisor Shamann Walton, the Board excused Supervisor Fielder without objection.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1231502,
+      "summary": "The Board considered the approval of the meeting minutes from February 24, 2026, and March 3, 2026. On a motion by Supervisor Chyanne Chen, seconded by Supervisor Stephen Sherrill, the minutes were approved by roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1231504,
+      "summary": "The Board called the consent agenda items 1 through 9 together, comprising routine settlements. The consent calendar was passed on first reading and adopted by roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "settlements"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1231506,
+      "summary": "The Board took up consent items 1 through 9, approving various litigation and unlitigated claim settlements including Sandoval, Kominek-Adachi, Wall, Teixeira, Williamson, Marenco, Pacific Bell Telephone Company, USAA Insurance, and Acosta. The items were passed on roll call vote without objection.",
+      "outcome": "passed",
+      "topics": [
+        "settlements"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1231521,
+      "summary": "The Board considered an ordinance amending the Health, Business and Tax Regulations, and Public Works Codes regarding compact mobile food operations and fees. The ordinance was finally passed without objection, same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "health"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1231519,
+      "summary": "The Board addressed unfinished business, calling item 10 regarding compact mobile food operation definitions and fees. The item was passed same house, same call without objection.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "health"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1231522,
+      "summary": "The Board considered an ordinance de-appropriating and appropriating approximately $34.36 million to overtime salaries in the Police Department for FY2025-2026. The ordinance was finally passed same house, same call without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1231525,
+      "summary": "The Board considered an ordinance amending the Administrative and Health Codes regarding mechanical street sweeping evaluations and refuse receptacle requirements. The ordinance was finally passed same house, same call without objection.",
+      "outcome": "passed",
+      "topics": [
+        "environment"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1231527,
+      "summary": "The Board voted on an ordinance approving the SFPD surveillance technology policy for electronic location tracking devices. The ordinance passed on a 9-1 roll call vote, with Supervisor Shamann Walton dissenting.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1231529,
+      "summary": "The Board opened new business and called item 14, an airport contract modification for Hallmark Aviation Services. The resolution was adopted following a roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1231531,
+      "summary": "The Board considered a contract modification with Hallmark Aviation Services, L.P. for airport information and guest assistance services, extending the term and increasing the amount by $10.4 million to an amount not to exceed $30.4 million. The resolution was adopted unanimously on roll call.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1231532,
+      "summary": "The Board called items 15 and 16 together approving Department of Public Health agreement amendments, including an amendment with the San Francisco AIDS Foundation for health access point and capacity building services not to exceed $21,889,643. The resolution was adopted same house, same call without objection.",
+      "outcome": "passed",
+      "topics": [
+        "health"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1231533,
+      "summary": "The Board considered an agreement amendment with the Rafiki Coalition for Health & Wellness for health access point services, extending the term and increasing the contract amount to not exceed $20,083,870. The resolution was adopted same house, same call without objection.",
+      "outcome": "passed",
+      "topics": [
+        "health"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1231534,
+      "summary": "The Board considered a contract amendment with Sapient Corporation for the Assessor-Recorder's Property Assessment System Replacement Project. Supervisor Connie Chan moved to continue the item for one week to receive additional staffing expenditure details, and the motion to continue to April 14, 2026, was approved without objection.",
+      "outcome": "continued",
+      "topics": [
+        "budget",
+        "elections_governance"
+      ],
+      "speakers": [
+        {
+          "name": "Connie Chan",
+          "stance": "neutral",
+          "quote": "THE REASON BEING THAT WE END UP VOTING IN SUPPORT OF THIS AND MOVING OUT TO FOR YOUR VOTE TODAY IS BECAUSE THE CONTRACTOR HAS YIELDED AROUND ABOUT $15 MILLION WORTH OF STAFFING SPENDING",
+          "t0": 705.382,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1231535,
+      "summary": "The Board considered an agreement amendment with Instituto Familiar de la Raza, Inc. to extend health access point services through June 30, 2030, and increase the amount to not exceed $17,087,730. The resolution was adopted same house, same call without objection.",
+      "outcome": "passed",
+      "topics": [
+        "health"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1231536,
+      "summary": "The Board retroactively approved a contract and amendment with the San Francisco-Marin Food Bank for the CalFresh Stopgap Emergency Gift Card Initiative in an amount not to exceed $9.1 million. The resolution was adopted same house, same call without objection.",
+      "outcome": "passed",
+      "topics": [
+        "health"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1231537,
+      "summary": "The Board considered resolutions related to a 75-year ground lease and restated loan agreement for the 100% affordable housing development at 105 Wisteria Lane (Balboa Reservoir Building A). The resolution was adopted same house, same call without objection.",
+      "outcome": "passed",
+      "topics": [
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1231538,
+      "summary": "The Board considered the authorization of a multifamily housing revenue note not to exceed $112,711,100 to finance the construction of 105 Wisteria Lane at Balboa Reservoir. The resolution was adopted same house, same call without objection.",
+      "outcome": "passed",
+      "topics": [
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1231541,
+      "summary": "The Board considered an ordinance approving the Airport Surveillance Technology Policy for TNC virtual queue technology. The ordinance passed on first reading same house, same call without objection.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "transit"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1231542,
+      "summary": "The Board considered a resolution authorizing a behested payment waiver for the Mayor's Office of Victims' Rights to solicit donations benefiting survivor-victims of crime. The resolution was adopted same house, same call without objection.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1231543,
+      "summary": "The Board considered a resolution urging the Mayor to issue an Executive Directive establishing a citywide Women's Advancement and Gender Equity Action Plan coordinated by the Department on the Status of Women. The resolution was adopted same house, same call without objection.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1231546,
+      "summary": "The Board considered a resolution approving the San Francisco Behavioral Health Services Act Annual Update for FY2025-2026. The resolution was adopted same house, same call without objection.",
+      "outcome": "passed",
+      "topics": [
+        "health"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1231548,
+      "summary": "The Board considered the mayoral reappointment of Anna Van Degna to the Redevelopment Successor Agency Oversight Board. The motion was approved same house, same call without objection.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1231549,
+      "summary": "The Board considered the mayoral appointment of Eric Dasmalchi to the Treasure Island Development Authority Board of Directors. The motion was approved same house, same call without objection.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1231550,
+      "summary": "The Board considered the mayoral appointment of Timothy Kojo Minta to the Treasure Island Development Authority Board of Directors. The motion was approved same house, same call without objection.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1231551,
+      "summary": "The Board considered the mayoral reappointment of Dominica Henderson to the Municipal Transportation Agency Board of Directors. The motion was approved same house, same call without objection.",
+      "outcome": "passed",
+      "topics": [
+        "transit",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1231552,
+      "summary": "The Board considered the mayoral reappointment of Stephanie Cajina to the Municipal Transportation Agency Board of Directors. The motion was approved same house, same call without objection.",
+      "outcome": "passed",
+      "topics": [
+        "transit",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1231567,
+      "summary": "The Board considered an ordinance amending the Environment Code to update the City's climate action goals, planning processes, and department responsibilities. The ordinance passed on first reading same house, same call without objection.",
+      "outcome": "passed",
+      "topics": [
+        "environment"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1231570,
+      "summary": "The Board considered the presidential appointment by Board President Rafael Mandelman of Lily Wong to the Board of Appeals. The motion was approved same house, same call without objection.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1231571,
+      "summary": "During roll call for introductions, President Mandelman introduced legislation defining electrical work under the Building Code, and adjourned meetings in memory of Andrea Shorter and therapy dog Brixton. Supervisor Melgar introduced legislation prohibiting smoking on bar and restaurant outdoor patios, and a resolution supporting SB 1091 (state anti-displacement program).",
+      "outcome": "no_action",
+      "topics": [
+        "health",
+        "housing",
+        "labor",
+        "environment"
+      ],
+      "speakers": [
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "FIRST I'M INTRODUCING LEGISLATION TO CLARIFY AND DEFINE WHAT CONSTITUTES ELECTRICAL WORK UNDER THE SAN FRANCISCO BUILDING CODE AND TO SPECIFY THAT THIS WORK MUST BE PERFORMED BY PROPERLY CERTIFIED CONTRACTORS IN ACCORDANCE WITH THE CALIFORNIA LABOR CODE.",
+          "t0": 1236.221,
+          "verified": false
+        },
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "COLLEAGUES TODAY I INTRODUCING LEGISLATION TO CLOSE A LOOPHOLE THAT HAS LONG BEEN IN OUR CITY'S HEALTH CODE REGARDING SMOKING IN OUTDOOR SPACES OF BARS AND RESTAURANTS.",
+          "t0": 1548.824,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1231553,
+      "summary": "The Board conducted a special order of business honoring Molly Murphy Burke upon her retirement after 35 years of service with BART, and commending La Casa de las Madres on its 50th anniversary.",
+      "outcome": "no_action",
+      "topics": [
+        "transit",
+        "public_safety"
+      ],
+      "speakers": [
+        {
+          "name": "Alan Wong",
+          "stance": "support",
+          "quote": "COLLEAGUES, I'M HONORED TO RECOGNIZE MOLLY MURPHY BURKE FOR MORE THAN 35 YEARS OF SERVICE TO HER COMMUNITIES AND TO MILLIONS OF RIDERS WHO LIE ON BART EVERY DAY.",
+          "t0": 1834.725,
+          "verified": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "COLLEAGUES AT TODAY I AM THRILLED TO RECOGNIZE AND HONOR LA CASA DE LAS MADRES ON THEIR 50TH ANNIVERSARY WHICH IS TRULY AN AMAZING MILESTONE.",
+          "t0": 2651.57,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1231572,
+      "summary": "Supervisors introduced various measures: Supervisor Sauter supported federal H.R. 2410 (Revitalizing Downtowns and Main Streets Act); Supervisor Walton introduced resolutions supporting the Pacific Islander community and Black Maternal Health Week, and an in memoriam for Anderson J.B. Williams; Supervisor Chan remembered housing advocate John Elberling; Supervisor Chen called hearings on incarcerated women and family affordability; Supervisor Mahmood introduced a ban on uncertified lithium-ion batteries; and Supervisor Dorsey requested a hearing on Southern Police District staffing.",
+      "outcome": "no_action",
+      "topics": [
+        "housing",
+        "public_safety",
+        "health",
+        "budget"
+      ],
+      "speakers": [
+        {
+          "name": "Danny Sauter",
+          "stance": "support",
+          "quote": "",
+          "t0": 3027.392,
+          "verified": false
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "COLLEAGUES TODAY I AM INTRODUCING A RESOLUTION AFFIRMING SAN FRANCISCO'S COMMITMENT TO THE SAFETY, DIGNITY AND BELONGING OF PACIFIC ISLANDER COMMUNITIES AND CONDEMNING THE HATE VIOLENCE AND TARGETED THREATS THEY HAVE FACED.",
+          "t0": 3126.895,
+          "verified": true
+        },
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "COLLEAGUES TODAY I'M INTRODUCING AND MEMORIAM FOR JOHN ALBERT LING. JOHN ALBERT KING PASSED AWAY LAST WEEK AT 79 AFTER DECADES OF ADVOCACY AS ONE OF THE MOST PASSIONATE AND INFLUENTIAL AFFORDABLE HOUSING AND COMMUNITY CHAMPIONS IN SAN FRANCISCO.",
+          "t0": 3537.657,
+          "verified": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "stance": "support",
+          "quote": "I'M CALLING FOR A HEARING ON THE SYSTEMS AND CASE MANAGEMENT THAT OUR CITY PROVIDES TO AND HOW STATE HOUSING INSECURE WOMEN.",
+          "t0": 4007.835,
+          "verified": false
+        },
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "COLLEAGUES TODAY I AM INTRODUCING LEGISLATION TO PROHIBIT THE SALE AND DELIVERY OF UNCERTIFIED LITHIUM ION BATTERIES AND POWERED MOBILITY DEVICES IN THE CITY AND COUNTY OF SAN FRANCISCO.",
+          "t0": 4214.393,
+          "verified": false
+        },
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "COLLEAGUES, I AM TODAY SUBMITTING A HEARING REQUEST TO ADDRESS ONGOING POLICE STAFFING CHALLENGES IN THE SOUTHERN POLICE DISTRICT.",
+          "t0": 4405.457,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1231558,
+      "summary": "The Board held a public hearing on an appeal of a de facto denial of a Conditional Use Authorization to legalize the merger of units at 524-526 Vallejo Street and 4-4A San Antonio Place into a single-family home with an accessory unit. The homeowners and planning staff presented differing accounts of the building's historical unit count and permits, followed by public comment from neighbors and tenant advocates.",
+      "outcome": "no_action",
+      "topics": [
+        "planning_land_use",
+        "housing"
+      ],
+      "speakers": [
+        {
+          "name": "Danny Sauter",
+          "stance": "neutral",
+          "quote": "",
+          "t0": 4917.867,
+          "verified": false
+        },
+        {
+          "name": "Public commenter",
+          "stance": "support",
+          "quote": "",
+          "t0": 5224.449,
+          "verified": false
+        },
+        {
+          "name": "Public commenter",
+          "stance": "oppose",
+          "quote": "",
+          "t0": 6313.669,
+          "verified": false
+        },
+        {
+          "name": "Myrna Melgar",
+          "stance": "oppose",
+          "quote": "",
+          "t0": 10201.817,
+          "verified": false
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "oppose",
+          "quote": "",
+          "t0": 10436.56,
+          "verified": false
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "oppose",
+          "quote": "",
+          "t0": 10939.254,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": [
+        "Opposing loss and illegal demolition of rent-controlled housing",
+        "Concerns over developer fraud and bad actors profiting off illegal mergers",
+        "Supporting homeowners caught in bureaucratic error and facing displacement"
+      ]
+    },
+    {
+      "meta_id": 1231562,
+      "summary": "The Board approved the Planning Commission's decision to de facto deny the Conditional Use Authorization for 524-526 Vallejo Street and 4-4A San Antonio Place. The motion passed unanimously on a 10-0 roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1231563,
+      "summary": "The motion to disapprove the Planning Commission's de facto denial of the Conditional Use Authorization for 524-526 Vallejo Street was tabled unanimously alongside the approval of item 32.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1231564,
+      "summary": "The Board considered a motion to direct preparation of findings supporting the decision on 524-526 Vallejo Street, with proposed amendment language from Supervisor Sauter indicating openness to a future three-unit compromise. The amended motion failed on a 5-5 tie vote, and no further action was taken.",
+      "outcome": "failed",
+      "topics": [
+        "planning_land_use",
+        "housing"
+      ],
+      "speakers": [
+        {
+          "name": "Danny Sauter",
+          "stance": "support",
+          "quote": "I WOULD LIKE THOSE FINDINGS TO INCLUDE A STATEMENT THAT A THREE UNIT PROJECT MAY BE DESIRABLE AT THE SITE IF FEASIBLE AND PROPERLY DESIGNED AND URGE THE PLANNING DEPARTMENT AND COMMISSION TO THOROUGHLY REVIEW A FUTURE APPLICATION FOR SUCH A PROJECT IF ONE IS SUBMITTED.",
+          "t0": 11650.499,
+          "verified": true
+        },
+        {
+          "name": "Connie Chan",
+          "stance": "oppose",
+          "quote": "I WILL NOT BE IN SUPPORTIVE OF ITEM 34 WITH THE AMENDMENTS PROPOSED BY SOME OF SPIERS SUPERVISOR SOUDER.",
+          "t0": 12348.701,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Rafael Mandelman",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1231573,
+      "summary": "The Board heard general public comment from community members addressing various issues. Topics raised included rights of nature, National Poetry Month, opposition to the Hayes Street closure, critique of corporate influence on city commissions, and strong community support for recognizing American Muslim Appreciation and Awareness Month.",
+      "outcome": "no_action",
+      "topics": [
+        "other",
+        "health",
+        "environment"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": [
+        "Support for American Muslim Appreciation and Awareness Month",
+        "Opposition to Hayes Street road closure",
+        "Advocating for Rights of Nature and environmental justice",
+        "Criticism of mayoral commission streamlining and police oversight policies"
+      ]
+    },
+    {
+      "meta_id": 1231574,
+      "summary": "The Board considered the adoption without committee reference calendar. Supervisors severed items 40 and 45 and sent item 43 to committee, then adopted the remaining items on roll call vote without objection.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1231576,
+      "summary": "The Board approved the unsevered items on the adoption without committee reference agenda (including items 39, 41, 42, 44, 46, and 47), such as declaring Brixton at Large Day. The items were adopted on a unanimous 10-0 roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1231578,
+      "summary": "The Board considered item 40, a resolution recognizing April 2026 as American Muslim Appreciation and Awareness Month in San Francisco. Supervisor Bilal Mahmood spoke on the resolution, which was adopted same house, same call without objection.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "COLLEAGUES, AS A MUSLIM-AMERICAN, I WANT TO SPEAK ON THIS RESOLUTION FOR THE CITY AND COUNTY OF SAN FRANCISCO RECOGNIZING APRIL 20TH, 26 AS AMERICAN MUSLIM APPRECIATION AND AWARENESS MONTH ENRICHED BY THE UNPARALLELED DIVERSITY OF ITS RESIDENTS",
+          "t0": 14816.261,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1231582,
+      "summary": "The Board took up severed item 45, a resolution introduced by Supervisor Dorsey supporting California Assembly Bill 2344 to establish a statewide animal abuse registry. The resolution was adopted same house, same call without objection.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety"
+      ],
+      "speakers": [
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "I ASK YOU TO JOIN ME IN SUPPORTING THE ASSEMBLY BILL 2344 AUTHORED BY ASSEMBLY MEMBER MAT HANEY TO ESTABLISH CALIFORNIA'S FIRST STATEWIDE ANIMAL ABUSE REGISTRY.",
+          "t0": 14965.629,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1231585,
+      "summary": "The Clerk reported no imperative agenda items. The Clerk read memoriam adjournments for Andrea Shorter, therapy dog Brixton, Anderson J.B. Williams, and John Elberling before concluding business.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1231610,
+      "summary": "The meeting adjourned in memory of Andrea Shorter, Brixton, Anderson J.B. Williams, and John Elberling.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    }
+  ],
+  "quote_verification": {
+    "verified": 7,
+    "partial": 7,
+    "dropped": 7
+  }
+}

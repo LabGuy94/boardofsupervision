@@ -1,0 +1,857 @@
+{
+  "clip_id": 49688,
+  "items": [
+    {
+      "meta_id": 1150085,
+      "summary": "President Rafael Mandelman convened the regular meeting of the San Francisco Board of Supervisors and directed the Clerk to call the roll. All eleven supervisors were present. The Board recited the Ramaytush Ohlone land acknowledgment and the Pledge of Allegiance.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1150086,
+      "summary": "The Clerk announced options for public participation and reasonable accommodations under the Americans with Disabilities Act. The Board voted unanimously to approve the minutes of the March 25, 2025 meeting. The Board also voted on Consent Agenda items 1 through 6.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1150093,
+      "summary": "The Board completed the roll call vote on Item 7, an ordinance amending the Planning Code to require notice of rezoning intended to comply with Housing Element law. The ordinance passed on final reading by an 8-3 vote, with Supervisors Dorsey, Mahmood, and Melgar dissenting.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "housing",
+        "settlements"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1150109,
+      "summary": "The Board considered an ordinance de-appropriating approximately $3.35 million from capital renewal projects at 1235 Mission Street and appropriating $8.5 million from projected revenue surplus to fund tenant improvements, furniture, and equipment at 1455 Market Street for the Human Services Agency. The ordinance passed on first reading by unanimous roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1150112,
+      "summary": "The Board considered a resolution authorizing a first amendment to the lease agreement with Hudson 1455 Market, LLC for additional office space and basement storage at 1455 Market Street for the Human Services Agency, the County Transportation Authority, and the Public Library IT unit. The resolution was adopted without objection on the same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1150115,
+      "summary": "The Board reviewed a resolution retroactively authorizing the Department of Homelessness and Supportive Housing to execute a real property lease with Roshan Investments LLC for the Adante Hotel at 610 Geary Street. The lease provides 93 units for a non-congregate temporary shelter program. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "homelessness",
+        "housing",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1150116,
+      "summary": "The Board considered a resolution adopting the City's Five-Year Information and Communication Technology Plan for Fiscal Years 2025-2026 through 2029-2030 pursuant to Administrative Code Section 22.8.6. The resolution was adopted without objection on the same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1150117,
+      "summary": "The Board considered a resolution retroactively authorizing the Planning Department to accept and expend a $7 million grant from the U.S. Department of Housing and Urban Development under the Pathways to Removing Obstacles to Housing (PRO Housing) program. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1150118,
+      "summary": "The Board considered a resolution designating various community-based weekly and neighborhood-based monthly newspapers for City outreach advertising for Fiscal Year 2025-2026. The resolution was adopted without objection on the same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1150119,
+      "summary": "The Board considered a resolution designating The San Francisco Examiner (Clinton Reilly Communications) as the official newspaper of the City and County of San Francisco for all official advertising in Fiscal Year 2025-2026. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1150120,
+      "summary": "The Board considered a resolution authorizing the Office of Contract Administration to execute an agreement with Circosta Iron and Metal Co. Inc. for the as-needed sale and pick-up of City-owned scrap metal over five years, with anticipated revenue of approximately $1.07 million. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "environment"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1150121,
+      "summary": "The Board considered two resolutions authorizing contract amendments for the City Administrator's Risk Management Division for insurance brokerage services, including a contract with Arthur J. Gallagher & Co. not to exceed $30 million and a contract with Alliant Insurance Services not to exceed $85 million. Both resolutions were adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1150123,
+      "summary": "The Board considered a resolution authorizing the Airport Commission to accept and expend an Airport Infrastructure Grant from the Federal Aviation Administration of up to approximately $66.3 million for the Boarding Area G gates enhancement project. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "transit",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1150124,
+      "summary": "The Board considered a resolution retroactively authorizing the Fleet Management Division to accept an in-kind gift from Mayor Daniel Lurie of a zero-emission Rivian R1S passenger vehicle retrofitted with security upgrades, valued at approximately $134,106, for official City business. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "environment",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1150125,
+      "summary": "The Board considered a resolution authorizing the San Francisco Public Utilities Commission to execute a contract with Calpine Energy Solutions LLC for meter data management, billing, and customer care services for the CleanPowerSF program, in an amount not to exceed $17 million over three years. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "environment",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1150126,
+      "summary": "The Board considered a resolution approving the application for and acceptance of approximately $1.87 million from the U.S. Department of Housing and Urban Development under the Emergency Solutions Grants program for Fiscal Year 2025-2026. The resolution was adopted without objection on the same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "homelessness",
+        "housing",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1150127,
+      "summary": "The Board considered a resolution approving the application for, acceptance, and expenditure of approximately $26 million in HUD Community Development Block Grant entitlement and estimated program income for Fiscal Year 2025-2026. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1150128,
+      "summary": "The Board considered a resolution approving the application for and acceptance of approximately $8.2 million in federal HUD Housing Opportunities for Persons with AIDS program funds for Fiscal Year 2025-2026. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "health",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1150129,
+      "summary": "The Board considered a resolution approving the application for and expenditure of approximately $7.36 million in HUD HOME Investment Partnership program grant funds and program income for Fiscal Year 2025-2026. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1150131,
+      "summary": "The Board considered an ordinance amending the Planning Code to eliminate the 200-foot buffer restriction for nighttime entertainment uses in the Western SoMa Special Use District. The ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "small_business"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1150132,
+      "summary": "The Board considered an ordinance amending the Existing Building Code to assess the City's inventory of seismically vulnerable concrete and rigid-wall flexible-diaphragm buildings and to adopt voluntary seismic retrofit standards. The ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "housing",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1150133,
+      "summary": "The Board considered a resolution adopting the Sunset Chinese Cultural District's Cultural, History, Housing, and Economic Sustainability Strategy (CHHESS) report pursuant to Administrative Code Section 107.5. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1150134,
+      "summary": "The Board considered a resolution declaring City-owned real property at 772 Pacific Avenue to be exempt surplus land for 100% affordable housing development. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1150137,
+      "summary": "The Board considered an ordinance amending the Administrative Code to establish entertainment zones on Valencia Street, Pier 39, Folsom Street, and Ellis Street, as well as a downtown activation location on Yerba Buena Lane. The ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1150138,
+      "summary": "The Board considered a resolution accepting annual surveillance reports regarding surveillance technology submitted by multiple City departments pursuant to Administrative Code Section 19B.6. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1150139,
+      "summary": "The Board considered a motion appointing Michael Reed, Irina Ozernoy, Mikaila Garfinkel, Nicholas Chapman, Dayna Sherwood, and Michael Angelo Torres to the Commission of Animal Control and Welfare. The motion was approved without objection.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1150142,
+      "summary": "The Board considered a motion to reappoint Supervisor Rafael Mandelman to the Executive Board of the Association of Bay Area Governments (ABAG). Mandelman was excused from participating, and the motion was approved by a 10-0 roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "excused",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1150145,
+      "summary": "The Board considered a motion to reappoint Supervisor Matt Dorsey to the Executive Board of the Association of Bay Area Governments. Supervisor Dorsey was excused from the vote, and the motion was approved by a 10-0 roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "excused",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1150147,
+      "summary": "The Board considered a resolution approving an amendment to the Mission Rock Housing Plan to reduce the minimum percentage of inclusionary affordable housing units per phase at Seawall Lot 337. The resolution was adopted unanimously on roll call.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1150149,
+      "summary": "Supervisors presented commendations honoring community members and organizations. Supervisor Melgar honored Mark Selby and Angelica Medina-Selby; Supervisor Fielder honored Lamia Abas of Temo's Cafe; Supervisor Engardio honored the late Lt. Col. Robert Powell, Abraham Lincoln High School's mock trial team, and the boys varsity basketball team; Supervisor Mahmood honored Ghazi Shami of EMPIRE; and President Mandelman honored Saeed and Hisham Basu of Buffalo Whole Foods and Noho Market.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "",
+          "t0": 1678.24,
+          "verified": false
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "support",
+          "quote": "",
+          "t0": 2167.387,
+          "verified": false
+        },
+        {
+          "name": "Joel Engardio",
+          "stance": "support",
+          "quote": "today I'd like to honor the late lieutenant colonel robert powell. He was the senior army instructor for the jrotc program at abraham lincoln high school for 28 years.",
+          "t0": 2467.457,
+          "verified": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "Ghazi is the founder and ceo of empire, the largest privately held independent record label distributor and publisher in the united states. It's founded in 2010 right here in san francisco.",
+          "t0": 3203.169,
+          "verified": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "so also in commemoration of national arab-american heritage month it is my great honor to present a special commendation to sidney shaw embassy so say in his own buffalo whole foods and know hill market",
+          "t0": 3802.51,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1150154,
+      "summary": "The Board opened hearings on appeals of a CEQA categorical exemption and conditional use authorization for a proposed 20,000-square-foot maintenance building at 1310 Junipero Serra Boulevard. Supervisor Melgar moved to continue the hearings open to May 13, 2025 to allow the project sponsor and St. Thomas More School more time to negotiate. The motion passed without objection.",
+      "outcome": "continued",
+      "topics": [
+        "planning_land_use",
+        "environment"
+      ],
+      "speakers": [
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "I am hoping to give at the two parties a little more time to come together and find some common ground hopefully and possibly and the appeals. I move that items 34 through 41 be continued open to a date certain on tuesday MAY 13th 2025.",
+          "t0": 4229.141,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": [
+        "St. Thomas More School requesting time to negotiate with the golf club over proposed maintenance facility"
+      ]
+    },
+    {
+      "meta_id": 1150169,
+      "summary": "Members of the public addressed the Board on general matters within its jurisdiction. Speakers voiced support for recognizing American Muslim Appreciation and Awareness Month, demanded increased investments in street safety and Vision Zero infrastructure, advocated for wage increases for home care providers, and called for improvements to the homicide reward fund.",
+      "outcome": "no_action",
+      "topics": [
+        "public_safety",
+        "transit",
+        "labor",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": [
+        "Strong support for American Muslim Appreciation and Awareness Month",
+        "Calls for immediate funding and action on Vision Zero and street safety infrastructure",
+        "Wage and benefit increases for Homebridge in-home supportive care workers",
+        "Reform to the City's homicide reward fund to assist families of victims",
+        "Recognition of Chinese transcontinental railroad workers"
+      ]
+    },
+    {
+      "meta_id": 1150172,
+      "summary": "The Board considered items introduced for adoption without reference to committee (Items 46, 48, 49, 51, and 52), after severing Items 47 and 50. The remaining resolutions and motions were adopted unanimously by roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1150174,
+      "summary": "The Board considered Item 47, a resolution declaring April 2025 as American Muslim Appreciation and Awareness Month in the City and County of San Francisco. Supervisor Bilal Mahmood spoke in support of the resolution, emphasizing the contributions of Muslim residents and the importance of combating Islamophobia. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "",
+          "t0": 8160.825,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1150177,
+      "summary": "The Board considered Item 50, a resolution recognizing April 2025 as Parkinson's Awareness Month in San Francisco. Supervisor Melgar offered remarks on the disease and proposed a technical amendment to clarify that no specific laboratory or imaging test can definitively diagnose Parkinson's disease. The amendment was approved and the resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "health"
+      ],
+      "speakers": [
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "APRIL is parkinson's awareness month. As many of us know especially those of us who have loved ones who are suffering from this terrible disease parkinson's is a chronic neurodegenerative disorder. It is the second most common neurodegenerative disease in the world",
+          "t0": 8298.898,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1150197,
+      "summary": "The Board convened in closed session to confer with the City Attorney regarding existing and anticipated litigation challenging federal actions. Upon reconvening in open session, President Mandelman reported that no action had been taken, and the Board voted not to disclose its closed session deliberations. The meeting was adjourned in memoriam.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    }
+  ],
+  "quote_verification": {
+    "verified": 5,
+    "partial": 0,
+    "dropped": 3
+  }
+}

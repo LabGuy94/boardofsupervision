@@ -1,0 +1,653 @@
+{
+  "clip_id": 49161,
+  "items": [
+    {
+      "meta_id": 1135389,
+      "summary": "The Board of Supervisors convened for its regular meeting, and the Clerk conducted the opening roll call, establishing a quorum with all eleven supervisors present. Board President Rafael Mandelman then began reading the indigenous land acknowledgement recognizing the Ramaytush Ohlone community. No discussion or action occurred on the FBI airport lease modification during this segment.",
+      "outcome": "no_action",
+      "topics": [
+        "budget",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1135390,
+      "summary": "The Board concluded the indigenous land acknowledgement and recited the Pledge of Allegiance. President Mandelman recognized SFGovTV broadcast staff, and the Clerk read procedural announcements concerning meeting broadcasts and public comment submission guidelines. The Malcolm Road property lease renewal amendment was not taken up or discussed.",
+      "outcome": "no_action",
+      "topics": [
+        "budget",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1135391,
+      "summary": "The Clerk announced an ADA accommodation request to hear a commenter first during general public comment. The Board then considered and unanimously approved the meeting minutes from February 11, 2025. No discussion occurred and no action was taken on the contract amendment with ISSQUARED, Inc.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1135392,
+      "summary": "This shared transcript segment covers clerk communications regarding ADA accommodation requests and the Board's roll-call vote approving the February 11, 2025 meeting minutes. The contract amendment with Cornerstone Technology Partners II JV was not reached or considered during this segment.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1135393,
+      "summary": "The Board heard procedural communications from the Clerk and voted unanimously to approve the meeting minutes from February 11, 2025. No action was taken on the technology marketplace contract amendment with Insight Public Sector, Inc.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1135394,
+      "summary": "The transcript for this shared segment covers the Clerk's announcement regarding an ADA accommodation request for public comment followed by a roll-call vote approving the February 11, 2025 meeting minutes. The contract amendment with Xtech JV was not taken up during this portion of the meeting.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1135397,
+      "summary": "The Board considered Unfinished Business Item 1, an ordinance amending the Business and Tax Regulations Code to allow the Tax Collector to waive taxes, penalties, and interest under a voluntary disclosure program for unregistered taxpayers through December 31, 2027. Following a roll-call vote, the Board unanimously passed the ordinance. The Clerk subsequently introduced Item 2 regarding the empty homes tax.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "settlements"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1135398,
+      "summary": "The Board debated Item 2, an ordinance to suspend the empty homes tax pending the resolution of ongoing litigation. Supervisor Fielder stated her opposition, arguing the city should collect the tax to address the housing affordability crisis. Supervisor Walton asked to question representatives from the Treasurer and Tax Collector's office, prompting the Board to trail the item while department staff was located.",
+      "outcome": "no_action",
+      "topics": [
+        "housing",
+        "budget",
+        "parks"
+      ],
+      "speakers": [
+        {
+          "name": "Jackie Fielder",
+          "stance": "oppose",
+          "quote": "For those reasons I will be voting no on today's ordinance. As most of you know, we're in a housing affordability crisis and anti home tax was going to be one of the many tools to help alleviate these issues.",
+          "t0": 407.532,
+          "verified": true
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "question",
+          "quote": "do we have anyone from the department here to answer a question?",
+          "t0": 461.186,
+          "verified": true
+        },
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "I definitely was a proponent of formally known as proposition m to allow us to collect this empty home tax.",
+          "t0": 501.86,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1135401,
+      "summary": "Supervisor Chan concluded her remarks explaining her support for suspending the empty homes tax due to administrative costs exceeding potential revenues during litigation. The Board then took up and passed on first reading Item 3, appropriating $5 million to the Human Services Agency for the CalWORKs housing support program. The Board subsequently returned to Item 2 to question the Treasurer and Tax Collector's office, with no discussion occurring on Central SoMa commercial development requirements.",
+      "outcome": "no_action",
+      "topics": [
+        "budget",
+        "housing",
+        "planning_land_use"
+      ],
+      "speakers": [
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "administrative costs is greater than potentially projected tax collected. So with that is the reason why I will be supporting a suspension of this collection of this tax pending litigation.",
+          "t0": 573.966,
+          "verified": false
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "question",
+          "quote": "one how much was the tax estimated to yield?",
+          "t0": 661.155,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1135402,
+      "summary": "This shared segment contains Supervisor Chan's concluding remarks on the empty homes tax, first-reading approval of a $5 million CalWORKs housing appropriation, and initial questions to the Treasurer and Tax Collector's office. Central SoMa planning code and zoning map amendments were not discussed during this portion of the transcript.",
+      "outcome": "no_action",
+      "topics": [
+        "planning_land_use",
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1135403,
+      "summary": "The Board continued questioning City Controller Greg Wagner regarding projected annual revenues for the empty homes tax. Wagner stated that the tax was estimated to yield approximately $25 million annually, representing potential funds forgone during a suspension. The acceptance of sanitary sewer pump stations for Treasure Island was not addressed in this segment.",
+      "outcome": "no_action",
+      "topics": [
+        "budget",
+        "housing",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Shamann Walton",
+          "stance": "question",
+          "quote": "how much is the was the empty homes tax expected to you each year?",
+          "t0": 688.83,
+          "verified": true
+        },
+        {
+          "name": "Department head",
+          "stance": "neutral",
+          "quote": "it was approximately estimated approximately 25 million $25 million",
+          "t0": 692.32,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1135404,
+      "summary": "The Board concluded debate on the empty homes tax suspension, passing it on first reading 9-2, and adopted resolutions regarding airport leases, IT contracts, litigation settlements, behested payment waivers, and land use ordinances. The Board then convened its 2:30 P.M. Special Order to present commendations in honor of Women's History Month and Transit Operator Appreciation Day. Commendations were presented to SFMTA transit operators Willa Johnson and Wendy, senior women SFPD leaders, the founders of Nuevo Sol worker center, CARE executive director Azari Peace-Green, and the state-champion International School of San Francisco boys basketball team.",
+      "outcome": "passed",
+      "topics": [
+        "transit",
+        "public_safety",
+        "labor",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Danny Sauter",
+          "stance": "support",
+          "quote": "So in recognition of both these important celebrations, I'm proud to recognize two outstanding women employees from S.F. Mta today will johnson and wish only both of these women are to be celebrated for all of their work",
+          "t0": 1808.251,
+          "verified": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "in honor of women's history month, I am proud to stand to recognize at three remarkable women who are the sworn officers who serve on the leadership of the S.F. Pd.",
+          "t0": 2114.895,
+          "verified": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "I did want to express my gratitude to acting commander alexa o'brien for her work on 21st century police reform which I think too often goes unheralded.",
+          "t0": 2476.695,
+          "verified": false
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "support",
+          "quote": "12 women who are founders of nuevo sol de labor and domestic worker center and are here with us today to receive this special honor.",
+          "t0": 2689.444,
+          "verified": true
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "in recognition of women's history month I am excited to honor azeri peace green a remarkable leader advocate and force for change in san francisco",
+          "t0": 3170.865,
+          "verified": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "it is an absolute honor to recognize some true champions among us here in the chambers the international school of san francisco jaguars.",
+          "t0": 3463.462,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1135408,
+      "summary": "Supervisor Sherrill introduced a commendation honoring the senior residential community Heritage on the Marina on its centennial anniversary, detailing its historic Julia Morgan building and care for seniors. The Committee of the Whole hearing on law enforcement practices was not reached in this segment.",
+      "outcome": "no_action",
+      "topics": [
+        "public_safety",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Stephen Sherrill",
+          "stance": "support",
+          "quote": "colleagues today I'm recognizing the heritage on the marina upon its 100th anniversary at the corner of bay in laguna heritage on the marina was originally founded by the san francisco ladies protection and relief society",
+          "t0": 3958.864,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1135413,
+      "summary": "Supervisor Sherrill continued his commendation of Heritage on the Marina, praising leadership and resident leader Margaret Chico, who spoke at the podium regarding community care. The environmental review exemption appeal for 2142-22nd Street was not called during this transcript segment.",
+      "outcome": "no_action",
+      "topics": [
+        "planning_land_use",
+        "environment",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1135416,
+      "summary": "This shared segment contains commendation remarks by Supervisor Sherrill and Heritage on the Marina resident Margaret Chico. The motion affirming the categorical exemption determination for 2142-22nd Street was not taken up.",
+      "outcome": "no_action",
+      "topics": [
+        "planning_land_use",
+        "environment",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1135417,
+      "summary": "The Board continued hearing commendation remarks regarding Heritage on the Marina from Supervisor Sherrill and resident Margaret Chico. The motion to conditionally reverse the categorical exemption for 2142-22nd Street was not addressed in this segment.",
+      "outcome": "no_action",
+      "topics": [
+        "planning_land_use",
+        "environment",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1135420,
+      "summary": "Heritage on the Marina leadership continued their acceptance remarks for the facility's centennial commendation, describing its historical mission. The appointments to the Sugary Drinks Distributor Tax Advisory Committee were not considered in this segment.",
+      "outcome": "no_action",
+      "topics": [
+        "health",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1135421,
+      "summary": "Leadership from Heritage on the Marina continued their remarks explaining the symbolism and compassionate care at the residential facility. The appointment to the Veterans Affairs Commission was not addressed during this segment.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1135422,
+      "summary": "Heritage on the Marina representatives spoke regarding staff and board governance dedicated to resident care. The mayoral appointment of Alfonso Felder to the MTA Board of Directors was not taken up during this portion of the transcript.",
+      "outcome": "no_action",
+      "topics": [
+        "transit",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1135423,
+      "summary": "Heritage on the Marina leadership concluded their remarks celebrating their thriving community and thanking the Board. The mayoral appointment of Mattie Scott to the Police Commission was not addressed during this segment.",
+      "outcome": "no_action",
+      "topics": [
+        "public_safety",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1135425,
+      "summary": "This brief segment contains incidental audio noise as the Board prepared for upcoming agenda items. The proposed planning code amendments regarding window replacement standards were not addressed.",
+      "outcome": "no_action",
+      "topics": [
+        "planning_land_use",
+        "housing",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1135426,
+      "summary": "This segment consists of incidental transitional dialogue in the board chamber. The proposed planning and building code amendments concerning interim housing in hotels and motels were not taken up.",
+      "outcome": "no_action",
+      "topics": [
+        "housing",
+        "planning_land_use",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1135427,
+      "summary": "President Mandelman invited Betsy Eddy forward to receive a commendation recognizing her sixteen years of leadership as president of the Diamond Heights Community Association. Planning code amendments regarding nonconforming public parking lots were not discussed.",
+      "outcome": "no_action",
+      "topics": [
+        "planning_land_use",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1135429,
+      "summary": "President Mandelman presented a commendation to Betsy Eddy for her extensive community leadership in Diamond Heights. The Board then acted on its 3:00 P.M. special orders, continuing hearings on police reform to May 6, 2025, and on the 2142-22nd Street CEQA appeal to April 15, 2025, before approving committee appointments and passing three land use ordinances on first reading. Supervisor Sauter then opened Roll Call for Introductions by presenting a resolution supporting the state Affordable Housing Bond Act of 2026.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance",
+        "housing",
+        "public_safety",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "Her dedication and leadership have made diamond heights safer and more connected and more resilient community. And as I said, she has made me a better supervisor.",
+          "t0": 4555.135,
+          "verified": true
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "I would like to continue this item to our MAY 6th, 2025 what a supervisors meeting. The police department had a lot of presentations and schedule conflicts today and so that works best for all of us.",
+          "t0": 5009.996,
+          "verified": false
+        },
+        {
+          "name": "Danny Sauter",
+          "stance": "support",
+          "quote": "today I am introducing a resolution to support sb 417 by senator christopher her call to ban and ab 736 by assemblymember buffy wicks. Collectively these bills are known as the affordable housing bond act of 2026",
+          "t0": 5477.97,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": [
+        "procedural opposition to item continuances"
+      ]
+    },
+    {
+      "meta_id": 1135430,
+      "summary": "Supervisors concluded Roll Call for Introductions, introducing measures to support small business fee waivers, transit funding, post-entitlement permitting reforms, climate disaster insurance legislation, and an inquiry into SFPD Special Victims Unit staffing. General public comment followed, featuring remarks on violence and homelessness in the Castro, government surveillance allegations, biblical prophecy, and claims of adverse health events from COVID-19 vaccines.",
+      "outcome": "no_action",
+      "topics": [
+        "public_safety",
+        "health",
+        "transit",
+        "housing",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Stephen Sherrill",
+          "stance": "support",
+          "quote": "colleagues I'm thrilled today to join mayor lori in introducing legislation that doubles down on our investment in the first year free program.",
+          "t0": 5698.794,
+          "verified": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "support",
+          "quote": "Colleagues today I am introducing a resolution calling on governor newsom and the state legislature to account $2 billion in flexible funding over the next two years to support public transit agencies including the san francisco municipal transportation agency.",
+          "t0": 5962.495,
+          "verified": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "colleagues today I requested a budget and legislative analyst's report for a comparative post entitlement permitting analysis asking to analyze at least five other major cities",
+          "t0": 6091.959,
+          "verified": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "Colleagues today I am introducing a hearing request on the staffing and policies for the san francisco police department special victims unit",
+          "t0": 6356.294,
+          "verified": true
+        },
+        {
+          "name": "Public commenter",
+          "stance": "neutral",
+          "quote": "This is michael petrelli calling and I'm calling on behalf of the traumatized community in the castro over the death of a homeless man named dale. We have not seen any action from our elected officials about a town hall to discuss how to help our unhoused neighbors in the castro",
+          "t0": 6657.832,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": [
+        "neighborhood safety and requesting town halls in the Castro",
+        "opposition to COVID-19 vaccines and claims of vaccine injuries",
+        "concerns over government surveillance and technology"
+      ]
+    },
+    {
+      "meta_id": 1135431,
+      "summary": "This segment contains public comment from a former California Department of Public Health employee expressing opposition to COVID-19 vaccine distribution. The items listed on the For Adoption Without Committee Reference agenda were not reached during this portion of the transcript.",
+      "outcome": "no_action",
+      "topics": [
+        "health",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Public commenter",
+          "stance": "oppose",
+          "quote": "My name is ronald f owens JR. I was a public information officer at the california department of public health for more than 14 years. I brought this information to my management multiple locations but unfortunately they made it about me not about you",
+          "t0": 7279.796,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": [
+        "allegations of adverse health consequences and deaths from COVID-19 vaccines"
+      ]
+    },
+    {
+      "meta_id": 1135455,
+      "summary": "General public comment concluded with speakers addressing sidewalk parking on Lucky Street, business red tape, tipster reward programs, and Rev. Amos Brown urging condemnation of the removal of Medgar Evers from the Arlington Cemetery website. The Board then unanimously adopted Items 30 through 32 on the For Adoption Without Committee Reference agenda by roll call vote. The meeting was subsequently adjourned in memory of former Assistant Fire Chief Art Kenny and Professor Dewey William Camp Jr.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Public commenter",
+          "stance": "neutral",
+          "quote": "I am gladys wong, a senior resident owner of 47 lucky in district nine I am being honest, straightforward requesting your assistance to remove off parking on lucky street between 24th and 25th.",
+          "t0": 7662.17,
+          "verified": true
+        },
+        {
+          "name": "Public commenter",
+          "stance": "support",
+          "quote": "as a former member of this board I beg you today to appeal to your staff to craft a resolution number one condemning this attack on diversity and inclusion. And number two, calling on the san francisco to with a righteous indignation cry out against the assault",
+          "t0": 8162.724,
+          "verified": false
+        }
+      ],
+      "votes": [
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": [
+        "opposition to vaccine mandates and city public health policies",
+        "red tape in small business permitting",
+        "sidewalk clearance and parking removal on Lucky Street",
+        "support for anonymous crime tipster rewards",
+        "civil rights protections and honoring Medgar Evers"
+      ]
+    }
+  ],
+  "quote_verification": {
+    "verified": 20,
+    "partial": 5,
+    "dropped": 0
+  }
+}

@@ -1,0 +1,1557 @@
+{
+  "clip_id": 48665,
+  "items": [
+    {
+      "meta_id": 1120573,
+      "summary": "President Rafael Mandelman convened the regular meeting and the Clerk called the roll, confirming all eleven supervisors were present. The Board then recited the land acknowledgment acknowledging the Ramaytush Ohlone and the Pledge of Allegiance.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1120574,
+      "summary": "President Mandelman called the 2:00 P.M. special order for the Mayor's appearance before the Board of Supervisors.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1120575,
+      "summary": "Mayor Daniel Lurie appeared before the Board for formal policy discussions, beginning with opening remarks on Lunar New Year events, the NBA All-Star weekend, and public safety initiatives downtown. Supervisor Myrna Melgar then questioned the Mayor regarding short-term operational funding and avoiding service cuts for the San Francisco Municipal Transportation Agency (SFMTA), to which Mayor Lurie responded that he is seeking state funding and local/regional revenue measures.",
+      "outcome": "no_action",
+      "topics": [
+        "transit",
+        "budget",
+        "public_safety"
+      ],
+      "speakers": [
+        {
+          "name": "Mayor",
+          "stance": "neutral",
+          "quote": "Last week supervisor dorsey and souder joined me to announce the san francisco police department hospitality zone task force which will main which will make downtown safe and kickstart our economy.",
+          "t0": 190.524,
+          "verified": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "stance": "question",
+          "quote": "Will you do everything in your power to ensure that we can weather the next couple of years with no service cuts to muni while we work together on long term solutions for the system?",
+          "t0": 398.635,
+          "verified": true
+        },
+        {
+          "name": "Mayor",
+          "stance": "neutral",
+          "quote": "Is almost certain that we will need both local and regional revenue measures on the 2026 ballot to support muni's budget and we're going to need help with stopgap funding this year so I can continue alongside all of you to advocate for our state officials for help from sacramento.",
+          "t0": 528.967,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1120576,
+      "summary": "The Clerk read standard communications regarding public meeting participation and accessibility accommodations.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1120577,
+      "summary": "The Board considered the approval of meeting minutes from the January 8, 2025 inaugural board meeting. The minutes were approved unanimously on a roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1120579,
+      "summary": "President Mandelman called the consent agenda consisting of items two through five. The items were taken without objection on the same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1120583,
+      "summary": "The Board passed an ordinance authorizing refunding certificates of participation for various Port projects in an amount not to exceed $25,000,000 on the consent agenda without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1120584,
+      "summary": "The Board approved an appropriation of $28,386,685 including Port COP refunding proceeds and prior debt reserve proceeds, alongside de-appropriation of project funds for FY2024-2025, on the consent agenda.",
+      "outcome": "passed",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1120586,
+      "summary": "The Board approved a Planning Code amendment regarding 99 Rhode Island Street on the consent agenda without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1120589,
+      "summary": "The Board passed an ordinance exempting Midtown Park Apartments at 1415 Scott Street from certain construction contracting requirements on final passage as part of the consent agenda.",
+      "outcome": "passed",
+      "topics": [
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1120593,
+      "summary": "The Board took up an ordinance amending the Business and Tax Regulations Code regarding the commercial vacancy tax exemption. Requiring an affirmative two-thirds vote, the ordinance was finally passed without objection on the same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "small_business"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1120594,
+      "summary": "The Board considered an ordinance amending the Administrative Code to provide core initiatives strengthening the City's responses to homelessness, drug abuse, mental health needs, and related crises. The ordinance was finally passed with ten ayes and Supervisor Walton voting no.",
+      "outcome": "passed",
+      "topics": [
+        "homelessness",
+        "health",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1120597,
+      "summary": "The Board considered an ordinance appropriating $526,000 from the General Reserve to the SFMTA for free two-hour parking in Portsmouth Square Garage and free transit fares during Lunar New Year weekend. The ordinance passed on first reading with unanimous support.",
+      "outcome": "passed",
+      "topics": [
+        "transit",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1120598,
+      "summary": "The Board considered a resolution authorizing the Human Services Agency to apply for and accept state grant funding from the California Department of Housing and Community Development for transitional housing programs. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "homelessness"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1120599,
+      "summary": "The Board took up a retroactive grant agreement with Young Community Developers for the Black to the Future and School Site Mentoring programs. Supervisor Walton requested to be excused to avoid any appearance of conflict of interest, and the resolution was adopted with ten ayes.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Shamann Walton",
+          "stance": "neutral",
+          "quote": "Item ten is a grant to young community developers my former employer... I do not have a conflict of interest on this item but to avoid the appearance of any conflict I would like to ask for a motion to excuse me from participating in this retroactive item.",
+          "t0": 1003.81,
+          "verified": false
+        }
+      ],
+      "votes": [
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "excused",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1120600,
+      "summary": "The Board considered a grant agreement amendment with Bay Area Community Resources for various youth programs, increasing the contract by $1.5 million. The resolution was adopted unanimously on a roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1120601,
+      "summary": "The Board approved a ten-year, $80 million professional services agreement with HDR Stantec JV to provide program management consulting services for the SFPUC Water Enterprise capital programs without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "environment"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1120602,
+      "summary": "The Board adopted a resolution approving a third lease amendment granting a rent credit up to $3,150,000 to support BART's Next Generation Fare Gates Replacement Project at San Francisco International Airport without objection.",
+      "outcome": "passed",
+      "topics": [
+        "transit",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1120603,
+      "summary": "The Board considered a fourth amendment to the grant agreement with Catholic Charities for the SF Home rapid rehousing program for families, extending the term and increasing funding to $14,533,573. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "homelessness",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1120606,
+      "summary": "The Board passed on first reading an ordinance approving the amended Airport Surveillance Technology Policy governing automated license plate readers and related systems without objection.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1120607,
+      "summary": "The Board considered the appointment of Supervisor Bilal Mahmood to the Board of Directors of the Bay Area Air Quality Management District. Supervisor Mahmood was excused from voting, and the motion was approved with ten ayes.",
+      "outcome": "passed",
+      "topics": [
+        "environment",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "excused",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1120608,
+      "summary": "The Board considered motions to appoint Supervisor Connie Chan to the San Francisco Bay Conservation and Development Commission and the Free City College Oversight Committee. Supervisor Chan was excused from voting, and the motions were approved unanimously by the remaining supervisors.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance",
+        "environment"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "excused",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1120609,
+      "summary": "The Board considered the appointment of Supervisor Connie Chan to the Free City College Oversight Committee, called together with Item 17. Supervisor Chan was excused from voting, and the motion was approved.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "excused",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1120610,
+      "summary": "The Board considered the appointment of Supervisor Danny Sauter to the Golden Gate Bridge, Highway and Transportation District Board of Directors. Supervisor Sauter was excused from voting, and the appointment was approved with ten ayes.",
+      "outcome": "passed",
+      "topics": [
+        "transit",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "excused",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1120611,
+      "summary": "The Board considered the appointment of Supervisor Matt Dorsey as alternate member to the San Francisco Bay Conservation and Development Commission. Supervisor Dorsey was excused from voting, and the appointment was approved alongside items 21 and 22.",
+      "outcome": "passed",
+      "topics": [
+        "environment",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "excused",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1120612,
+      "summary": "The Board considered appointing Supervisor Matt Dorsey to the Reentry Council. Dorsey was excused from voting, and the motion was approved with ten ayes.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "excused",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1120613,
+      "summary": "The Board considered appointing Supervisor Matt Dorsey to the Association of Bay Area Governments Executive Board. Supervisor Dorsey was excused from voting, and the motion was approved with ten ayes.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "excused",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1120614,
+      "summary": "The Board considered the appointment of Supervisor Myrna Melgar to the Metropolitan Transportation Commission. Supervisor Melgar was excused from voting, and the motion was approved with ten ayes.",
+      "outcome": "passed",
+      "topics": [
+        "transit",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "excused",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1120617,
+      "summary": "The Board considered the San Francisco Sheriff's Office Military Equipment Use Policy 2024 annual report and equipment approval. Supervisor Chyanne Chen moved to refer the item back to the Rules Committee to incorporate amendments regarding pepper ball launcher safety guidelines, which was supported by Supervisors Walton and Fielder and approved unanimously.",
+      "outcome": "referred",
+      "topics": [
+        "public_safety"
+      ],
+      "speakers": [
+        {
+          "name": "Chyanne Chen",
+          "stance": "neutral",
+          "quote": "I would like to make a motion referring item 24 back to the rules committee for amendments and I have been working with this year with our sheriff miyamoto to introduce some amendments regarding the acquisition of our pepper ball launchers.",
+          "t0": 1691.979,
+          "verified": true
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "oppose",
+          "quote": "we've actually had children in san mateo county school that is located next to the jail in the environment have also already received chemical impacts from testing and training at the san bruno county jail site.",
+          "t0": 1769.58,
+          "verified": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "oppose",
+          "quote": "I definitely have major concerns about how these will be deployed and and what other equipment exists in the department's inventories and why at this time especially in our budget deficit are these being considered?",
+          "t0": 1830.52,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1120618,
+      "summary": "Supervisor Walton commended Officer Jason 'JJ' Johnson of the San Francisco Police Department in honor of Black History Month for his 17 years of service, community policing, and founding Operation Genesis Inc. Officer Johnson and Deputy Chief Lazaro offered remarks in appreciation.",
+      "outcome": "no_action",
+      "topics": [
+        "public_safety"
+      ],
+      "speakers": [
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "Officer jj founded operation genesis inc., a transformative program that bridges coaches and builds identity by taking youth and adult chaperons on life changing journeys to ghana africa.",
+          "t0": 2007.499,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1120621,
+      "summary": "The Board considered a resolution authorizing city officials to solicit donations for services related to immigration, LGBTQ+ rights, environmental protection, reproductive rights, and racial equity under a behested payment waiver. The resolution was adopted with ten ayes and Supervisor Walton absent.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "absent",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1120624,
+      "summary": "The Board considered an ordinance amending the Planning and Health Codes regarding the Inclusionary Housing Ordinance non-potable water exemption. The ordinance was passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "planning_land_use",
+        "health"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1120627,
+      "summary": "The Board considered the appointment of Supervisor Jackie Fielder to the Local Agency Formation Commission. Supervisor Fielder was excused, and the motion was approved with nine ayes and Supervisor Walton absent.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Jackie Fielder",
+          "vote": "excused",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "absent",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1120628,
+      "summary": "During roll call for introductions, supervisors introduced new legislation, hearings, and memorial adjournments. Topics included police vehicle pursuit policies following a Mission crash, transit funding commitments, small business signage, affordable housing loan approvals, public housing oversight at Alice Griffith Apartments, and a performance audit of police overtime.",
+      "outcome": "no_action",
+      "topics": [
+        "public_safety",
+        "transit",
+        "small_business",
+        "housing",
+        "budget"
+      ],
+      "speakers": [
+        {
+          "name": "Jackie Fielder",
+          "stance": "neutral",
+          "quote": "and so I am submitting a letter of inquiry to as of pd chief scott to better understand the circumstances and decision making surrounding the case.",
+          "t0": 2669.737,
+          "verified": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "neutral",
+          "quote": "colleagues I'm asking that we adjourn today's meeting in memory of reverend robert crummy who passed away on JANUARY 14th at the age of 93.",
+          "t0": 2797.7,
+          "verified": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "stance": "neutral",
+          "quote": "Today I am introducing a resolution affirming san francisco's commitment to developing fiscal solutions to ensure that public transportation remains safe, affordable and convenient as an option.",
+          "t0": 3001.173,
+          "verified": true
+        },
+        {
+          "name": "Danny Sauter",
+          "stance": "neutral",
+          "quote": "Next I'd like to introduce a resolution recognizing the month of FEBRUARY 2025 as children's dental health month in the city and county of san francisco.",
+          "t0": 3249.558,
+          "verified": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "stance": "neutral",
+          "quote": "First, I'm introducing an ordinance to implement a simple amendment to the planning code that will better allow our corner stores to attract foot traffic on our commercial corridors.",
+          "t0": 3370.981,
+          "verified": true
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "neutral",
+          "quote": "I introduced the hearing regarding the mistreatment of residents at the alice griffith apartments by mccormack berrien salazar and property management around the quality of services they are providing mistreatment of residents and oversight responsibilities.",
+          "t0": 3646.727,
+          "verified": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "stance": "neutral",
+          "quote": "Colleagues, I have requested the city attorney advice and begun the process of preparing a formal legislative drafting request in response to a recent police commission resolution urging this body to amend relevant provisions of the san francisco administrative code that govern rewards",
+          "t0": 3737.986,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1120629,
+      "summary": "The Board heard general public comment from members of the public. Topics focused heavily on avoiding proposed Muni service cuts, addressing taxi driver financial distress, unsolved homicides and rewards, shelter conditions, and youth domestic violence prevention.",
+      "outcome": "no_action",
+      "topics": [
+        "transit",
+        "public_safety",
+        "homelessness",
+        "health",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Public commenter",
+          "stance": "support",
+          "quote": "I'm here concerning my son aubrey zappacosta who was murdered AUGUST 14, 2006 as matt darcy spoke about about unsolved homicides I bring these pitches with me because they're all unsolved homicides and these cases have never been set.",
+          "t0": 4250.605,
+          "verified": true
+        },
+        {
+          "name": "Public commenter",
+          "stance": "oppose",
+          "quote": "I urge the board to work together with mayor o'leary to find the $15 million needed to stop the 4% service cuts planned for this summer.",
+          "t0": 4688.65,
+          "verified": false
+        },
+        {
+          "name": "Public commenter",
+          "stance": "oppose",
+          "quote": "I'm here to urge this board to reject any cuts to muni service in san francisco especially those that would cut service hours to 10 P.M. Or any plans that would cut lines most taken by residents of the tenderloin western addition and fillmore.",
+          "t0": 4912.643,
+          "verified": true
+        },
+        {
+          "name": "Public commenter",
+          "stance": "oppose",
+          "quote": "This is handcuff because city want us to rely on disabled wheelchair to ramp taxi people's business... We express our angst to hundreds of time. No one cares of us.",
+          "t0": 6121.568,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": [
+        "opposition to Muni service cuts and reduced transit hours",
+        "demands to solve unsolved homicides and increase rewards",
+        "financial distress of ramp taxi medallion owners",
+        "support for teen dating violence prevention awareness"
+      ]
+    },
+    {
+      "meta_id": 1120631,
+      "summary": "President Mandelman called the agenda for items introduced for adoption without committee reference, noting that unanimous approval was required.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1120634,
+      "summary": "The Board considered Item 30, a resolution declaring February 2025 as Teen Dating Violence Awareness and Prevention Month, along with several lawsuit settlements (Coinbase, Lester Hogan, Hanover Insurance Company, Idemitsu Americas Holdings Corporation). The resolution and accompanying items were adopted unanimously on a roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "settlements",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1120654,
+      "summary": "The Board of Supervisors adjourned the meeting in memory of Reverend Robert Cromey, Charles Missakian, Robert 'Bob' Geary, and former Civil Service Commissioner Alex Crowley.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    }
+  ],
+  "quote_verification": {
+    "verified": 16,
+    "partial": 3,
+    "dropped": 0
+  }
+}

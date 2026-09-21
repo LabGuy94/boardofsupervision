@@ -1,0 +1,1154 @@
+{
+  "clip_id": 49520,
+  "items": [
+    {
+      "meta_id": 1145102,
+      "summary": "The Board convened for roll call, land acknowledgement, and the Pledge of Allegiance. Mayor Daniel Lurie delivered remarks reflecting on his first 100 days in office, highlighting public safety priorities, fentanyl response efforts, economic revival, and collaboration with the Board. The matter was discussed and filed.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance",
+        "public_safety"
+      ],
+      "speakers": [
+        {
+          "name": "Mayor",
+          "stance": "support",
+          "quote": "This week at least for some of us marks 100 days in office and it offers us an opportunity to reflect on the work we've started and everything that we still want to achieve. We have made public safety the number one priority.",
+          "t0": 160.463,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1145103,
+      "summary": "The Clerk announced general meeting communications, including broadcast information, instructions for submitting written public comment, and procedures for requesting disability accommodations.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1145104,
+      "summary": "The Board considered the approval of the regular meeting minutes from March 11, 2025. On a motion by Supervisor Chan, seconded by Supervisor Sherrill, the minutes were approved unanimously.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1145108,
+      "summary": "The Board considered the consent agenda consisting of items 1 through 6, which included settlements of lawsuits and unlitigated claims involving Coinbase, Inc. ($1,600,000), Lester Hogan ($50,000), Ada M. Guzman ($45,000), Veronica Fulton ($40,000), Michael E. Johnson, et al. (City to receive $100,000), and The Nederlander Company LLC ($55,000). The ordinances were finally passed with ten ayes and Supervisor Melgar absent.",
+      "outcome": "passed",
+      "topics": [
+        "settlements"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "absent",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1145120,
+      "summary": "Under unfinished business, the Board considered an ordinance establishing the 600 Townsend Street West Special Use District. The ordinance was finally passed without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1145121,
+      "summary": "The Board considered the recommendation of the Land Use and Transportation Committee regarding the 600 Townsend Street West Special Use District. The item was finally passed on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1145122,
+      "summary": "The Board considered an ordinance amending the Planning Code and Zoning Map to establish the 600 Townsend Street West Special Use District to legalize longstanding office uses and modify bicycle parking, open space, and impact fee requirements. The ordinance was finally passed.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1145124,
+      "summary": "The Board considered an ordinance amending the Administrative Code to create the Castro Upper Market Entertainment Zone and clarify boundaries of existing zones. The ordinance was finally passed without objection.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1145123,
+      "summary": "The Board considered the recommendation from the Rules Committee to establish the Castro Upper Market Entertainment Zone. The ordinance was finally passed.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1145127,
+      "summary": "The Board considered the recommendation of the Budget and Finance Committee regarding Port leases, loans, management agreements, and utility licenses for the Mission Rock project. The ordinance was passed on first reading.",
+      "outcome": "passed",
+      "topics": [
+        "parks",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1145128,
+      "summary": "The Board considered an ordinance approving a Port lease and loan for China Basin Park, a management agreement for adjacent open spaces with Mission Rock partners, and utility licenses with Mission Rock Utilities and PG&E. The ordinance was passed on first reading.",
+      "outcome": "passed",
+      "topics": [
+        "parks",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1145129,
+      "summary": "The Board considered a resolution authorizing an amendment to a professional services agreement with CPM/CM Pros JV for construction management services for the East Bay Region, increasing the amount by $25 million to a total of $34 million and extending the contract through June 2030. The resolution was adopted unanimously on a roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1145130,
+      "summary": "The Board considered a resolution retroactively authorizing a one-year lease with Lombard Hotel Group for the Monarch Hotel at 1015 Geary Street to provide a 102-unit non-congregate temporary shelter program. The resolution was adopted without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "homelessness",
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1145131,
+      "summary": "The Board considered a resolution authorizing amendments to professional services agreements with four joint ventures for specialized operations and maintenance support for the SFPUC, increasing each contract by $5.5 million to $13 million each for a total of $52 million. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1145132,
+      "summary": "The Board considered a resolution approving a grant amendment with Abode Services for adult rapid rehousing, extending the term by 24 months and increasing the total amount by $8.5 million to $18.4 million. The resolution was adopted without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "homelessness",
+        "housing",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1145133,
+      "summary": "The Board considered a resolution approving a grant amendment with Episcopal Community Services for property management and supportive housing services at the Henry Hotel, extending the term by 24 months and increasing the amount by $5.8 million to $20.4 million. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "homelessness",
+        "housing",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1145134,
+      "summary": "The Board considered a resolution approving a grant amendment with Five Keys Schools and Programs for permanent supportive housing for transitional aged youth at the Artmar Hotel, extending the term by 24 months and increasing the total to $13.9 million. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "homelessness",
+        "housing",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1145135,
+      "summary": "The Board considered a resolution adopting the City and County of San Francisco's Ten-Year Capital Expenditure Plan for Fiscal Years 2026 through 2035. The resolution was adopted without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1145136,
+      "summary": "The Board considered a resolution approving a second amendment to the grant agreement with Mission Action, Inc. for emergency shelter services, extending the term by 24 months and increasing the amount by $8.5 million to a total of $18.5 million. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "homelessness",
+        "housing",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1145137,
+      "summary": "The Board considered a resolution approving a 10-year lease with the Chinatown Community Children's Center for space in City Hall at a base rent of $1 per year. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1145138,
+      "summary": "The Board considered a resolution authorizing the execution and delivery of a multifamily housing revenue note in an amount not to exceed $53,305,000 for Sunnydale HOPE SF Block 7 at 65 Santos Street. The resolution was adopted without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1145139,
+      "summary": "The Board considered a resolution authorizing the issuance and sale of multifamily housing revenue bonds not to exceed $57,075,000 to finance a 95-unit rental housing project at 1652 Sunnydale Avenue (Sunnydale HOPE SF Block 9). The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1145140,
+      "summary": "The Board considered a resolution authorizing an amended loan agreement with Sunnydale Block 7 Housing Partners, L.P. for up to $18,050,000 to finance 89 units of affordable housing. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1145141,
+      "summary": "The Board considered a resolution authorizing an amended loan agreement with Sunnydale Block 9 Housing Partners, L.P. for up to $30,200,000 to finance 95 units of affordable housing. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1145142,
+      "summary": "The Board considered the recommendation of the Land Use and Transportation Committee on expanding criteria for self-storage uses in PDR districts. The ordinance was passed on first reading.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1145143,
+      "summary": "The Board considered an ordinance amending the Planning Code to expand criteria and extend sunset dates for certain self-storage uses in Production, Distribution, and Repair (PDR) zoning districts. The ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1145144,
+      "summary": "The Board considered an ordinance accepting street and public infrastructure and establishing official sidewalk widths and street grades for Phase 1A of the Mission Rock project. The ordinance was passed on first reading.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "transit"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1145145,
+      "summary": "The Board considered an ordinance amending the Public Works Code to designate the Port of San Francisco to permit sidewalk tables, chairs, and minor encroachments for the Mission Rock, Pier 70, and Potrero Power Station projects. The ordinance was passed on first reading.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "small_business"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1145146,
+      "summary": "The Board considered an ordinance granting a revocable master encroachment permit to Mission Rock Utilities, Inc. for privately owned utility systems within the Mission Rock Special Use District. The ordinance was passed on first reading.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1145147,
+      "summary": "The Board considered a resolution granting revocable permission to the Port of San Francisco to maintain encroachments in the public right of way at Mission Rock. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1145148,
+      "summary": "The Board considered a resolution preserving and officially naming segments of East Clementina Street and East Tehama Street as part of the Transbay Redevelopment Plan. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1145149,
+      "summary": "The Board considered the recommendation of the Rules Committee regarding nonprofit reporting requirements under the Administrative Code. The ordinance was passed on first reading.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1145150,
+      "summary": "The Board considered an ordinance amending the Administrative Code to modify annual economic statement requirements for city-funded nonprofits, limiting applicability to groups receiving over $1 million annually and allowing redaction to prevent personal harm. The ordinance was passed on first reading.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1145151,
+      "summary": "The Board considered a motion to appoint Supervisor Matt Dorsey to the San Francisco Bay Conservation and Development Commission. Supervisor Dorsey was excused from voting, and the motion was approved with ten ayes.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance",
+        "environment"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "excused",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1145152,
+      "summary": "The Board considered a motion appointing Melinda Burrus and Prasanthi Patel to the Sugary Drinks Distributor Tax Advisory Committee for terms ending December 31, 2026. The motion was approved unanimously on a roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance",
+        "health"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1145153,
+      "summary": "The Board considered a motion appointing Estela Ortiz to the Sheriff's Department Oversight Board for a term ending March 1, 2029. The motion was approved without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1145154,
+      "summary": "The Board considered a recommendation from the Rules Committee regarding the Sheriff's Office military equipment use policy and report. The resolution was adopted following a roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1145155,
+      "summary": "The Board considered a resolution accepting the San Francisco Sheriff's Office 2024 annual report and inventory for its military equipment use policy and approving requested purchases consistent with state law. The resolution was adopted 8 to 3, with Supervisors Chan, Fielder, and Walton voting no.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Connie Chan",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "no",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1145156,
+      "summary": "During roll call for introductions, supervisors introduced new legislation, resolutions, and in memoriam adjournments. Topics included sole-source contracting for Fire Department apparatus, Jerry Garcia Street naming, local journalism protections, SF SPCA Day, family shelter protections, immigration rights protections, gun safety reporting, LGBTQ cultural district expansion, concrete seismic retrofitting, and Black maternal health awareness.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance",
+        "public_safety",
+        "health",
+        "housing",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Chyanne Chen",
+          "stance": "support",
+          "quote": "Today I am introducing legislation to grant our fire department the sole source contracting authority to purchase fire apparatus fire engines that are best equipped for our specific san francisco trains and buildings",
+          "t0": 1646.368,
+          "verified": false
+        },
+        {
+          "name": "Danny Sauter",
+          "stance": "support",
+          "quote": "",
+          "t0": 5837.215,
+          "verified": false
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "support",
+          "quote": "",
+          "t0": 6415.0,
+          "verified": false
+        },
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "",
+          "t0": 7009.636,
+          "verified": false
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "",
+          "t0": 7175.36,
+          "verified": false
+        },
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "",
+          "t0": 7713.48,
+          "verified": false
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "",
+          "t0": 7947.285,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1145157,
+      "summary": "The Board held a special commendations ceremony honoring the 100th anniversary of the Great Star Theater in Chinatown, the City College of San Francisco Men's Basketball state championship team, Police Chief Bill Scott for his years of service and reform leadership, and 911 dispatchers Kathy Osorio and Nicole Workman for National Public Safety Telecommunications Week.",
+      "outcome": "no_action",
+      "topics": [
+        "other",
+        "public_safety"
+      ],
+      "speakers": [
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "",
+          "t0": 1780.171,
+          "verified": false
+        },
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "today I have the great honor of doing a commendation for the city college men's basketball team so dominating.",
+          "t0": 2225.655,
+          "verified": true
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "today I rise to recognize and commend chief bill scott for his extra ordinary service and courageous leadership she's got.",
+          "t0": 2540.975,
+          "verified": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "today in recognition of this event, I'm offering a special commendation to kathy osorio and nicole workman for their decades of service with the san francisco department of emergency management.",
+          "t0": 3034.74,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1145159,
+      "summary": "The Board held a special order hearing on the appeal of a CEQA categorical exemption determination for a proposed five-unit residential project at 2142 22nd Street. Following presentations and deliberation, the Board approved a motion affirming the Planning Department's exemption determination and tabled the reversing motions.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "planning_land_use",
+        "environment"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1145162,
+      "summary": "The Board held a public hearing on an appeal of the CEQA categorical exemption for the 2142 22nd Street project, which proposes demolishing a single-family home to construct a six-story, five-unit building. The appellant cited steep slope risks, landslide hazard zones, and serpentine bedrock, while the Planning Department and project sponsor asserted the conditions are common and managed under the San Francisco Building Code. Following arguments, the hearing was closed and filed.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "planning_land_use",
+        "environment"
+      ],
+      "speakers": [
+        {
+          "name": "Public commenter",
+          "stance": "oppose",
+          "quote": "",
+          "t0": 3984.738,
+          "verified": false
+        },
+        {
+          "name": "Department head",
+          "stance": "support",
+          "quote": "",
+          "t0": 4568.929,
+          "verified": false
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "",
+          "t0": 5648.724,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1145166,
+      "summary": "The Board considered a motion affirming the Planning Department's determination that the proposed residential project at 2142 22nd Street is categorically exempt from environmental review under CEQA. On a motion by Supervisor Walton, seconded by Supervisor Chan, the motion passed unanimously.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "planning_land_use",
+        "environment"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1145167,
+      "summary": "The Board considered a motion to conditionally reverse the categorical exemption determination for the proposed project at 2142 22nd Street. The motion was tabled without objection.",
+      "outcome": "no_action",
+      "topics": [
+        "housing",
+        "planning_land_use",
+        "environment"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1145168,
+      "summary": "The Board considered a motion directing the preparation of findings to reverse the categorical exemption determination for the proposed project at 2142 22nd Street. The motion was tabled without objection.",
+      "outcome": "no_action",
+      "topics": [
+        "housing",
+        "planning_land_use",
+        "environment"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1145169,
+      "summary": "The Board heard general public comment on various matters within municipal jurisdiction. Members of the public spoke on funding cuts to the Dream Keeper Initiative, support for the California Polluters Pay Climate Superfund Act, protections and equity for Black city workers, public school curriculum concerns, the fentanyl crisis, transgender rights, and Muni transit access.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": [
+        "Opposition to reported budget cuts and demands for full funding of the Dream Keeper Initiative",
+        "Support for the California Polluters Pay Climate Superfund legislation (SB 684 and AB 1243)",
+        "Workplace equity, anti-discrimination protections, and fair discipline for Black city employees",
+        "Concerns regarding public safety, the fentanyl crisis, and street conditions"
+      ]
+    },
+    {
+      "meta_id": 1145170,
+      "summary": "The Board considered items 40 through 45 introduced for adoption without committee reference, excluding item 41 which was severed. The remaining items\u2014including resolutions on Autism Awareness Month, Education and Sharing Day, the Great Star Theater, and a blighted properties hearing\u2014were adopted unanimously.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Jackie Fielder",
+          "stance": "question",
+          "quote": "",
+          "t0": 10900.244,
+          "verified": false
+        }
+      ],
+      "votes": [
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1145174,
+      "summary": "The Board considered a severed resolution supporting California Senate Bill 684 and Assembly Bill 1243, the Polluters Pay Climate Superfund Act, which requires major fossil fuel polluters to pay compensatory fees for climate-related damages. Supervisor Fielder spoke in support, and the resolution was adopted without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "environment"
+      ],
+      "speakers": [
+        {
+          "name": "Jackie Fielder",
+          "stance": "support",
+          "quote": "This bill will direct cal epa to complete a climate cost study, identify responsible parties and assess compensatory fees and use the collected fees to fund projects and programs to mitigate, remedy or prevent climate change costs and harms",
+          "t0": 11016.662,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    }
+  ],
+  "quote_verification": {
+    "verified": 5,
+    "partial": 1,
+    "dropped": 11
+  }
+}

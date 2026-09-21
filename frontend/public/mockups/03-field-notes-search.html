@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Field notes search — BoardOfSupervision</title>
+    <style>
+      :root { color-scheme: dark; font-family: ui-sans-serif, system-ui, sans-serif; color: #edf0df; background: #151b12; }
+      * { box-sizing: border-box; }
+      body { margin: 0; min-width: 320px; background: #151b12; }
+      .app { display: grid; grid-template-columns: 242px minmax(0, 1fr); min-height: 100vh; }
+      aside { display: flex; flex-direction: column; padding: 28px 20px; border-right: 1px solid #d6e7b52d; background: #11170f; }
+      .brand { display: flex; align-items: center; gap: 9px; color: #f3f5e8; font-size: 1rem; font-weight: 760; letter-spacing: -.045em; }
+      .brand i { width: 13px; height: 18px; border-radius: 80% 12% 80% 12%; background: #d8ed9e; transform: rotate(-34deg); }
+      .collection { margin-top: 50px; color: #d7e6bc; font: 500 .8rem/1.2 Georgia, serif; }
+      .meeting { margin-top: 11px; padding: 10px 11px; border-left: 2px solid #d4e993; color: #eff5e1; background: #d4e99312; font-size: .87rem; }
+      .meeting small { display: block; margin-top: 3px; color: #95a690; font-size: .73rem; }
+      .archive { display: grid; gap: 4px; margin-top: 12px; }
+      .archive div { padding: 8px 11px; color: #8f9f89; font-size: .8rem; }
+      .footnote { margin-top: auto; color: #6f806b; font-size: .74rem; line-height: 1.55; }
+      main { padding: 46px clamp(24px, 6vw, 92px) 64px; background: linear-gradient(90deg, #151b12, #192016); }
+      .topline { display: flex; justify-content: space-between; gap: 20px; color: #95a790; font-size: .8rem; }
+      .topline span:last-child { color: #c8e19c; }
+      h1 { max-width: 850px; margin: 48px 0 16px; font: 500 clamp(2.45rem, 5vw, 4.7rem)/1.03 Georgia, serif; letter-spacing: -.06em; }
+      .lede { max-width: 650px; color: #b8c5ae; font: 1.06rem/1.65 Georgia, serif; }
+      .prompt { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 12px; max-width: 920px; margin-top: 42px; padding-bottom: 17px; border-bottom: 1px solid #d6e7b544; }
+      input { width: 100%; border: 0; outline: 0; color: #f4f6e9; background: transparent; font: 500 1.25rem/1.4 Georgia, serif; }
+      button { align-self: start; border: 1px solid #d5ea9b77; border-radius: 999px; padding: 8px 14px; color: #dcefae; background: transparent; font: 700 .78rem inherit; cursor: pointer; }
+      .suggestions { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 17px; }
+      .suggestions span { color: #9eaf99; font-size: .78rem; }
+      .suggestions b { color: #cadf9c; font-weight: 500; }
+      .answer { display: grid; grid-template-columns: minmax(0, .9fr) minmax(280px, .6fr); gap: 56px; max-width: 1080px; margin-top: 64px; }
+      .answer h2 { margin: 0; color: #d5e99c; font-size: .78rem; font-weight: 650; }
+      .answer p { margin: 18px 0 0; color: #e1e7d7; font: 1.32rem/1.65 Georgia, serif; }
+      .source { padding-left: 20px; border-left: 1px solid #d4e9935c; }
+      .source label { color: #99a990; font-size: .76rem; }
+      .source strong { display: block; margin-top: 9px; font: 500 1.28rem/1.25 Georgia, serif; }
+      .source p { margin-top: 9px; color: #aebca6; font: .93rem/1.55 Georgia, serif; }
+      .source a { display: inline-block; margin-top: 14px; color: #d3ed99; font-size: .8rem; text-decoration: none; }
+      .transcript { max-width: 1080px; margin-top: 58px; padding-top: 24px; border-top: 1px solid #d6e7b539; }
+      .transcript h3 { margin: 0 0 15px; color: #b8c8ae; font: 500 .9rem Georgia, serif; }
+      .line { display: grid; grid-template-columns: 66px minmax(0, 1fr); gap: 17px; padding: 10px 0; border-bottom: 1px solid #d6e7b51a; }
+      .time { color: #cde99a; font: .75rem ui-monospace, monospace; }
+      .line p { margin: 0; color: #bdc9b4; font: .96rem/1.5 Georgia, serif; }
+      .line mark { color: #f2f7e4; background: #8ca85b55; }
+      @media (max-width: 760px) { .app { grid-template-columns: 1fr; } aside { display: none; } main { padding: 27px 24px 50px; } h1 { margin-top: 30px; } .answer { grid-template-columns: 1fr; gap: 31px; } }
+      @media (max-width: 480px) { .prompt { grid-template-columns: 1fr; } input { font-size: 1.05rem; } h1 { font-size: 3rem; } }
+    </style>
+  </head>
+  <body>
+    <div class="app">
+      <aside>
+        <div class="brand"><i></i>BoardOfSupervision</div>
+        <p class="collection">Meeting notebook</p>
+        <div class="meeting">Sep 15, 2026<small>47 agenda items · 4,001 cues</small></div>
+        <div class="archive"><div>Sep 1, 2026</div><div>Jul 28, 2026</div><div>Jul 21, 2026</div><div>Browse all 816 meetings</div></div>
+        <p class="footnote">Every answer remains attached to its agenda item and the official recording.</p>
+      </aside>
+      <main>
+        <div class="topline"><span>Board of Supervisors · San Francisco</span><span>Source-first search</span></div>
+        <h1>Read the meeting, not just the summary.</h1>
+        <p class="lede">Ask the public record a question, then move through the evidence like a set of well-kept field notes.</p>
+        <form class="prompt"><input value="What did the Board decide about street trees?" aria-label="Ask the meeting record" /><button type="button">Search the record</button></form>
+        <div class="suggestions"><span>Try <b>housing remarks</b>, <b>settlements</b>, or <b>what happened on Sep 15</b></span></div>
+        <section class="answer"><div><h2>Answer</h2><p>The Board finally passed the Street Tree Standards ordinance on a 7–4 vote, updating planting requirements, development fees, ADU exemptions, and appeals for hazardous tree removals.</p></div><div class="source"><label>Citation 01</label><strong>Street tree standards, appeals, and the Adopt-A-Tree Fund</strong><p>Sep 15 · agenda item 16 · 11:36</p><a href="#">Open the official video at this moment ↗</a></div></section>
+        <section class="transcript"><h3>A short path through the underlying record</h3><div class="line"><span class="time">11:36</span><p>The clerk introduces <mark>street tree standards</mark> and the associated code changes.</p></div><div class="line"><span class="time">12:14</span><p>Supervisors discuss planting, in-lieu fees, and the route for an appeal.</p></div><div class="line"><span class="time">13:08</span><p>The final roll call is recorded and the ordinance passes 7–4.</p></div></section>
+      </main>
+    </div>
+  </body>
+</html>

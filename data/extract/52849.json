@@ -1,0 +1,1508 @@
+{
+  "clip_id": 52849,
+  "items": [
+    {
+      "meta_id": 1253651,
+      "summary": "Board President Rafael Mandelman called the regular meeting to order and the clerk took roll call with all members present. President Mandelman then delivered the land acknowledgment and led the Board in the Pledge of Allegiance.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1253655,
+      "summary": "Mayor Daniel Lurie appeared before the Board of Supervisors to deliver opening remarks on the state of the city. He highlighted recent declines in overall crime, car break-ins, and overdose deaths, as well as progress on permitting and economic recovery.",
+      "outcome": "no_action",
+      "topics": [
+        "public_safety",
+        "budget",
+        "elections_governance"
+      ],
+      "speakers": [
+        {
+          "name": "Mayor",
+          "stance": "neutral",
+          "quote": "DURING THE FIRST SIX MONTHS OF 2026 OVERALL CRIME WAS DOWN 22% COMPARED TO THE SAME POINT AND PERIOD LAST YEAR. BUILDING ON A NEARLY 30% CITYWIDE DECLINE IN 2025, CAR BREAK INS FELL 42%.",
+          "t0": 184.816,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1253656,
+      "summary": "Supervisor Jackie Fielder questioned Mayor Daniel Lurie regarding strategies and benchmarks used to evaluate the 90-day interdepartmental initiative at the 16th and 24th Street Mission BART plazas. Mayor Lurie cited statistics showing increased routine patrols, reduced encampment reports, and lower property crime, while acknowledging ongoing challenges with night conditions and service engagement.",
+      "outcome": "no_action",
+      "topics": [
+        "public_safety",
+        "transit",
+        "health",
+        "homelessness"
+      ],
+      "speakers": [
+        {
+          "name": "Jackie Fielder",
+          "stance": "question",
+          "quote": "WHAT STRATEGIES AND METRICS OR BENCHMARKS DOES YOUR OFFICE USE TO MEASURE THE SUCCESS OF THE NEW IWD LED 90 DAY EFFORT ON MISSION STREET? AND ACCORDING TO THESE METRICS ARE YOUR ADMINISTRATION'S INTERVENTIONS MAKING A MEANINGFUL DIFFERENCE?",
+          "t0": 435.423,
+          "verified": true
+        },
+        {
+          "name": "Mayor",
+          "stance": "neutral",
+          "quote": "OVER THE FIRST MONTH OF OUR 90 DAY COORDINATED EFFORT WE'RE SEEING ENCOURAGING SIGNS THAT MULTIAGENCY APPROACH IS STARTING TO MAKE A DIFFERENCE. WE'RE DOING MORE PROACTIVE POLICING WHICH I KNOW YOU AND THE RESIDENTS COMMUNITY HAVE ASKED FOR",
+          "t0": 601.995,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1253652,
+      "summary": "The Clerk of the Board announced instructions for hybrid public comment in accordance with state law, procedures for remote callers, and guidelines regarding meeting decorum.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1253653,
+      "summary": "The Board considered the approval of the meeting minutes from the regular meeting held on June 9, 2026. The minutes were unanimously approved on a roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1253660,
+      "summary": "The Board acted on the consent agenda, which comprised Items 2 through 4. The package included ordinances regarding the relocation and re-establishment of liquor establishments, fee waivers for the Harry Street Steps waste bin enclosure, and the establishment of the Chestnut Street Entertainment Zone. All ordinances passed unanimously on final passage.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "small_business"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1253670,
+      "summary": "President Mandelman presented an omnibus ordinance streamlining and eliminating obsolete reporting requirements across multiple municipal codes, utilizing language models and departmental review. Several supervisors expressed concerns regarding the broad vehicle, insufficient public process, and specific reductions such as the surveillance technology audit and sexual harassment reports. After adopting technical amendments, the ordinance passed on first reading by a 7-4 vote.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "THIS EXERCISE IDENTIFIED 15 540 REPORTS AND THEN THE REAL WORK FOR THE CITY ATTORNEYS AND THE PEOPLE IN THE DEPARTMENTS BEGAN WHEREIN THEY LOOKED AT EACH OF THESE REPORTS AND THEY TRIED TO FIGURE OUT WHETHER THEY WERE VALUABLE",
+          "t0": 1167.653,
+          "verified": false
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "oppose",
+          "quote": "HOWEVER, I HAVE ONE MAJOR OUTSTANDING CONCERN WITH THIS LEGISLATION AND THAT IS THE PARING DOWN OF THE CONTROLLERS ANNUAL SURVEILLANCE TECHNOLOGY AUDIT FROM ONCE A YEAR TO ONCE EVERY FIVE YEARS.",
+          "t0": 1568.264,
+          "verified": false
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "oppose",
+          "quote": "THIS DOCUMENT IS VERY DENSE AND EVERYBODY YOU DESCRIBE THAT PARTICIPATED IN THIS CONVERSATION. IT DOES NOT INCLUDE THE PUBLIC WHICH WILL BE AFFECTED BY THIS LEGISLATION.",
+          "t0": 1679.528,
+          "verified": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "stance": "oppose",
+          "quote": "I WILL BE VOTING AGAINST THIS LEGISLATION. BUT LET ME BE CLEAR ON WHY IT IS NOT BECAUSE I DON'T THINK THAT YOU KNOW, I WELL, THAT'S THAT'S NOT REASON I THINK IT'S UP TO ME IT'S ABOUT THE PROCESS.",
+          "t0": 1851.776,
+          "verified": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "stance": "support",
+          "quote": "AND I WANT TO REALLY APPRECIATE SUPERVISOR CHERYL AND YOUR STAFF AND PRESENT MANAGEMENT AND YOUR STAFF FOR WORKING COLLABORATIVELY WITH MY OFFICE TO CRAFT AMENDMENTS TO RESTORE THIS REQUIREMENT. AND I'LL BE SUPPORTING THIS LEGISLATION.",
+          "t0": 2140.215,
+          "verified": false
+        },
+        {
+          "name": "Alan Wong",
+          "stance": "support",
+          "quote": "I WANT TO THANK PRESIDENT MATLIN AND CITY ATTORNEY DAVID CHIU FOR WORKING ON THIS LARGE PIECE OF LEGISLATION IDENTIFYING THE THINGS THAT NEED CODE CLEANUP IN OUR CITY CITY CODE.",
+          "t0": 2155.77,
+          "verified": false
+        }
+      ],
+      "votes": [
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "no",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1253735,
+      "summary": "Supervisors presented special commendations to community organizations and leaders. Honorees included Lyc\u00e9e Fran\u00e7ais de San Francisco for French-American Heritage Month, Antonio 'Baby Tony' Garcia for Disability Pride Month, the New Mission Terrace Improvement Association for 75 years of community service, and Frameline on the 50th anniversary of the SF International LGBTQ+ Film Festival.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Alan Wong",
+          "stance": "support",
+          "quote": "COLLEAGUES TODAY I'M PROUD TO RECOGNIZE LEE SAY FRIEND SAY TO SAN FRANCISCO IN CELEBRATION OF FRENCH-AMERICAN HERITAGE MONTH IT IS ESPECIALLY FITTING THAT WE PRESENT THIS COMMENDATION TODAY ON BASTILLE DAY",
+          "t0": 2332.495,
+          "verified": true
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "IN HONOR OF DISABILITY PRIDE MONTH I WANT TO PROUDLY RECOGNIZE ANTONIO BABY TONY GARCIA FOR HIS UNWAVERING KINDNESS.",
+          "t0": 2707.619,
+          "verified": false
+        },
+        {
+          "name": "Chyanne Chen",
+          "stance": "support",
+          "quote": "TODAY IT'S MY GREAT HONOR TO RECOGNIZE THE NEW MISSION TERRACE IMPROVEMENT ASSOCIATION FOR OVER 75 YEARS OF SERVICE TO THE NEIGHBORHOOD.",
+          "t0": 3073.595,
+          "verified": false
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "COLLEAGUES, IT IS MY HONOR TODAY TO PRESENT A SPECIAL COMMENDATION TO FRAME LINE WHICH JUST THIS PAST JUNE CELEBRATED THE 50TH ANNIVERSARY OF THEIR FILM FESTIVAL THE FREMONT FILM FESTIVAL.",
+          "t0": 3403.815,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1253673,
+      "summary": "The Board considered an ordinance amending the Health, Planning, Police, and Business and Tax Regulations Codes to establish a permit framework for cannabis caf\u00e9s administered by the Office of Cannabis. The ordinance was finally passed on a 7-4 vote.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "health",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "no",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1253676,
+      "summary": "The Board considered a proposed charter amendment for the November 3, 2026 ballot to transfer certain commissions and advisory bodies from the Charter into the Municipal Code and modify their functions. Supervisors Fielder and Chan opposed the measure over concerns about weakening citizen oversight and consolidating executive power, but the charter amendment was ordered submitted on a 9-2 vote.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [
+        {
+          "name": "Jackie Fielder",
+          "stance": "oppose",
+          "quote": "I'M VOTING NO ON THIS CHARTER AMENDMENT BECAUSE OF THE SWEEPING CHANGES IT PROPOSES TO OUR CITIZEN OVERSIGHT BODIES.",
+          "t0": 3881.718,
+          "verified": true
+        },
+        {
+          "name": "Connie Chan",
+          "stance": "oppose",
+          "quote": "I AM NOT GOING TO BE VOTING IN SUPPORT NOT BECAUSE I DON'T APPRECIATE THE WORK THAT'S BEING DONE IT JUST SIMPLY BECAUSE I THINK THE OVERALL IDEA OF OF ELIMINATING SOME OF THESE ADVISORY BODIES AND COMMISSION IS IN MY OPINION NOT IN THE BEST INTERESTS OF THE CITY.",
+          "t0": 3942.711,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1253677,
+      "summary": "Supervisor Melgar presented a proposed charter amendment for the November 2026 election to expand and extend the Housing Trust Fund to eventually reach $125 million annually using property tax growth, extending its sunset date to 2058. Supervisors discussed the importance of bondable revenue for affordable housing production, and the measure was unanimously ordered submitted to the ballot.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "budget",
+        "elections_governance"
+      ],
+      "speakers": [
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "IT WILL SECURE A STEADY FUND OF SORT OF A STEADY SOURCE OF FUNDING FOR AFFORDABLE HOUSING AND PRESERVATION THROUGH THE EXPANSION AND THE EXTENSION OF THE EXISTING HOUSING TRUST FUND TO EVENTUALLY REACH $125 MILLION BY DEDICATING A PORTION OF FUTURE GROWTH OF PROPERTY VALUES IN SAN FRANCISCO.",
+          "t0": 4075.931,
+          "verified": true
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "I DO JUST WANT TO STATE ON THE RECORD THAT I THINK IT IS ARBITRARY TO EXTEND THE HOUSING TRUST FUND AND INCREASE THE HOUSING TRUST FUND. AND AT THE VERY SAME MEETING VOTE TO DECREASE INCLUSIONARY HOUSING.",
+          "t0": 4284.68,
+          "verified": false
+        },
+        {
+          "name": "Alan Wong",
+          "stance": "support",
+          "quote": "THE HOUSING TRUST FUND HAS HELPED CREATE AND PRESERVE AFFORDABLE HOMES AND SUPPORT OPPORTUNITIES FOR FIRST TIME HOMEBUYERS. THIS MEASURE WILL STRENGTHEN THAT FUND OVER TIME WHILE INCLUDING REASONABLE PROTECTIONS WHEN THE CITY FACES A SERIOUS BUDGET SHORTFALL.",
+          "t0": 4348.544,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1253680,
+      "summary": "The Board considered an ordinance amending the Administrative Code to raise the minimum grant award requiring Board approval for acceptance and expenditure to $1 million or the federal Single Audit threshold. The ordinance was passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1253681,
+      "summary": "The Board considered an ordinance approving Health Service System plans and city contribution rates for calendar year 2027. The ordinance was passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1253684,
+      "summary": "The Board considered Items 11 through 13 together, authorizing the Port of San Francisco to accept grants from UCSF and the San Francisco County Transportation Authority and amend an engineering services contract for the Mission Bay Ferry Landing project. The resolutions were adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "transit",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1253686,
+      "summary": "The Board acted on Items 14 and 15 together, approving airport lease agreements at SFO including a travelers' retreat lease and a lease termination agreement with SSP America, Inc. for Terminal 2 food and beverage concessions. The resolutions were adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1253687,
+      "summary": "The Board considered Item 16 alongside Item 17, authorizing the District Attorney's Office to accept and expend grant funds not to exceed $275,391 from the California Victim Compensation Board for the Criminal Restitution Compact. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1253688,
+      "summary": "The Board approved a resolution authorizing the District Attorney's Office to accept and expend a $200,000 gift from The Chris Larsen Fund via the Silicon Valley Community Foundation to support Project Restore: Women's Housing for Victims of Crime. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "public_safety",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1253689,
+      "summary": "The Board considered a resolution authorizing the Recreation and Parks Department to enter into an agreement with the San Francisco Downtown Development Corporation and accept approximately $20 million in cash grants for improvements at Embarcadero Plaza and Sue Bierman Park. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "parks",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1253690,
+      "summary": "The Board retroactively authorized the Department of Public Health to accept and expend an in-kind gift of wastewater analysis services valued at $87,000 from Biobot Analytics. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1253691,
+      "summary": "The Board adopted a resolution prescribing terms and authorizing the issuance and negotiated sale of up to $270 million in San Francisco Unified School District General Obligation Bonds from the Election of 2024, Series B. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1253692,
+      "summary": "The Board approved a motion directing the Budget and Legislative Analyst, in collaboration with the Controller's Office, to initiate a performance and management audit of the California Academy of Sciences for FY 2026-2027.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1253698,
+      "summary": "The Board considered Items 22 through 37 comprising the city's annual budget and related implementation legislation. Budget Chair Connie Chan and Mayor's Budget Office staff presented technical adjustments and amendments, and the entire budget package was continued to the July 21, 2026 meeting pursuant to Charter rules.",
+      "outcome": "continued",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "AND SO COLLECTIVELY I WILL MAKE THAT MOTION TO MOVE THESE AMENDMENTS. AND SO FIRST FROM ME I'M GOING TO READ OUT LOUD COLLEAGUES IS FOR ITEM 22 AND THAT IS SPECIFICALLY FOR THESE BOARDS AND ONLY FOUR BOARDS A SPENDING PLAN.",
+          "t0": 5308.175,
+          "verified": true
+        },
+        {
+          "name": "Department head",
+          "stance": "neutral",
+          "quote": "TECHNICAL ADJUSTMENTS INCLUDE CORRECTING EXPENDITURES AT THE SHERIFF'S OFFICE. THE SET OF TECHNICAL ADJUSTMENTS WILL INCREASE THE PROPOSED FY 27 BUDGET BY $3,695,945 AND WILL NOT INCREASE THE FY 28 BUDGET",
+          "t0": 5423.966,
+          "verified": false
+        },
+        {
+          "name": "Chyanne Chen",
+          "stance": "support",
+          "quote": "AFTER MANY CONVERSATIONS WITH PROVIDERS AND ADVOCATES AND PARTNERSHIP FROM THE MAYOR'S OFFICE, WE HAVE NEGOTIATED A MODEST INCREASE OF 50 LONG TERM SUBSIDIES FOR FAMILIES LIVING IN SINGLE UNITS CITYWIDE.",
+          "t0": 5551.627,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1253704,
+      "summary": "An ordinance amending the Health Code to set patient rates for services provided by the Department of Public Health for FY 2026-2027 and FY 2027-2028 was called as part of the annual budget package. The item was continued to July 21, 2026.",
+      "outcome": "continued",
+      "topics": [
+        "budget",
+        "health"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1253712,
+      "summary": "A resolution approving the FY 2026-2027 budget of the Office of Community Investment and Infrastructure and the issuance of bonds not to exceed $275 million was considered as part of the budget package. The item was continued to July 21, 2026.",
+      "outcome": "continued",
+      "topics": [
+        "budget",
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1253719,
+      "summary": "A resolution authorizing the Department of Public Health to accept and expend recurring state grant funds for FY 2026-2027 was called as part of the budget package. The item was continued to July 21, 2026.",
+      "outcome": "continued",
+      "topics": [
+        "budget",
+        "health"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1253725,
+      "summary": "A resolution authorizing an amended permit for Another Planet Entertainment to hold ticketed concerts at the Golden Gate Park Polo Field through 2029 with extension options to 2035 was called as part of the budget package. The item was continued to July 21, 2026.",
+      "outcome": "continued",
+      "topics": [
+        "budget",
+        "parks"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1253728,
+      "summary": "The Board considered an ordinance amending the Business and Tax Regulations Code to extend the waiver of first-year permit, license, and business registration fees for qualifying new small businesses through July 1, 2027. The ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1253730,
+      "summary": "The Board considered an ordinance to reduce inclusionary affordable housing requirements and development impact fees to improve residential development feasibility. Supervisor Fielder introduced an amendment establishing an 8% on-site inclusionary requirement specifically for the Mission Area Plan, which passed 6-5. Following extensive debate, the ordinance as amended passed on first reading.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "planning_land_use"
+      ],
+      "speakers": [
+        {
+          "name": "Jackie Fielder",
+          "stance": "support",
+          "quote": "WITH ALL OF THAT SAID, I'M INTRODUCING AMENDMENTS TO REQUIRE AN 8% ONSITE INCLUSIONARY RATE IN THE MISSION AREA PLAN WITH 6% AT LOW INCOME AND 2% AT MODERATE INCOME FOR RENTAL AND OWNERSHIP UNITS.",
+          "t0": 5902.938,
+          "verified": false
+        },
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "IT WAS ABUNDANTLY CLEAR FROM THE TECHNICAL ADVISORY COMMITTEE REPORT THAT WE NEED TO DO ALL THAT WE CAN TO MOVE THE NEEDLE ON FEASIBILITY IF WE WANT TO HAVE ANY CHANCE OF THE CITY TO BUILD THE HOUSING REQUIRED TO MEET DEMAND.",
+          "t0": 5997.182,
+          "verified": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "SO WHAT HAS HAPPENED IF WE LOOK BACK AT THE LAST THREE YEARS IS THAT 0% OF ZERO IS ZERO. IN THE PAST THREE YEARS WE HAVE GOTTEN ZERO IN INCLUSIONARY FEES.",
+          "t0": 6266.122,
+          "verified": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "stance": "oppose",
+          "quote": "I WILL RESPECTFULLY BE VOTING NO ON THE PROPOSED AMENDMENT WHILE WE ULTIMATELY HAVE THE FINAL POLICY DECISION OVER OUR INCLUSIONARY RATES. WE GENERALLY ENTRUST THE BULK OF THE POLICYMAKING WORK ON OUR INCLUSIONARY RATES TO A GROUP OF EXPERTS",
+          "t0": 6439.508,
+          "verified": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "stance": "oppose",
+          "quote": "IT REQUIRES US TO CHOOSE ONE OVER THE OTHER RATHER THAN ADVANCE BOTH COLLECTIVELY. IT IS REALLY A SAD DAY WHERE AFFORDABLE HOUSING REQUIREMENTS ARE REFRAMED THAT OBSTACLES TO PRODUCTION RATHER THAN A REQUEST FOR IT.",
+          "t0": 6548.886,
+          "verified": true
+        },
+        {
+          "name": "Connie Chan",
+          "stance": "oppose",
+          "quote": "SO OVERALL I AM NOT INCLINED TO AGAIN TO LOWER IT BUT I AM AGAIN ALSO INCLINED TO SUPPORT SUPERVISOR FIELDER'S SUGGESTIONS. IDENTIFYING AND RECOGNIZING THAT MISSION HAS THE GREATEST GENTRIFICATION A RATE OF GENTRIFICATION AND DISPLACEMENT AND WOULD LIKE TO INCREASE IT.",
+          "t0": 6766.114,
+          "verified": true
+        },
+        {
+          "name": "Alan Wong",
+          "stance": "support",
+          "quote": "THE CITY'S OWN TECHNICAL ADVISORY COMMITTEE CONCLUDED THAT OUR EXISTING INCLUSIONARY REQUIREMENTS HAVE BECOME A SIGNIFICANT BARRIER TO NEW RESIDENTIAL DEVELOPMENT UNDER TODAY'S ECONOMIC CONDITIONS.",
+          "t0": 6845.14,
+          "verified": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "AND SO I HAVE BEEN PERSUADED THAT THE GOOD OF GETTING MORE HOUSING IS WORTH THE HARM OF REDUCING OUR IMPACT FEES. AND I TAKE SERIOUSLY THE POINT THAT SUPERVISOR MELGAR HAS MADE AND THAT A LOT OF PEOPLE HAVE MADE WHICH IS THAT A LARGER PERCENTAGE OF ZERO IS STILL ZERO.",
+          "t0": 6963.207,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1253734,
+      "summary": "The Board considered the mayoral reappointment of Azalina Eusope to the Sanitation and Streets Commission for a term ending July 1, 2030. The motion was unanimously approved.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1253738,
+      "summary": "Supervisor Dorsey presented an ordinance establishing city policy to expand site-based permanent supportive housing that prohibits illicit drug use on-site for residents seeking recovery or drug-free environments. Members discussed concerns about potential evictions and relapse protections, voting to adopt an amendment explicitly committing to avoid evictions while rejecting an amendment eliminating shelters as an alternative relocation option. The ordinance passed on first reading on a 7-4 vote.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "homelessness",
+        "health"
+      ],
+      "speakers": [
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "THIS LEGISLATION IS AN INCREMENTAL APPROACH. IT ENSURES THAT ONLY NEW CITY FUNDED PERMANENT SUPPORTIVE HOUSING WILL PROHIBIT ILLICIT DRUG USE ON SITE. IT WILL NOT AFFECT STATE FUNDED PCH. IT WILL NOT APPLY TO NEW CONSTRUCTION CURRENTLY IN THE PIPELINE.",
+          "t0": 7381.782,
+          "verified": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "oppose",
+          "quote": "HOWEVER, I FEAR THAT THE LEGISLATION BEFORE US AS WRITTEN LACKS STRONG PROTOCOLS FOR PROVIDING SUPPORT TO RESIDENTS FACING EVICTION FROM ABSTINENT HOUSING AND WILL HAVE THE UNINTENDED CONSEQUENCE OF ACTUALLY DRIVING UP HOMELESSNESS AND THEREFORE DRUG USE ON OUR STREETS.",
+          "t0": 7821.122,
+          "verified": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "WE DON'T WANT SOMEBODY WHO DOESN'T HAVE THE LINEAR PROGRESSION OF YOU KNOW LIKE BEING SOBER FALLS OFF THE WAGON A COUPLE TIMES TO HAVE TO GO BACK TO SQUARE ONE AND HAVE TO START IN THE COORDINATED ENTRY SYSTEM AT A SHELTER",
+          "t0": 8097.747,
+          "verified": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "stance": "oppose",
+          "quote": "I DON'T BELIEVE THAT OUR CITY SHOULD BE IMPLEMENTING SOBER HOUSING ENVIRONMENTS IN A WAY THAT COULD CAUSE HARM TO THOSE WHO CANNOT LIVE SUCCESSFULLY IN THAT ENVIRONMENT. SOBER HOUSING SOLUTIONS SHOULD NOT COME AT THE RISK OF MAKING SOME PEOPLE HOUSING INSECURE.",
+          "t0": 8491.353,
+          "verified": false
+        },
+        {
+          "name": "Connie Chan",
+          "stance": "oppose",
+          "quote": "IT ALSO PAINS ME TO TO SEE THAT I DON'T SEE THAT THERE ARE MUTUALLY EXCLUSIVE MEANING TO SUPPORT THOSE WHO ARE FIGHTING HARD AND MAINTAINING SUCCESS IN SOBER HOUSING AND THOSE WHO HAVE FOR SHORT ANY ALTERNATIVE OPTIONS SO THAT THEY CAN REMAIN HOUSE AND STILL RECEIVE TREATMENT.",
+          "t0": 8690.11,
+          "verified": false
+        },
+        {
+          "name": "Alan Wong",
+          "stance": "support",
+          "quote": "THIS LEGISLATION CREATES MORE DRUG FREE SUPPORTIVE HOUSING FOR PEOPLE WHO ACTIVELY WANT AN ENVIRONMENT THAT SUPPORTS SOBRIETY AND RECOVERY. THIS IS NOT ABOUT PUNISHMENT AND IS NOT ABOUT EXPECTING PERFECTION.",
+          "t0": 8914.75,
+          "verified": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "DORSEY YOUR MEASURE HERE THAT YOU HAVE LABORED OVER FOR A YEAR MORE THAN A YEAR IS THE MOST MODEST INCREMENTAL STEP IN THE DIRECTION OF SUPPORTING RECOVERY IN IN THIS HOUSING.",
+          "t0": 9002.771,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1253739,
+      "summary": "The Board considered a resolution affirming support for the Speed Safety System pilot program and urging changes to increase speed camera locations, prioritizing High Injury Network corridors. The resolution was adopted 10-1, with Supervisor Walton opposed.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "transit"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1253742,
+      "summary": "The Board considered a motion appointing Betty Packard and Ruth Grace Wong to the Ballot Simplification Council for terms ending November 30, 2026. The motion was unanimously approved.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1253743,
+      "summary": "During the roll call for introductions, supervisors introduced new legislation, reports, and resolutions. Proposals included support for the Bayview Community Shuttle, BLA audits of mayoral charter reform measures, support for the federal Acupuncture for Our Seniors Act, consumer protection against surveillance pricing, a study of microenterprise home kitchens, a hearing motion on the grocery vacancy tax, an honorary street renaming, and recognizing National Health Center Week.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance",
+        "transit",
+        "health",
+        "small_business",
+        "budget"
+      ],
+      "speakers": [
+        {
+          "name": "Shamann Walton",
+          "stance": "neutral",
+          "quote": "FIRST I'M INTRODUCING A RESOLUTION IN SUPPORT OF CONTINUING THE BABY'S SHADOW. DISTRICT TEN RESIDENTS CONTINUE TO FACE URGENT TRANSPORTATION INEQUITIES THAT LIMIT ACCESS TO JOBS, HEALTH CARE, EDUCATION, GROCERY STORES AND OTHER ESSENTIAL SERVICES.",
+          "t0": 9420.672,
+          "verified": false
+        },
+        {
+          "name": "Chyanne Chen",
+          "stance": "neutral",
+          "quote": "COLLEAGUES TODAY I'M INTRODUCING A RESOLUTION URGING CONGRESS TO PASS H R 1667 TO ACUPUNCTURE FOR OUR SENIORS ACT.",
+          "t0": 9780.997,
+          "verified": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "neutral",
+          "quote": "I'M INTRODUCING A RESOLUTION SUPPORTING CALIFORNIA STATE ASSEMBLY BILL NUMBER 2564 AUTHORED BY ASSEMBLYMEMBER CHRIS WARD AND COAUTHORED BY ASSEMBLY MEMBER ASH KALRA. RETAILERS ARE USING PERSONALLY IDENTIFIABLE CONSUMER DATA TO CHARGE SOME CONSUMERS DISCRIMINATORY PRICES",
+          "t0": 9981.739,
+          "verified": false
+        },
+        {
+          "name": "Bilal Mahmood",
+          "stance": "neutral",
+          "quote": "COLLEAGUES TODAY I'M INTRODUCING A MOTION TO ALLOW THE BOARD TO CALL FILE NUMBER 260693 THE AFFORDABLE GROCERIES ACTS VACANCY TAX. FROM THE BUDGET AND FINANCE COMMITTEE TO A COMMITTEE OF THE WHOLE ON JULY 21ST.",
+          "t0": 10180.21,
+          "verified": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "neutral",
+          "quote": "COLLEAGUES TODAY I AM INTRODUCING A RESOLUTION TO RECOGNIZE AUGUST 2ND THROUGH AUGUST 8TH 2026 AS NATIONAL HEALTH CENTER WEEK IN SAN FRANCISCO",
+          "t0": 10429.89,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1253731,
+      "summary": "Following Roll Call for Introductions, Supervisor Connie Chan requested to rescind the previous vote on Item 39 (inclusionary housing program and fee reductions) to clarify her position against the underlying measure. The Board approved the rescission and re-took the roll call vote, passing the ordinance on first reading as amended by a 9-2 vote.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "planning_land_use"
+      ],
+      "speakers": [
+        {
+          "name": "Connie Chan",
+          "stance": "oppose",
+          "quote": "I AGAIN I THINK I SAID IT I WOULD LOVE TO EVENTS BOTH ON THE HOUSING TRUST FUND AND ALSO CONTINUE TO BE KEEPING OUR CITY AFFORDABLE TO SUPPORT OUR INCLUSIONARY RATE. SO WITH THAT I ALSO SAID PUBLICLY THAT I AM NOT SUPPORTING THE LEGISLATION BECAUSE WE ARE FORCING TO CHOOSE ONE OR THE OTHER",
+          "t0": 10650.247,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1253744,
+      "summary": "The Board heard general public comment in person and over the phone. Speakers testified regarding street crisis peer counselor positions, the proposed closure of the National Archives facility in San Bruno, federal acupuncture legislation, parking impacts of a proposed housing development, and filling vacancies on the Sunshine Ordinance Task Force.",
+      "outcome": "no_action",
+      "topics": [
+        "health",
+        "public_safety",
+        "planning_land_use",
+        "elections_governance",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": [
+        "Retaining peer counselors on the Street Crisis Response Team",
+        "Opposing the closure of the National Archives and Records Administration in San Bruno",
+        "Support for federal legislation (H.R. 1667) covering acupuncture under Medicare",
+        "Neighborhood parking and transit concerns over large residential development",
+        "Urging the Board to make overdue appointments to the Sunshine Ordinance Task Force"
+      ]
+    },
+    {
+      "meta_id": 1253746,
+      "summary": "The Clerk called the Adoption Without Committee Reference calendar for Board consideration.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1253748,
+      "summary": "The Board considered Items 46 and 47 on the Adoption Without Committee Reference calendar. The package included resolutions supporting AB 1448 for coastal protection and urging the National Archives to halt the closure of its San Francisco facility, as well as multiple legal settlements and unlitigated claims. The resolutions were unanimously adopted.",
+      "outcome": "passed",
+      "topics": [
+        "settlements",
+        "environment",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1253778,
+      "summary": "President Mandelman adjourned the meeting in memory of longtime community activist and labor leader Fay Ben Lee on behalf of Supervisor Connie Chan.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    }
+  ],
+  "quote_verification": {
+    "verified": 27,
+    "partial": 15,
+    "dropped": 0
+  }
+}

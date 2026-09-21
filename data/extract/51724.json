@@ -1,0 +1,1812 @@
+{
+  "clip_id": 51724,
+  "items": [
+    {
+      "meta_id": 1211868,
+      "summary": "President Rafael Mandelman opened the regular Board of Supervisors meeting and the Clerk conducted the opening roll call, finding all eleven members present. The Board then recited the Land Acknowledgement and the Pledge of Allegiance, followed by recognition of SFGovTV staff.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1211869,
+      "summary": "The Clerk read the general communications announcements describing in-person attendance, broadcast channels, methods for submitting written public comment, and instructions for requesting disability accommodations or language assistance.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1211871,
+      "summary": "The Board approved the routine consent agenda covering Items 1 through 8. The consent agenda passed unanimously on a roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1211873,
+      "summary": "The Board approved Items 1 through 8 on the consent agenda. These measures included an amendment to the Mission Bay South Block 4 East redevelopment plan, an airport revenue bond appropriation, Film Commission administrative code programs, and five legal settlements involving Stephanie York et al., General Motors, Edwin Jesus Rementeria Hidalgo, R.C., and Microsoft Corporation.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "budget",
+        "settlements",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1211890,
+      "summary": "The Board considered an ordinance amending the Administrative Code to shift the Capital Expenditure Plan reporting requirement from odd years to even years, setting the next report due on March 1, 2028. The ordinance was passed unanimously on final passage without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1211891,
+      "summary": "The Board approved an ordinance placing a $535 million Earthquake Safety and Emergency Response general obligation bond on the June 2, 2026 special election ballot. Supervisor Alan Wong spoke in support, emphasizing regional earthquake risks and the urgent need to seismically retrofit critical public safety infrastructure including the Taraval Police Station in District 4.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "public_safety",
+        "elections_governance"
+      ],
+      "speakers": [
+        {
+          "name": "Alan Wong",
+          "stance": "support",
+          "quote": "PREPARING FOR EARTHQUAKES IS ONE OF THE MOST BASIC RESPONSIBILITIES WE HAVE AS THE CITY ESPECIALLY WHEN IT COMES TO PROTECTING LIVES AND ENSURING OUR PUBLIC SAFETY SYSTEM REMAINS OPERATIONAL.",
+          "t0": 322.393,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1211894,
+      "summary": "The Board considered an ordinance amending the Building Code to establish a permitting process for the installation of hydrogen-fueling station equipment. The ordinance passed on final passage with nine ayes and two noes, with Supervisors Chan and Fielder voting against.",
+      "outcome": "passed",
+      "topics": [
+        "environment",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Connie Chan",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1211896,
+      "summary": "The Board voted on a proposed Charter amendment to establish lifetime term limits for the Mayor and members of the Board of Supervisors on the June 2, 2026 ballot. Supervisor Walton questioned the City Attorney on whether state statutes requiring prospective-only term limits applied to San Francisco, to which Deputy City Attorney Brad Russi responded that charter city home rule authority permits applying the limits to both current and past officeholders. The Charter amendment was ordered submitted on a 7-4 vote, with Supervisors Walton, Chan, Chen, and Mandelman dissenting.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [
+        {
+          "name": "Shamann Walton",
+          "stance": "question",
+          "quote": "I KNOW THERE IS A STATE LAW IN PLACE RIGHT NOW THAT STATES THAT IF YOU WANT TO CHANGE THE TERM LIMITS FOR BODIES LIKE THE BOARD OF SUPERVISORS OR FOR MAYOR, YOU CAN IT SHOULD ONLY APPLY PROSPECTIVELY AND NOT APPLY FOR MEMBERS WHO HAVE CURRENTLY OR SERVED IN THE PAST",
+          "t0": 520.136,
+          "verified": true
+        },
+        {
+          "name": "City Attorney",
+          "stance": "neutral",
+          "quote": "UNDER CURRENT CASE LAW THE STATUTE THAT SUPERVISOR WALTON MENTIONED DOES NOT APPLY TO SAN FRANCISCO, THE CITY'S HOME RULE AUTHORITY UNDER THE STATE CONSTITUTION AS A CHARTER CITY AUTHORIZES THE CITY TO DETERMINE HOW TERM LIMITS ARE APPLIED",
+          "t0": 579.797,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Connie Chan",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1211900,
+      "summary": "The Board considered an ordinance amending the Business and Tax Regulations Code to adjust the application and remittance calculations of the Access Line Tax for Voice Over Internet Protocol (VoIP) services. The ordinance passed unanimously on first reading.",
+      "outcome": "passed",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1211901,
+      "summary": "The Board approved an ordinance accepting and expending a $7 million grant from Bloomberg Philanthropies to support the Mayor's Office of Innovation and amending the Annual Salary Ordinance to add four grant-funded positions. Supervisor Chan moved to amend the item to reflect retroactive authorization, which was accepted without objection before final passage on first reading.",
+      "outcome": "passed",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "THERE WAS AN OVERSIGHT AT THE BUDGET COMMITTEE FOR ITEM 14 FOR THE BLOOMBERG GRANT THAT IS SHOULD BE LISTED OR AMENDED TO BE RETROACTIVE AND THEREFORE I WOULD LIKE TO MOVE TO AMEND ITEM 14 TO INCLUDE THE RETROACTIVITY FOR THIS ACCEPT AND EXPAND GRANT.",
+          "t0": 810.438,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1211902,
+      "summary": "The Board considered a resolution retroactively authorizing the Mayor's Office to accept and expend a $700,000 grant from Tipping Point Community to establish a Director of Strategic Partnerships to advance public-private partnerships. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1211903,
+      "summary": "The Board adopted a resolution authorizing the Recreation and Parks Department to accept and expend an approximate $1.15 million Measure AA grant from the San Francisco Bay Restoration Authority for the India Basin Shoreline Park Project. The item was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "parks",
+        "environment",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1211904,
+      "summary": "The Board adopted a resolution authorizing the Recreation and Parks Department to accept and expend a $2 million Brownfield Cleanup grant from the EPA for environmental remediation and redevelopment at India Basin Shoreline Park. The resolution was approved without objection.",
+      "outcome": "passed",
+      "topics": [
+        "parks",
+        "environment",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1211905,
+      "summary": "The Board adopted a resolution approving a grant amendment to accept and expend an additional $3 million from the California State Coastal Conservancy, bringing the total grant to approximately $8.6 million for India Basin Shoreline Park redevelopment. The resolution passed without objection.",
+      "outcome": "passed",
+      "topics": [
+        "parks",
+        "environment",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1211906,
+      "summary": "The Board adopted a resolution approving a 10th amendment to the SFMTA contract with TEGSCO, LLC for towing, storage, and disposal of abandoned and illegally parked vehicles, increasing the contract by $22.1 million to an amount not to exceed $158.8 million through June 2027. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "transit",
+        "budget",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1211907,
+      "summary": "The Board held a lengthy debate on establishing the San Francisco Downtown Revitalization and Economic Recovery Financing District and its financing plan to encourage commercial-to-residential conversions. Supervisors Fielder, Chan, Chen, and Walton expressed serious concerns about subsidizing market-rate developments, reducing below-market-rate requirements, and the lack of a transparent list of the 48 properties projected to benefit. Supervisors Sauter, Dorsey, and Melgar defended the tax increment financing district as an essential adaptive reuse strategy to revitalize downtown's tax base and create new housing, and the resolution was adopted on a 7-4 vote.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "budget",
+        "planning_land_use",
+        "small_business"
+      ],
+      "speakers": [
+        {
+          "name": "Jackie Fielder",
+          "stance": "oppose",
+          "quote": "UNLIKE MOST OTHER TAX INCREMENT FINANCING DISTRICTS WHICH NORMALLY FUND PROGRAMS LIKE AFFORDABLE HOUSING, UTILITIES OR PUBLIC INFRASTRUCTURE FOR THE PUBLIC GOOD, THIS PLAN INSTEAD DIVERTS 610 MILLION IN TAXPAYER REVENUE INTO PRIVATE HANDS TO USE FOR MARKET RATE DEVELOPMENTS.",
+          "t0": 993.306,
+          "verified": true
+        },
+        {
+          "name": "Connie Chan",
+          "stance": "oppose",
+          "quote": "IT IS NOT CLEAR TO ME WHICH 48 PROPERTIES WILL THEN RECEIVE THIS TAX INCREMENT IS NOT TRANSPARENT... AND WITHOUT THE TRANSPARENCY OF THAT 48 PROPERTIES IT IS DIFFICULT FOR ME TO TELL WHAT IS HAPPENING WITH THE OFFICE OF ECONOMIC AND WORKFORCE DEVELOPMENT HERE.",
+          "t0": 1090.276,
+          "verified": false
+        },
+        {
+          "name": "Danny Sauter",
+          "stance": "support",
+          "quote": "IT IS A CHOICE BETWEEN EMPTY OFFICES AND SPACE FOR NEW HOMES AND WELCOMING RESIDENTS DOWNTOWN. I THINK THAT'S THE CHOICE BEFORE US TODAY. IT'S WHY I'M SUPPORTING THIS",
+          "t0": 1299.837,
+          "verified": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "THIS IS ALSO A ONCE IN A LIFETIME OPPORTUNITY FOR US TO CORRECT 20TH CENTURY LAND USE DECISIONS THAT CONTEMPLATED 9 TO 5 NEIGHBORHOODS AND BRING THEM INTO THE 21ST CENTURY AS MORE VIBRANT AND DIVERSE 24 SEVEN NEIGHBORHOODS.",
+          "t0": 1389.393,
+          "verified": false
+        },
+        {
+          "name": "Chyanne Chen",
+          "stance": "oppose",
+          "quote": "THE 5% REQUIREMENT FOR BELOW MARKET RATE UNITS IS IN RESPONSIBLE AND IT GOES AGAINST OUR STATED GOALS OF WORKING TOWARDS A MORE AFFORDABLE CITY",
+          "t0": 1539.814,
+          "verified": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "WE FAILED TO ADAPT A LOT OF OUR LAND USE. USES TO REFLECT WHAT RETAIL IS TODAY AND OUR DOWNTOWN WHICH MADE UP ALMOST 60% OF OUR TAX BASE STARTED FAILING... I HAVE NO DOUBT THAT WE HAVE TO DO SOMETHING TO MAKE SURE THAT OUR DOWNTOWN SUCCEEDS AND THRIVES.",
+          "t0": 1654.609,
+          "verified": false
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "question",
+          "quote": "WHY CAN'T WE SPECIFICALLY IDENTIFY THE PROPERTIES THAT WERE USED FOR THE EXERCISE OF DETERMINING HOW MANY PROPERTIES THIS MAY AFFECT ? IF WE KNOW A SPECIFIC NUMBER WHY CAN'T WE IDENTIFY WITH WHAT THOSE WERE?",
+          "t0": 1771.462,
+          "verified": true
+        },
+        {
+          "name": "Department head",
+          "stance": "neutral",
+          "quote": "THE EXERCISE WE HAD OUR CONSULTANTS DO WAS TO DO A HIGH LEVEL ANALYSIS OF HOW MANY PROPERTIES WITHIN THE DISTRICT BOUNDARIES MIGHT BE LIKELY CANDIDATES TO CONVERT. THEY DID NOT DO A SITE SPECIFIC INVENTORY THAT IDENTIFIED SPECIFIC PROPERTIES THAT WOULD CONVERT",
+          "t0": 1816.906,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Connie Chan",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1211923,
+      "summary": "The Board held special commendations honoring community members. Supervisor Walton honored Paul Belsen Jr. for community service, violence prevention, and youth mentorship; Supervisor Mahmood honored Victoria Lee for 47 years of service and leadership at Glide Memorial Church; and Supervisor Wong commended the Saint Ignatius College Preparatory varsity football team for winning the school's first state championship.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "IN HONOR OF BLACK HISTORY MONTH THIS YEAR WE WANT TO TAKE THE TIME TO HONOR COMMUNITY LEADERS THAT MAKE POSITIVE CHANGE EVERY DAY FOR OUR YOUNG PEOPLE AND COMMUNITIES AS A WHOLE",
+          "t0": 2100.823,
+          "verified": false
+        },
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "VICTORIA IS A QUIET FORCE WHOSE NEARLY FIVE DECADES OF SERVICE HELPED SHAPE THE HEART AND CULTURE OF GLIDE MEMORIAL CHURCH.",
+          "t0": 2581.125,
+          "verified": true
+        },
+        {
+          "name": "Alan Wong",
+          "stance": "support",
+          "quote": "THIS PAST SEASON THE WILDCATS MADE HISTORY BY WINNING THE SCHOOL'S FIRST STATE CHAMPIONSHIP.",
+          "t0": 3146.85,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1211908,
+      "summary": "The Board adopted a resolution approving a contract amendment with HealthRight 360 for withdrawal management and residential treatment services, increasing the contract by $28.6 million to a total not to exceed $38.6 million through June 2028. The resolution was adopted with ten ayes and Supervisor Wong absent.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "absent",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1211927,
+      "summary": "The Board convened a public hearing on an appeal of a tentative parcel map approved by Public Works for a mixed-use condominium project and 70 units of affordable senior housing at 3333 Mission Street and 190 Coleridge Street. Appellants expressed concern over a 42 percent reduction in Coleridge Park, while the project sponsor and city departments stated that the map complied with state law under SB 35 and that the appeal process could not alter previously approved building envelopes. Following presentations, public comment, and rebuttal, the hearing was concluded and filed.",
+      "outcome": "no_action",
+      "topics": [
+        "housing",
+        "parks",
+        "planning_land_use"
+      ],
+      "speakers": [
+        {
+          "name": "Public commenter",
+          "stance": "support",
+          "quote": "",
+          "t0": 3758.189,
+          "verified": false
+        },
+        {
+          "name": "Department head",
+          "stance": "neutral",
+          "quote": "",
+          "t0": 5474.673,
+          "verified": false
+        },
+        {
+          "name": "Public commenter",
+          "stance": "oppose",
+          "quote": "",
+          "t0": 5862.689,
+          "verified": false
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "neutral",
+          "quote": "",
+          "t0": 5608.355,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": [
+        "Preservation of neighborhood green open space and park size",
+        "Traffic safety and lack of turnaround space for delivery vehicles",
+        "Urgent need for 100% affordable senior housing to prevent elder displacement",
+        "Misuse of map appeals to obstruct state-mandated SB 35 housing approvals"
+      ]
+    },
+    {
+      "meta_id": 1211930,
+      "summary": "The Board considered a motion to uphold the Department of Public Works' approval of the tentative parcel map for 3333 Mission Street and 190 Coleridge Street. Supervisor Fielder moved to approve the Public Works decision, noting that the appeal legally concerned parcel boundaries rather than project design, and that the housing project provided the only viable path to rehabilitate and reopen the park. The motion passed unanimously 11-0.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "parks",
+        "planning_land_use"
+      ],
+      "speakers": [
+        {
+          "name": "Jackie Fielder",
+          "stance": "support",
+          "quote": "THE APPEAL DIRECTLY BEFORE US IS CHALLENGING THE MINISTERIAL SUBDIVISION OF THE PARCEL MAP A PROCEDURAL STEP MANAGED BY THE DEPARTMENT OF PUBLIC WORKS AND REQUIRED FOR THE AFFORDABLE HOUSING PROJECT TO PROCEED.",
+          "t0": 8872.349,
+          "verified": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "THE LEGISLATURE HAS BASICALLY TAKEN AWAY I THINK THE ABILITY OF THIS BOARD TO DO MUCH IN SITUATIONS LIKE THIS WHETHER OR NOT WE WOULD WANT TO.",
+          "t0": 9196.762,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1211931,
+      "summary": "The Board considered a motion to conditionally disapprove the Public Works decision on the tentative parcel map for 3333 Mission Street and 190 Coleridge Street. As the Board voted to approve the map in Item 34, this motion was tabled without objection.",
+      "outcome": "no_action",
+      "topics": [
+        "housing",
+        "parks",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1211932,
+      "summary": "The Board considered a motion directing the preparation of findings in support of disapproving the tentative parcel map for 3333 Mission Street and 190 Coleridge Street. The motion was tabled without objection following the approval of the map in Item 34.",
+      "outcome": "no_action",
+      "topics": [
+        "housing",
+        "parks",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1211935,
+      "summary": "The Board held a public hearing on an appeal brought by the City of Palo Alto challenging the Planning Commission's certification of the Final Environmental Impact Report for the SFO Recommended Airport Development Plan. The appellant argued the EIR failed to analyze future 2045 noise impacts over Palo Alto, while the Planning Department and SFO representatives argued the plan modifies landside passenger facilities without expanding runway capacity or inducing new flights. Following presentations, public comment, and rebuttal, the hearing was concluded and filed.",
+      "outcome": "no_action",
+      "topics": [
+        "environment",
+        "transit"
+      ],
+      "speakers": [
+        {
+          "name": "Public commenter",
+          "stance": "support",
+          "quote": "PALO ALTO IS PRIMARY CONCERN IS THAT THE AIR DOES NOT ANALYZE THE IMPACTS TO THE CITY OF PALO ALTO OF THE INCREASE IN NOISE FROM THE GREATER NUMBER OF FLIGHTS THAT WILL BE ACCOMMODATED BY THE ADP.",
+          "t0": 9514.559,
+          "verified": false
+        },
+        {
+          "name": "Department head",
+          "stance": "oppose",
+          "quote": "BECAUSE THE PROJECT WOULD NOT RESULT IN ANY CHANGES TO AIRCRAFT OPERATIONS PATHS OR NOISE OR AIR QUALITY EMISSIONS... IMPLEMENTATION OF THE PROJECT WOULD NOT INDUCE ADDITIONAL PASSENGER DEMAND OR AIRCRAFT OPERATIONS AT SFO",
+          "t0": 10438.286,
+          "verified": false
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "question",
+          "quote": "SO IT SOUNDS LIKE THE ISSUE THAT PALO ALTO IS RAISING IS THAT THIS PLAN WOULD ALLOW FOR SAN FRANCISCO TO ACCOMMODATE ADDITIONAL FLIGHTS OVER PALO ALTO AND THAT THAT WOULD POTENTIALLY CREATE A SIGNIFICANT NOISE IMPACT FOR PALO ALTO RESIDENTS.",
+          "t0": 10799.266,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": [
+        "Inadequate analysis of aircraft noise and nighttime flight impacts on Peninsula communities",
+        "Exclusion of Palo Alto from regional airport roundtable discussions"
+      ]
+    },
+    {
+      "meta_id": 1211938,
+      "summary": "The Board considered a motion to affirm the Planning Commission's certification of the Final Environmental Impact Report for the SFO Recommended Airport Development Plan. Supervisor Melgar moved to affirm the certification, stating she saw no legal basis to overturn the EIR, and suggested addressing regional noise concerns through the airport community roundtable. The motion passed unanimously among the ten members present, with Supervisor Sherrill excused.",
+      "outcome": "passed",
+      "topics": [
+        "environment",
+        "transit"
+      ],
+      "speakers": [
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "GIVEN THE PRESENTATIONS THAT HAVE BEEN MADE BY THE PLANNING DEPARTMENT AND THE APPELLANT, I ACTUALLY DON'T SEE A REASON TO REVERSE THE FINAL ENVIRONMENTAL IMPACT REPORT CERTIFICATE ATION.",
+          "t0": 12362.259,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "excused",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1211939,
+      "summary": "The Board considered a motion to conditionally reverse the Planning Commission's certification of the Final EIR for the SFO Recommended Airport Development Plan. The motion was tabled without objection after the Board voted to affirm the certification in Item 38.",
+      "outcome": "no_action",
+      "topics": [
+        "environment",
+        "transit"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1211940,
+      "summary": "The Board considered a motion directing the preparation of findings to reverse the EIR certification for the SFO Recommended Airport Development Plan. The motion was tabled without objection following the approval of Item 38.",
+      "outcome": "no_action",
+      "topics": [
+        "environment",
+        "transit"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1211941,
+      "summary": "The Board called the 3:00 PM special order hearing to consider the appeal of the Planning Commission's Conditional Use authorization for a proposed autonomous vehicle fleet charging facility at 825 Sansome Street.",
+      "outcome": "no_action",
+      "topics": [
+        "planning_land_use",
+        "transit"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1211942,
+      "summary": "The Board convened a public hearing on the appeal of a Conditional Use authorization for an electric vehicle fleet charging station at 825 Sansome Street. The project sponsor, Tesla, formally withdrew its application and ceased proceeding, leading counsel for the appellants and labor representatives to reiterate the unsuitability of autonomous vehicle fleet charging at this Jackson Square border location before the hearing was closed.",
+      "outcome": "no_action",
+      "topics": [
+        "planning_land_use",
+        "transit",
+        "labor"
+      ],
+      "speakers": [
+        {
+          "name": "Public commenter",
+          "stance": "support",
+          "quote": "",
+          "t0": 12563.47,
+          "verified": false
+        },
+        {
+          "name": "Public commenter",
+          "stance": "support",
+          "quote": "",
+          "t0": 12811.871,
+          "verified": false
+        },
+        {
+          "name": "Public commenter",
+          "stance": "neutral",
+          "quote": "",
+          "t0": 12892.158,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1211946,
+      "summary": "The Board considered a motion to approve the Conditional Use authorization for 825 Sansome Street. The motion was tabled without objection after the project sponsor withdrew its application and the Board granted the appeal in Item 43.",
+      "outcome": "no_action",
+      "topics": [
+        "planning_land_use",
+        "transit"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1211947,
+      "summary": "The Board considered a motion to grant the appeal and disapprove the Conditional Use authorization for the proposed fleet charging station at 825 Sansome Street. Supervisor Sauter moved the amended motion to disapprove the project because the sponsor withdrew and the project is no longer necessary or desirable for the neighborhood, which passed unanimously 10-0.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "transit",
+        "labor"
+      ],
+      "speakers": [
+        {
+          "name": "Danny Sauter",
+          "stance": "support",
+          "quote": "GIVEN ALL OF THIS I WOULD LIKE TO MOVE ITEM 43 TO GRANT THIS APPEAL AND DISAPPROVE THE CONDITIONAL USE AUTHORIZATION WITH AMENDMENTS TO THE MOTION AS DRAFTED.",
+          "t0": 12991.858,
+          "verified": false
+        }
+      ],
+      "votes": [
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "excused",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1211948,
+      "summary": "The Board considered a motion directing the preparation of findings related to the Conditional Use authorization at 825 Sansome Street. The motion was tabled without objection.",
+      "outcome": "no_action",
+      "topics": [
+        "planning_land_use",
+        "transit"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1211909,
+      "summary": "The Board considered a resolution awarding a professional services agreement to Jacobs Engineering Group Inc. for advisory services on the Waterfront Resilience Program, for an amount not to exceed $40 million over five years with an extension option. The resolution was adopted unanimously on a roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "environment",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "excused",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1211910,
+      "summary": "The Board considered a resolution approving an emergency declaration by the Port of San Francisco to stabilize Dry Dock No. 2 at Pier 68 at an estimated cost of $10 million. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1211911,
+      "summary": "The Board adopted a resolution authorizing the Mayor's Office of Housing and Community Development to execute an agreement for a $1.5 million Prohousing Incentive Program grant from the California Department of Housing and Community Development. The item was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1211914,
+      "summary": "The Board considered an ordinance amending the Planning Code to permit parking of up to two operable vehicles in front setback driveways, side yards, or rear yards. Supervisor Wong spoke in strong support of the reform, highlighting its practical benefits for Westside residents in District 4, and the ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "transit"
+      ],
+      "speakers": [
+        {
+          "name": "Alan Wong",
+          "stance": "support",
+          "quote": "THIS CHANGE IS PARTICULARLY RELEVANT FOR THE WEST SIDE NEIGHBORHOODS LIKE THE SUNSET PARK AND OTHER DISTRICT FOR COMMUNITIES WHERE MANY HOMES HAVE FRONT SETBACK DRIVEWAYS AND STREET PARKING CAN BE CHALLENGING",
+          "t0": 13255.811,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1211915,
+      "summary": "The Board approved an ordinance amending the Planning Code to make typographical and clarifying corrections and to prohibit massage establishments and solo practitioner uses as accessory uses to residential dwellings. The ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1211916,
+      "summary": "The Board adopted two resolutions accepting and recording avigation easements at 180 El Camino Real in South San Francisco and 413 Alida Way in San Mateo County at no cost to the City. After an initial voice vote was rescinded, the resolutions were adopted on a unanimous roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "transit",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "excused",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1211918,
+      "summary": "The Board adopted a resolution amending street encroachment permit terms and closure hours for Maiden Lane between Stockton and Kearny Streets and authorizing Public Works to finalize the modified permit. The resolution passed without objection.",
+      "outcome": "passed",
+      "topics": [
+        "transit",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1211919,
+      "summary": "The Board approved the commemorative street naming of the 200 block of Eddy Street as 'Stephen Tennis Way' and extensively debated an ordinance expanding the Tenderloin retail hours restriction pilot program to South of Market along 6th Street. Opponents argued the midnight to 5:00 AM retail closure punishes immigrant-owned small businesses and displaces drug markets into neighboring areas like the Mission without sufficient revenue mitigation. Sponsors emphasized that the pilot reduced late-night drug crimes by 56 percent, disrupted violent street fencing operations, and answered pleas from local families and residents for safer streets. The retail restriction ordinance passed on first reading 8-2, with Supervisors Fielder and Walton voting no.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "small_business",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Jackie Fielder",
+          "stance": "oppose",
+          "quote": "THIS PROPOSAL PUNISHES NIGHT WORKERS AND SMALL BUSINESSES MANY OF THEM IN IMMIGRANT OWNED WHO ARE ALREADY DOING EVERYTHING THEY CAN JUST TO SURVIVE. THE SMALL BUSINESS COMMISSION VOTED AGAINST THIS FOR A REASON. IT IS A ROUNDABOUT ATTEMPT TO CURB CRIME BY SHIFTING RESPONSIBILITY AND FINANCIAL LOSS",
+          "t0": 13582.354,
+          "verified": false
+        },
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "THAT PILOT WORKED IN LIMITING LATE NIGHT RETAIL HOURS IN A TARGETED AREA BETWEEN THE HOURS OF MIDNIGHT AND 5 A.M. HAD THE EFFECT OF REDUCING SERIOUS CRIME, IMPROVING STREET CONDITIONS AND MAKING THE NEIGHBORHOOD FEEL SAFER.",
+          "t0": 13713.17,
+          "verified": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "THE DRUG RELATED INCIDENTS AROUND THOSE ESTABLISHMENTS DROPPED BY 56% DURING THE PILOT PERIOD AND LOITERING AROUND LATE NIGHT ESTABLISHMENTS AND AGAIN THIS IS MIDNIGHT TO 5 A.M. NOT DURING THE DAYTIME ISN'T JUST AN ISSUE OF OPTICS.",
+          "t0": 13921.319,
+          "verified": true
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "oppose",
+          "quote": "I DIDN'T HEAR A CONVERSATION ABOUT THIS HAPPENING AND WORKING WITH BUSINESSES TO TRY TO COME UP WITH SOMETHING THAT WILL ASSIST THEM DURING THIS TIME PERIOD. AND I KNOW 18 MONTHS OF REVENUE LOSS CAN MAKE OR BREAK A BUSINESS",
+          "t0": 14071.402,
+          "verified": true
+        },
+        {
+          "name": "Alan Wong",
+          "stance": "support",
+          "quote": "PUBLIC SAFETY IS MY NUMBER ONE PRIORITY... WHEN THERE IS AN ENVIRONMENT LIKE THAT WE LOSE BUSINESS, WE LOSE TOURISM. PEOPLE DO NOT WANT OR FEEL SAFE COMING INTO THE CITY AND WE NEED TO BE ABLE TO CREATE THE ENVIRONMENTS FOR FOR SUCCESS FOR OUR COMMUNITIES",
+          "t0": 14094.631,
+          "verified": false
+        },
+        {
+          "name": "Connie Chan",
+          "stance": "question",
+          "quote": "HOW DO WE ADDRESS ONCE YOU IMPLEMENT TO RESTRICT HOURS IN THIS AREA WHAT WHAT WHAT ARE WE GOING TO DO WITH THE NEIGHBORING AREA?",
+          "t0": 14222.292,
+          "verified": false
+        }
+      ],
+      "votes": [
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "excused",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1211922,
+      "summary": "The Board adopted a resolution approving a Type 21 off-sale general liquor license transfer for Amal's Market at 1416 Haight Street, finding it serves the public convenience and requesting conditions from ABC. The resolution passed unanimously with ten ayes.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "excused",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1211951,
+      "summary": "The Board considered an ordinance amending the Planning Code to designate the Chula-Abbey Early Residential Historic District as a landmark district under Article 10. The ordinance was forwarded from committee and passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1211952,
+      "summary": "The Board considered an ordinance amending the Planning Code to designate the Alert Alley Early Residential Historic District as a landmark district under Article 10. The ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1211953,
+      "summary": "During the roll call for introductions, supervisors introduced new legislation and inquiries. Supervisor Walton introduced a resolution designating Teen Dating Violence Awareness Month; Supervisor Chen introduced a resolution celebrating the 2026 Year of the Horse; Supervisor Fielder introduced measures supporting the Mission Cultural Center for Latino Arts and a November ballot revenue measure to fund a municipal public bank; President Mandelman introduced a street naming for Ed Decker and an in memoriam for Michael B. Freeman; Supervisor Melgar spoke in support of cultural arts preservation; and Supervisor Sauter submitted a letter of inquiry regarding city bilingual employee recruitment.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "TODAY I AM INTRODUCING A RESOLUTION ON BEHALF OF THE YOUTH COMMISSION TO DECLARE FEBRUARY AS TEEN DATING VIOLENCE AWARENESS AND PREVENTION MONTH.",
+          "t0": 14547.235,
+          "verified": false
+        },
+        {
+          "name": "Chyanne Chen",
+          "stance": "support",
+          "quote": "TODAY I'M HONORED TO INTRODUCE OUR RESOLUTION CELEBRATING 2026 AS THE YEAR OF THE HORSE.",
+          "t0": 14647.348,
+          "verified": false
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "support",
+          "quote": "TODAY I INTRODUCING A RESOLUTION TO AFFIRM THE BOARD AND THE CITY'S COMMITMENT TO PROTECTING THE FUTURE OF A CENTER FOR LATINO ARTS AND CULTURE AT 2868 MISSION STREET",
+          "t0": 14714.415,
+          "verified": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "TODAY I'M INTRODUCING A RESOLUTION TO ADD THE COMMEMORATIVE STREET NAME ED DECKER WAY TO THE SIGNAGE FOR THE BLOCK OF VENICE AVENUE BETWEEN OAK STREET AND HICKORY ALLEY.",
+          "t0": 15061.437,
+          "verified": true
+        },
+        {
+          "name": "Danny Sauter",
+          "stance": "support",
+          "quote": "TODAY I AM SUBMITTING A LETTER OF INQUIRY REQUESTING INFORMATION ON THE RECRUITMENT OF BILINGUAL PUBLIC FACING CITY EMPLOYEES",
+          "t0": 15473.617,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1211954,
+      "summary": "The Board heard general public comment as well as comments on items pending adoption without committee reference. Numerous speakers testified in support of Item 49 protecting gender-affirming care, while displaced residents of the 50 Golden Gate fire spoke in support of Item 51 to expand emergency aid and reform asset eligibility rules.",
+      "outcome": "no_action",
+      "topics": [
+        "health",
+        "housing",
+        "public_safety",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Public commenter",
+          "stance": "support",
+          "quote": "WE APPLAUD THE SPONSORS OF THE RESOLUTION THAT REAFFIRMS SAN FRANCISCO'S COMMITMENT TO GENDER AFFIRMING CARE.",
+          "t0": 15699.44,
+          "verified": true
+        },
+        {
+          "name": "Public commenter",
+          "stance": "support",
+          "quote": "I'M A DISPLACED TENANT FROM 50 GOLDEN GATE APARTMENTS. I WAS DISPLACED DUE TO FIRE. I'M ASKING TO PLEASE APPROVE ITEM 51 SUPPORTING FIRE DISPLACED RESIDENTS WITH EXTENDED AID CASE MANAGEMENT AND STRONGER LANGUAGE ACCESS",
+          "t0": 16275.461,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": [
+        "Urging passage of Item 49 to protect and fund gender-affirming healthcare amidst federal threats",
+        "Passing Item 51 to raise asset caps and provide emergency aid to fire-displaced residents from 50 Golden Gate",
+        "Concerns regarding fentanyl dealing, safety, and displacement of unhoused individuals during major events",
+        "Investing in neighborhood youth hubs and community violence prevention"
+      ]
+    },
+    {
+      "meta_id": 1211955,
+      "summary": "The Board considered resolutions introduced for adoption without committee reference across Items 49 through 54. Supervisors severed Items 49, 51, 52, and 53 for individual consideration and voted to adopt the remaining unsevered resolutions (Items 50 and 54) on a roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1211958,
+      "summary": "Supervisor Connie Chan introduced an amendment to Item 49 directing the Clerk of the Board to send copies of the resolution to hospital leadership across Sutter Health, Kaiser Permanente, UCSF Health, and Stanford Medicine urging them to maintain youth gender-affirming care. The amendment was approved without objection, and the full resolution was unanimously adopted as amended.",
+      "outcome": "passed",
+      "topics": [
+        "health"
+      ],
+      "speakers": [
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "THE REASON BEING IS IS THAT THESE HEALTH CARE SERVICE PROVIDER ARE HALTING VERY CRITICAL GENDER AFFIRMING CARE FOR OUR YOUTH AS THEIR THEIR RESPONSE TO THE THREATS FROM THE TRUMP ADMINISTRATION WHICH IS NOT NECESSARY BECAUSE BOTH THE STATE AND LOCAL LAW PROTECT THEM",
+          "t0": 19718.85,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1211960,
+      "summary": "Supervisor Bilal Mahmood spoke on Item 51, urging the City to modernize its disaster displacement response and reform income and asset eligibility thresholds that disqualified middle-class tenants after the 50 Golden Gate fire. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "health"
+      ],
+      "speakers": [
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "THIS RESOLUTION EXISTS BECAUSE OF THE PEOPLE WHO SPOKE TODAY REFLECTS WHAT THEY TOLD US WE NEED MORE STAFFING, CLEARER SUPPORT, FAIRER ELIGIBILITY RULES AND LANGUAGE ACCESS THAT ACTUALLY WORKS IN PRACTICE.",
+          "t0": 20005.227,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1211961,
+      "summary": "Supervisor Bilal Mahmood introduced Item 52 supporting state Assembly Bill 1633, authored by Matt Haney, to create the Private Detention Facility Tax Law. The bill imposes a 50% gross receipts tax on private immigration detention operators to fund legal services for immigrants via the Due Process for All Fund, and the resolution passed without objection.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "HB 1633 WOULD IMPOSE A 50% GROSS RECEIPTS TAX ON PRIVATE DETENTION FACILITIES AND DIRECT THE FUNDS TO THE DUE PROCESS FOR ALL FUND SUPPORTING LEGAL SERVICES AND OTHER CRITICAL RESOURCES FOR IMMIGRANTS AND THEIR FAMILIES.",
+          "t0": 20118.479,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1211962,
+      "summary": "Supervisor Shamann Walton presented a resolution celebrating Black History Month in San Francisco, emphasizing the need to actively defend civil rights, support Black homeownership, and implement reparations recommendations. Associated items under the file included a $500,000 lawsuit settlement (Pham), an airport contract modification for Hallmark Aviation Services, and the 2026 AI Technology Report. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "settlements",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "WE CANNOT SIMPLY CELEBRATE BLACK HISTORY. WE MUST ACTIVELY DEFEND AND ADVANCE IT. THAT MEANS CONTINUING TO FIGHT FOR JUSTICE, PUSHING BACK AGAINST POLICIES THAT STRIP AWAY OUR RIGHTS AND DEMANDING ACTION THAT UPLIFTS BLACK COMMUNITIES.",
+          "t0": 20251.546,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1211981,
+      "summary": "The Board of Supervisors adjourned the meeting in memory of Michael B. Freeman, a longtime production and operations supervisor for SFGovTV, at the request of Board President Rafael Mandelman.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    }
+  ],
+  "quote_verification": {
+    "verified": 25,
+    "partial": 15,
+    "dropped": 7
+  }
+}

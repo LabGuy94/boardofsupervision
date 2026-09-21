@@ -1,0 +1,593 @@
+{
+  "clip_id": 51452,
+  "items": [
+    {
+      "meta_id": 1200686,
+      "summary": "The Board of Supervisors called the meeting to order, performed roll call, and recited the Ramaytush Ohlone land acknowledgment. The Pledge of Allegiance was recited, and Supervisor Jackie Fielder was noted absent.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1200687,
+      "summary": "The Clerk presented a communication requesting that Supervisor Jackie Fielder be excused from the meeting, which was approved without objection. The Clerk also outlined methods for the public to submit comments and request accommodations.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1200688,
+      "summary": "The Board considered the approval of the meeting minutes from November 4, 2025. The minutes were approved on a roll call vote with ten supervisors voting in favor.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1200691,
+      "summary": "The Board called the consent agenda consisting of Items 1 through 3. The measures were passed on final reading with ten affirmative votes.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "health",
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1200693,
+      "summary": "The Board considered consent agenda items 1 through 3 covering Board appeal surcharges, planning code changes for reproductive health clinics, and tenant protections for residential demolitions and renovations. All three ordinances were finally passed by roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "health",
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1200702,
+      "summary": "The Board considered an ordinance amending the Planning Code to define family as a household, remove numeric limits on unrelated members, and classify residential care facilities serving six or fewer persons as residential uses. The ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1200704,
+      "summary": "The Board considered a resolution determining that a Type 21 liquor license transfer to Real Mart LLC doing business as Unimart at 1201 Howard Street would not serve public convenience or necessity. The Board requested the state ABC deny the license, and the resolution was adopted.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1200705,
+      "summary": "The Board considered a resolution determining that the transfer of a Type 48 on-sale liquor license to Big Sky LLC doing business as Club 895 at 895 O'Farrell Street would serve the public convenience or necessity with conditions. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1200706,
+      "summary": "The Board considered a resolution finding that the transfer of a Type 20 off-sale beer and wine license to Caldera LLC doing business as Caldera at 2149 Union Street would serve the public convenience or necessity with conditions. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1200708,
+      "summary": "The Board considered a resolution accepting the biannual surveillance report under Administrative Code Section 19B for web filtering software used by the Juvenile Probation Department. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1200719,
+      "summary": "During the roll call for introductions, supervisors introduced new legislation, hearing requests, and inquiries. Key matters included resolutions defending reproductive rights, hearing requests regarding the widespread December PG&E power outages and autonomous vehicle impacts, support systems for fire victims, and human trafficking prevention.",
+      "outcome": "no_action",
+      "topics": [
+        "health",
+        "public_safety",
+        "transit",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "COLLEAGUES TODAY I AM INTRODUCING A RESOLUTION ALONG WITH SUPERVISORS CHEN CHAN FIELDER MANAGEMENT CHERYL WANG AND MAHMUD TO COMMEMORATE THE ROH VERSUS WADE DECISION ON JANUARY 22ND, 1973",
+          "t0": 490.574,
+          "verified": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "stance": "support",
+          "quote": "COLLEAGUES, I'D LIKE TO ADJOURN TODAY'S MEETING IN MEMORY OF DIOSDADO BONITO, A PIONEERING ON ENGINEER ENTREPRENEUR AND PHILANTHROPIST WHOSE WORK AND INVENTIONS HELPED SHAPE THE MODERN PERSONAL COMPUTER",
+          "t0": 697.929,
+          "verified": false
+        },
+        {
+          "name": "Alan Wong",
+          "stance": "support",
+          "quote": "I'M INTRODUCING A REQUEST FOR A HEARING ON THE WIDESPREAD POWER OUTAGES THAT BEGAN ON DECEMBER 20TH AND LEFT NEARLY ONE THIRD OF SAN FRANCISCO WITHOUT ELECTRIC CITY",
+          "t0": 911.679,
+          "verified": true
+        },
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "I'M INTRODUCED IN TWO RESOLUTIONS TO HOLD PGE PACIFIC GAS AND ELECTRIC COMPANY ACCOUNTABLE FOR THE BLACKOUTS THAT BEGAN ON DECEMBER 20TH OF 2025",
+          "t0": 1106.485,
+          "verified": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "stance": "support",
+          "quote": "COLLEAGUE TODAY I'M SUBMITTING A LETTER OF INQUIRY REGARDING THE SERVICES SUPPORT SYSTEM FOR FIRE VICTIMS IN SAN FRANCISCO OVER 2025.",
+          "t0": 1314.627,
+          "verified": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "I WANTED TO ADD MY VOICE TO SUPERVISOR CHANCE TO EXPRESS MY APPRECIATION FOR HER LEADERSHIP ON THE NEED TO ONCE AND FOR ALL MUNICIPALITIES ARE ELECTRIC UTILITY.",
+          "t0": 1480.1,
+          "verified": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "",
+          "t0": 6301.67,
+          "verified": false
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "",
+          "t0": 6357.923,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1200709,
+      "summary": "The Board held special commendations recognizing outgoing Interim Chief of Police Paul Yep for his dedicated service to the city, followed by a commendation honoring seven leaders of the Community Partner Network Advisory Committee who organized to rescue community groups after the dissolution of the SF Parks Alliance.",
+      "outcome": "no_action",
+      "topics": [
+        "public_safety",
+        "parks"
+      ],
+      "speakers": [
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "TODAY I AM HONORED TO RECOGNIZE OUR OUTGOING INTERIM CHIEF OF POLICE PAUL YAP WITH THIS SPECIAL COMMENDATION AND TO THANK HIM FOR HIS EXCEPTIONAL SERVICE TO THE CITY AND COUNTY OF SAN FRANCISCO.",
+          "t0": 1647.788,
+          "verified": true
+        },
+        {
+          "name": "Mayor",
+          "stance": "support",
+          "quote": "IT'S AN HONOR TO BE ABLE TO CALL YOU NOT ONLY CHIEF BUT ALSO A DEAR FRIEND SOMEONE THAT REALLY HELPED MAKE SAN FRANCISCO IN 2025 THE SAFEST IN MANY RESPECTS ON RECORD SINCE THE 1950S.",
+          "t0": 2763.84,
+          "verified": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "TODAY I'M RECOGNIZING SEVEN SAN FRANCISCANS WHO STEPPED UP TO HELP WRITE THE GREAT WRONG DONE TO SO MANY COMMUNITY ORGANIZATIONS BY THE MISMANAGEMENT AND ULTIMATE DISSOLUTION OF THE PARKS ALLIANCE.",
+          "t0": 4002.352,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1200710,
+      "summary": "The Board convened as a Committee of the Whole to consider items 9, 10, and 11 relating to street vacations and zoning amendments for a new San Francisco Fire Department training facility at 1236 Carroll Avenue.",
+      "outcome": "no_action",
+      "topics": [
+        "public_safety",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1200711,
+      "summary": "Sitting as a Committee of the Whole, the Board conducted proceedings on the street vacation and zoning map amendments supporting the planned Fire Department training facility at 1236 Carroll Avenue.",
+      "outcome": "no_action",
+      "topics": [
+        "public_safety",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1200712,
+      "summary": "The Board held a public hearing sitting as a Committee of the Whole on the proposed vacation of portions of Hawes Street, Griffith Street, and Bancroft Avenue to facilitate the development of the SFFD Division of Training facility at 1236 Carroll Avenue. Following department presentations and public testimony, the hearing was closed and filed.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "planning_land_use"
+      ],
+      "speakers": [
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "",
+          "t0": 5397.758,
+          "verified": false
+        },
+        {
+          "name": "Department head",
+          "stance": "support",
+          "quote": "",
+          "t0": 5472.854,
+          "verified": false
+        },
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "",
+          "t0": 6051.732,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1200716,
+      "summary": "The Board considered an ordinance ordering the vacation of paper street portions of Hawes Street, Griffith Street, and Bancroft Avenue for the SFFD Division of Training Facility at 1236 Carroll Avenue, and approving an interdepartmental transfer of the area from Public Works to the Fire Department. The ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1200718,
+      "summary": "The Board considered an ordinance amending the Planning Code Zoning Map to rezone parcels at 1236 Carroll Avenue from PDR-2 to Public and increase height and bulk limits to allow new training towers. The ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1200720,
+      "summary": "The Board held general public comment. Members of the public testified regarding keeping Sunset Dunes closed to vehicle traffic, PG&E's planned investigation into the December power outages, state legislation SB 677, local fire code impediments to home solar and battery storage systems, and naming a street after Claude the Alligator.",
+      "outcome": "no_action",
+      "topics": [
+        "parks",
+        "environment",
+        "transit",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": [
+        "Preserving Sunset Dunes / Great Highway as a park space",
+        "PG&E investigation and accountability for December blackouts",
+        "Fire code restrictions increasing solar battery storage costs",
+        "Naming a Golden Gate Park street for Claude the Alligator"
+      ]
+    },
+    {
+      "meta_id": 1200721,
+      "summary": "The Board took up the agenda for adoption without committee reference. Supervisor Melgar severed Item 14 for separate consideration, and Item 15 was adopted by a roll call vote of ten ayes.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1200724,
+      "summary": "The Board considered a resolution urging the Recreation and Park Commission to commemoratively name a street in Golden Gate Park as 'Claude the Alligator Way' in memory of the California Academy of Sciences' beloved albino alligator. Supervisor Melgar spoke in favor, and the resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "parks",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "AS YOU PROBABLY KNOW, WE ENTERED INTO A PARTNERSHIP WITH MISSION LOCAL TO ASK SAN FRANCISCANS ABOUT HOW WE SHOULD RENAME THE STREET IN THE PARK AFTER CLAUDE WE GOT AN OUTPOURING OF JUST WONDERFUL INVOLVEMENT FROM SAN FRANCISCANS.",
+          "t0": 7377.142,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1200726,
+      "summary": "The Clerk confirmed there were no imperative agenda items. Adjournments in memoriam were announced on behalf of Supervisors Sherrill and Walton.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1200750,
+      "summary": "Having concluded all regular business, the Board of Supervisors adjourned the meeting.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    }
+  ],
+  "quote_verification": {
+    "verified": 9,
+    "partial": 1,
+    "dropped": 5
+  }
+}

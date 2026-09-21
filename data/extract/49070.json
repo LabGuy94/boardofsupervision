@@ -1,0 +1,650 @@
+{
+  "clip_id": 49070,
+  "items": [
+    {
+      "meta_id": 1132457,
+      "summary": "Board President Rafael Mandelman called the regular meeting of March 11, 2025 to order. The clerk conducted the roll call, noting all 11 supervisors present, followed by the land acknowledgment and Pledge of Allegiance.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1132459,
+      "summary": "Mayor Daniel Lurie appeared before the Board of Supervisors for a scheduled formal policy discussion. Supervisor Jackie Fielder questioned the Mayor regarding drug crisis enforcement operations and the displacement of street conditions into the Mission District, advocating for a balanced four-pillars strategy.",
+      "outcome": "no_action",
+      "topics": [
+        "public_safety",
+        "health",
+        "homelessness"
+      ],
+      "speakers": [
+        {
+          "name": "Mayor",
+          "stance": "neutral",
+          "quote": "If you are dealing drugs we are going to continue coming after you. We have carried out effective interagency operations targeting open air drug markets and jefferson's square park and on 16th and mission both times we have removed dealers paraphernalia and trash from public spaces.",
+          "t0": 380.832,
+          "verified": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "question",
+          "quote": "it seems your administration's strategy is leading heavily with enforcement. so I want to know if your administration would commit to equally prioritizing the other pillars and these successful four pillars model to provide a unified strategy and a lasting solution to our city's fentanyl crisis.",
+          "t0": 518.972,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1132461,
+      "summary": "Mayor Daniel Lurie addressed the Board regarding lobbying federal officials for critical resources and discussed the administration's street enforcement and treatment capacity efforts in response to questions from Supervisor Jackie Fielder.",
+      "outcome": "no_action",
+      "topics": [
+        "public_safety",
+        "health",
+        "budget"
+      ],
+      "speakers": [
+        {
+          "name": "Mayor",
+          "stance": "neutral",
+          "quote": "Success is measured by the experiences our residents and visitors feel. It means a family walking down 16th and mission feel safe. It means clean, well-maintained sidewalks like those we saw in front of the mission cabins.",
+          "t0": 344.962,
+          "verified": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "question",
+          "quote": "with enforcement alone without a more comprehensive approach and broader metrics for success such as connecting people to treatment on demand shelter recovery programs, we're going to continue to displace people and public drug activities from block to block and neighborhood to neighborhood.",
+          "t0": 460.846,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1132464,
+      "summary": "The clerk delivered general communications to the public regarding meeting broadcast access, methods for submitting public comment, and accommodation procedures under the Americans with Disabilities Act.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1132465,
+      "summary": "The Board considered the approval of the meeting minutes from the regular Board meeting of February 4, 2025. The minutes were approved unanimously on a roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1132469,
+      "summary": "The Board considered the consent agenda consisting of items 2 through 8. No items were severed, and the consent agenda was unanimously adopted on a roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "settlements"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1132473,
+      "summary": "The Board approved items 2 through 8 on the consent agenda, which included litigation settlements for Vincent Keith Bell, Javier Grajeda, Marvella Branner, Matthew Gyves, John Pugh, Latoya Starks and Sanvada Kitcher, and CWI 2 San Francisco Hotel, L.P.",
+      "outcome": "passed",
+      "topics": [
+        "settlements"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1132488,
+      "summary": "The Board considered an ordinance retroactively authorizing the San Francisco Public Library to accept and expend a $1,966,000 grant from the Andrew W. Mellon Foundation for jail and reentry services programming and amending the Annual Salary Ordinance to add grant-funded positions. The ordinance was finally passed without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1132490,
+      "summary": "The Board took up an ordinance amending the Campaign and Governmental Conduct Code to update Form 700 Statement of Economic Interests filing requirements for designated officials and employees. The ordinance was finally passed without objection.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1132491,
+      "summary": "The Board considered an ordinance amending the Administrative Code to authorize the Tax Collector to refund property taxes under $10,000 without requiring a claim if no transfer of the property has occurred. The ordinance was finally passed without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1132492,
+      "summary": "The Board considered an ordinance amending the Business and Tax Regulations Code to eliminate the requirement that parking operators periodically certify and report the ratio of unaccounted parking tickets. The ordinance was finally passed without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "transit"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1132496,
+      "summary": "The Board considered an ordinance amending the Business and Tax Regulations Code to authorize the Tax Collector to waive taxes, penalties, and interest under a voluntary disclosure program through 2027 and collect fees for advance determinations. The ordinance was passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1132497,
+      "summary": "The Board considered an ordinance to suspend the Empty Homes Tax pending litigation in Dubon v. City and County of San Francisco. Supervisor Jackie Fielder moved to continue the item to explore amendments ensuring the tax could be collected as soon as court rulings allow, and the item was continued to March 18, 2025 without objection.",
+      "outcome": "continued",
+      "topics": [
+        "housing",
+        "budget"
+      ],
+      "speakers": [
+        {
+          "name": "Jackie Fielder",
+          "stance": "neutral",
+          "quote": "I would like to explore amendments that would potentially avoid having the empty homes tax suspended for years as the case makes its way through the courts and instead providing a pathway that would allow the city to begin collecting the tax once the courts give us the green light",
+          "t0": 1140.401,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1132498,
+      "summary": "The Board considered a resolution approving a second contract modification with Consor PMCM, Inc. for project management support services for the SFO Cargo Building 626.1 project, increasing the contract by $10.3 million for a total not to exceed $13 million. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "transit"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1132499,
+      "summary": "The Board considered a resolution approving a second modification to an airport agreement with West Field Consultants for project management support services for SFO Cargo Building 720.1 and GSC Building 742, increasing the contract by $10 million for a total not to exceed $13 million. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "transit"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1132500,
+      "summary": "The Board considered a resolution approving a real property lease amendment with Communication and Control, Inc. for communication services facilities in Alameda County at a monthly base rent of $9,080. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1132501,
+      "summary": "The Board considered a resolution approving an emergency declaration by the San Francisco Public Utilities Commission to restore the failed uninterruptible standby power supply system at the Tesla Treatment Facility at an estimated cost of $700,000. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "environment",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1132502,
+      "summary": "The Board considered a resolution approving a five-year real property lease with FACES SF for community space at 1099 Sunnydale Avenue at an initial yearly base rent of $48,867.12. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1132503,
+      "summary": "The Board considered a resolution approving a five-year real property lease with the Felton Institute for community facility space at 1099 Sunnydale Avenue at an initial yearly base rent of $24,216.48. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1132504,
+      "summary": "The Board considered a resolution approving a third amendment to the agreement with Hyland Software, Inc. to extend the term by five years and increase the contract amount by $200,000 for a total not to exceed $574,000. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1132505,
+      "summary": "The Board considered a resolution approving a tenth amendment with P & A Administrative Services, Inc. to administer COBRA, flexible spending, and health spending accounts, extending the term by 18 months and increasing the contract amount to $4.6 million. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1132506,
+      "summary": "Supervisors Myrna Melgar and Danny Sauter introduced a motion to formalize a parental leave policy for members of the Board of Supervisors, building on recent state legislative updates and local charter provisions allowing remote participation.",
+      "outcome": "referred",
+      "topics": [
+        "elections_governance",
+        "labor"
+      ],
+      "speakers": [
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "today I join supervisors order a soon to be parent who will speak right after me. in introducing a motion to formalize a parental leave policy for the board of supervisors. this effort believe or not has taken decades and is still an ongoing challenge.",
+          "t0": 1590.825,
+          "verified": false
+        },
+        {
+          "name": "Danny Sauter",
+          "stance": "support",
+          "quote": "And as supervisor melgar shared, this has been a long journey to get to this moment. Many individuals, particularly women push this forward. The voters of this city want this and the voters of this city made that clear in 26 when they passed with a 72% ratio.",
+          "t0": 1876.714,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1132507,
+      "summary": "The Board conducted a special order recognizing community commendations. Supervisor Chyanne Chen commended Excelsior community leader Yolanda Cruz, Supervisor Matt Dorsey honored retiring Health Service System Executive Director Abbie Yant, and President Rafael Mandelman presented a commendation to Nelson Barry and Urban Angels SF.",
+      "outcome": "no_action",
+      "topics": [
+        "health",
+        "homelessness",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Chyanne Chen",
+          "stance": "support",
+          "quote": "I'm so proud to offer accommodation to our lovely, inspiring and courageous community leader from excelsior district yolanda cruz.",
+          "t0": 2032.205,
+          "verified": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "the primary reason I rise today is to honor and to celebrate the remarkable career of abby ent and to recognize her extraordinary contributions. on the occasion of her well-earned retirement",
+          "t0": 2814.398,
+          "verified": false
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "It is my honor to present a special commendation to nelson barry and the urban angels, an organization he founded initially to help unhoused people but which has since expanded its reach to support low income families and children across san francisco.",
+          "t0": 3472.31,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1132508,
+      "summary": "During roll call for introductions, Supervisor Shamann Walton called for a hearing on the Language Access Ordinance, Supervisor Matt Dorsey requested adjournment in memory of Ali Jamil, Supervisor Jackie Fielder introduced a resolution addressing the reinstated 90-day shelter limit and family homelessness, and President Rafael Mandelman requested adjournment in memory of former planning director Allan Jacobs.",
+      "outcome": "referred",
+      "topics": [
+        "homelessness",
+        "elections_governance",
+        "planning_land_use"
+      ],
+      "speakers": [
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "today along with supervisors chan fielder and chen. we are calling for a hearing to assess the progress of the implementation of the lio and ensure our commitments are being met.",
+          "t0": 4012.746,
+          "verified": false
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "support",
+          "quote": "Colleagues today I have found it imperative to introduce a resolution addressing the increasing crisis of family homelessness and the harm on children from the reinstated 90 day shelter. length of stay policy.",
+          "t0": 4208.511,
+          "verified": false
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "I'm asking that we adjourn our meeting in memory of alan jacobs, our city's former planning director and a district eight resident who passed away on FEBRUARY 18th at the age of 96.",
+          "t0": 4481.52,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1132509,
+      "summary": "The Board opened general public comment to in-person and remote speakers. Members of the public testified on Castro neighborhood safety, SFMTA transit budget shortfalls and potential Muni service cuts, taxi medallion debt relief, and homelessness shelter policies.",
+      "outcome": "no_action",
+      "topics": [
+        "public_safety",
+        "transit",
+        "budget",
+        "homelessness"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": [
+        "Urging the city to address Muni budget deficits and prevent transit service cuts",
+        "Public safety concerns and recent violent attacks in the Castro District",
+        "Demands for debt relief and medallion price reductions for San Francisco taxi drivers",
+        "Concerns regarding homeless shelter distribution and service costs across districts"
+      ]
+    },
+    {
+      "meta_id": 1132510,
+      "summary": "The Board considered items 25 through 29 on the adoption without committee reference agenda, including resolutions recognizing Problem Gambling Awareness Month, temporary sidewalk closures for Figma Config, Ramadan commencement, support for state legislation on firearm contracting, and fair distribution of homeless shelters. The resolutions were unanimously adopted on a roll call vote before adjournment in memoriam.",
+      "outcome": "passed",
+      "topics": [
+        "homelessness",
+        "public_safety",
+        "settlements",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    }
+  ],
+  "quote_verification": {
+    "verified": 7,
+    "partial": 6,
+    "dropped": 0
+  }
+}

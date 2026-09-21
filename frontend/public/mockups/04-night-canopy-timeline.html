@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Night canopy timeline — BoardOfSupervision</title>
+    <style>
+      :root { color-scheme: dark; font-family: Inter, ui-sans-serif, system-ui, sans-serif; color: #eaf4e6; background: #07110b; }
+      * { box-sizing: border-box; }
+      body { min-width: 320px; margin: 0; background: radial-gradient(circle at 63% 0%, #2b622f66, transparent 30rem), #07110b; }
+      .window { display: grid; grid-template-columns: 68px minmax(0, 1fr); min-height: 100vh; }
+      .rail { display: flex; flex-direction: column; align-items: center; gap: 17px; padding: 23px 0; border-right: 1px solid #a4cd8e22; background: #061009; }
+      .mark { width: 26px; height: 26px; margin-bottom: 22px; border: 1px solid #dcf9b655; border-radius: 9px; background: linear-gradient(135deg, #e1fba7, #518f5e); box-shadow: 0 0 25px #9ddd8a55; }
+      .rail span { display: grid; width: 34px; height: 34px; place-items: center; border: 1px solid transparent; border-radius: 9px; color: #7e9a7c; font-size: .78rem; }
+      .rail span.active { border-color: #c6ed9b55; color: #e3f7c7; background: #a7d48318; }
+      .rail footer { margin-top: auto; color: #587255; font-size: .7rem; }
+      .workspace { width: min(1400px, 100%); margin: 0 auto; padding: 24px 34px 45px; }
+      .header { display: flex; align-items: center; justify-content: space-between; gap: 20px; }
+      .crumb { color: #91a98f; font-size: .8rem; }
+      .crumb b { color: #e7f2df; font-weight: 650; }
+      .profile { display: flex; align-items: center; gap: 9px; color: #9eb69e; font-size: .8rem; }
+      .profile i { width: 25px; height: 25px; border: 1px solid #cbe99f55; border-radius: 50%; background: #244929; }
+      .question { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 12px; margin: 34px 0 24px; padding: 7px; border: 1px solid #b7dd9a45; border-radius: 14px; background: #0a1b10c9; box-shadow: 0 16px 50px #0006; }
+      input { min-width: 0; border: 0; outline: 0; padding: 13px 14px; color: #eff8ea; background: transparent; font: 500 1rem inherit; }
+      button { border: 0; border-radius: 9px; padding: 11px 17px; color: #132112; background: #d4f09f; font: 750 .86rem inherit; cursor: pointer; }
+      .grid { display: grid; grid-template-columns: minmax(0, 1fr) 330px; gap: 20px; }
+      .panel { border: 1px solid #c6ebaa25; border-radius: 15px; background: #0a1710c7; box-shadow: 0 18px 40px #0003; }
+      .panel-head { display: flex; align-items: center; justify-content: space-between; gap: 15px; padding: 18px 20px; border-bottom: 1px solid #c6ebaa1d; }
+      .panel-head h1, .panel-head h2 { margin: 0; font-size: .93rem; letter-spacing: -.02em; }
+      .panel-head span { color: #91ab90; font-size: .75rem; }
+      .summary { padding: 24px 24px 10px; }
+      .summary h1 { max-width: 720px; margin: 0; font-size: clamp(1.7rem, 3vw, 2.55rem); letter-spacing: -.06em; line-height: 1.08; }
+      .summary p { max-width: 760px; margin: 13px 0 0; color: #b4c8b2; line-height: 1.6; }
+      .timeline { position: relative; margin: 22px 24px 32px 36px; padding-left: 30px; border-left: 1px solid #bce59f3a; }
+      .event { position: relative; display: grid; grid-template-columns: 64px minmax(0, 1fr); gap: 15px; padding: 0 0 25px; }
+      .event::before { content: ''; position: absolute; left: -36px; top: 4px; width: 11px; height: 11px; border: 2px solid #0b1810; border-radius: 50%; background: #99cc77; box-shadow: 0 0 0 1px #bfe99b88; }
+      .event.active::before { background: #d7f5a4; box-shadow: 0 0 0 1px #d7f5a4, 0 0 17px #d7f5a4aa; }
+      .event time { color: #bce799; font: .76rem ui-monospace, SFMono-Regular, monospace; }
+      .event h3 { margin: 0; font-size: .94rem; }
+      .event p { margin: 6px 0 0; color: #9eaf9d; font-size: .84rem; line-height: 1.5; }
+      .event a { display: inline-block; margin-top: 9px; color: #d2f1a0; font-size: .78rem; text-decoration: none; }
+      .inspector { overflow: hidden; }
+      .inspector .video { position: relative; height: 180px; background: radial-gradient(circle at 50% 30%, #3a603244, transparent 42%), #020805; }
+      .video span { position: absolute; inset: 0; display: grid; place-items: center; color: #d4f3a1; font-size: 1.3rem; }
+      .metadata { display: grid; gap: 16px; padding: 20px; }
+      .metadata h2 { margin: 0; font-size: 1.05rem; line-height: 1.3; }
+      .metadata dl { display: grid; grid-template-columns: 1fr auto; gap: 9px; margin: 0; color: #90a98f; font-size: .78rem; }
+      .metadata dd { margin: 0; color: #cfdfca; }
+      .open { display: block; border: 1px solid #c7ed9c55; border-radius: 9px; padding: 11px; color: #d9f8ad; text-align: center; text-decoration: none; font-size: .82rem; }
+      .query-panel { margin-top: 20px; padding: 18px 20px; }
+      .query-panel pre { overflow: auto; margin: 13px 0 0; border-radius: 9px; padding: 13px; color: #a8c5a0; background: #041008; font: .72rem/1.6 ui-monospace, monospace; white-space: pre-wrap; }
+      .query-panel b { color: #d8f4a5; }
+      @media (max-width: 850px) { .grid { grid-template-columns: 1fr; } .inspector { display: grid; grid-template-columns: 1fr 1fr; } .query-panel { margin-top: 0; } }
+      @media (max-width: 580px) { .window { grid-template-columns: 1fr; } .rail { display: none; } .workspace { padding: 18px 15px 30px; } .header { display: none; } .question { margin-top: 0; grid-template-columns: 1fr; } .inspector { grid-template-columns: 1fr; } .event { grid-template-columns: 52px 1fr; } }
+    </style>
+  </head>
+  <body>
+    <div class="window">
+      <aside class="rail"><span class="mark"></span><span class="active">◌</span><span>⌕</span><span>▤</span><span>◫</span><footer>bos</footer></aside>
+      <main class="workspace">
+        <header class="header"><div class="crumb"><b>BoardOfSupervision</b> / Sep 15 meeting</div><div class="profile"><i></i>Public record workspace</div></header>
+        <form class="question"><input value="What did the Board decide about street trees?" aria-label="Ask the meeting record" /><button type="button">Ask</button></form>
+        <section class="grid">
+          <article class="panel"><header class="panel-head"><h2>Answer with a timeline</h2><span>1 cited finding</span></header><div class="summary"><h1>Street tree standards passed after a 7–4 vote.</h1><p>The Board adopted an ordinance covering planting standards, development fees, accessory dwelling units, and hazardous-tree appeals.</p></div><div class="timeline"><article class="event"><time>10:36</time><div><h3>Consent agenda closes</h3><p>Items one through fifteen move through the meeting.</p></div></article><article class="event active"><time>11:36</time><div><h3>Street tree standards are introduced</h3><p>The agenda item frames the changes to planting and appeal rules.</p><a href="#">Play the official recording from here ↗</a></div></article><article class="event"><time>13:08</time><div><h3>Final roll call</h3><p>The measure receives seven yes votes and four no votes.</p></div></article></div></article>
+          <aside><section class="panel inspector"><div class="video"><span>▶</span></div><div class="metadata"><h2>Street tree standards, appeals, and the Adopt-A-Tree Fund</h2><dl><dt>Date</dt><dd>Sep 15, 2026</dd><dt>Agenda item</dt><dd>16</dd><dt>Current moment</dt><dd>11:36</dd></dl><a class="open" href="#">Open the official video</a></div></section><section class="panel query-panel"><header class="panel-head" style="padding:0;border:0"><h2>How it was answered</h2><span>Graph query</span></header><pre><b>MATCH</b> (m:Meeting)-[:HAS_ITEM]-&gt;(i:Item)
+<b>WHERE</b> i.title CONTAINS 'Street Tree'
+<b>RETURN</b> i.summary, i.outcome</pre></section></aside>
+        </section>
+      </main>
+    </div>
+  </body>
+</html>

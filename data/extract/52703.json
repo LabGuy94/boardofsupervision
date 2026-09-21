@@ -1,0 +1,518 @@
+{
+  "clip_id": 52703,
+  "items": [
+    {
+      "meta_id": 1249646,
+      "summary": "President Mandelman led the Pledge of Allegiance and acknowledged SFGovTV staff member Kaleena Mendoza for recording meetings and preparing transcripts.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1249647,
+      "summary": "The Clerk read standard communications regarding meeting access, ADA accommodations, and written public comments. The Board voted without objection to excuse Supervisor Jackie Fielder from the meeting.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1249648,
+      "summary": "The Board considered the approval of the meeting minutes from the May 19, 2026 Board meeting. The minutes were approved by roll call vote with 10 ayes.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1249653,
+      "summary": "The Board considered the Proposed Interim Budget and Appropriation Ordinance for City departments for FYs 2026-2027 and 2027-2028 alongside the Annual Salary Ordinance. The ordinances were finally passed by a 10-0 roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1249654,
+      "summary": "The Board acted on the Proposed Interim Annual Salary Ordinance for FYs 2026-2027 and 2027-2028 to enumerate positions in the annual budget. It was voted on alongside the interim budget ordinance and finally passed unanimously.",
+      "outcome": "passed",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1249656,
+      "summary": "The Board considered an ordinance amending the Fire Code to ban the sale, offer, and delivery of uncertified lithium-ion batteries and replacement batteries in San Francisco. The ordinance was finally passed without objection.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1249657,
+      "summary": "The Board considered an ordinance amending the Transportation, Administrative, and Fire Codes regarding temporary street use permits, closures, and the Interdepartmental Staff Council on Traffic and Transportation. The ordinance was finally passed without objection.",
+      "outcome": "passed",
+      "topics": [
+        "transit"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1249661,
+      "summary": "The Board adopted a resolution retroactively approving an amended lease agreement with Tad's Inc. for retail space at 44 Ellis Street in the Ellis-O'Farrell Garage. The Board also approved a motion enacting a 4.50% cost-of-living adjustment to the Budget and Legislative Analyst contract.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "small_business"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1249665,
+      "summary": "The Board adopted a resolution designating the commemorative street name 'Tony Stefani Way' on Falmouth Street between Folsom and Shipley streets. The designation honors retired San Francisco Fire Department Captain Tony Stefani.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1249667,
+      "summary": "The Board considered an ordinance amending the Administrative Code regarding the Domestic Violence Shelter-Based Program Fund and designating MOHCD as its administrator. President Mandelman introduced a clarifying amendment recommended by the County Clerk, which was adopted, and the amended ordinance passed on first reading.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "public_safety"
+      ],
+      "speakers": [
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "THE COUNTY CLERK HAS POINTED OUT THAT THERE IS NO SPECIFIC LEGAL PROCESS OR FEE ASSOCIATED WITH FILING A CERTIFICATE OF MARRIAGE AND THEREFORE AT THE RECOMMENDATION OF THE CLERK WE HAVE NEW LANGUAGE AND AN AMENDMENT",
+          "t0": 670.827,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1249668,
+      "summary": "The Board approved a motion appointing Athena Bing-Ying Ng and Raymond Deng to terms on the Behavioral Health Council. The motion was approved without objection.",
+      "outcome": "passed",
+      "topics": [
+        "health"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1249669,
+      "summary": "The Board approved a motion reappointing Maria Davis to the Entertainment Commission for a term ending July 1, 2030. The motion passed without objection.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1249672,
+      "summary": "The Board considered a committee report resolution authorizing officials of the Department of Homelessness and Supportive Housing to solicit donations for temporary shelter and services under a behested payment waiver. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "homelessness",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1249673,
+      "summary": "Supervisors introduced new legislation and in memoriam adjournments. Supervisor Wong introduced a resolution supporting the VFW against federal VA benefit cuts and hearing requests on Taraval Station police staffing and street tree maintenance, while Supervisor Chan introduced a resolution commemorating the historic Coors boycott alliance between labor and the LGBTQ community.",
+      "outcome": "no_action",
+      "topics": [
+        "public_safety",
+        "labor",
+        "environment",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Alan Wong",
+          "stance": "support",
+          "quote": "THIS RESOLUTION FOCUSES ON PROVISIONS IN HOUSE BILL 9237 AND SENATE BILL 474 FOR THE PROPOSED TAKE CARE OF AMERICA'S VETERANS ACT THAT WOULD CHANGE HOW THE VA RATES SERVICE CONNECTED TO AIDS AND SLEEP APNEA.",
+          "t0": 1690.635,
+          "verified": false
+        },
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "",
+          "t0": 6448.107,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1249670,
+      "summary": "The Board held a special commendation ceremony honoring outgoing Planning Commission Vice President Kathrin Moore, centenarian Mary Cervantes on her 100th birthday, retiring Assistant Chief Public Defender Patty Lee after 49 years of service, Sheng-Ting Chen and the Out Museum, immigrant and LGBTQ advocate Amos Lim, and Cliff's Variety on its 90th anniversary.",
+      "outcome": "no_action",
+      "topics": [
+        "planning_land_use",
+        "small_business",
+        "public_safety",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "WE ARE HONORING CATHERINE MOORE AS SHE APPROACHES THE END OF WHAT HAS BEEN 20 YEARS OF SERVICE AS A MEMBER OF THE SAN FRANCISCO PLANNING COMMISSION.",
+          "t0": 1941.182,
+          "verified": true
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "PATTY PATTY IS RETIRING FROM THE SAN FRANCISCO PUBLIC DEFENDER'S OFFICE AFTER 49 YEARS OF SERVICE TO PUBLIC DEFENDER CLIENTS IN THE CITY AND COUNTY OF SAN FRANCISCO.",
+          "t0": 3662.622,
+          "verified": false
+        },
+        {
+          "name": "Public commenter",
+          "stance": "support",
+          "quote": "I URGE ALL OF US IN THIS ROOM AND ESPECIALLY ON THIS BOARD TO CONTINUE FIGHTING FOR REFORMS THAT RECOGNIZE THAT YOUNG PEOPLE DESERVE SUPPORT, OPPORTUNITY AND HOPE NOT CAGES.",
+          "t0": 4530.326,
+          "verified": true
+        },
+        {
+          "name": "Danny Sauter",
+          "stance": "support",
+          "quote": "THE OUT MUSEUM'S OPENING IS SIGNIFICANT. IT IS THE WORLD'S FIRST CHINESE MUSEUM.",
+          "t0": 5036.534,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1249674,
+      "summary": "The clerk concluded the roll call for introductions of new business with no additional supervisors remaining on the roster.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1249675,
+      "summary": "Members of the public addressed the Board on general public comment topics. Speakers raised concerns regarding Civil Grand Jury findings on oversight, preservation and landmark designation of the Ella Hill Hutch Community Center, behested payment waivers, the Coors boycott resolution, city workplace culture, and Inspector General whistleblower procedures.",
+      "outcome": "no_action",
+      "topics": [
+        "public_safety",
+        "homelessness",
+        "labor",
+        "elections_governance",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Public commenter",
+          "stance": "support",
+          "quote": "SO I'M HERE TO ASK THE BOARD TO TAKE THIS REPORT SERIOUSLY. PLEASE ACT ON IT. IMPLEMENT ITS RECOMMENDED ACTIONS. USE THIS MOMENT TO STRENGTHEN OVERSIGHT ACCOUNTABILITY AND RESIDENT SAFETY.",
+          "t0": 6660.257,
+          "verified": true
+        },
+        {
+          "name": "Public commenter",
+          "stance": "support",
+          "quote": "FOR THESE REASONS I'M ASKING THE BOARD OF SUPERVISORS TO INITIATE LANDMARK DESIGNATION FOR A LARGE COMMUNITY CENTER.",
+          "t0": 6821.634,
+          "verified": true
+        },
+        {
+          "name": "Public commenter",
+          "stance": "support",
+          "quote": "I WANT TO COMMEND THIS BOARD FOR THE CONSIDERATION OF THE RESOLUTION THAT SUPERVISOR CHAN REFERENCED. TO COMMEMORATE THE CRS BOYCOTT OFFICIALLY IN THE CITY AND COUNTY OF SAN FRANCISCO.",
+          "t0": 7153.515,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": [
+        "Civil Grand Jury report oversight and accountability",
+        "Ella Hill Hutch Community Center landmarking and community control",
+        "Scrutiny over behested payment waivers",
+        "Labor and LGBTQ alliance commemorating the Coors boycott",
+        "Concerns regarding city whistleblower and Inspector General processes"
+      ]
+    },
+    {
+      "meta_id": 1249678,
+      "summary": "The Board adopted items on the agenda for adoption without committee reference, specifically Item 14 honoring Mary Cervantes on her 100th birthday and Item 15 commending Planning Commission Vice President Kathrin Moore. The sub-items also included three claims settlements and an airport contract modification. The resolutions were adopted unanimously on a 10-0 roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "settlements",
+        "planning_land_use",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1249701,
+      "summary": "President Mandelman read the in memoriam list for John V. Giusti, Jeanette Etheridge, Gowri Devi Koka, and Julie Driscoll Farrah. The Board then adjourned the meeting.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    }
+  ],
+  "quote_verification": {
+    "verified": 6,
+    "partial": 3,
+    "dropped": 1
+  }
+}

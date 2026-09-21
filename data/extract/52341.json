@@ -1,0 +1,727 @@
+{
+  "clip_id": 52341,
+  "items": [
+    {
+      "meta_id": 1238374,
+      "summary": "The Board of Supervisors convened for its May 5, 2026 meeting. President Mandelman led the roll call and land acknowledgment, and the Pledge of Allegiance was recited.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1238375,
+      "summary": "The Clerk presented communications and excused absence requests from Supervisors Fielder and Mahmood, which were approved without objection. The Board then considered and unanimously passed the consent agenda containing settlements of lawsuits involving Alison Jordan Llamas, Airbnb, Inc., Craig Smith, the San Mateo District Attorney, and Ladies & Gentlemen, Inc.",
+      "outcome": "passed",
+      "topics": [
+        "settlements",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1238390,
+      "summary": "The Board considered an ordinance retroactively authorizing the San Francisco Police Department to accept and expend a grant of $6,250,000 from the U.S. Department of Justice FY25 COPS Hiring Program to fund 50 new police officer positions. The ordinance was finally passed without objection.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1238391,
+      "summary": "The Board considered an ordinance adopting a Memorandum of Understanding between the City and County of San Francisco and the San Francisco Police Officers' Association effective July 1, 2026 through June 30, 2030. The ordinance was finally passed without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "labor",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1238392,
+      "summary": "The Board considered an ordinance adopting a Memorandum of Understanding between the City and County of San Francisco and the San Francisco Fire Fighters Union Local 798, IAFF, AFL-CIO, Unit 2. The ordinance was finally passed without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "labor",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1238393,
+      "summary": "The Board considered an ordinance adopting a Memorandum of Understanding between the City and County of San Francisco and the San Francisco Fire Fighters Union Local 798, IAFF, AFL-CIO, Unit 1. The ordinance was finally passed without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "labor",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1238395,
+      "summary": "The Board considered an ordinance amending the Planning Code related to transit-oriented residential development and state bill requirements. The ordinance was finally passed without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "housing",
+        "transit"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1238396,
+      "summary": "The Board considered an ordinance amending the Administrative, Public Works, and Transportation Codes to authorize SFMTA to establish a curbside electric vehicle charging station permit program. The ordinance was finally passed without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "transit",
+        "environment"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1238400,
+      "summary": "The Board considered an ordinance appropriating $1,500,000 from the General Reserve to the Public Defender to support projected increases in salary and fringe benefit costs for FY2025-2026. The ordinance was passed on first reading without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1238401,
+      "summary": "The Board considered resolutions approving agreements with the Department of Disability and Aging Services, including a grant agreement amendment with HomeBridge, Inc. not to exceed $158,400,000 and an agreement with the SF IHSS Public Authority not to exceed $991,313,916. The resolutions were adopted without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1238403,
+      "summary": "The Board considered a resolution retroactively authorizing the Department of Public Health to accept and expend a grant increase of $408,021 from the National Institutes of Health through Florida State University for the Adolescent Medicine Trials Network for HIV/AIDS Interventions. The resolution was adopted without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1238404,
+      "summary": "The Board considered a resolution retroactively authorizing the Office of Economic and Workforce Development to accept and expend a $50,000 grant from the California Natural Resources Agency for ADA restroom improvements at Charity Cultural Services Center. The resolution was adopted without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1238407,
+      "summary": "The Board considered an ordinance amending the Transportation and Administrative Codes to authorize the Director of Transportation to approve temporary street use permits and certain street closures for the Downtown Entertainment Event Activation Program. The ordinance passed on first reading without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "transit",
+        "small_business"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1238408,
+      "summary": "The Board considered an ordinance amending the Housing Code to revise qualifications and deadlines for conducting structural maintenance inspections. The ordinance passed on first reading without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1238409,
+      "summary": "The Board considered an ordinance conditionally accepting an offer of dedication and quitclaim deed for real property on East Clementina Street and approving public sidewalk easements on Folsom Street. The ordinance was passed on first reading without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1238410,
+      "summary": "The Board considered an ordinance amending the Administrative Code to authorize the Public Utilities Commission to purchase utility infrastructure from customers under specified conditions. The ordinance was passed on first reading without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1238411,
+      "summary": "The Board considered a resolution adding the commemorative street name 'Helen Waukazoo Way' to Julian Avenue in recognition of her legacy as a founder of Friendship House and contributions to the Native American community. The resolution was adopted without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1238413,
+      "summary": "The Board considered an ordinance amending the Administrative Code regarding drug-free permanent supportive housing. Sponsor Supervisor Dorsey moved to continue the item for one week to seek common ground with community partners and allow absent co-sponsors to be present, which was approved without objection.",
+      "outcome": "continued",
+      "topics": [
+        "housing",
+        "homelessness",
+        "health"
+      ],
+      "speakers": [
+        {
+          "name": "Matt Dorsey",
+          "stance": "neutral",
+          "quote": "COLLEAGUES I WOULD LIKE TO MAKE A MOTION TO CONTINUE THIS ITEM FOR ONE WEEK APART FROM ONE OF MY CO-SPONSORS BEING UNAVAILABLE TODAY I ALSO AM ENCOURAGED BY CONVERSATIONS I'VE HAD WITH RECOVERY COMMUNITY ALLIES IN THE MEDICAL COMMUNITY",
+          "t0": 772.887,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1238414,
+      "summary": "Supervisor Wong introduced a resolution supporting the JROTC program in the San Francisco Unified School District and urging its preservation as currently constituted. Supervisor Walton raised concerns about urging district expenditures during a budget deficit, and Supervisor Connie Chan suggested a friendly amendment regarding SFUSD's deficit, leading the Board to temporarily lay the item aside.",
+      "outcome": "no_action",
+      "topics": [
+        "other",
+        "budget"
+      ],
+      "speakers": [
+        {
+          "name": "Alan Wong",
+          "stance": "support",
+          "quote": "THE PROGRAM TEACHES LEADERSHIP COMMUNICATION FIRST AID CONFLICT MANAGEMENT, GOVERNMENT STRUCTURE, FINANCIAL LITERACY AND OTHER SKILLS THAT PREPARE YOUNG PEOPLE FOR LIFE AFTER HIGH SCHOOL. THE COST IS SHARED EQUALLY BETWEEN THE ARMY AND THE SCHOOL DISTRICT",
+          "t0": 934.33,
+          "verified": true
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "question",
+          "quote": "I CAN'T SUPPORT SOMETHING THAT IS URGING THE SCHOOL DISTRICT TO POSSIBLY SPEND MORE MONEY ON A PROGRAM THAT IS A DEPARTMENT OF JUSTICE PROGRAM. SO I'M REALLY TRYING TO UNDERSTAND WHAT IS THE RESOLUTION DOING HERE? WHAT ARE WE URGING THE DISTRICT TO DO?",
+          "t0": 1026.488,
+          "verified": true
+        },
+        {
+          "name": "Connie Chan",
+          "stance": "neutral",
+          "quote": "SO LIKE IN THE IN THE PAGE TWO LINE 20 AFTER THE CLASS I SAY REMAIN FULLY OPERATIONAL WHEN SUB USD NO LONGER FACES BUDGET DEFICIT OR EXPERIENCE BUDGET DEFICIT MAY HAVE THESE AMENDMENTS BEEN SHARED WITH SUPERVISOR WONG PRIOR TO THIS?",
+          "t0": 1198.596,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1238416,
+      "summary": "The Board considered a resolution condemning an ICE action at San Francisco International Airport, urging Congress to fund TSA, and urging San Francisco law enforcement to abide by Sanctuary City policies. The resolution was adopted without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1238417,
+      "summary": "The Board considered a resolution determining that the issuance of a Type 90 liquor license to The Mellow SF at 1401 Haight Street serves the public convenience and necessity. The resolution was adopted without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "small_business"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1238428,
+      "summary": "The Board considered a committee report resolution approving the official naming of certain streets and the renaming of Bill Walsh Way to Giants Drive along Gilman Playground Park. The resolution was adopted without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "parks",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1238429,
+      "summary": "Supervisors introduced items on roll call, including Supervisor Alan Wong honoring the life of Sunset resident and contractor Jim Garcia Jr. who passed away after a battle with cancer.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Alan Wong",
+          "stance": "support",
+          "quote": "COLLEAGUES, TODAY WE HONORED THE LIFE OF SUNSET RESIDENT JIM GARCIA JR A PROUD SAN FRANCISCAN WHO PASSED AWAY ON APRIL 15TH AT THE AGE OF 61 AFTER A LONG AND COURAGEOUS BATTLE WITH CANCER, JIM WAS DEEPLY ROOTED IN THE SUNSET.",
+          "t0": 1511.388,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1238418,
+      "summary": "The Board held a special commendations ceremony celebrating Asian American and Pacific Islander Heritage Month and Small Business Week. Supervisors honored community leaders and organizations including the APA Heritage Foundation, Yau Kung Moon Kung Fu Association, Deng Lee, Leslie King, Harrison Anderson, Amy Cai and Lisa Zou, and Beanie's Kitchen.",
+      "outcome": "no_action",
+      "topics": [
+        "small_business",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "AS HAS BECOME TRADITION FOR THE FIRST TUESDAY OF AAPI HERITAGE MONTH, I WANTED TO INVITE THE CO-CHAIR OF THE APA HERITAGE COMMITTEE TO COME ON UP THE CHAIR CLAUDINE CHAMP, PRESIDENT OF THE APA HERITAGE FOUNDATION AND CLAUDINE CHANG CO-CHAIR AL PEREZ.",
+          "t0": 1709.62,
+          "verified": false
+        },
+        {
+          "name": "Chyanne Chen",
+          "stance": "support",
+          "quote": "COLLEAGUES I'M VERY PROUD TO KICK OFF AAPI HERITAGE MONTH BY HONORING YAO GONG ONE SAN FRANCISCO TODAY A PIONEER OF WORLD CLASS LION DANCE IN SAN FRANCISCO AND INTERNATIONALLY",
+          "t0": 2209.936,
+          "verified": true
+        },
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "TODAY COLLEAGUES IN HONOR OF API HERITAGE MONTH I WOULD LIKE TO RECOGNIZE MR. DALEY AND MR. DALEY HAS BEEN A LEADER IN THE CHINATOWN COMMUNITY FOR OVER FIVE DECADES.",
+          "t0": 2853.339,
+          "verified": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "stance": "support",
+          "quote": "IT IS MY ABSOLUTE HONOR TO COMMEND LESLIE KING FOR OUTSTANDING DEDICATION AS CO-LEADER OF THE AVILA'S STREET CORRIDOR NEIGHBORHOOD ASSOCIATION.",
+          "t0": 3462.388,
+          "verified": true
+        },
+        {
+          "name": "Danny Sauter",
+          "stance": "support",
+          "quote": "HARRISON IS A DISTRICT THREE DAD WHO CHANNELED HIS LOVE FOR WALKING INTO SOMETHING BIGGER RECENTLY AFTER TRAGEDY STRUCK ON SATURDAY MARCH 14TH, HARRISON LACED UP HIS SHOES AND STARTED WALKING. HE DIDN'T STOP UNTIL 50 MILES LATER.",
+          "t0": 3926.949,
+          "verified": false
+        },
+        {
+          "name": "Alan Wong",
+          "stance": "support",
+          "quote": "IT IS MY HONOR TODAY TO PRESENT COMMENDATIONS TO TWO REMARKABLE LEADERS IN THE SUNSETS CULTURAL AND DANCE COMMUNITY MS.. AMY CAI AND MISS LISA ZOU.",
+          "t0": 4193.708,
+          "verified": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "COLLEAGUES AS WE KICK OFF SAN FRANCISCO SMALL BUSINESS WEEK IT IS MY HONOR TO RECOGNIZE A WELL-LOVED SOMA ESTABLISHMENT BEANIES BEANIES KITCHEN.",
+          "t0": 4910.389,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1238421,
+      "summary": "The Board convened a Committee of the Whole hearing on the Department of Public Works report of assessment costs for blighted properties and graffiti abatement. Multiple property owners and community representatives gave public comment describing challenges with graffiti removal and requesting waivers. The hearing was heard and filed, and DPW staff stepped outside to discuss individual assessments with constituents.",
+      "outcome": "passed",
+      "topics": [
+        "settlements",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Department head",
+          "stance": "neutral",
+          "quote": "ARTICLE 23 OF THE SAN FRANCISCO PUBLIC WORKS CODE KNOWN AS THE GRAFFITI REMOVAL AND ABATEMENT ORDINANCE AND CHAPTER 80 OF THE ADMINISTRATIVE CODE KNOWN AS THE COMMUNITY PRESERVATION AND BLIGHT REDUCTION ACT REQUIRES PROPERTY OWNERS TO MAINTAIN THEIR PROPERTY IN A SAFE AND LIGHT FREE CONDITION.",
+          "t0": 5266.302,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": [
+        "Requests for fine waivers or leniency due to persistent graffiti tagging despite prompt repainting",
+        "Financial hardship and lack of awareness of graffiti notices on small properties and nonprofits"
+      ]
+    },
+    {
+      "meta_id": 1238425,
+      "summary": "Called together with the hearing in Item 26, this item covers the resolution approving the assessment costs for blighted properties. Following public comment from property owners, DPW staff agreed to confer with owners outside the chamber, and action on the resolution was deferred until later in the meeting.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": [
+        "Requests for fine waivers or leniency due to persistent graffiti tagging despite prompt repainting",
+        "Financial hardship and lack of awareness of graffiti notices on small properties and nonprofits"
+      ]
+    },
+    {
+      "meta_id": 1238415,
+      "summary": "The Board resumed consideration of the resolution supporting the SFUSD Junior Reserve Officers' Training Corps (JROTC) program. Sponsor Supervisor Wong declined to accept amendments, and the resolution was adopted 8-1 with Supervisor Walton dissenting over concerns regarding district budget autonomy.",
+      "outcome": "passed",
+      "topics": [
+        "other",
+        "budget"
+      ],
+      "speakers": [
+        {
+          "name": "Alan Wong",
+          "stance": "support",
+          "quote": "I DON'T THINK THAT HAVING THE CHANGES WOULD MEET THE ORIGINAL INTENT OF THE RESOLUTION WHICH IS TO URGE THE SCHOOL DISTRICT TO PRESERVE THE PROGRAM AS CURRENTLY CONSTITUTED IF THERE ARE CONCERNS REGARDING BUDGET. SO I WOULD NOT LIKE TO SEE AMENDMENTS AND LIKE TO HAVE IT GO FORWARD.",
+          "t0": 6194.61,
+          "verified": false
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "oppose",
+          "quote": "I DON'T FEEL COMFORTABLE URGING THE SCHOOL DISTRICT TO DO ANYTHING THAT MAY HAMPER THEIR ABILITY TO BALANCE THE BUDGET. I AM THE LONE PERSON ON THIS BODY THAT HAS SERVED ON THE BOARD OF EDUCATION, UNDERSTANDS THE SCHOOL BOARD'S BUDGET INTRICATELY",
+          "t0": 6237.806,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Shamann Walton",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1238430,
+      "summary": "Supervisors resumed roll call for introductions. Supervisor Dorsey called for a hearing on relocating the Hall of Justice to Market Street, Supervisor Melgar introduced an in memoriam for labor leader Larry Mazzola Sr., Supervisor Sauter introduced legislation banning retail sales of nitrous oxide, and Supervisor Sherrill adjourned in memory of Gap co-founder Doris Fisher.",
+      "outcome": "no_action",
+      "topics": [
+        "planning_land_use",
+        "labor",
+        "health",
+        "small_business"
+      ],
+      "speakers": [
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "COLLEAGUES, I AM TODAY CALLING FOR A HEARING TO EXPLORE OPTIONS ON HOW SAN FRANCISCO CAN BETTER UTILIZE ITS OWN REAL ESTATE ASSETS TO REVITALIZE OUR MARKET STREET CORRIDOR AND BETTER LEVERAGE THE DRAW OUR WORKFORCE AND CITIZENRY WOULD OFFER",
+          "t0": 6357.859,
+          "verified": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "LARRY MAZOLA SENIOR WAS A TOWERING FIGURE IN SAN FRANCISCO'S LABOR MOVEMENT AND A STEADFAST ADVOCATE FOR WORKING PEOPLE. HE PASSED AWAY AT AGE 82 LEAVING BEHIND A LEGACY DEFINED BY STRENGTH, LOYALTY AND TRANSFORMATIVE LEADERSHIP.",
+          "t0": 6585.446,
+          "verified": true
+        },
+        {
+          "name": "Danny Sauter",
+          "stance": "support",
+          "quote": "COLLEAGUES EARLIER THIS YEAR I INDICATED THAT I WAS DRAFTING LEGISLATION TO PROHIBIT THE RETAIL SALE OF NITROUS OXIDE AND TODAY I AM INTRODUCING THIS LEGISLATION I'M DOING SO AFTER A FEW MONTHS OF PRODUCTIVE CONVERSATIONS TO MAKE SURE WE CRAFT LEGISLATION THAT WORKS",
+          "t0": 6740.403,
+          "verified": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "stance": "support",
+          "quote": "COLLEAGUES TODAY I'D LIKE TO ADJOURN OUR MEETING IN MEMORY OF DORIS FISHER, CO-FOUNDER OF THE GAP, CHAMPION OF EDUCATION AND DEVOTED PHILANTHROPIST WHOSE VISION HELPED RESHAPE THE AMERICAN RETAIL INDUSTRY AND WHOSE GENEROSITY CONTINUES TO TRANSFORM LIVES.",
+          "t0": 6892.967,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1238431,
+      "summary": "The Board heard general public comment from members of the public. Topics addressed included banning the sale of cigarettes with plastic filters, city funding priorities regarding homelessness and policing, opposition to proposed changes at Amazon Playground, and complaints regarding utility rates and airport protests.",
+      "outcome": "no_action",
+      "topics": [
+        "environment",
+        "health",
+        "homelessness",
+        "parks"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": [
+        "Urging legislation to ban cigarettes with plastic filters to prevent street and environmental litter",
+        "Opposition to Rec and Park redevelopment plans at Amazon Playground and calling for historic landmark designation",
+        "Critique of city policies on homelessness, policing, and social services funding"
+      ]
+    },
+    {
+      "meta_id": 1238426,
+      "summary": "The Board resumed consideration of the resolution approving the assessment costs for blighted properties. Following consultation with property owners, DPW announced in good faith the waiver of fines for seven properties, and the amended assessment list was adopted unanimously by roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Department head",
+          "stance": "neutral",
+          "quote": "WE WILL BE WAIVING IN GOOD FAITH THE SEVEN MEMBERS FROM THE PUBLIC AND THEIR FINES ASSESSED. WE WILL PROVIDE YOU WITH A UPDATED I BELIEVE WITH MORE OF A RED REDLINED LIST WAS PROVIDED TO THE CLERK AND WE WILL PROVIDE YOU A TRUE UP TO DATE LIST TOMORROW MORNING",
+          "t0": 7929.74,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1238432,
+      "summary": "The Board considered resolutions introduced for adoption without committee reference. Items 31 through 33 were adopted unanimously on roll call vote, and severed Item 34, recognizing Jewish American Heritage Month and San Francisco Jewish Week, was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "budget",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "COLLEAGUES THIS IS A COMBO RESOLUTION FOR JEWISH AMERICAN HERITAGE MONTH AND SAN FRANCISCO JEWISH WEEK. AGAIN THANK YOU SUPERVISOR MELGAR FOR YOUR CO-SPONSOR SHIP",
+          "t0": 8158.981,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    }
+  ],
+  "quote_verification": {
+    "verified": 18,
+    "partial": 3,
+    "dropped": 0
+  }
+}

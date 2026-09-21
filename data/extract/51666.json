@@ -1,0 +1,1129 @@
+{
+  "clip_id": 51666,
+  "items": [
+    {
+      "meta_id": 1205364,
+      "summary": "President Mandelman called the regular meeting of the San Francisco Board of Supervisors to order and the clerk conducted the roll call, confirming all members were present. The Board then acknowledged the ancestral homeland of the Ramaytush Ohlone and recited the Pledge of Allegiance.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1205365,
+      "summary": "The clerk read the communications announcement detailing options for attending, viewing broadcasts, submitting written public comment, and requesting disability or language accommodations.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1205366,
+      "summary": "The Board considered the approval of the meeting minutes from the December 16, 2025 Board meeting. The motion to approve the minutes was adopted by a roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1205368,
+      "summary": "The clerk called the consent agenda containing routine items. A roll call vote was taken and the consent calendar ordinances were passed on first reading.",
+      "outcome": "passed",
+      "topics": [
+        "settlements"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1205370,
+      "summary": "The Board approved two lawsuit settlements on the consent agenda, including a $70,000 settlement for Edwin Jesus Rementeria Hidalgo and a $900,000 settlement for R.C. The ordinances passed on first reading without objection following a roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "settlements"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1205377,
+      "summary": "The Board considered an ordinance appropriating approximately $9 billion of revenue bond proceeds or commercial paper for Airport Commission capital improvement projects for FY2025-2026. The ordinance was passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1205378,
+      "summary": "The Board considered an ordinance to amend the Administrative Code to modify the Capital Expenditure Plan reporting requirement from odd-numbered to even-numbered years, with the next report due March 1, 2028. The item was heard concurrently with items relating to the Earthquake Safety and Emergency Response general obligation bond program and passed on first reading.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "planning_land_use"
+      ],
+      "speakers": [
+        {
+          "name": "Alan Wong",
+          "stance": "support",
+          "quote": "",
+          "t0": 538.772,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1205379,
+      "summary": "The Board considered a resolution amending the 10-Year Capital Expenditure Plan for FY2026-2035 to consolidate funding for transportation and emergency response projects. Supervisor Wong spoke in support, highlighting investments in emergency water firefighting systems and neighborhood public safety facilities, after which the resolution was adopted.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "public_safety",
+        "transit"
+      ],
+      "speakers": [
+        {
+          "name": "Alan Wong",
+          "stance": "support",
+          "quote": "THE EMERGENCY FIREFIGHTING WATER SYSTEM IS ESPECIALLY CRITICAL FOR THE WEST SIDE AFTER A MAJOR EARTHQUAKE, ACCESS TO WATER CAN DETERMINE WHETHER FIRES ARE CONTAINED OR BECOME CATASTROPHIC.",
+          "t0": 613.713,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1205381,
+      "summary": "The Board considered items relating to a $535 million Earthquake Safety and Emergency Response (ESER) General Obligation Bond, including declaring public necessity and calling a special election on June 2, 2026. Supervisor Wong spoke in favor of securing emergency response infrastructure and firefighting water system upgrades across the city, and the measures passed without objection.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "elections_governance",
+        "budget"
+      ],
+      "speakers": [
+        {
+          "name": "Alan Wong",
+          "stance": "support",
+          "quote": "THIS BOND IS AN IMPORTANT STEP TOWARD MAKING SURE THE SUNSET IS NOT AN AFTERTHOUGHT. IT RECOGNIZES THAT PREPAREDNESS HAS TO BE CITYWIDE AND THAT WEST SIDE COMMUNITIES DESERVE THE SAME LEVEL OF INVESTMENTS AND PUBLIC SAFETY INFRASTRUCTURE AS ANYWHERE ELSE",
+          "t0": 595.95,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1205382,
+      "summary": "The Board considered an ordinance amending the Administrative Code relating to Film Commission programs, including expanding definitions of tax-exempt entities, updating traffic obstruction guidelines and rebate amounts, and authorizing licensing agreements for the Film SF logo. The ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1205383,
+      "summary": "The Board considered a resolution retroactively authorizing the Department of Public Health to accept and expend a $77,000 monetary gift from Epic Systems Corporation to support Federally Qualified Health Centers. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1205384,
+      "summary": "The Board considered a resolution retroactively authorizing the Department of Public Health to accept and expend an in-kind gift of COVID-19 test kits valued at $527,664 from the Administration for Strategic Preparedness and Response through the California Department of Public Health. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1205385,
+      "summary": "The Board considered a resolution retroactively authorizing the Department of Public Health to apply for approximately $15.55 million in federal Ryan White Act HIV/AIDS Emergency Relief Grant funding. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1205386,
+      "summary": "The Board considered a resolution retroactively authorizing the Department of Public Health to accept and expend a grant amendment of $24,000 for a total grant of $102,464.72 from the National Institutes of Health through UCSF for the H2R Training Program. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1205387,
+      "summary": "The Board considered a resolution authorizing the Recreation and Park Department to accept and expend cash and in-kind grants valued at approximately $1.625 million from the Trust for Public Land and the Theodore & Frances Geballe Philanthropic Fund for improvements to Koshland Park. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "parks",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1205388,
+      "summary": "The Board approved the Infrastructure Financing Plan and related documents for Enhanced Infrastructure Financing District (EIFD) No. 2 (Stonestown). Supervisor Melgar commended the IFP and Budget committees and emphasized the senior and affordable housing and open space benefits the project will deliver.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "planning_land_use",
+        "budget"
+      ],
+      "speakers": [
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "BUT IT IS TOO LONG TO GET TO THE SENIOR HOUSING AND THE OPEN SPACE AND THE AFFORDABLE HOUSING THAT THIS PROJECT WILL DELIVER. BUT I AM REALLY GLAD THAT WE'RE HERE AND WE ALSO HAVE THIS NEW TOOL THE ENHANCED INFRASTRUCTURE FINANCING DISTRICT THAT WE CAN USE TO THAT EFFECT.",
+          "t0": 984.964,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1205389,
+      "summary": "The Board approved the Infrastructure Financing Plan, division of taxes, and related financing agreements for EIFD No. 3 (3333/3700 California Street), authorizing judicial validation actions. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "budget",
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1205390,
+      "summary": "The Board considered a resolution retroactively authorizing the District Attorney's Office to accept and expend a $420,000 grant from the California Office of Traffic Safety to support the Alcohol and Drug Impaired Driver Vertical Prosecution Program. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1205392,
+      "summary": "The Board considered an ordinance authorizing a $6,030,000 settlement of a wrongful death and personal injury lawsuit filed by Stephanie York, James Edward Brown, and Kayla Briers against the City involving a city tree. The ordinance was passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "settlements"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1205393,
+      "summary": "The Board considered an ordinance authorizing a settlement of approximately $71.125 million with General Motors Company regarding gross receipts taxes and homelessness gross receipts tax refunds. The ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "settlements",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1205394,
+      "summary": "The Board considered an ordinance authorizing a $6.5 million settlement with Microsoft Corporation and subsidiaries regarding refunds of gross receipts and homelessness gross receipts taxes. The ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "settlements",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1205395,
+      "summary": "The Board approved a management agreement with the nonprofit Owners' Association for the Ocean Avenue Community Benefit District. Supervisor Wong recused himself due to prior service on the board through his City College role, and the resolution was adopted.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "elections_governance"
+      ],
+      "speakers": [
+        {
+          "name": "Alan Wong",
+          "stance": "neutral",
+          "quote": "I'M GOING TO RECUSE MYSELF FROM THIS VOTE. I USED TO BE A REPRESENTATIVE ON BOARD AS PART OF MY CITY COLLEGE ROLE SO I STEP OUTSIDE .",
+          "t0": 1156.49,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1205397,
+      "summary": "The Board considered an ordinance amending the Building Code to establish a permitting process for hydrogen-fueling station equipment installation. Supervisor Fielder voiced strong opposition, arguing hydrogen fuel production is energy-intensive, entrenches fossil fuels, and produces harmful nitrogen oxide emissions; the ordinance passed on first reading 9-2.",
+      "outcome": "passed",
+      "topics": [
+        "environment",
+        "planning_land_use"
+      ],
+      "speakers": [
+        {
+          "name": "Jackie Fielder",
+          "stance": "oppose",
+          "quote": "ENVIRONMENTAL JUSTICE ORGANIZATIONS OPPOSE THE STATE BILL THAT BROUGHT THIS ITEM TO OUR AGENDA. THEY'VE BEEN DEEPLY CONCERNED ABOUT THE RISKS OF HYDROGEN PROJECTS PROLONGING FOSSIL FUEL INFRASTRUCTURE. 98% OF HYDROGEN FUEL IS MADE FROM FOSSIL FUELS.",
+          "t0": 1238.113,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1205399,
+      "summary": "The Board considered a resolution approving the Human Services Agency's annual surveillance report for call recording technology. A roll call vote was taken, and the resolution was adopted unanimously.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1205400,
+      "summary": "The Board considered a motion to reappoint Dimitri Thierry Cornet to the Small Business Commission for a term ending January 6, 2030. The motion was approved without objection.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1205410,
+      "summary": "The Board debated a proposed charter amendment introduced by Supervisor Mahmood to establish lifetime two-term limits for the Mayor and Board of Supervisors. Supervisor Walton proposed amendments to extend lifetime term limits to all other citywide elected offices, which failed on a 4-7 vote. The Board then voted 8-3 to continue the underlying measure to February 3, 2026.",
+      "outcome": "continued",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "THIS BALLOT MEASURE IS ABOUT CLOSING A LOOPHOLE ON THE EXISTING POSITIONS FOR WHICH THERE ARE ALREADY TERM LIMITS ESTABLISHED.",
+          "t0": 1589.885,
+          "verified": true
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "oppose",
+          "quote": "THIS IS A PROPOSAL THAT IS REALLY A SOLUTION IN SEARCH OF A PROBLEM. IF IT'S NOT THE CASE I WOULD LOVE FOR ALL OF YOU TO LINE UP ALL OF THE FORMER BOARD OF SUPERVISORS MEMBERS, ALL OF THE FORMER MAYORS THAT HAVE RUN FOR A TERM AFTER SERVING EIGHT YEARS AND THEN LINE UP ALL OF THE FORMER SUPERVISORS",
+          "t0": 1669.431,
+          "verified": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "stance": "oppose",
+          "quote": "AND IF OUR GOAL IS TO EMPOWER MORE MILLENNIALS AND YOUNGER THAN I BELIEVE THAT WE ALSO NEED TO DO A MORE RESPONSIBLE EVALUATION AND LOOK AT EVERY SINGLE PUBLIC SERVICES POSITION INCLUDING COMMISSION SEATS AND OTHER ELECTED OFFICES",
+          "t0": 2030.607,
+          "verified": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "I DO THINK THAT WE DO HAVE A TERM LIMITS FOR A REASON AND I DO SEE A DISTINCTION BETWEEN THE BOARD OF SUPERVISORS AND THE MAYOR WHICH ARE OFFICES THAT DO NOT REQUIRE ANY SPECIAL QUALIFICATIONS",
+          "t0": 2083.126,
+          "verified": false
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "support",
+          "quote": "I DO SUPPORT THIS LEGISLATION AND I ALSO SUPPORT MY COLLEAGUE SUPERVISOR WALTON'S AMENDMENT ACTUALLY BECAUSE BECAUSE OF SAN FRANCISCO'S INTERESTING HISTORY WITH A REVOLVING DOOR OF FOLKS IN CITY GOVERNMENT",
+          "t0": 2266.606,
+          "verified": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "AS SOMEONE WHO SPENT 14 YEARS IN THE SAN FRANCISCO CITY ATTORNEY'S OFFICE, I WOULD ARGUE THAT THE ABSENCE OF TERM LIMITS FOR THAT OFFICE HAS ENABLED IT TO HAVE CONTINUITY THAT REALLY HAS MADE IT A MORE FORMIDABLE FORCE FOR CHANGE THAN IT WOULD HAVE BEEN OTHERWISE.",
+          "t0": 2382.55,
+          "verified": true
+        },
+        {
+          "name": "Connie Chan",
+          "stance": "oppose",
+          "quote": "I THINK THE TRUTH IS IS THAT VOTERS SAN FRANCISCANS SHOULD VOTE FOR PEOPLE WHO QUALIFY FOR THEIR JOB AND THAT ALSO HAD THE VISION THAT THEY COULD ALIGN WITH THAT IN THE BEST INTERESTS OF SAN FRANCISCO. SO I DON'T I DON'T SEE A PROBLEM AS IT CURRENTLY EXISTS.",
+          "t0": 2491.372,
+          "verified": false
+        },
+        {
+          "name": "Alan Wong",
+          "stance": "support",
+          "quote": "I DO SUPPORT THE LEGISLATION AS IS. I THINK THAT THERE IS A DISTINCTION BETWEEN THE OFFICE OF THE MAYOR BOARD OF SUPERVISORS AND SOME OF THESE MORE SPECIFIC POSITIONS SUCH AS ASSESSOR RECORDER, DISTRICT ATTORNEY, CITY ATTORNEY",
+          "t0": 2806.107,
+          "verified": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "oppose",
+          "quote": "TERM LIMITS ARE INHERENTLY ANTI-DEMOCRATIC. THEY ALSO PREVENT US FROM VOTING FOR PEOPLE WHO MAY WHO HAVE GAINED EXPERIENCE IN TIME IN OFFICE.",
+          "t0": 3280.63,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1205401,
+      "summary": "The Board recognized several community commendations, honoring the Friends of Alta Plaza Park for establishing independent 501(c)(3) status and stewarding park improvements, City College Cantonese professor Grace Yu for decades of language teaching and cultural preservation, the late Mission leader Ricardo Pe\u00f1a for his legacy of Danza Azteca and mutual aid, and retiring Planning Department Legislative Affairs Manager Aaron Starr for 20 years of city service.",
+      "outcome": "no_action",
+      "topics": [
+        "parks",
+        "planning_land_use",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Stephen Sherrill",
+          "stance": "support",
+          "quote": "SPECIFICALLY WE ARE HERE TO COMMEND THEIR RECENT CERTIFICATION AS AN OFFICIAL FIVE 01C3 CERTIFYING THEIR NONPROFIT STATUS AND EMPOWERING THEIR STEWARDSHIP OF THIS JEWEL OF THE CITY FOR YEARS TO COME.",
+          "t0": 3555.284,
+          "verified": false
+        },
+        {
+          "name": "Danny Sauter",
+          "stance": "support",
+          "quote": "TODAY SHE IS THE LAST AND ONLY CANTONESE TEACHER AT CITY COLLEGE. AND AS FAR AS I CAN TELL NO ONE IN SAN FRANCISCO HAS TAUGHT MORE STUDENTS CANTONESE THAN PROFESSOR YU.",
+          "t0": 4192.25,
+          "verified": true
+        },
+        {
+          "name": "Alan Wong",
+          "stance": "support",
+          "quote": "YOUR WORK HAS BEEN SO VITAL TO ENSURING THAT THE NEXT GENERATION OF PUBLIC SAFETY WORKERS HEALTH CARE WORKERS, SOCIAL WORKERS, NONPROFIT WORKERS AND OTHER FOLKS THAT HAVE PUBLIC CONTACT ARE ABLE TO SERVE OUR COMMUNITIES.",
+          "t0": 4412.33,
+          "verified": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "support",
+          "quote": "TODAY I AM POSTHUMOUSLY COMMENDING RICARDO PENA WHOSE PRESENCE SHAPED THE MISSION DISTRICT FOR MORE THAN TWO DECADES.",
+          "t0": 5088.844,
+          "verified": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "TODAY COLLEAGUES, I'M PRESENTING A SPECIAL COMMENDATION TO AARON STARR WHO RECENTLY RETIRED AFTER TWO DECADES OF SERVICE IN THE CITY'S PLANNING DEPARTMENT.",
+          "t0": 5642.372,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1205405,
+      "summary": "The Board convened as a Committee of the Whole to hold a public hearing on proposed amendments to the Mission Bay South Redevelopment Plan for Block 4 East. Philip Wong from OCII presented details on increasing allowable affordable units and tower height, and members of the public commented before the hearing was closed.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "planning_land_use"
+      ],
+      "speakers": [
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "",
+          "t0": 6384.376,
+          "verified": false
+        },
+        {
+          "name": "Department head",
+          "stance": "support",
+          "quote": "",
+          "t0": 6463.321,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": [
+        "contractor inclusion",
+        "deep affordability",
+        "local minority developer participation"
+      ]
+    },
+    {
+      "meta_id": 1205408,
+      "summary": "Following the Committee of the Whole public hearing, the Board voted on an ordinance approving amendments to the Mission Bay South Redevelopment Plan to increase building height to 250 feet and permit 250 additional affordable dwelling units on Block 4 East. The ordinance passed on first reading unanimously.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1205411,
+      "summary": "Supervisors introduced new legislation and adjourned in memory of community figures during roll call for introductions. Items introduced included resolutions protecting gender-affirming care and opposing the closure of the San Francisco Immigration Court, calls for hearings on Drug Court efficacy and the vision for Market Street, an ordinance applying prevailing wage requirements to street cleaning contracts, and a resolution supporting statewide public education funding.",
+      "outcome": "no_action",
+      "topics": [
+        "health",
+        "public_safety",
+        "transit",
+        "labor",
+        "elections_governance"
+      ],
+      "speakers": [
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "COLLEAGUES, I AM INTRODUCING A RESOLUTION TO REAFFIRM SAN FRANCISCO'S COMMITMENT TO THE RIGHTS OF OUR TRANSGENDER GENDER NONCONFORMING INTERSEX AND TO SPIRIT SAN FRANCISCANS AND THEIR ACCESS TO MEDICALLY NECESSARY HEALTH CARE INCLUDING GENDER AFFIRMING CARE.",
+          "t0": 7562.285,
+          "verified": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "stance": "support",
+          "quote": "TODAY I AM INTRODUCING A RESOLUTION TO CONDEMN THE IMMINENT CLOSURE OF THE SAN FRANCISCO IMMIGRATION COURT.",
+          "t0": 7720.458,
+          "verified": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "stance": "neutral",
+          "quote": "COLLEAGUES, I AM TODAY CALLING FOR A HEARING BEFORE THE BOARD OF SUPERVISORS PUBLIC SAFETY AND NEIGHBORHOOD SERVICES COMMITTEE TO EXPLORE ISSUES THAT MAY BE UNDERMINING THE EFFECTIVENESS OF OUR CITY'S DRUG COURT PROGRAM.",
+          "t0": 7831.108,
+          "verified": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "stance": "neutral",
+          "quote": "ALL OF THIS IS WHY I'M CALLING TODAY FOR A HEARING ON THE CITY'S VISION OF MARKET STREET .",
+          "t0": 8153.447,
+          "verified": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "TODAY I AM INTRODUCING THE CLEAN STREETS AND FAIR WAGES ACT BECAUSE AS EVERYONE HOLDS HOLD YOUR APPLAUSE EVERYONE PLEASE.",
+          "t0": 8465.372,
+          "verified": true
+        },
+        {
+          "name": "Danny Sauter",
+          "stance": "support",
+          "quote": "COLLEAGUES, TODAY I HAVE THE HONOR OF INTRODUCING A RESOLUTION TO ADD A COMMEMORATIVE STREET NAME TO AND FOR WHO WAY TO CELEBRATE A HERO OF SAN FRANCISCO'S CHINATOWN THAT OFTEN GETS OVERLOOKED. TIEN FOO WU WEI WILL BE ADDED TO JOY STREET BETWEEN CLAY STREET AND SACRAMENTO STREET.",
+          "t0": 9034.511,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1205412,
+      "summary": "Members of the public provided general comment on non-agenda matters and items on the Adoption Without Committee Reference calendar. Speakers addressed AI technology in dispatch services, banning plastic cigarette filters, Hayes Street closures, street cleaning and transit budget cuts, fentanyl and public safety, and protections for trans youth.",
+      "outcome": "no_action",
+      "topics": [
+        "public_safety",
+        "environment",
+        "health",
+        "transit",
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": [
+        "banning plastic cigarette filters",
+        "AI for 911 dispatch",
+        "Hayes Street closure enforcement",
+        "transgender healthcare protection",
+        "transit funding and MUNI operator cuts",
+        "transfer tax and social housing"
+      ]
+    },
+    {
+      "meta_id": 1205413,
+      "summary": "The Board considered the calendar for adoption without committee reference. Supervisor Chen severed item 29 and Supervisor Walton sent items 32 through 58 to committee, leaving items 30 and 31 for an immediate roll call vote, which were adopted unanimously.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [
+        {
+          "name": "Chyanne Chen",
+          "stance": "neutral",
+          "quote": "I WOULD LIKE TO SERVER NUMBER 20 NINE.",
+          "t0": 11954.814,
+          "verified": true
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "neutral",
+          "quote": "PLEASE SEND ITEMS 32 TO 58 TO COMMITTEE.",
+          "t0": 11960.619,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1205415,
+      "summary": "The Board handled items 29 through 58 on the Adoption Without Committee Reference calendar. Items 32 through 58 were referred to committee upon request of Supervisor Walton, while remaining uncontested items were taken for adoption.",
+      "outcome": "referred",
+      "topics": [
+        "elections_governance",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1205416,
+      "summary": "The Board considered a severed resolution condemning ICE for actions resulting in loss of life, calling for third-party investigations and a moratorium on ICE detention, and reaffirming San Francisco's Sanctuary City policies. Supervisor Chen spoke forcefully on recent deaths and community terror, and the resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "elections_governance"
+      ],
+      "speakers": [
+        {
+          "name": "Chyanne Chen",
+          "stance": "support",
+          "quote": "IN 2026 ICE HAS ALREADY KILLED NINE PEOPLE. IF THIS TREND CONTINUES WE WILL QUICKLY OUTPACE LAST YEAR. EACH AND EVERY ONE OF THESE PEOPLE DESERVE JUSTICE.",
+          "t0": 12065.671,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1205466,
+      "summary": "The clerk reported no imperative agenda items, and the Board noted in memoriam tributes for Jose Bernardo Cuellar (Dr. Loco), Mrs. Chiu Cheung Yiu Hoon, Ruth Verlin Davis, and Alex Jeffrey Peretti.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1205467,
+      "summary": "With all calendar business concluded and memorial adjournments read, the Board of Supervisors adjourned its regular meeting.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    }
+  ],
+  "quote_verification": {
+    "verified": 24,
+    "partial": 4,
+    "dropped": 3
+  }
+}

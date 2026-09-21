@@ -1,0 +1,1140 @@
+{
+  "clip_id": 50992,
+  "items": [
+    {
+      "meta_id": 1188220,
+      "summary": "President Rafael Mandelman convened the regular meeting of the San Francisco Board of Supervisors on October 21, 2025. The Board recited the land acknowledgment and the Pledge of Allegiance, and the clerk conducted the roll call with all ten seated supervisors present.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1188224,
+      "summary": "Mayor Daniel Lurie addressed the Board for his scheduled mayoral appearance. He highlighted city public safety statistics, efforts to combat the fentanyl crisis while rejecting the deployment of the federalized National Guard, and the family zoning plan reviewed by the Land Use and Transportation Committee.",
+      "outcome": "no_action",
+      "topics": [
+        "public_safety",
+        "planning_land_use",
+        "housing"
+      ],
+      "speakers": [
+        {
+          "name": "Mayor",
+          "stance": "support",
+          "quote": "DEPLOYING THE NATIONAL GUARD IS CLEARLY NOT THE SOLUTION TO THE CITY'S CHALLENGES.",
+          "t0": 234.539,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1188225,
+      "summary": "Supervisor Chyanne Chen questioned Mayor Lurie on SFPD recruitment and retention strategies aimed at increasing ethnic, gender, and language diversity while upholding sanctuary city policies. Supervisor Jackie Fielder then moved under Administrative Code Section 2.11 to ask an unscheduled question regarding reports of federal threats to deploy the National Guard to San Francisco, which passed unanimously. Mayor Lurie affirmed that local law enforcement is prohibited from participating in federal civil immigration enforcement and detailed ongoing interagency coordination.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "elections_governance"
+      ],
+      "speakers": [
+        {
+          "name": "Chyanne Chen",
+          "stance": "question",
+          "quote": "WILL YOU COMMIT TO IMMEDIATELY IMPLEMENTING PROGRAMS THAT HAVE BEEN SUCCESSFUL IN OTHER COUNTIES AND CITY AND CITIES TO RECRUIT AND RETAIN FEMALE OFFICERS, OFFICERS OF COLOR AND OFFICERS?",
+          "t0": 512.313,
+          "verified": true
+        },
+        {
+          "name": "Mayor",
+          "stance": "support",
+          "quote": "WE NEEDED A PLAN THAT WOULD NOT ONLY PUT MORE OFFICERS OUT ON OUR STREETS BUT MAKE SURE THOSE OFFICERS REFLECT THE CITY THAT THEY SERVE.",
+          "t0": 554.889,
+          "verified": false
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "question",
+          "quote": "WHAT DIRECTION HAVE YOU GIVEN TO RELEVANT GOVERNMENTAL UNITS AND DEPARTMENTS IN THE EXECUTIVE BRANCH IN THE CITY AND COUNTY TO PREPARE OUR CITY AND PROTECTING THE CIVIL LIBERTIES AND RIGHTS OF OUR RESIDENTS AND ESPECIALLY IMMIGRANTS AND PEOPLE OF COLOR?",
+          "t0": 1093.402,
+          "verified": false
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "HOWEVER THE MAYOR HAS INDICATED THAT HE WOULD LIKE TO BE GIVEN THE OPPORTUNITY TO ANSWER THIS QUESTION AND SO I WILL STAND DOWN FROM MY GRINCH LEANINGS AND SUPPORT THE MOTION.",
+          "t0": 941.234,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1188221,
+      "summary": "The clerk announced housekeeping details, noting a vacancy in the District 4 office and that the voting threshold remains six votes for ordinary matters. The clerk also provided instructions for public broadcasting, submitting written public comment, and requesting reasonable accommodations.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1188222,
+      "summary": "The Board considered the approval of meeting minutes for the regular meetings of September 9, 2025, and September 16, 2025. On a roll call vote, all ten supervisors voted in favor to approve the minutes as presented.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1188226,
+      "summary": "The Board took up the consent agenda covering Items 2 through 16, which included development agreements, encroachment permits, and several lawsuit settlements. The consent calendar was adopted unanimously on roll call.",
+      "outcome": "passed",
+      "topics": [
+        "settlements",
+        "planning_land_use",
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1188228,
+      "summary": "Items 2 through 16 on the consent agenda were considered collectively. The measures, including real estate agreements, infrastructure permits, and multiple legal settlements, were adopted by unanimous roll call.",
+      "outcome": "passed",
+      "topics": [
+        "settlements",
+        "planning_land_use",
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1188230,
+      "summary": "This calendar header, which included sub-items for 530 Sansome Street and Fire Station 13 development and various lawsuit settlements, was listed on the agenda. It received no separate debate or action as the Board moved directly to vote on Item 17.",
+      "outcome": "no_action",
+      "topics": [
+        "housing",
+        "settlements",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1188253,
+      "summary": "The Board considered Item 17, an ordinance amending the Building and Planning Codes to comply with state law by postponing the collection of development impact fees for designated residential projects until the first certificate of occupancy. The ordinance passed on final reading with nine ayes and Supervisor Fielder in opposition.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1188295,
+      "summary": "The Board held its special order recognizing residents and organizations for meritorious service. Commendations were presented to Rich Mangano for performing lifesaving CPR at City Hall, Jude Deckenbach for long-term community leadership on Jackson Park renovations, Paul Samson for his decades of advocacy with SEIU Local 2015 on behalf of home care workers, and Brewster Kahle and the Internet Archive on its anniversary.",
+      "outcome": "no_action",
+      "topics": [
+        "parks",
+        "labor",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Danny Sauter",
+          "stance": "support",
+          "quote": "",
+          "t0": 1612.409,
+          "verified": false
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "IN 2015, JUDE TOOK ON A MAJOR CHALLENGE WITH THE FRIENDS OF JACKSON PARK HELPING TO CRAFT A VISION FOR THE PARK'S RENOVATION.",
+          "t0": 1981.543,
+          "verified": false
+        },
+        {
+          "name": "Chyanne Chen",
+          "stance": "support",
+          "quote": "TODAY I'M SO PROUD TO HONOR PAUL SAMPSON, A PASSIONATE ADVOCATES FOR HOME CARE WORKERS, A DEDICATED COMMUNITY MEMBER AND AN INSPIRATIONAL INSPIRATIONAL LEADER IN BOTH THE LABOR MOVEMENT AND THE CHINESE-AMERICAN COMMUNITY.",
+          "t0": 2413.142,
+          "verified": true
+        },
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "TODAY I'M HONORING ONE OF THE RICH RICHMOND'S MOST CHERISHED RESOURCES THE INTERNET ARCHIVE.",
+          "t0": 3115.745,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1188256,
+      "summary": "The Board voted on Item 18, an ordinance amending the Business and Tax Regulations Code to temporarily exempt transfers of rent-restricted affordable housing from the real property transfer tax retroactive to April 12, 2024. The ordinance passed on first reading by an 8-2 roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1188257,
+      "summary": "The Board considered Item 19 to exclude gross receipts of low-income housing partnerships from the gross receipts tax, suspend registration requirements, and exempt properties held for city-sponsored affordable housing from the commercial vacancy tax. The ordinance was passed on first reading with eight ayes and two noes.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "budget",
+        "small_business"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1188258,
+      "summary": "The Board considered Item 20, a resolution authorizing the Recreation and Parks Department to accept and expend approximately $500,000 in cash and in-kind grants from the San Francisco Irish Famine Memorial Committee for a memorial project in Lincoln Park. The resolution was adopted unanimously on roll call.",
+      "outcome": "passed",
+      "topics": [
+        "parks",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1188259,
+      "summary": "Item 21 authorizes the SFPUC General Manager to execute a 30-year funding and license agreement not to exceed $653,033 with the San Francisco Unified School District for an on-site solar photovoltaic system at Mission Bay School. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "environment",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1188260,
+      "summary": "Item 22 authorizes a third amendment to a professional services agreement with APX Inc. for CAISO power transmission service charges, increasing the contract by $365 million to a total not to exceed approximately $1.26 billion. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "environment",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1188261,
+      "summary": "Item 23 retroactively approves a grant agreement between the city and the Children's Council of San Francisco to implement early care and education access and enrollment services through December 31, 2028, for an amount not to exceed $436,382,686. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1188262,
+      "summary": "Item 24 retroactively approves a grant agreement with Wu Yee Children's Services for early care and education access and enrollment services through December 31, 2028, in an amount not to exceed $237,770,265. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1188263,
+      "summary": "Item 25 authorizes the Director of Property to enter into a real property lease of approximately 12,000 square feet at 845 Jackson Street with the Chinese Hospital Association for an initial three-year term with an annual base rent of approximately $499,548. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1188264,
+      "summary": "Item 26 approves an amendment to the lease agreement with the Transbay Joint Powers Authority for continued Muni operations at the Salesforce Transit Center through 2050, with an estimated annual operating charge of approximately $1.2 million. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "transit",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1188267,
+      "summary": "Item 27 retroactively authorizes the SFPUC to execute a five-year memorandum of agreement with the City of Daly City for up to $35,000,000 for the Vista Grande Drainage Basin Improvement Project. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "environment",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1188269,
+      "summary": "Item 28 amends the Planning Code to permit outdoor handwashing, vacuuming, and detailing of automobiles as an accessory use at certain automotive service stations in the Geary Boulevard Neighborhood Commercial District. The ordinance was passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "small_business"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1188270,
+      "summary": "Item 29 adds the commemorative street name 'Jim Marshall Way' to 16th Street between Noe and Castro Streets in honor of photographer Jim Marshall. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1188271,
+      "summary": "Item 30 initiates landmark designation under Article 10 of the Planning Code for Firehouse Hose Company No. 30 at 1757 Waller Street, alongside a sub-item for Maud's at 929-941 Cole Street. The resolutions were adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1188273,
+      "summary": "Item 32 initiates landmark designation under Planning Code Article 10 for St. Matthew's Church located at 3280 16th Street. The resolution was adopted without objection as part of the grouped landmark items.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1188274,
+      "summary": "Item 33 initiates landmark designation under Planning Code Article 10 for St. Nicholas Cathedral located at 2005 15th Street. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1188275,
+      "summary": "Item 34 initiates landmark designation under Planning Code Article 10 for St. Paul's Church located at 1660 Church Street. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1188276,
+      "summary": "Item 35 initiates landmark designation under Planning Code Article 10 for the property located at 102 Guerrero Street. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1188277,
+      "summary": "Item 36 initiates landmark designation for the Bank of Italy Branch Building at 400-410 Castro Street, alongside sub-item 37 for the Bob Ross House at 4020 20th Street. The resolutions were adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1188279,
+      "summary": "Item 38 initiates landmark designation under Planning Code Article 10 for the Castro Rock Steam Baths located at 578-582 Castro Street. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1188280,
+      "summary": "Item 39 initiates landmark designation under Planning Code Article 10 for the San Francisco AIDS Foundation site located at 514-520 Castro Street. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1188281,
+      "summary": "Item 40 initiates landmark designation under Planning Code Article 10 for the Full Moon Coffeehouse located at 4416 18th Street. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1188282,
+      "summary": "Item 41 initiates landmark designation under Planning Code Article 10 for the Most Holy Redeemer Church Complex on Diamond Street. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1188283,
+      "summary": "Item 42 initiates landmark designation under Planning Code Article 10 for the historic location of Congregation Sha'ar Zahav at 220 Danvers Street. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1188284,
+      "summary": "Item 43 initiates landmark designation under Planning Code Article 10 for 361 San Jose Avenue. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1188285,
+      "summary": "Item 44 initiates landmark designation for the Chautauqua House at 1451 Masonic Avenue, along with sub-item 45 for Engine Company No. 13 at 1458 Valencia Street. The resolutions were adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1188288,
+      "summary": "Item 46 accepts the City Administrator's report designating the Department of Homelessness and Supportive Housing, the Controller's Office, and DataSF as health care components under HIPAA. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "homelessness"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1188290,
+      "summary": "Item 47 amends the Administrative Code to create the Union Street Entertainment Zone on portions of Union Street and Fillmore Street. The ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1188291,
+      "summary": "Item 48 accepts the 2025 Annual Surveillance Report for the SFMTA pursuant to Administrative Code Section 19B. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "transit",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1188292,
+      "summary": "Item 49 appoints Ankita Mukhopadhyay Kumar to the Sunshine Ordinance Task Force for a term ending April 27, 2027. The motion was approved without objection.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1188293,
+      "summary": "Item 50 appoints Benjamin Tingle to the Citizens' General Obligation Bond Oversight Committee for a term ending November 21, 2026. The motion was approved without objection.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1188294,
+      "summary": "Item 51 appoints Jennifer Hand to the Children, Youth and Their Families Oversight and Advisory Committee for a term ending July 1, 2026. The motion was approved without objection.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1188296,
+      "summary": "During the roll call for introductions, supervisors introduced several new measures and memorial adjournments. Topics introduced included sidewalk scooter enforcement, WNBA player labor negotiations, the creation of a San Francisco Green Bank, a hearing on the OpenGov contract, a Tenderloin youth violence prevention program, and Bay Area Air Quality Management District zero-emission appliance rules.",
+      "outcome": "no_action",
+      "topics": [
+        "public_safety",
+        "environment",
+        "housing",
+        "elections_governance"
+      ],
+      "speakers": [
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "THIS RESOLUTION CALLS FOR STRONGER COORDINATION BETWEEN S.F. MTA AND SPEEDY TO TREAT SIDEWALKS SCOOTER RIDING AS THE MOVE IN VIOLATION THAT IT IS AND TO PRIORITIZE ENFORCEMENT AND EDUCATION IN HIGH PEDESTRIAN AREAS",
+          "t0": 4658.846,
+          "verified": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "ARLO SMITH, WHO SERVED AS SAN FRANCISCO'S DISTRICT ATTORNEY FROM 1980 TO 1996, PASSED AWAY EARLIER THIS MONTH.",
+          "t0": 5085.499,
+          "verified": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "support",
+          "quote": "TODAY I AM EXCITED TO INTRODUCE A RESOLUTION URGING THE MAYOR, TREASURER AND TAX COLLECTOR AND OTHER DEPARTMENTS TO EXPLORE AND PURSUE FUNDING OPPORTUNITIES FOR THE ESTABLISHMENT OF SAN FRANCISCO GREEN BANK.",
+          "t0": 5434.136,
+          "verified": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "AND SO TODAY I'M CALLING TO LAUNCH A TENDERLOIN YOUTH VIOLENCE PREVENTION PROGRAM BECAUSE EVERY YOUNG PERSON DESERVES A CHANCE AT LIFE.",
+          "t0": 6007.601,
+          "verified": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "FIRST I'M INTRODUCING A RESOLUTION SUPPORTING THE BAY AREA AIR DISTRICTS RULES THAT ESTABLISH ZERO EMISSION STANDARDS FOR BUILDING APPLIANCES.",
+          "t0": 6133.226,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1188297,
+      "summary": "Members of the public provided general comments on various municipal matters within the Board's jurisdiction. Speakers voiced strong support for establishing a San Francisco Green Public Bank, expressed concerns over cultural competency in supportive housing and services, and raised public safety and enforcement issues regarding street prostitution on Shotwell Street.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": [
+        "Strong public support for establishing a municipal green public bank",
+        "Need for cultural competency and patient advocacy in homelessness supportive housing and services",
+        "Calls for coordinated city agency action regarding street prostitution on Shotwell Street",
+        "Commemoration of Domestic Violence Awareness Month and funding for community services"
+      ]
+    },
+    {
+      "meta_id": 1188298,
+      "summary": "The Board considered items introduced for adoption without committee reference, with Items 54 and 57 severed for separate consideration. The remaining resolutions (Items 55, 56, and 58) were adopted unanimously on roll call.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1188301,
+      "summary": "Severed Item 54 celebrates Diwali on October 20, 2025, and recognizes the South Asian community and Parivar Bay Area. President Mandelman spoke in celebration of the cultural holiday, and the resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "DIWALI IS OF COURSE MORE THAN JUST A CELEBRATION OF LIGHT SWEETS AND FIREWORKS. IT'S ALSO A CELEBRATION OF THE TRIUMPH OF LIGHT OVER DARKNESS GOOD OVER EVIL AND HOPE OVER DESPAIR.",
+          "t0": 9387.453,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1188304,
+      "summary": "Severed Item 57 recognizes October 2025 as Domestic Violence Awareness Month in San Francisco. Supervisor Melgar offered an amendment to update the annual theme to 'Lead with Courage: A Call to Action,' which was approved without objection, and the amended resolution was adopted unanimously.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "health"
+      ],
+      "speakers": [
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "I AM A SURVIVOR OF DOMESTIC VIOLENCE AND ABUSE ALONG WITH MY MOTHER AND SISTERS. THERE ARE SO MANY OF US WHO HAVE LIVED THROUGH IT AND ARE AT RISK OR ARE AT RISK OF IT AND WE NEED TO DO EVERYTHING WE CAN TO INVEST IN THE RESOURCES TO PREVENT AND TO UPLIFT SURVIVORS.",
+          "t0": 9516.786,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1188326,
+      "summary": "President Mandelman and the clerk read the memoriam adjournments honoring Karen Jean Pierce, Hector Williams, Arlo Smith, Benu Buda Toki, Miss Major Griffin-Gracy, Mark Rennie, and Terrance Alan. The meeting was adjourned in their memory.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    }
+  ],
+  "quote_verification": {
+    "verified": 12,
+    "partial": 3,
+    "dropped": 1
+  }
+}

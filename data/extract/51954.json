@@ -1,0 +1,1750 @@
+{
+  "clip_id": 51954,
+  "items": [
+    {
+      "meta_id": 1220287,
+      "summary": "The Board of Supervisors convened for its regular meeting on March 10, 2026. The roll was called, establishing that all eleven supervisors were present, followed by an ancestral land acknowledgment and the recitation of the Pledge of Allegiance.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1220291,
+      "summary": "Mayor Daniel Lurie addressed the Board of Supervisors during the scheduled mayoral appearance. He presented a package of proposed charter reforms developed with Board President Rafael Mandelman, focusing on overhauling city contracting under the City Administrator, simplifying the ballot by adjusting ballot measure requirements, and establishing greater executive accountability over department heads and commissions.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [
+        {
+          "name": "Mayor",
+          "stance": "support",
+          "quote": "MEMBERS OF THE BOARD YOU ALL KNOW THAT OUR CITY CHARTER IS ONE IS ONE OF THE LONGEST IN THE COUNTRY. IT'S BLOATED AND IT'S BROKEN. THAT'S WHY PRESIDENT MANDELL MEN AND I ARE PROPOSING REFORMS TO CLEAN UP OUR CHARTER AND MAKE OUR CITY'S GOVERNMENT MORE ACCOUNTABLE TO THE RESIDENTS WE SERVE.",
+          "t0": 159.544,
+          "verified": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "THANK YOU, MR. MAYOR. THANK YOU FOR YOUR REMARKS. THANK YOU FOR THE COLLEGIAL WAY IN WHICH YOU AND YOUR TEAM HAVE WORKED ON THESE MEASURES OVER THESE LAST SEVERAL MONTHS.",
+          "t0": 333.127,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1220288,
+      "summary": "The Clerk of the Board announced standard procedural instructions for attending Board meetings in person, viewing the broadcast via SFGovTV, submitting written public comment, and requesting reasonable accommodations under the Americans with Disabilities Act.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1220289,
+      "summary": "The Board considered the approval of the meeting minutes from the February 3, 2026 Board of Supervisors regular meeting. Following a roll call vote, the minutes were approved unanimously.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1220293,
+      "summary": "The Board considered Items 1 through 4 on the consent agenda as a routine package. On a roll call vote, the consent ordinances and measures were finally passed unanimously without objection.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1220295,
+      "summary": "The Board considered Items 1 through 4 on consent, covering an appropriation of reserve funds for emergency management street staffing and Human Rights Commission initiatives, planning code amendments for adaptive reuse of historic buildings, code amendments for the Shared Spaces program, and adoption of the 2025 Fire Code. The items were called together and passed unanimously on roll call.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "planning_land_use",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1220308,
+      "summary": "The Board considered a resolution approving a fourth amendment to a contract with Allied Universal Security Services for armed and unarmed security guard services, extending the term by one year and increasing the amount by approximately $5.9 million to a total not to exceed approximately $65 million. The resolution was adopted without objection via same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1220311,
+      "summary": "The Board considered a resolution authorizing a permanent easement at no cost to Pacific Gas and Electric Company on SFPUC property at 1800 Jerrold Avenue to deliver additional natural gas supply to support new biosolids digesters at the Southeast Water Pollution Control Plant. Supervisor Fielder expressed climate concerns regarding the reliance on additional natural gas, while SFPUC staff explained the environmental justice rationale for moving away from onsite cogeneration. The resolution was adopted on an 10-1 vote, with Supervisor Fielder dissenting.",
+      "outcome": "passed",
+      "topics": [
+        "environment",
+        "planning_land_use"
+      ],
+      "speakers": [
+        {
+          "name": "Jackie Fielder",
+          "stance": "oppose",
+          "quote": "IN ORDER TO MAKE THIS REGENERATIVE ENERGY WORK, THE PLANT ACTUALLY NEEDS MORE NATURAL GAS AND PGE ALREADY SUPPLIES GAS TO THE SITE AND SO THEY'RE GOING TO ALSO BE BE INSTALLING THAT AND THIS FACILITY NEEDS EXTRA GAS AND KNOWING WHAT OUR CLIMATE GOALS ARE I JUST CANNOT SUPPORT SUPPORT THE CONCEPT",
+          "t0": 703.925,
+          "verified": false
+        },
+        {
+          "name": "Department head",
+          "stance": "support",
+          "quote": "WE MADE THE DECISION AS PART OF THE DESIGN PROCESS TO MOVE AWAY FROM A COGENERATION PROCESS WHERE WE ACTUALLY USED THE NATURAL ARE THE BIO GAS THAT THE PROCESS CREATES ONSITE TO CREATE ELECTRICITY AND THEN FEED THAT BACK IN TO CREATE HEAT WHICH IS PART OF THE PROCESS WE MADE THE DECISION TO MOVE AWAY",
+          "t0": 807.713,
+          "verified": false
+        }
+      ],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1220313,
+      "summary": "The Board considered a motion appointing Elena Rivkin to the Assessment Appeals Board No. 3 for a term ending September 7, 2026, waiving the residency requirement. The motion was approved unanimously on a roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1220315,
+      "summary": "The Board considered an ordinance establishing a surveillance technology policy for SFPD electronic location tracking devices, specifically StarChase projectile launchers. Supervisors Walton and Chan requested a two-week continuance to evaluate Fourth Amendment civil liberties implications, costs, and the effectiveness of the pilot technology, after SFPD staff answered questions regarding its operational deployment. The motion to continue the item to March 24, 2026 passed unanimously on roll call.",
+      "outcome": "continued",
+      "topics": [
+        "public_safety"
+      ],
+      "speakers": [
+        {
+          "name": "Shamann Walton",
+          "stance": "neutral",
+          "quote": "SO I WOULD LIKE TO CONTINUE THIS ORDINANCE UNTIL OUR MARCH 24TH MEETING. FEW OF THE MAJOR REASONS IS BECAUSE THERE ARE CONCERNS ABOUT WARRANTLESS TRACKERS, LACK OF DATA, COST CONCERNS, RELIABILITY AND OF COURSE ALWAYS THE PROTECTION OF CIVIL LIBERTIES.",
+          "t0": 971.547,
+          "verified": true
+        },
+        {
+          "name": "Connie Chan",
+          "stance": "question",
+          "quote": "I HAVE SOME QUESTIONS BOTH ON THE EXISTING TECHNOLOGY THAT IS AVAILABLE STAR CHASE SEEMS TO BE THE TECHNOLOGY IN QUESTION AND ALSO THE ONLY TECHNOLOGY THAT IS CURRENTLY AVAILABLE FOR A PILOT USE. I HAVE SOME QUESTIONS ABOUT THE TECHNOLOGY ITSELF.",
+          "t0": 1016.726,
+          "verified": true
+        },
+        {
+          "name": "Department head",
+          "stance": "support",
+          "quote": "STAR CHASE IS A PURSUIT MITIGATION TOOL. IT'S NOT A PURSUIT ENHANCEMENT TOOL. IT'S OVERALL GOAL IS TO REDUCE DANGEROUS HIGH SPEED PURSUITS WITHIN THE CITY. IT IS A JEEPS PROJECTILE LAUNCHER THAT WOULD AFFIX TO A CAR REGARDING FOURTH AMENDMENT RIGHTS UNDER EXIGENT CIRCUMSTANCES ONLY",
+          "t0": 1117.508,
+          "verified": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "I AM INCLINED TO SUPPORT THE REQUEST FOR A TWO WEEK CONTINUANCE. I THINK YOU KNOW AS A MATTER OF COLLEGIALITY THAT'S A REASONABLE THING FOR COLLEAGUES TO REQUEST AND THERE ISN'T ANY PARTICULAR REASON WHY THIS NEEDS TO GET DEALT WITH SOONER.",
+          "t0": 1314.241,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1220316,
+      "summary": "This item refers to the Administrative Code amendment establishing the surveillance technology policy for SFPD electronic location tracking devices (StarChase). Supervisors discussed concerns about warrantless tracking, Fourth Amendment compliance, and pilot results before agreeing to postpone action. On a motion by Supervisor Walton, the item was continued to March 24, 2026 by unanimous roll call vote.",
+      "outcome": "continued",
+      "topics": [
+        "public_safety"
+      ],
+      "speakers": [
+        {
+          "name": "Shamann Walton",
+          "stance": "neutral",
+          "quote": "SO I WOULD LIKE TO CONTINUE THIS ORDINANCE UNTIL OUR MARCH 24TH MEETING. FEW OF THE MAJOR REASONS IS BECAUSE THERE ARE CONCERNS ABOUT WARRANTLESS TRACKERS, LACK OF DATA, COST CONCERNS, RELIABILITY AND OF COURSE ALWAYS THE PROTECTION OF CIVIL LIBERTIES.",
+          "t0": 971.547,
+          "verified": true
+        },
+        {
+          "name": "Connie Chan",
+          "stance": "question",
+          "quote": "I CERTAINLY ALSO HAVE QUESTIONS ABOUT THE YOU KNOW, BASICALLY ALSO THE POLICY INSURING WHETHER THIS POLICY ALSO ENSURE THE RIGHTS TO FOURTH AMENDMENT ALLOWING A TRACKER FOR A MOVING VEHICLE.",
+          "t0": 1046.956,
+          "verified": true
+        },
+        {
+          "name": "Department head",
+          "stance": "support",
+          "quote": "AS YOU MENTIONED, THIS IS A PILOT PROGRAM OR PILOT TECHNOLOGY UNDER PROP E SO THE DEPARTMENT FIRST DEPLOYED STAR CHASE IN DECEMBER 2020 FOR THROUGHOUT THE CALENDAR YEAR OF 2025 THE DEPARTMENT HAD 22 DEPLOYMENTS OF STAR CHASE AND 17 SUCCESSFUL TAGS ON VEHICLES",
+          "t0": 1229.487,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1220331,
+      "summary": "The Board considered a settlement of an employment dispute lawsuit filed by Keesha Henderson against the City for $55,000, recommended by the Government Audit and Oversight Committee. The settlement was voted on alongside other litigation items and adopted unanimously.",
+      "outcome": "passed",
+      "topics": [
+        "settlements"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1220332,
+      "summary": "The Board considered an ordinance authorizing the settlement of an employment dispute lawsuit filed by Renee Owens against the City for $800,000. It was called as part of Items 13 through 19 and adopted on a unanimous roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "settlements"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1220333,
+      "summary": "The Board considered an ordinance authorizing the settlement of a lawsuit alleging elder abuse filed by Lan Pham and family against the City for $500,000. The item was called as part of the litigation settlement block and adopted unanimously on roll call.",
+      "outcome": "passed",
+      "topics": [
+        "settlements"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1220334,
+      "summary": "The Board considered a settlement of an unlitigated tax claim filed by WPP Group USA, Inc. for $350,000 involving a refund of gross receipts and homelessness gross receipts taxes. The settlement was approved unanimously on roll call.",
+      "outcome": "passed",
+      "topics": [
+        "settlements",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1220335,
+      "summary": "The Board considered a settlement of an unlitigated claim filed by Robert DyFoon for $32,500 regarding property damage resulting from flooding caused by a water service line rupture. The settlement was approved unanimously on roll call.",
+      "outcome": "passed",
+      "topics": [
+        "settlements"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1220336,
+      "summary": "The Board considered a settlement of an unlitigated claim filed by Everen Capital Corporation for approximately $2.19 million, resolving a refund of gross receipts and homelessness gross receipts taxes. The resolution was adopted unanimously on roll call.",
+      "outcome": "passed",
+      "topics": [
+        "settlements",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1220337,
+      "summary": "The Board considered a settlement of a citation issued by the Bay Area Air Quality Management District for $30,450 concerning an alleged public nuisance stemming from the discharge of chemical agents during a training exercise. The settlement was approved unanimously on roll call.",
+      "outcome": "passed",
+      "topics": [
+        "settlements",
+        "environment",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1220340,
+      "summary": "The Board considered a resolution adding the commemorative street name 'James Richard Way' to Oakdale Avenue between Third Street and Newhall Street. Sponsor Supervisor Walton thanked the Land Use and Transportation Committee and co-sponsors for advancing the measure, which was adopted without objection via same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "I JUST WANT TO ONE THANK THE LAND USE COMMITTEE FOR HEARING THIS ITEM ON YESTERDAY AND THANK ALL THE CO-SPONSORS FOR MAKING SURE THAT THIS MOVE FORWARD TO TODAY'S MEETING.",
+          "t0": 1561.835,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1220317,
+      "summary": "The Board conducted a special order recognizing meritorious community leaders for Women's History Month and institutional milestones. Supervisor Walton commended Jessica Campos from the Human Rights Commission; Supervisor Sherrill honored retail entrepreneur and merchant leader Danielle Burris; Supervisor Sauter commended Saints Peter and Paul School on its centennial; Supervisor Wong honored parent organizer Maria Luz Torre for 30 years with Parent Voices; Supervisor Mahmood recognized Michael Vonn upon concluding his tenure with the Boys and Girls Club of San Francisco; and Supervisor Chen honored educator and union leader Jerry Almanza.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "",
+          "t0": 1608.15,
+          "verified": false
+        },
+        {
+          "name": "Stephen Sherrill",
+          "stance": "support",
+          "quote": "COLLEAGUES IT IS MY ABSOLUTE HONOR TODAY TO COMMEND DANIELLE BURRIS FOR HER OUTSTANDING LEADERSHIP AS ONE OF THE PRESIDENTS OF THE SACRAMENTO STREET MERCHANTS ASSOCIATION",
+          "t0": 2079.113,
+          "verified": true
+        },
+        {
+          "name": "Danny Sauter",
+          "stance": "support",
+          "quote": "COLLEAGUES TODAY I HAVE THE HONOR OF WELCOMING STAFF AND EIGHTH GRADE STUDENTS FROM ST PETER AND PAUL SCHOOL. AS WE CELEBRATE THEIR 100TH ANNIVERSARY",
+          "t0": 2487.34,
+          "verified": true
+        },
+        {
+          "name": "Alan Wong",
+          "stance": "support",
+          "quote": "IT IS MY HONOR TO PRESENT THIS COMMENDATION CELEBRATING MARIA LUIZ TORREY ON THE MOMENTOUS OCCASION OF HER 30TH WORK ANNIVERSARY WITH PARENT VOICES CAL FORNIA.",
+          "t0": 2958.373,
+          "verified": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "COLLEAGUES, TODAY I HAVE THE HONOR OF RECOGNIZING MICHAEL VONN, THE CLUBHOUSE DIRECTOR OF THE TENDERLOIN CLUBHOUSE FOR HIS DEEP COMMITMENT TO THE YOUNG PEOPLE OF SAN FRANCISCO AND FOR NEARLY TWO DECADES OF SERVICE ADVANCING THE MISSION OF THE BOYS AND GIRLS CLUB OF SAN FRANCISCO.",
+          "t0": 3693.32,
+          "verified": false
+        },
+        {
+          "name": "Chyanne Chen",
+          "stance": "support",
+          "quote": "IT'S MY ABSOLUTE PLEASURE TO HONOR A WOMAN WHO IS A FIERCE ADVOCATE, A BEAUTIFUL SOUL, AN AMAZING WARRIOR AND MY OWN DISTRICT 11 NEIGHBOR. >> SHE IS A WOMAN WHO HAS QUIETLY YET POWERFULLY LEFT HER MARK ON OUR CITY'S ENVIRONMENTAL JUSTICE JUSTICE MOVEMENT AND PUBLIC EDUCATION SYSTEM.",
+          "t0": 4293.593,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1220319,
+      "summary": "The Board called the 3:00 PM special order regarding an appeal of a de facto denial of a conditional use authorization for dwelling unit legalization and merger at 524\u2013526 Vallejo Street and 4\u20134A San Antonio Place. Supervisor Sauter moved to continue the hearing and related motions to April 7, 2026 to allow for a Department of Building Inspection site inspection, which the Board approved on roll call following public comment.",
+      "outcome": "continued",
+      "topics": [
+        "planning_land_use",
+        "housing"
+      ],
+      "speakers": [
+        {
+          "name": "Danny Sauter",
+          "stance": "support",
+          "quote": "",
+          "t0": 5170.193,
+          "verified": false
+        }
+      ],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": [
+        "Opposition to continuing the conditional use appeal or overturning Planning Commission unit merger denial"
+      ]
+    },
+    {
+      "meta_id": 1220322,
+      "summary": "This item pertained to the hearing on the appeal of the de facto denial of conditional use authorization for 524\u2013526 Vallejo Street and 4\u20134A San Antonio Place. At the request of the project sponsor and District Supervisor Danny Sauter, the public hearing was continued open to April 7, 2026 by an 11-0 roll call vote.",
+      "outcome": "continued",
+      "topics": [
+        "planning_land_use",
+        "housing"
+      ],
+      "speakers": [
+        {
+          "name": "Danny Sauter",
+          "stance": "support",
+          "quote": "",
+          "t0": 5186.209,
+          "verified": false
+        }
+      ],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": [
+        "Concerns regarding illegal residential unit mergers during a housing crisis"
+      ]
+    },
+    {
+      "meta_id": 1220326,
+      "summary": "The Board considered the companion motion to uphold the Planning Commission's de facto denial of conditional use authorization for 524\u2013526 Vallejo Street and 4\u20134A San Antonio Place. The matter was continued open along with the appeal hearing to April 7, 2026 by unanimous roll call vote.",
+      "outcome": "continued",
+      "topics": [
+        "planning_land_use",
+        "housing"
+      ],
+      "speakers": [
+        {
+          "name": "Danny Sauter",
+          "stance": "support",
+          "quote": "THIS ADDITIONAL TIME WILL ALLOW FOR AN INSPECTION FROM DTI WHICH WE BELIEVE IS IMPORTANT TO BRING MORE CLARITY TO THE SITUATION. SO I'D LIKE TO MAKE A MOTION FOR THESE ITEMS TO BE CONTINUED TO APRIL 7TH.",
+          "t0": 5181.538,
+          "verified": false
+        }
+      ],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": [
+        "Opposition to granting conditional use authorization for unit merger"
+      ]
+    },
+    {
+      "meta_id": 1220327,
+      "summary": "The Board considered the companion motion to disapprove the Planning Commission's decision and approve the conditional use authorization for 524\u2013526 Vallejo Street and 4\u20134A San Antonio Place. The motion was continued along with the main hearing to April 7, 2026 on roll call.",
+      "outcome": "continued",
+      "topics": [
+        "planning_land_use",
+        "housing"
+      ],
+      "speakers": [
+        {
+          "name": "Danny Sauter",
+          "stance": "support",
+          "quote": "ALL PARTIES INCLUDING THE APPELLANT'S DEPARTMENT BUILDING INSPECTION AND PLANNING ARE ON BOARD WITH THIS REQUEST AND THIS ADDITIONAL TIME WILL ALLOW FOR AN INSPECTION FROM DTI",
+          "t0": 5173.463,
+          "verified": false
+        }
+      ],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": [
+        "Opposition to the continuance"
+      ]
+    },
+    {
+      "meta_id": 1220328,
+      "summary": "The Board considered the companion motion to direct the preparation of findings related to the conditional use appeal at 524\u2013526 Vallejo Street and 4\u20134A San Antonio Place. The item was continued alongside the appeal package to April 7, 2026 by an 11-0 roll call vote.",
+      "outcome": "continued",
+      "topics": [
+        "planning_land_use",
+        "housing"
+      ],
+      "speakers": [
+        {
+          "name": "Danny Sauter",
+          "stance": "support",
+          "quote": "SO I'D LIKE TO MAKE A MOTION FOR THESE ITEMS TO BE CONTINUED TO APRIL 7TH.",
+          "t0": 5186.209,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": [
+        "Opposition to the continuance"
+      ]
+    },
+    {
+      "meta_id": 1220341,
+      "summary": "Supervisors introduced new legislation and policy inquiries during Roll Call for Introductions. Supervisor Dorsey introduced legislation and inquiries opposing the SFERS pension system's planned relocation from Civic Center; Supervisor Fielder called for an audit of the Sheriff's Office overtime spending and operations and adjourned in memory of Diamond Dave Whitaker; Supervisor Mandelman introduced curbside EV charging legislation, an SFPUC green infrastructure grant extension, and John and Ina Dearman Day; Supervisor Sauter introduced resolutions supporting state bills on speed governors (AB 2276) and illegal dumping DMV registration holds (SB 1218); Supervisor Sherrill adjourned in memory of Lt. Frank 'Skip' Lucier; and Supervisor Walton adjourned in memory of Dr. Kumudben Mahendrakumar Dave.",
+      "outcome": "no_action",
+      "topics": [
+        "budget",
+        "public_safety",
+        "transit",
+        "environment",
+        "health",
+        "planning_land_use"
+      ],
+      "speakers": [
+        {
+          "name": "Matt Dorsey",
+          "stance": "neutral",
+          "quote": "IN MY VIEW ANY CITY AGENCY'S PROPOSED MOVE OUT OF CIVIC CENTER REPRESENTS THE EXACT OPPOSITE OF WHAT OUR CITY SHOULD BE DOING TO REINVEST AND REINVIGORATE OUR ADJACENT NEIGHBORHOODS WITH STRATEGIC INVESTMENTS OF OUR CITY'S OWN REAL ESTATE ASSETS.",
+          "t0": 5478.865,
+          "verified": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "neutral",
+          "quote": "COLLEAGUES TODAY I AM REQUESTING THAT THE BUDGET AND LEGISLATIVE ANALYST'S OFFICE COMPLETE AN AUDIT OF THE SHERIFF'S OFFICE. THIS AUDIT IS NOT AN INDICTMENT OF ANY ONE PERSON OR WORKFORCE . >> THE SHERIFFS ARE ESTEEMED AND VALUED PUBLIC SERVANTS",
+          "t0": 5612.685,
+          "verified": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "neutral",
+          "quote": "TODAY THE MAYOR AND I ARE INTRODUCING LEGISLATION TO ESTABLISH A PERMITTING PATHWAY AND PROGRAM TO ALLOW CURBSIDE CHARGING TO GO FROM THE PILOT THAT IT IS NOW TO TO SCALE.",
+          "t0": 6062.159,
+          "verified": true
+        },
+        {
+          "name": "Danny Sauter",
+          "stance": "neutral",
+          "quote": "FIRST I AM INTRODUCING A RESOLUTION IN SUPPORT OF A BILL 2276 THE STOP SUPER SPEEDERS ACT. >> THIS BILL FROM ASSEMBLYMEMBER ESMERALDA SORIA WOULD ESTABLISH A FIVE YEAR STATEWIDE PILOT REQUIRING CERTAIN RECKLESS SPEEDERS TO INSTALL ACTIVE INTELLIGENT SPEED ASSISTANT ASSISTANCE DEVICES",
+          "t0": 6508.371,
+          "verified": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "stance": "neutral",
+          "quote": "COLLEAGUES TODAY I ASK FOR US TO ADJOURN IN MEMORY OF LIEUTENANT FRANK SKIP LUCIER, A DEDICATED MEMBER OF THE SAN FRANCISCO FIRE DEPARTMENT FOR MORE THAN 23 YEARS.",
+          "t0": 6649.853,
+          "verified": true
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "neutral",
+          "quote": "COLLEAGUES TODAY WE HONOR THE LIFE A VISITATION VALLEY RESIDENT DR. KOOPMAN BIN MAHENDRA KUMAR DAVE WHO PASSED AWAY PEACEFULLY AT HOME AT THE AGE OF 85.",
+          "t0": 6750.836,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1220342,
+      "summary": "Members of the public addressed the Board during General Public Comment. Key topics included strong opposition to the proposed repeal of Proposition I (the real estate transfer tax) and the BUILD Act, support for declaring March as Iranian American Heritage Month, criticism of Mayor Lurie's public safety strategies in the Tenderloin, concerns regarding SFPUC sewer improvement spending, and calls to preserve and fund the Ella Hill Hutch Community Center in the Western Addition.",
+      "outcome": "no_action",
+      "topics": [
+        "housing",
+        "budget",
+        "public_safety",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Public commenter",
+          "stance": "support",
+          "quote": "I STAND HERE TODAY FULL OF COMPLICATED EMOTIONS AS A PROUD IRANIAN-AMERICAN RESIDENT OF THE MOST SIGNIFICANT CITY OR NOT KNOWING THAT MAGNIFICENT CITY ON EARTH SAN FRANCISCO. I STAND IN GRATITUDE AND APPRECIATION OF EACH AND EVERY ONE OF YOU FOR CONSIDERING THIS RESOLUTION",
+          "t0": 6977.801,
+          "verified": false
+        },
+        {
+          "name": "Public commenter",
+          "stance": "oppose",
+          "quote": "SUPERVISOR MADELINE'S MOTION HIJACKED THE LEGISLATIVE INTENT AND SPIRIT OF A 30 DAY RULE THE BOARD OF SUPERVISORS SHOULD ALTHOUGH NO AMENDMENTS MOTION TODAY SHOULD ALLOW THE RULES COMMITTEE REVIEW PROCESS TO PLAY OUT AMENDMENTS MOTION TO PULL THE MATTER FROM THE RULES COMMITTEE",
+          "t0": 7146.25,
+          "verified": true
+        },
+        {
+          "name": "Public commenter",
+          "stance": "oppose",
+          "quote": "I'M HERE TO TALK AGAINST PROP II REPEAL THIS PROPOSAL YOU KNOW TO REPEAL PROP II IS DEEPLY TROUBLING TO US BECAUSE THIS IS A VOTER MANDATED FUNDING THAT SUPPORTS HOUSING STABILITY PROGRAMS IN SAN FRANCISCO WHEN WE TALK ABOUT REPEALING IT, WE'RE TALKING ABOUT CUTTING FUNDING",
+          "t0": 8442.149,
+          "verified": true
+        },
+        {
+          "name": "Public commenter",
+          "stance": "oppose",
+          "quote": "SUPERVISOR MAHMUD HAS STATED THAT THE BUILD OUT WILL JUMPSTART DEVELOPMENT IN AFFORDABLE HOUSING. I WOULD LIKE TO SEE HOW MANY REAL ESTATE COMPANIES COME TO THE BOARD ASKING YOU TO WAIVE IMPACT FEES AND LOWER THE NUMBER OF INCLUSIONARY UNITS BECAUSE THE ECONOMICS JUST DOESN'T PENCIL OUT.",
+          "t0": 9520.171,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": [
+        "Support for Iranian American Heritage Month resolution",
+        "Vigorous opposition to repealing Proposition I transfer taxes and enacting the BUILD Act",
+        "Preservation and investment in the Ella Hill Hutch Community Center",
+        "Opposition to pulling charter reform measures from Rules Committee without a 30-day waiting period",
+        "Criticism of Mayor Lurie's policing policies and alleged cooperation with federal immigration enforcement"
+      ]
+    },
+    {
+      "meta_id": 1220343,
+      "summary": "The Board considered the agenda items For Adoption Without Committee Reference (Items 23 through 32), with Item 24 severed by Supervisor Dorsey and Item 28 referred to committee by Supervisor Walton. On a roll call vote, the remaining resolutions were adopted and the motion was approved unanimously.",
+      "outcome": "passed",
+      "topics": [
+        "other",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1220347,
+      "summary": "The Board considered Item 24, a resolution recognizing the month of March 2026 as Iranian American Heritage Month in the City and County of San Francisco, sponsored by Supervisor Dorsey and co-sponsored by all supervisors. Supervisor Dorsey spoke on the contributions of the Iranian American community and the significance of this recognition amidst international pain and conflict. The resolution was unanimously adopted without objection via same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "COLLEAGUES I AM TODAY ASKING YOU TO JOIN ME IN SUPPORTING A RESOLUTION RECOGNIZING THE MONTH OF MARCH AS IRANIAN-AMERICAN HERITAGE MONTH AND I DO WANT TO EXPRESS MY APPRECIATION TO COLLEAGUES FOR YOUR CO-SPONSORSHIP.",
+          "t0": 9961.3,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1220379,
+      "summary": "The Board adjourned the meeting in memory of Diamond Dave Whitaker, Lieutenant Frank 'Skip' Lucier, and Dr. Kumudben Mahendrakumar Dave.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    }
+  ],
+  "quote_verification": {
+    "verified": 24,
+    "partial": 7,
+    "dropped": 3
+  }
+}

@@ -1,0 +1,1099 @@
+{
+  "clip_id": 50251,
+  "items": [
+    {
+      "meta_id": 1166443,
+      "summary": "President Rafael Mandelman opened the regular Board of Supervisors meeting on June 17, 2025. The clerk conducted roll call, confirming all supervisors were present, followed by the land acknowledgment and Pledge of Allegiance.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1166444,
+      "summary": "The clerk read general communications and public meeting announcements, including rules regarding signs in the chamber. After several recesses, the Board reconvened to approve the minutes.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1166445,
+      "summary": "The Board approved the minutes of the May 13, 2025 meeting without objection.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1166498,
+      "summary": "Supervisors recognized retiring firefighter Stan Lee for 30 years of service to the San Francisco Fire Department and community volunteering. Supervisor Dorsey also offered in memoriam recognitions for Muni operator Rodney Jean Bowden and retired Deputy Sheriff Rhonda Marie Gaines.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "transit",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Chyanne Chen",
+          "stance": "support",
+          "quote": "I'M CELEBRATING AND HONORING FIREFIGHTER STAN LEE WHO IS CONCLUDING AN EXTRAORDINARY 30 YEAR CAREER DEDICATED TO SERVING OUR COMMUNITY.",
+          "t0": 7250.875,
+          "verified": false
+        },
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "YOU ARE SUCH A GREAT REPRESENTATIVE OF WHO WE ARE AS A COMMUNITY NOT JUST FOR YOUR PUBLIC SERVICE WITH THE CITY AND COUNTY OF SAN FRANCISCO AS OUR FIREFIGHTER",
+          "t0": 7499.33,
+          "verified": false
+        },
+        {
+          "name": "Danny Sauter",
+          "stance": "support",
+          "quote": "THANK YOU FOR YOUR DECADES OF COURAGEOUS SERVICE TO THE CITY AND COUNTY OF SAN FRANCISCO.",
+          "t0": 7571.22,
+          "verified": false
+        },
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "FIRST I ASK THAT WE ADJOURN TODAY'S MEETING TO HONOR THE LIFE AND LEGACY OF RODNEY JEAN BOUTON, A BELOVED MUNI OPERATOR",
+          "t0": 7830.684,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1166502,
+      "summary": "The Board held a public hearing regarding an appeal of the Final Environmental Impact Report certification for a proposed senior care expansion at 3400 Laguna Street. Following presentation from appellants, the project sponsor, and Planning Department staff, the hearing was held and filed.",
+      "outcome": "passed",
+      "topics": [
+        "environment",
+        "housing",
+        "planning_land_use"
+      ],
+      "speakers": [
+        {
+          "name": "Stephen Sherrill",
+          "stance": "support",
+          "quote": "",
+          "t0": 14450.973,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": [
+        "Preservation of historic Julia Morgan landmark",
+        "Traffic and pedestrian safety concerns on Bay and Laguna streets",
+        "Loss of rent-controlled units and luxury vs. affordable senior care"
+      ]
+    },
+    {
+      "meta_id": 1166506,
+      "summary": "The Board approved the motion to affirm the Planning Commission's certification of the Final Environmental Impact Report for the 3400 Laguna Street project. The motion passed unanimously with all 11 supervisors voting aye.",
+      "outcome": "passed",
+      "topics": [
+        "environment",
+        "planning_land_use"
+      ],
+      "speakers": [
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "",
+          "t0": 14639.647,
+          "verified": false
+        }
+      ],
+      "votes": [
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1166507,
+      "summary": "Motion conditionally reversing the Final Environmental Impact Report certification for 3400 Laguna Street was tabled following the Board's vote to affirm the EIR certification.",
+      "outcome": "no_action",
+      "topics": [
+        "environment",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1166508,
+      "summary": "Motion directing the preparation of findings to reverse the Final Environmental Impact Report certification for 3400 Laguna Street was tabled following approval of the motion affirming certification.",
+      "outcome": "no_action",
+      "topics": [
+        "environment",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1166510,
+      "summary": "The Board held a public hearing on appeals filed against the Planning Commission's approval of a Conditional Use Authorization for 3400 Laguna Street. The hearing was held in conjunction with related appeals and subsequently filed.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": [
+        "Allegations that existing rent-controlled units were converted into institutional care without proper authorization",
+        "Need for expanded senior care accommodations and upgraded facilities",
+        "Impact of proposed massing on the surrounding neighborhood"
+      ]
+    },
+    {
+      "meta_id": 1166513,
+      "summary": "The motion approving the Planning Commission's Conditional Use Authorization as originally decided was tabled in favor of an amended disapproval motion that approved the project with revised findings.",
+      "outcome": "no_action",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1166514,
+      "summary": "The Board amended and approved the motion disapproving the Planning Commission's Conditional Use Authorization, effectively approving the Conditional Use with modified finding 6(L) removing architectural review committee re-review. The motion passed 10-1 with Supervisor Chan dissenting.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "planning_land_use"
+      ],
+      "speakers": [
+        {
+          "name": "Stephen Sherrill",
+          "stance": "support",
+          "quote": "",
+          "t0": 14936.482,
+          "verified": false
+        },
+        {
+          "name": "Connie Chan",
+          "stance": "oppose",
+          "quote": "",
+          "t0": 14682.23,
+          "verified": false
+        }
+      ],
+      "votes": [
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1166515,
+      "summary": "The Board approved the motion directing the preparation of findings supporting the modified conditional use authorization for 3400 Laguna Street. The motion passed 10-1 with Supervisor Chan voting no.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1166518,
+      "summary": "The Board held a public hearing on the appeal of the Historic Preservation Commission's Certificate of Appropriateness for 3400 Laguna Street. After receiving arguments from the appellant, project sponsor, and planning staff, the hearing was closed.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": [
+        "Whether Condition 1 requiring Architectural Review Committee review was legally permissible or an unlawful delegation",
+        "Preserving visibility and character of the Julia Morgan landmark mansion"
+      ]
+    },
+    {
+      "meta_id": 1166521,
+      "summary": "The motion approving the Historic Preservation Commission's Certificate of Appropriateness as originally decided was tabled in favor of an amended disapproval motion with modified conditions.",
+      "outcome": "no_action",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1166522,
+      "summary": "The Board amended and approved the motion disapproving the Historic Preservation Commission's decision on the Certificate of Appropriateness for 3400 Laguna Street, modifying Condition 1 so planning staff reviews final details rather than sending it back to the Architectural Review Committee. The motion passed 10-1 with Supervisor Chan voting no.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [
+        {
+          "name": "Stephen Sherrill",
+          "stance": "support",
+          "quote": "I'D LIKE TO MAKE A MOTION TO AMEND ITEM 35 DISAPPROVING THE HISTORIC PRESERVATION COMMISSION'S DECISION AND REVISE IT TO APPROVE THE CERTIFICATE OF APPROPRIATENESS WITH SOME DIFFERENT CONDITIONS",
+          "t0": 15326.904,
+          "verified": false
+        }
+      ],
+      "votes": [
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1166523,
+      "summary": "The Board approved the motion directing the preparation of findings supporting the decision on the Certificate of Appropriateness as amended for 3400 Laguna Street. The motion passed 10-1 with Supervisor Chan in dissent.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1166448,
+      "summary": "The Board approved the Consent Agenda consisting of items 1 through 5 on first reading without severances. The items included five settlements of various lawsuits and claims against the City.",
+      "outcome": "passed",
+      "topics": [
+        "settlements"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1166460,
+      "summary": "The Board finally passed an ordinance authorizing the Clerk of the Board to sell software licenses for the Legislative Management System to third parties and establishing a dedicated fund. The ordinance passed without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1166463,
+      "summary": "The Board finally passed an ordinance fixing compensation, working schedules, and other terms of employment for unrepresented city employees effective July 1, 2025.",
+      "outcome": "passed",
+      "topics": [
+        "labor",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1166464,
+      "summary": "The Board finally passed an ordinance implementing the second amendment to the memorandum of understanding with SEIU Local 1021 for staff and per diem nurses regarding selection order for vacant nursing positions.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "labor"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1166466,
+      "summary": "The Board finally passed an ordinance amending the Planning Code to eliminate retail use size limits on health service uses and reproductive health clinics in the Mixed Use-Office District east of Seventh Street.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1166470,
+      "summary": "The Board passed on first reading an ordinance amending the Administrative Code to increase stipends provided to Assessment Appeals Board members due to high hearing demand.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1166473,
+      "summary": "The Board passed on first reading the proposed interim budget and appropriation ordinance for City departments for FYs 2025-2026 and 2026-2027.",
+      "outcome": "passed",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1166474,
+      "summary": "The Board passed on first reading the proposed interim annual salary ordinance for FYs 2025-2026 and 2026-2027.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "labor"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1166475,
+      "summary": "The Board adopted the interim budget resolution for the Office of Community Investment and Infrastructure for FY 2025-2026.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1166477,
+      "summary": "The Board passed on first reading an ordinance authorizing settlement of the lawsuit filed by Ridgegate Apartments, Inc. concerning real property at 524 Howard Street for a stipulated assessed value of $65 million or a new hearing.",
+      "outcome": "passed",
+      "topics": [
+        "settlements",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1166478,
+      "summary": "The Board adopted a resolution retroactively authorizing the San Francisco Police Department to enter into a memorandum of understanding with the United States Capitol Police for supplemental law enforcement services through 2025.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1166479,
+      "summary": "The Board adopted a resolution authorizing a permit agreement between Rec and Park and FIL Partners LLC for the Golden City Football Club to use Kezar Stadium and practice fields for up to 15 years with extension options.",
+      "outcome": "passed",
+      "topics": [
+        "parks"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1166481,
+      "summary": "The Board passed on first reading an ordinance amending the Planning Code and Zoning Map to permit projecting signs for corner businesses in neighborhood commercial and residential-commercial districts citywide and abolishing a special sign district on Chestnut Street.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1166482,
+      "summary": "The Board adopted a resolution approving the project list funded by FY 2025-2026 Road Maintenance and Rehabilitation Account funds under SB 1 for the Local Streets and Road Program.",
+      "outcome": "passed",
+      "topics": [
+        "transit"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1166484,
+      "summary": "The Board passed on first reading an ordinance approving the amended Airport Surveillance Technology Policy governing the use of security cameras.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1166485,
+      "summary": "The Board passed on first reading an ordinance amending the Administrative Code to establish entertainment zones on Valencia Street, Pier 39, Folsom Street, Ellis Street, Yosemite Avenue, and Hayes Valley, as well as a downtown activation location on Yerba Buena Lane.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1166488,
+      "summary": "The Board passed on first reading an ordinance revising eligibility criteria for the San Francisco Homicide Reward Fund, allowing the Police Chief discretion to pay rewards upon filing of charges and prohibiting denial based on anonymity or criminal history.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1166491,
+      "summary": "The Board passed on first reading an ordinance approving amendments to the rules and regulations governing the Neighborhood Beautification and Graffiti Clean-up Fund.",
+      "outcome": "passed",
+      "topics": [
+        "environment",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1166494,
+      "summary": "The Board approved the motion confirming the Mayor's nomination of Gayle Tsern Strang to the Historic Preservation Commission for a term ending December 31, 2028.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1166497,
+      "summary": "The Board approved the motion appointing Luana McAlpine to the In-Home Supportive Services Public Authority for a term ending March 1, 2028.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1166525,
+      "summary": "The Board passed on first reading an ordinance amending the Planning and Building Codes to allow certain tourist hotels and motels to be used for interim housing without losing their underlying hotel use classification or occupancy status.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "homelessness",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1166526,
+      "summary": "Supervisors introduced new legislation during roll call. Supervisor Sauter introduced small business streamlining measures for District 3; Supervisor Walton introduced resolutions recognizing Juneteenth and supporting state reparations bills; Supervisor Chen introduced a resolution urging local progressive income and wealth tax authority; Supervisor Dorsey requested emergency call data at permanent supportive housing sites; Supervisor Fielder introduced support for SB 48 regarding ICE at schools; and President Mandelman introduced legislation supporting firefighter mental health funds and condemning antisemitism.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "public_safety",
+        "housing",
+        "budget",
+        "elections_governance"
+      ],
+      "speakers": [
+        {
+          "name": "Danny Sauter",
+          "stance": "support",
+          "quote": "COLLEAGUES TODAY I AM EXCITED TO INTRODUCE LEGISLATION THAT WILL MAKE IT EASIER FOR NEW SMALL BUSINESSES TO OPEN AND TO GROW IN DISTRICT THREE.",
+          "t0": 16106.586,
+          "verified": false
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "COLLEAGUES TODAY I'M INTRODUCING A RESOLUTION WITH CO-SPONSORSHIP FROM SUPERVISORS CHEN FIELDER AND ENGARDIO MAYOR GAR CHEN. PRESIDENT MALAMAN MAHMOOD AND CHERYL ON CELEBRATING JUNETEENTH",
+          "t0": 16302.265,
+          "verified": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "stance": "support",
+          "quote": "COLLEAGUE TODAY I WANT TO INTRODUCE A RESOLUTION URGING OUR STATE LEGISLATORS SENATOR WINNER AND ASSEMBLY MEMBER HANEY AND STEPHANIE TO CHAMPION LEGISLATION THAT WOULD ALLOW COUNTIES TO IMPLEMENT LOCAL WEALTH AND PROGRESSIVE INCOME TAX",
+          "t0": 16596.311,
+          "verified": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "COLLEAGUES I AM TODAY SUBMITTING A LETTER OF INQUIRY THAT SEEKS FROM OUR DEPARTMENT OF EMERGENCY MANAGEMENT AND DEPARTMENT OF HOMELESSNESS AND SUPPORTIVE HOUSING A COMPREHENSIVE ANALYSIS OF 911 CALLS FOR SERVICE AT ALL SITE BASED PERMANENT SUPPORTIVE HOUSING ADDRESSES",
+          "t0": 16725.376,
+          "verified": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "support",
+          "quote": "COLLEAGUES TODAY I AM INTRODUCING A RESOLUTION IN SUPPORT OF CALIFORNIA SENATE BILL 48 WHICH PROHIBITS SCHOOLS TO THE EXTENT POSSIBLE FROM GRANTING ACCESS TO IMMIGRATION AUTHORITIES",
+          "t0": 16936.998,
+          "verified": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "TODAY I'M INTRODUCING AN ORDINANCE TO EXPAND THAT LIST BY ADDING THE SAN FRANCISCO FIREFIGHTER AND EMS BEHAVIORAL HEALTH HEALTH FOUNDATION.",
+          "t0": 17140.355,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1166527,
+      "summary": "Members of the public addressed the Board during general public comment. Speakers voiced concerns over city supervisor compensation, alleged housing price gouging, RV parking enforcement by the Mayor, employment disputes, and support for the homicide reward fund from the mother of a gun violence victim.",
+      "outcome": "no_action",
+      "topics": [
+        "public_safety",
+        "homelessness",
+        "housing",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": [
+        "Objections to Mayor's planned RV parking regulations and vehicle towing",
+        "Appreciation for the Homicide Reward Fund legislation by surviving family members",
+        "Criticism of city budget allocations and Board compensation",
+        "Anti-5G wireless technology opposition"
+      ]
+    },
+    {
+      "meta_id": 1166528,
+      "summary": "The Board adopted items 40 through 44 introduced without committee reference, excluding severed item 43. The adopted items included resolutions on state legislation and an advisory committee appointment, approved unanimously by all 11 supervisors.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1166534,
+      "summary": "The Board considered and adopted a resolution reaffirming the public's right to peacefully assemble, condemning militarized suppression of protests, and supporting immigrant justice and San Francisco's Sanctuary City ordinance.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "elections_governance"
+      ],
+      "speakers": [
+        {
+          "name": "Jackie Fielder",
+          "stance": "support",
+          "quote": "THE REASON I SUPPORT THIS RESOLUTION IS THAT I THINK WE ARE QUICKLY SINKING INTO AUTHORITY ARIANISM BY THE DAY AND I DON'T WANT SAN FRANCISCO TO PAVE THE WAY FOR TRUMP TO DO SO.",
+          "t0": 18130.74,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1166536,
+      "summary": "The clerk reported no imperative agenda items, and the Board noted in memoriam adjournments before completing the business of the meeting.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1166554,
+      "summary": "The meeting was adjourned in memory of Rodney Jean Bowden and retired Deputy Sheriff Rhonda Marie Gaines.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    }
+  ],
+  "quote_verification": {
+    "verified": 5,
+    "partial": 7,
+    "dropped": 4
+  }
+}

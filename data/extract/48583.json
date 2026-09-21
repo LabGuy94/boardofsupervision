@@ -1,0 +1,727 @@
+{
+  "clip_id": 48583,
+  "items": [
+    {
+      "meta_id": 1117901,
+      "summary": "The Board of Supervisors convened for its regular meeting with all eleven supervisors present at roll call. President Rafael Mandelman led the land acknowledgment and the Pledge of Allegiance. Board staff and SFGovTV personnel were also recognized.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1117902,
+      "summary": "The clerk announced communications and three ADA accommodation requests. Commenters addressed the board remotely and in person, raising concerns regarding the planned February 14 closure of the Bayview vehicle triage center, ADA compliance issues, and lack of repairs on their RVs.",
+      "outcome": "no_action",
+      "topics": [
+        "homelessness",
+        "public_safety",
+        "health"
+      ],
+      "speakers": [
+        {
+          "name": "Public commenter",
+          "stance": "oppose",
+          "quote": "we have been told the sheriffs will be here on FEBRUARY 14 to someone will impound our rv's there are 35 people in a high state of panic that is the reason I come before the board.",
+          "t0": 275.574,
+          "verified": true
+        },
+        {
+          "name": "Public commenter",
+          "stance": "oppose",
+          "quote": "I'm kelly hughes I live in an rv at the bt c there for 30 months. Because of the my wheel chair I'm in the centers of an investigation by hud the city for the city's over the city's lack of ad a compliance",
+          "t0": 437.438,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": [
+        "Bayview vehicle triage center closure and pending impoundments",
+        "Disability accommodations and HUD investigation",
+        "Requests for a 90-day extension to repair RVs"
+      ]
+    },
+    {
+      "meta_id": 1117904,
+      "summary": "The Board took up the consent agenda covering Items 1 through 9. No items were severed by any supervisor. The entire consent agenda was passed unanimously on a single roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "settlements",
+        "housing",
+        "planning_land_use",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1117906,
+      "summary": "The consent agenda encompassed routine business, including bond proceeds appropriations for seismic safety, settlements for Stern Grove Festival Association and Arthur Bailey Jr., planning code changes in West Portal, infrastructure acceptance at Sunnydale HOPE SF, and an entertainment zone for Cole Valley. With no objections or severed items, the measures were approved unanimously.",
+      "outcome": "passed",
+      "topics": [
+        "settlements",
+        "housing",
+        "planning_land_use",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1117928,
+      "summary": "The Board considered an ordinance authorizing the issuance and sale of Port of San Francisco refunding certificates of participation in an aggregate amount not to exceed $25,000,000. It was called together with its companion appropriation ordinance. The ordinance was passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1117929,
+      "summary": "The Board considered an appropriation of $28,386,685 in certificate of participation refunding proceeds and prior debt reserve funds for the Port Commission in FY2024-2025. It was considered alongside the authorization ordinance for Port COP refunding. The appropriation was passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1117930,
+      "summary": "The Board considered an amendment to the Business and Tax Regulations Code to exempt certain commercial spaces affected by prolonged infrastructure construction projects from the commercial vacancy tax. The measure required eight votes for approval. It passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "small_business"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1117931,
+      "summary": "The Board considered Mayor Lurie's emergency ordinance amending the Administrative Code regarding city responses to homelessness, drug abuse, and mental health crises. Supervisors Chan and Fielder detailed amendments clarifying the $10 million nongovernmental donation cap, shot clock rules, and narrowing behested payment waiver scopes. Supervisor Walton opposed the measure as an overly broad grant of power without an accompanying concrete plan, but the ordinance passed on first reading by a 10-1 vote.",
+      "outcome": "passed",
+      "topics": [
+        "homelessness",
+        "health",
+        "public_safety",
+        "elections_governance"
+      ],
+      "speakers": [
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "I just want it thank the mayor and his team working clantive with the legislative branch on a compromise legislation. It irrelevant does give the executive branch ways to implement their vision. Without waiving all oversight authority",
+          "t0": 931.138,
+          "verified": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "support",
+          "quote": "Today ooem vote nothing support of mayor lurie's emergency ordinance. In the tackling the fentanyl and over dose crisis. And with my vote I want to be clear that this ordinance is an unprecedentsed transfer of power.",
+          "t0": 1157.301,
+          "verified": true
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "oppose",
+          "quote": "We don't have a plan in front of us that details what the mayor's team plans to do with these emergency powers. This is probably the most vivid example of putting the cart before the hours horse I have seen in my years in office",
+          "t0": 1401.14,
+          "verified": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "At the core of what this does is helps the city get out of its way to deliver life saving resources to the neighbor who need it most.",
+          "t0": 1594.276,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1117932,
+      "summary": "The Board considered a resolution approving a grant amendment with Episcopal Community Services for adult rapid rehousing services, extending the term through June 2026 and increasing the total to $21,524,980. A roll call vote was taken and the resolution was adopted.",
+      "outcome": "passed",
+      "topics": [
+        "homelessness",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1117933,
+      "summary": "The Board considered four DCYF youth services grant agreements, including an agreement with the Community Youth Center of San Francisco for academic support and summer programs not to exceed $13,724,500. Supervisor Sauter made a conflict disclosure regarding his former employment with a related entity. The items were adopted together without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Danny Sauter",
+          "stance": "neutral",
+          "quote": "colleagues I wish to make a disclosure for 18 I served the executive director of san francisco neighborhood centers together the grantee for the item richmond district is the sponsor of my former employer.",
+          "t0": 1816.369,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1117934,
+      "summary": "The Board considered a retroactive agreement with the Community Youth Center of San Francisco for high school partnerships, job readiness, and leadership programs not to exceed $11,730,000. It was called alongside related youth service contracts. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1117935,
+      "summary": "The Board considered a retroactive DCYF agreement with Instituto Familiar de la Raza Inc. for Roadmap to Peace programs not to exceed $12,929,020. The measure was considered together with other youth program resolutions. It was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1117936,
+      "summary": "The Board considered a retroactive grant agreement with Richmond District Neighborhood Center Inc. for academic support and Beacon pathways programs not to exceed $10,366,200. Supervisor Sauter made an ethics disclosure regarding his former employer before the vote. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1117943,
+      "summary": "The Board conducted ceremonial commendations recognizing community members and retiring city officials. Supervisor Engardio honored the Lincoln High School girls flag football championship team, Supervisor Walton recognized Joyce Armstrong for Black History Month, Supervisor Sherrill honored Brian Cheu upon his retirement from MOHCD, and President Mandelman recognized Dr. Grant Colfax for his leadership at the Department of Public Health.",
+      "outcome": "no_action",
+      "topics": [
+        "health",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Joel Engardio",
+          "stance": "neutral",
+          "quote": "The girl's flag football team at lincoln high school made history wing the first san francisco triple asection energy football championship.",
+          "t0": 1879.799,
+          "verified": true
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "neutral",
+          "quote": "Today kickoff our black history celebration, we want to start off by proudly recognizing joyce armstrong!",
+          "t0": 2091.48,
+          "verified": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "stance": "neutral",
+          "quote": "Today we recognize brian's incredible career in his retirement after decades of service to san francisco.",
+          "t0": 2406.7,
+          "verified": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "neutral",
+          "quote": "It is my honor to present accomodation to grant nash colfax who is retiring FEBRUARY sen after leading the public health for 6 years.",
+          "t0": 2882.783,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1117937,
+      "summary": "The Board considered a retroactive resolution authorizing the Public Defender's Office to accept and expend a $250,000 grant from the Crankstart Foundation for the Clean Slate Program. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1117938,
+      "summary": "The Board considered a retroactive real property license with the U.S. Coast Guard for property at 1-199 Forest Road on Yerba Buena Island for the San Francisco Police Department at zero base rent. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1117939,
+      "summary": "The Board considered an office lease retroactive approval for 3,000 square feet at 745 Franklin Street with the State of California Employment Development Department for the Human Services Agency's JobsNOW! program. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1117940,
+      "summary": "The Board considered a retroactive lease amendment for approximately 11,000 square feet of real property at 729 Filbert Street extending the lease term with William J. Piedmonte. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1117941,
+      "summary": "The Board considered a retroactive resolution authorizing the Mayor's Office of Housing and Community Development to accept an in-kind gift of consulting services valued at $345,000 from CORO Northern California. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1117945,
+      "summary": "The Board considered an ordinance amending the Planning Code to allow parcel block 3912 at 99 Rhode Island Street to exceed cumulative use size limits in a PDR district. The ordinance was passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1117946,
+      "summary": "The Board considered a resolution adopting the Castro LGBTQ Cultural District's Cultural, History, Housing, and Economic Sustainability Strategy (CHHESS) report. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "planning_land_use",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1117948,
+      "summary": "The Board considered a resolution approving a Type 21 off-sale beer, wine, and spirits liquor license transfer to Bitters and Bottles at 1275 Fell Street. The item was called together with another liquor license transfer and was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "small_business"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1117949,
+      "summary": "The Board considered a resolution determining that a Type 21 liquor license transfer to City Choice Market at 301 5th Street serves the public convenience and necessity. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "small_business"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1117951,
+      "summary": "The Board considered an ordinance exempting the Midtown Park Apartments at 1415 Scott Street from certain Chapter 6 construction contracting requirements while requiring compliance with prevailing wage laws. The ordinance was passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "labor"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1117953,
+      "summary": "The Board considered a resolution adding the commemorative street name designation 'Jesai Kingston Way' to Ingerson Avenue between 3rd and Griffith Streets near Candlestick Point. The committee report resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1117954,
+      "summary": "Supervisors introduced new business and legislation during roll call. Supervisor Fielder introduced a resolution proclaiming Teen Dating Violence Awareness and Prevention Month; President Mandelman introduced an ordinance creating the Castro Upper Market Entertainment Zone and delivered in-memoriam tributes; Supervisor Melgar discussed transit-oriented joint development; Supervisor Sherrill voiced support for state human trafficking legislation; and Supervisor Dorsey requested a hearing on staffing in the District Attorney's office and Proposition 36 implementation.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance",
+        "public_safety",
+        "transit",
+        "small_business"
+      ],
+      "speakers": [
+        {
+          "name": "Jackie Fielder",
+          "stance": "support",
+          "quote": "today colleagues I would like to introduce a resolution. Rescue niedzing FEBRUARY of 25 as teen dating violence awareness and prevention month.",
+          "t0": 4039.722,
+          "verified": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "I am introducing ordinance to establish the castro upper maker entertainment zone covid-19 for san francisco and cities to get creative allowing more commercial activity. Out doors.",
+          "t0": 4152.803,
+          "verified": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "stance": "support",
+          "quote": "Today I'm intruzing a resolution in support of bill 3 therein the human tracking act authored by member catherine stefani",
+          "t0": 4742.767,
+          "verified": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "Today I'm call figurar hearing before neighborhood services committee on staffing in the san francisco district attorney's office. A public safety leadership in our city this is often left out of conversations",
+          "t0": 4845.605,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1117955,
+      "summary": "Members of the public addressed the Board on general matters within municipal jurisdiction. Speakers commented on the impending closure of the Bayview vehicle triage center, taxi industry regulations and autonomous vehicle impacts, conditions at Laguna Honda Hospital, and harm reduction policies.",
+      "outcome": "no_action",
+      "topics": [
+        "homelessness",
+        "transit",
+        "health",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": [
+        "Bayview vehicle triage center closure and displaced RV residents",
+        "Taxi driver medallion relief and regulation of autonomous vehicles",
+        "Laguna Honda Hospital patient care and oversight",
+        "Criticism of city harm reduction and public drug use policies"
+      ]
+    },
+    {
+      "meta_id": 1117956,
+      "summary": "The Board considered resolutions introduced for adoption without committee reference. Supervisor Walton severed Item 33 celebrating Black History Month. The remaining item, Item 32 urging pharmacies and medical providers to address pharmacy deserts, was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Shamann Walton",
+          "stance": "neutral",
+          "quote": "sever item 33.",
+          "t0": 6108.184,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1117958,
+      "summary": "Following the severing of Item 33 from the unreferred resolutions, Supervisor Walton spoke on the significance of Black History Month in San Francisco, honoring historical pioneers and highlighting upcoming city hall celebrations. Item 33 was then adopted by the Board without objection.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "As you know every FEBRUARY we take this time to reflect on achievements and considerations and culture and heritage of black american in our city and the nation.",
+          "t0": 6155.633,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1117982,
+      "summary": "The Board adjourned the meeting in memory of Richard Bolingbroke, a longtime Castro resident and artist, and Allen Baird, a lifelong Castro community member. No further business was conducted.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    }
+  ],
+  "quote_verification": {
+    "verified": 16,
+    "partial": 1,
+    "dropped": 0
+  }
+}

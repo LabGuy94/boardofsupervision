@@ -1,0 +1,1167 @@
+{
+  "clip_id": 49753,
+  "items": [
+    {
+      "meta_id": 1152304,
+      "summary": "President Mandelman called the regular meeting of May 6, 2025, to order, followed by the roll call and the Pledge of Allegiance. All eleven board members were present. Mandelman also acknowledged SFGovTV staff.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1152305,
+      "summary": "The clerk read announcements and communications regarding meeting participation, livestreaming, public comment submission, and Americans with Disabilities Act accommodations.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1152308,
+      "summary": "The board introduced the consent agenda comprising items 1 through 7.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1152310,
+      "summary": "The board considered and passed Consent Agenda items 1 through 7 on a single roll call vote without objection. The items included budget appropriations for tenant improvements, several legal settlements, planning and building code amendments, and entertainment zone expansions.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "settlements",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1152328,
+      "summary": "The board considered an ordinance amending the Administrative Code regarding cash revolving funds for multiple city departments, reducing certain maximums while authorizing new or increased funds for others. The ordinance was passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1152329,
+      "summary": "The board considered a resolution approving a contract amendment with Community Forward SF to provide mental health and substance abuse treatment services, increasing the agreement to a total not to exceed $42,052,558 through June 2028. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1152330,
+      "summary": "The board considered a resolution approving an amendment to an agreement with HealthRight 360 for substance abuse and mental health services, increasing the amount to a new total of $305.4 million through June 2028. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1152331,
+      "summary": "The board adopted a resolution retroactively authorizing the Department of Public Health to accept and expend an in-kind gift of approximately $283,753 from the San Francisco Public Health Foundation for clinic food pharmacies.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1152332,
+      "summary": "The board considered a resolution approving a grant agreement with HomeBridge, Inc. for contract-mode In-Home Supportive Services in an amount not to exceed $39,600,000 for FY2025-2026. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1152333,
+      "summary": "The board adopted a resolution approving an amendment to a grant agreement with Homebridge, Inc. for In-Home Supportive Services, increasing the total amount to approximately $144.7 million through June 30, 2025.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1152334,
+      "summary": "The board adopted a resolution approving a third amendment with Moffatt & Nichol-AGS JV for engineering services for the Ocean Beach climate change adaptation and coastal erosion protection project, increasing the amount to $12.75 million and extending the term to 2033.",
+      "outcome": "passed",
+      "topics": [
+        "environment",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1152335,
+      "summary": "The board adopted a resolution approving a contract amendment with AECOM Technical Services, Inc. for transmission pipeline engineering services, increasing the contract by $7 million to a total of $14 million.",
+      "outcome": "passed",
+      "topics": [
+        "environment",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1152336,
+      "summary": "The board approved a lease agreement with Wells Fargo, N.A. for automated teller machine services at San Francisco International Airport, with a $350,000 minimum annual guarantee for the first year.",
+      "outcome": "passed",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1152337,
+      "summary": "The board approved a lease agreement with Bank of America, N.A. for automated teller machine services at San Francisco International Airport, with a $250,000 minimum annual guarantee for the first year.",
+      "outcome": "passed",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1152338,
+      "summary": "The board adopted a resolution acknowledging grant application requirements to the California Energy Commission for approximately $5 million for government fleet charging infrastructure.",
+      "outcome": "passed",
+      "topics": [
+        "environment",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1152339,
+      "summary": "The board approved a contract amendment with InterVision Systems, LLC for networking equipment and support, increasing the contract by approximately $34 million to a total not to exceed $74,040,000 through January 31, 2027.",
+      "outcome": "passed",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1152340,
+      "summary": "The board considered and adopted a resolution authorizing the execution of an agreement and acceptance of grant and loan funds totaling $29.5 million from the California Department of Housing and Community Development for Balboa Reservoir Building E, including affordable housing and transit improvements.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "transit",
+        "budget"
+      ],
+      "speakers": [
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "This is 17 acres of asphalt that will be turned into a new neighborhood. The most impactful development project we've had in district seven in decades and so I am really grateful for all the work that it has taken to get us this far.",
+          "t0": 919.868,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1152341,
+      "summary": "The board adopted a resolution authorizing the execution of an agreement and acceptance of state grant and loan funding of $45.7 million under the Affordable Housing and Sustainable Communities program for Balboa Reservoir Building A, supporting 100% affordable housing and transit improvements.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "transit",
+        "budget"
+      ],
+      "speakers": [
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "We're going to be breaking ground this year and again thank you to my colleagues and thank you to the mayor's office for pushing this forward.",
+          "t0": 934.917,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1152342,
+      "summary": "The board adopted a resolution authorizing an agreement and acceptance of a $20 million Infill Infrastructure Grant from the California Department of Housing and Community Development for Balboa Reservoir Buildings A and E infrastructure improvements.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "budget"
+      ],
+      "speakers": [
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "I just wanted to express my gratitude at to chair chan and the members of the budget committee for scheduling and approval of items 20 through 22",
+          "t0": 897.679,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1152343,
+      "summary": "The board adopted a resolution authorizing the Department of Homelessness and Supportive Housing to apply jointly for a state Homekey+ grant not to exceed $18 million for the property located at 835 Turk Street.",
+      "outcome": "passed",
+      "topics": [
+        "homelessness",
+        "housing",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1152344,
+      "summary": "The board adopted a resolution authorizing a joint application for a state Homekey+ grant not to exceed $37.5 million for the property at 1035 Van Ness Avenue.",
+      "outcome": "passed",
+      "topics": [
+        "homelessness",
+        "housing",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1152346,
+      "summary": "The board took up a supplemental appropriation ordinance for Police and Sheriff overtime, shifting over $86 million in salary savings and drawing $5.7 million from the General Fund Reserve. Supervisor Walton raised questions regarding MOU 10B overtime enforcement and sick leave rules, leading the board to temporarily pause the item to consult HR and department staff.",
+      "outcome": "continued",
+      "topics": [
+        "public_safety",
+        "budget",
+        "labor"
+      ],
+      "speakers": [
+        {
+          "name": "Shamann Walton",
+          "stance": "question",
+          "quote": "my question is because I believe that it was represented by chief lazaro at last wednesday's hearing that they received permission from d h r or support from the H.R. Not to enforce the ten b overtime section of the mou.",
+          "t0": 1035.586,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1152348,
+      "summary": "The board considered an ordinance establishing the Alexandria Theater Special Use District at Geary Boulevard and 18th Avenue, enabling a residential project with 75 units, 12% on-site affordable housing, ground-floor commercial space, and historic facade preservation. Supervisor Chen praised the community and developer cooperation, and the ordinance passed on first reading.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "housing"
+      ],
+      "speakers": [
+        {
+          "name": "Chyanne Chen",
+          "stance": "support",
+          "quote": "This project shows that when our community demands respect and love for our neighborhood we can work together to bring forward a project that delivers for the community.",
+          "t0": 1163.882,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1152349,
+      "summary": "The board adopted a resolution initiating landmark designation under Article 10 of the Planning Code for the Chula-Abbey Early Residential Historic District.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1152350,
+      "summary": "The board adopted a resolution initiating landmark designation under Article 10 of the Planning Code for the Alert Alley Early Residential Historic District.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1152352,
+      "summary": "The board considered an ordinance amending the Administrative Code to establish long-term remission of substance use disorders as the primary goal of the city's treatment policy under the 'Recovery First' framework. Supervisors Dorsey and Fielder spoke in support, emphasizing both treatment and harm reduction within a four-pillars approach, and the ordinance passed on first reading unanimously.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "public_safety"
+      ],
+      "speakers": [
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "In the end this legislation would accomplish what I hoped it would to align our civic aspiration with what any of us would wish for a loved one struggling with drug addiction, a self-directed and healthy life free from illicit drug use.",
+          "t0": 1461.884,
+          "verified": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "support",
+          "quote": "factions of the city want to present a false choice between harm reduction and treatment when both are sorely needed in this moment. And I look forward to continuing working with supervisor dorsey as as one of the co-sponsors to the hearing on the four pillars model.",
+          "t0": 1553.744,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1152353,
+      "summary": "The board adopted a resolution determining that the transfer of a Type 48 on-sale general liquor license to Far East Cafe Social Club at 627 Grant Avenue serves the public convenience, with conditions requested on the license.",
+      "outcome": "passed",
+      "topics": [
+        "small_business"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1152355,
+      "summary": "The board approved a motion reappointing Andrea Marmo Crawford to the Citizens' General Obligation Bond Oversight Committee for a term expiring November 21, 2026.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1152356,
+      "summary": "The board approved a motion appointing Charles Lavery to the Transbay Joint Powers Authority for an indefinite term, waiving the residency requirement.",
+      "outcome": "passed",
+      "topics": [
+        "transit",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1152357,
+      "summary": "The board approved a motion confirming the mayor's reappointment of Mike Chen to the San Francisco Municipal Transportation Agency Board of Directors for a term ending March 1, 2029.",
+      "outcome": "passed",
+      "topics": [
+        "transit",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1152358,
+      "summary": "The board held a special order of commendations celebrating Small Business Week and AAPI Heritage Month. Supervisor Sherrill commended Kopi Cafe in the Marina, Supervisor Sauter commended Lily Lo and Chinatown community leaders for the Chinatown Night Market, and President Mandelman commended Terry Asten Bennett of Cliff's Variety in the Castro.",
+      "outcome": "no_action",
+      "topics": [
+        "small_business"
+      ],
+      "speakers": [
+        {
+          "name": "Stephen Sherrill",
+          "stance": "support",
+          "quote": "located at 1443 lombard street in our marina district, capco is san francisco's first indonesian coffee shop bringing the warmth, hospitality and flavors of indonesia to the heart of our city.",
+          "t0": 1797.624,
+          "verified": true
+        },
+        {
+          "name": "Danny Sauter",
+          "stance": "support",
+          "quote": "I want to specifically honor a beloved chinatown leader lily low or as the community calls her auntie lily her organization be a chinatown provides bilingual services to small businesses in chinatown.",
+          "t0": 2051.315,
+          "verified": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "today I am so pleased to be able to present a special commendation to terry aston bennett native san franciscan fifth generation castro business owner, lifelong neighborhood champion and as of last month twice retired PRESIDENT Of the castro merchants",
+          "t0": 2473.776,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1152362,
+      "summary": "The board resumed debate on the $92 million supplemental appropriation for Police and Sheriff overtime. After extensive questioning of SFPD leadership, DHR, and the Controller regarding overtime caps, the 10B program, and fiscal transparency, the ordinance passed on first reading on a 9-2 vote, with Supervisors Fielder and Walton dissenting.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "budget",
+        "labor"
+      ],
+      "speakers": [
+        {
+          "name": "Shamann Walton",
+          "stance": "oppose",
+          "quote": "Officers that did work overtime will be paid or have been paid but this behavior will not change for this department if we continue to give them a blank check year after year after year.",
+          "t0": 3828.983,
+          "verified": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "oppose",
+          "quote": "I think as with pd as long overdue for accountability and stronger checks and balances especially on overtime and that's why I'll be voting no.",
+          "t0": 3130.242,
+          "verified": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "stance": "support",
+          "quote": "the money is already spent these hours already work and we have to pay for it and I don't want to support this appropriation but it feels like we are being put in a position to decide whether or not we are going to pay for our workers for the hours that they already pay for.",
+          "t0": 3278.358,
+          "verified": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "failure would require the comptroller to freeze the police budget. It would prevent non-salary projects from moving forward and prohibit pd bills from being paid.",
+          "t0": 3430.346,
+          "verified": true
+        },
+        {
+          "name": "Danny Sauter",
+          "stance": "support",
+          "quote": "wanting public safety and supporting public safety should not come at the expense of basic transparency, good bookkeeping and public trust.",
+          "t0": 3544.894,
+          "verified": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "I will be supporting this item today but I have as I have said whenever a public safety overtime appropriation comes before me I support this because the alternative is unthinkable.",
+          "t0": 3593.444,
+          "verified": true
+        },
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "I will be voting in support of this legislation or this overtime allocation simply because the really the financial reality is that the city the police department will not be able to offsets this $86 million of spending.",
+          "t0": 4227.386,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1152364,
+      "summary": "The board convened a hearing on the appeal of a tentative parcel map approval for a subdivision at 2-4 Addison Street. The appellant withdrew the appeal following agreement on property boundary markings, and the hearing was concluded.",
+      "outcome": "no_action",
+      "topics": [
+        "planning_land_use",
+        "housing"
+      ],
+      "speakers": [
+        {
+          "name": "Public commenter",
+          "stance": "oppose",
+          "quote": "",
+          "t0": 4666.965,
+          "verified": false
+        },
+        {
+          "name": "Public commenter",
+          "stance": "support",
+          "quote": "",
+          "t0": 4975.77,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": [
+        "traffic and pedestrian safety around new development",
+        "need for neighbor notification and community forums",
+        "housing production and property rights"
+      ]
+    },
+    {
+      "meta_id": 1152368,
+      "summary": "Following the withdrawal of the appeal by the neighbor, the board unanimously approved the motion upholding the Department of Public Works' decision and approving the tentative parcel map for 2-4 Addison Street.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "housing"
+      ],
+      "speakers": [
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "The appellant has withdrawn her appeal although the matter is therefore no longer before us out of an abundance of caution we're still going to act on the motions and I'm going to suggest that we approve item 35 and table items 36 and 37.",
+          "t0": 4627.525,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": [
+        "support for private property rights and building housing",
+        "traffic concerns on Bemis and Addison streets",
+        "lack of formal community engagement opportunities for infill projects"
+      ]
+    },
+    {
+      "meta_id": 1152369,
+      "summary": "The board tabled the companion motion to conditionally disapprove the tentative parcel map for 2-4 Addison Street after the appeal was withdrawn.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1152370,
+      "summary": "The board tabled the motion directing the preparation of findings to disapprove the tentative parcel map for 2-4 Addison Street.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1152374,
+      "summary": "The board convened as a Committee of the Whole to receive an update from Police Chief Bill Scott and department leadership on the status of the 272 Department of Justice reform recommendations, of which 263 are substantially compliant and nine remain in progress. Following supervisors' questions on racial disparities in traffic stops, officer evaluation dashboards, and implicit bias training, the board voted unanimously to continue the hearing to October 7, 2025.",
+      "outcome": "continued",
+      "topics": [
+        "public_safety"
+      ],
+      "speakers": [
+        {
+          "name": "Shamann Walton",
+          "stance": "question",
+          "quote": "The 272 department of justice recommendations for the san francisco police department have led to some changes and improvements for the department. but obviously we still have some work to do to gain that trust and develop that better relationship between communities of color and law enforcement.",
+          "t0": 5276.48,
+          "verified": true
+        },
+        {
+          "name": "Department head",
+          "stance": "neutral",
+          "quote": "Our achievement of compliance with the 272 recommendations was 96.7% and that equates to 263 of the 272. This was a major milestone for our department, particularly given what led up to that",
+          "t0": 5389.597,
+          "verified": true
+        },
+        {
+          "name": "Connie Chan",
+          "stance": "question",
+          "quote": "Just trying to understand a little bit about you've there's still an ongoing implicit bias training that is within the police department and if so how how does that training conducted?",
+          "t0": 5903.217,
+          "verified": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "question",
+          "quote": "I also commend you on your work to make sure that our department follows the blue ribbon commission reports and implements all the all the reforms.",
+          "t0": 6270.56,
+          "verified": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "stance": "question",
+          "quote": "I've seen the report that we talked multiple pages start we talked about technologies so can you explain a little bit how technology can help solve some of the reform?",
+          "t0": 6386.574,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": [
+        "concerns over police misconduct and lack of independent oversight",
+        "skepticism regarding implicit bias training and racial miscategorization",
+        "drone surveillance concerns",
+        "requests for mandatory personal liability insurance for police officers",
+        "pleas for solving cold cases and homicides"
+      ]
+    },
+    {
+      "meta_id": 1152376,
+      "summary": "The board introduced committee reports forwarded from the Government Audit and Oversight Committee and the Land Use and Transportation Committee.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1152377,
+      "summary": "The board adopted a resolution declaring its intention to renew and expand the Ocean Avenue Community Benefit District, approve the district plan, levy assessments, and set a public hearing for July 8, 2025.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1152380,
+      "summary": "The board passed an ordinance on first reading amending the Public Works Code and Administrative Code to waive permit fees and Board of Appeals surcharges for the installation of the Detroit Street Steps Archway in the Sunnyside neighborhood.",
+      "outcome": "passed",
+      "topics": [
+        "parks",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1152381,
+      "summary": "Supervisors introduced new legislation and hearing requests during Roll Call for Introductions. Highlights included Supervisor Mahmood's ordinance mandating shelter and behavioral health site approvals across all districts, hearings called by President Mandelman on residential care and SB 43 conservatorship implementation, and resolutions supporting student journalists, Jewish American Heritage Month, and various state bills.",
+      "outcome": "no_action",
+      "topics": [
+        "homelessness",
+        "health",
+        "housing",
+        "labor",
+        "elections_governance"
+      ],
+      "speakers": [
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "accordingly, this ordinance requires that by JUNE 30th 2026 every district approve at least one new site a shelter transitional housing or behavioral health facility.",
+          "t0": 8190.468,
+          "verified": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "The first is a hearing on the findings and recommendations of the residential care and treatment workgroup. The comptroller's office issued this report on JANUARY 7th.",
+          "t0": 8463.746,
+          "verified": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "Colleagues today I am introducing along with supervisors and guardian fielder chan cheryl and sardar a resolution to show our support and solidarity with student journalists especially those within our incredible public schools.",
+          "t0": 8673.925,
+          "verified": true
+        },
+        {
+          "name": "Danny Sauter",
+          "stance": "support",
+          "quote": "Colleagues I am introducing legislation today that will update the underlying rules and regulations of our city's community challenge grant program.",
+          "t0": 8897.652,
+          "verified": true
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "Today I want to formally request that the budget and legislative analyst's work in coordination with the comptroller's office conduct a comprehensive audit of all economic components of the memorandum of understanding between the police department and the police officers association.",
+          "t0": 9039.262,
+          "verified": true
+        },
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "I'm also introducing a resolution today really supporting and urging all of us to support the fine food workers strike. San francisco and our airport have a history of labor harmony and peace provisions in our contract support for airport workers.",
+          "t0": 9189.881,
+          "verified": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "stance": "support",
+          "quote": "Colleague today I am introducing a resolution to support hb 1165 the california housing justice act. Housing affordability is one of the most pressing crisis of our time impacting our local workforce and it's the leading driver of homelessness rent burden and also housing insecurity.",
+          "t0": 9280.72,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1152382,
+      "summary": "Members of the public addressed the board on general matters not on the agenda, including the strike by Flying Food workers at SFO, unsolved homicides and requests for tipster rewards, transgender rights and safety in civic spaces, and conditions at Laguna Honda Hospital.",
+      "outcome": "no_action",
+      "topics": [
+        "public_safety",
+        "labor",
+        "health"
+      ],
+      "speakers": [
+        {
+          "name": "Public commenter",
+          "stance": "neutral",
+          "quote": "So please when it comes time to find a way to pay tipsters to come forth for our children ,please weigh on in. I live in district five when my son was murdered I still live there. I still have to walk and see where his body laid. please help.",
+          "t0": 9726.691,
+          "verified": false
+        },
+        {
+          "name": "Public commenter",
+          "stance": "support",
+          "quote": "Our members who have sacrificed their wages for 38 days to long in pursuit of a fair health care coverage in which every person deserves health care is under a threat in this country.",
+          "t0": 9798.264,
+          "verified": true
+        },
+        {
+          "name": "Public commenter",
+          "stance": "support",
+          "quote": "I'm here today to speak in strong support of the resolution backing assembly bill 670 item 45 on today's agenda ab 670 allows local governments to count investments in and preserving housing toward their regional housing needs allocation goals",
+          "t0": 10063.165,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": [
+        "Flying Food group airline catering workers strike and healthcare benefits",
+        "demands for solving cold case homicides and funding tipster rewards",
+        "opposition to antisemitism and anti-LGBTQ harassment in city hall",
+        "support for AB 670 and affordable housing preservation"
+      ]
+    },
+    {
+      "meta_id": 1152383,
+      "summary": "The board considered resolutions introduced for adoption without committee reference, voting unanimously to adopt items 43 and 45 while pulling item 44 for individual consideration.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1152387,
+      "summary": "The board considered a resolution supporting Assembly Bill 255 authored by Assembly Member Matt Haney, which creates a Supportive-Recovery Residence Program to allow state investment and certification for drug-free recovery housing. Supervisor Dorsey spoke in support of providing abstinent living options alongside Housing First, and the resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "health"
+      ],
+      "speakers": [
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "Assembly member haney's legislation will update that to allow for up to 25% of funding for permanent supportive housing to be for recovery housing options. This responds to the need he has heard and I have also heard from many constituents",
+          "t0": 10856.47,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1152411,
+      "summary": "President Mandelman adjourned the meeting in memory of Kira Lani Meier at the request of Supervisor Chen.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    }
+  ],
+  "quote_verification": {
+    "verified": 32,
+    "partial": 2,
+    "dropped": 2
+  }
+}

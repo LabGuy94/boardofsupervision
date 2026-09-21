@@ -1,0 +1,1261 @@
+{
+  "clip_id": 51260,
+  "items": [
+    {
+      "meta_id": 1195695,
+      "summary": "President Mandelman called the meeting to order and the clerk conducted the roll call with all members present. The Board recited the Land Acknowledgement and the Pledge of Allegiance. The clerk announced Mayor Lurie's appointment of Alan Wong to fill the District 4 vacancy.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1195697,
+      "summary": "The Board considered the approval of meeting minutes from the October 28, 2025 regular meeting and October 20, 2025 special meeting. The minutes were approved unanimously on a roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1195700,
+      "summary": "The Board considered Consent Agenda Items 1 through 18, which included multiple legal settlements, a small business rezoning construction relief fund, an appropriation for immigration legal services, and the Fillmore Entertainment Zone. The items were passed unanimously on a single roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "settlements",
+        "small_business",
+        "budget",
+        "planning_land_use",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1195733,
+      "summary": "The Board considered an ordinance appropriating approximately $4.5 million in state cost reimbursement revenue to the Department of Elections for the November 2025 statewide special election. The ordinance was passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1195734,
+      "summary": "The Board considered an amendment to the agreement between the City and Catholic Charities to provide HIV health services and rental subsidies, extending the term through 2031 and increasing the contract amount to approximately $13.4 million. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "housing",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1195735,
+      "summary": "The Board considered a resolution approving terms for the acquisition of an easement from the Sunol Glen Unified School District in Alameda County for an underground water pipeline project, not to exceed $50,000. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "environment",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1195736,
+      "summary": "The Board considered a resolution to retroactively accept and expend a grant of approximately $637,200 from FEMA for the Fire Department's new training facility, as well as an ordinance authorizing a $5.845 million settlement of a lawsuit involving Laguna Honda Hospital residents. Both items were approved without objection.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "budget",
+        "settlements",
+        "health"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1195740,
+      "summary": "The Board debated a resolution authorizing a six-month waiver of the behested payments ordinance for the Mayor's Office and OEWD to solicit donations for economic revitalization efforts. Supervisor Fielder raised concerns regarding transparency and potential conflicts of interest, while Supervisors Sherrill and Sauter supported the waiver to assist downtown recovery. The resolution was adopted 8-3.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance",
+        "budget"
+      ],
+      "speakers": [
+        {
+          "name": "Jackie Fielder",
+          "stance": "oppose",
+          "quote": "GIVEN THE LACK OF INFORMATION PROVIDED BY THE MAYOR'S OFFICE, I CONTINUE TO HAVE REAL CONCERNS ABOUT THE CITY BEING ABLE TO CONDUCT MEANINGFUL OVERSIGHT ON POTENTIAL CONFLICTS OF INTEREST FOR THIS SPECIFIC WAIVER. FOR THAT REASON I WILL BE VOTING AGAINST THIS ITEM.",
+          "t0": 670.276,
+          "verified": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "stance": "support",
+          "quote": "DOWNTOWN IS YOU KNOW THE HEART OF THE TAX REVENUE THAT WE GENERATE IN THIS CITY. IT IS ABSOLUTELY CRITICAL NOT ONLY FOR THE SUCCESS OF BUSINESSES AND WORKERS HERE BUT ALSO FOR THE FUNDS THAT THAT HELP GET MORE POLICE OFFICERS FOR EVERY NEIGHBORHOOD",
+          "t0": 699.38,
+          "verified": true
+        },
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "I WILL BE IN SUPPORT OF OF THIS ONE AS WELL AS THE NEXT ONE FOR ONLY THE REASON BEING IS THAT I THINK THAT THE MEMO THAT WHILE WE RECEIVE I WOULD CONSIDER LATE BUT STILL TRANSPARENCY INFORMATION ALLOW US TO UNDERSTAND WHO ARE THE POTENTIAL INTERESTED PARTIES",
+          "t0": 848.192,
+          "verified": true
+        },
+        {
+          "name": "Danny Sauter",
+          "stance": "support",
+          "quote": "I DON'T THINK THIS NEEDS TO BE A CHOICE BETWEEN DOWNTOWN OR NEIGHBORHOODS AND I THINK THEY DEPEND ON ONE ANOTHER AND IN FACT WE HAVE COUNTLESS WAIVERS THAT SPEAK TO THE WORK WE'RE DOING IN DIFFERENT COMMUNITIES AND IN DIFFERENT NEIGHBORHOODS",
+          "t0": 981.873,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Jackie Fielder",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1195741,
+      "summary": "The Board considered a behested payment waiver for the Department of Homelessness and Supportive Housing to solicit donations for temporary shelter and services. Supervisor Walton opposed the measure, criticizing the administration's concentration of homeless services in District 10, while Supervisor Fielder supported it following clear responses in committee. The resolution was adopted 10-1.",
+      "outcome": "passed",
+      "topics": [
+        "homelessness",
+        "budget",
+        "elections_governance"
+      ],
+      "speakers": [
+        {
+          "name": "Shamann Walton",
+          "stance": "oppose",
+          "quote": "AS WE ALL KNOW THE MAYOR HAS A HORRIBLE TRACK RECORD WITH HIS KING MAKING POLICIES TO OVERSATURATE DISTRICT TEN AND OTHER DISTRICTS WITH ALL ISSUES AROUND HOMELESSNESS. SO THERE'S NO WAY I WOULD SUPPORT HIM SOLICITING RESOURCES TO CONTINUE TO STEAMROLL MY DISTRICT.",
+          "t0": 1101.858,
+          "verified": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "support",
+          "quote": "IN CONTRAST TO THE PREVIOUS WAIVER THAT WE JUST APPROVED, I JUST SAGE WAS ABLE TO VERY EASILY ANSWER MY QUESTIONS ABOUT THE PARTIES ELICITED UNDER THIS WAIVER AND HOW THEY MIGHT BE POTENTIALLY INTERESTED AND I HAD NO CONCERNS ABOUT THEM SO I WILL BE SUPPORTING",
+          "t0": 1131.422,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1195742,
+      "summary": "The Board considered an agreement with the nonprofit Owners' Association to administer and manage the Dogpatch and Northwest Potrero Hill Green Benefit District. The resolution was approved unanimously on a roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "parks",
+        "environment",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1195744,
+      "summary": "The Board considered an ordinance amending the Police Code to increase misdemeanor conviction fines for vehicle sideshows from $500 to $1,000. Supervisor Walton cautioned about unintended consequences and disproportionate impacts on communities of color while supporting the measure. The ordinance passed on first reading.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety"
+      ],
+      "speakers": [
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "I THINK WE HAVE TO DO EVERYTHING WE CAN TO KEEP OUR COMMUNITY SAFE AND THESE SIDESHOWS ARE VERY DANGEROUS. BUT I JUST WANT TO CAUTION THE FACT THAT I'M SEEING A LOT OF POLICIES THAT ARE PROVIDING ATTACKS ON PEOPLE OF COLOR AND PROVIDING ATTACKS ON THE MOST VULNERABLE.",
+          "t0": 1266.92,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1195745,
+      "summary": "The Board considered an ordinance enhancing enforcement and fines up to $1,000 for vending targeted merchandise commonly subject to retail theft without a permit. Supervisor Fielder expressed support in collaboration with the Mission Street Vendors Association, and the ordinance passed on first reading.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "small_business"
+      ],
+      "speakers": [
+        {
+          "name": "Jackie Fielder",
+          "stance": "support",
+          "quote": "STREET VENDORS ARE A VITAL COMPONENT OF THE MISSION SMALL BUSINESS COMMUNITY AND VIBRANCY AND SO I'M CASTING MY VOTE TODAY IN SUPPORT OF THEM.",
+          "t0": 1354.525,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1195746,
+      "summary": "The Board considered a resolution urging SFPD to develop and implement a comprehensive enforcement and intervention plan for drug activity within 250 feet of parks, schools, and playgrounds. Supervisor Fielder expressed appreciation for amendments incorporating healthcare and treatment interventions alongside law enforcement. The resolution was adopted.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "health",
+        "parks"
+      ],
+      "speakers": [
+        {
+          "name": "Jackie Fielder",
+          "stance": "support",
+          "quote": "I JUST WANTED TO THANKS ADVISOR CHERYL AND MAHMOOD FOR TAKING THE AMENDMENTS TO THIS RESOLUTION AND FOR INCORPORATING A RESPONSE FOCUSED ON LAW ENFORCEMENT AS WELL AS A WHOLE OF GOVERNMENT APPROACH THAT INCLUDES DEPARTMENT OF EMERGENCY MANAGEMENT, DEPARTMENT OF PUBLIC HEALTH",
+          "t0": 1388.625,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1195747,
+      "summary": "The Board considered a resolution finding that the issuance of a Type 64 beer and wine theater liquor license to the Roxie Theater at 3117 16th Street serves the public convenience and necessity. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1195749,
+      "summary": "The Board took up motions appointing members to Assessment Appeals Boards Nos. 1, 2, and 3 together. The motion for Assessment Appeals Board No. 1 appointed Jeffrey Jonathan Morris and Nicholas Goldman and was approved without objection.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1195750,
+      "summary": "The Board approved the reappointment of John Lee, Mervin Conlan, and Susan Elizabeth Miller to Assessment Appeals Board No. 2 for terms ending September 4, 2028, without objection.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1195751,
+      "summary": "The Board approved the appointment of Franco Cirelli, James Reynolds, and Kristine Nelson to Assessment Appeals Board No. 3 for terms ending September 4, 2028, without objection.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1195755,
+      "summary": "The Board sat as a Committee of the Whole to receive an update from SFPD representatives on compliance with the 272 Department of Justice recommendations, noting that 263 recommendations are in substantial compliance with nine remaining around data systems and dashboards. Supervisors questioned SFPD leadership on racial disparities in traffic stops, officer evaluations, and hiring practices. The hearing was continued to May 12, 2026.",
+      "outcome": "continued",
+      "topics": [
+        "public_safety"
+      ],
+      "speakers": [
+        {
+          "name": "Shamann Walton",
+          "stance": "question",
+          "quote": "ONE OF THE MAJOR ISSUES THAT WE'VE SEEN HERE IN THE CITY AND WE CONTINUE TO SEE IS THE DISPROPORTIONALITY OF POLICE STOPS AND BIAS AROUND VEHICLE POLICE STOPS PARTICULARLY IN REFERENCE TO RACE. HAS THAT DATA IMPROVED",
+          "t0": 4560.37,
+          "verified": true
+        },
+        {
+          "name": "Department head",
+          "stance": "neutral",
+          "quote": "OF THE 272 RECOMMENDATIONS ISSUED IN 220 16. WE HAVE REACHED 263 IN SUCH SUBSTANTIAL COMPLIANCE. >> SO WE DO HAVE NINE PENDING",
+          "t0": 4192.989,
+          "verified": true
+        },
+        {
+          "name": "Department head",
+          "stance": "neutral",
+          "quote": "WE HAVE FAR MORE LATERAL OFFICERS THAT APPLY TO COME OVER TO OUR DEPARTMENT THAN WE ACTUALLY END UP HIRING FOR THE REASONS THAT YOU JUST SPOKE ABOUT. >> SO LATERAL OFFICERS REALLY GIVES US A GLIMPSE INTO HOW SOMEBODY ACTUALLY DOES THE JOB",
+          "t0": 4897.603,
+          "verified": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "question",
+          "quote": "WHAT HAS BEEN DONE SINCE THEN TO CORRECT FOR THIS. >> UM, PRACTICE OF FUDGING NUMBERS WHETHER THAT'S DISCIPLINE OR SOMETHING ELSE BECAUSE THE DATA THAT WE HAVE IS ONLY AS GOOD AS UM WHAT'S BEING INPUT INTO THE SYSTEM?",
+          "t0": 5244.304,
+          "verified": false
+        },
+        {
+          "name": "Matt Dorsey",
+          "stance": "question",
+          "quote": "TO WHAT EXTENT COULD TECHNOLOGY AUTOMATE TRAFFIC ENFORCEMENT? I KNOW THAT WE HAVE HAD RED LIGHT CAMERAS I THINK FOR 20 YEARS. WE'VE IMPLEMENTED I THINK 33 OR WE'VE INTERVENED AND IMPLEMENTED SPEED ENFORCEMENT CAMERAS AT I BELIEVE 33 LOCATIONS.",
+          "t0": 5358.966,
+          "verified": false
+        }
+      ],
+      "votes": [
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": [
+        "child trafficking allegations",
+        "indigenous land transfer and casino suggestion"
+      ]
+    },
+    {
+      "meta_id": 1195756,
+      "summary": "The Board formally adjourned from the Committee of the Whole and received reports on items recommended by the Land Use and Transportation Committee.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1195758,
+      "summary": "The Board considered an ordinance amending the Planning Code and Zoning Map to expand the boundaries of the Central Neighborhoods Large Residence Special Use District and merge the Corona Heights SUD into it. The ordinance was passed on first reading unanimously.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1195759,
+      "summary": "The Board considered General Plan amendments implementing the Family Zoning Plan across multiple area plans. Following debate on state housing mandates, tenant protections, and potential loss of local control, the ordinance passed on first reading on a 7-4 vote.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "housing"
+      ],
+      "speakers": [
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "",
+          "t0": 6270.324,
+          "verified": false
+        },
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "",
+          "t0": 6316.39,
+          "verified": false
+        },
+        {
+          "name": "Danny Sauter",
+          "stance": "support",
+          "quote": "",
+          "t0": 7193.719,
+          "verified": false
+        },
+        {
+          "name": "Stephen Sherrill",
+          "stance": "support",
+          "quote": "",
+          "t0": 7465.933,
+          "verified": false
+        },
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "",
+          "t0": 7928.437,
+          "verified": false
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "oppose",
+          "quote": "",
+          "t0": 8595.4,
+          "verified": false
+        },
+        {
+          "name": "Chyanne Chen",
+          "stance": "oppose",
+          "quote": "",
+          "t0": 9035.536,
+          "verified": false
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "oppose",
+          "quote": "",
+          "t0": 9246.38,
+          "verified": false
+        },
+        {
+          "name": "Alan Wong",
+          "stance": "support",
+          "quote": "",
+          "t0": 9396.589,
+          "verified": false
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "",
+          "t0": 10668.291,
+          "verified": false
+        }
+      ],
+      "votes": [
+        {
+          "name": "Jackie Fielder",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1195760,
+      "summary": "The Board considered Zoning Map amendments to implement the Family Zoning Plan by reclassifying properties, amending height and bulk limits, and updating the Local Coastal Program. The ordinance was passed on first reading on a 7-4 vote.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Jackie Fielder",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1195761,
+      "summary": "The Board considered Planning Code amendments to create the Housing Choice San Francisco program and implement the Family Zoning Plan. Supervisor Chan introduced an amendment to protect all rent-controlled units from demolition under the local density program, which failed on a 4-7 vote. The unamended ordinance passed on first reading 7-4.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "housing"
+      ],
+      "speakers": [
+        {
+          "name": "Connie Chan",
+          "stance": "oppose",
+          "quote": "TODAY I AM MAKING A MOTION TO AMEND ITEM 38 FILE NUMBER 25070. AND THAT WITH THE GOAL IS TO PROTECT ALL RENT CONTROL UNITS .",
+          "t0": 6607.18,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Jackie Fielder",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1195764,
+      "summary": "The Board considered an ordinance amending the Administrative Code to eliminate the Folsom Street Entertainment Zone and establish the West SoMa Entertainment Zone. The ordinance passed unanimously on first reading.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1195765,
+      "summary": "The Board considered the presidential appointment of Robin Abad Ocubillo to the Board of Appeals for a term ending July 1, 2026. The motion approving the appointment was approved without objection.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1195766,
+      "summary": "Supervisors introduced various pieces of legislation and hearing requests during Roll Call for Introductions. Introductions included resolutions reforming SB 330 and addressing gender equity, expanding Baby Prop C child care eligibility, reviewing ultra-processed foods in city procurement, and requesting a hearing on allegations of sexual misconduct against women in county jails.",
+      "outcome": "referred",
+      "topics": [
+        "health",
+        "housing",
+        "public_safety",
+        "budget",
+        "elections_governance"
+      ],
+      "speakers": [
+        {
+          "name": "Myrna Melgar",
+          "stance": "neutral",
+          "quote": "",
+          "t0": 10839.202,
+          "verified": false
+        },
+        {
+          "name": "Stephen Sherrill",
+          "stance": "neutral",
+          "quote": "",
+          "t0": 11312.239,
+          "verified": false
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "neutral",
+          "quote": "I'M INTRODUCING A RESOLUTION CALLING FOR CERTAIN CITY DEPARTMENTS TO REVIEW THEIR DISTRIBUTION AND SUPPORT OF ULTRA PROCESSED FOODS DIRECTLY THROUGH CONTRACTORS AND TO ENSURE ALIGNMENT WITH THE GOALS OF CALIFORNIA REAL FOODS AND THE HEALTHY KIDS ACT",
+          "t0": 11508.169,
+          "verified": false
+        },
+        {
+          "name": "Chyanne Chen",
+          "stance": "neutral",
+          "quote": "TODAY I AM INTRODUCING A HEARING REQUESTS IN LIGHT OF THE ATROCIOUS ALLEGATIONS OF SEXUAL MISCONDUCT COMMITTED AGAINST AT LEAST 20 WOMEN BEING HELD IN SAN FRANCISCO JAIL.",
+          "t0": 11778.515,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1195767,
+      "summary": "Members of the public addressed the Board on general matters within its jurisdiction. Speakers raised topics including allegations of child trafficking, censorship and technology concerns at public libraries, privacy and unauthorized building entry, and product development ideas.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": [
+        "child trafficking allegations",
+        "library collections and artificial intelligence",
+        "privacy and safety in residential complexes"
+      ]
+    },
+    {
+      "meta_id": 1195768,
+      "summary": "The Board considered items introduced for adoption without committee reference, severing Items 44 and 47 for separate handling. The remaining items on the agenda were adopted unanimously on a roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "settlements",
+        "budget",
+        "elections_governance",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1195772,
+      "summary": "The Board considered a resolution supporting the federal Stop Ballroom Bribery Act to prevent pay-to-play donations related to public property renovations. Supervisor Chen spoke in support of promoting good government and eliminating corruption. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [
+        {
+          "name": "Chyanne Chen",
+          "stance": "support",
+          "quote": "AS ELECTED OFFICIALS WE KNOW HOW IMPORTANT IT IS FOR US TO HAVE A GOOD GOVERNMENT THAT EARNS AND BUILDS PUBLIC TRUST WHEN WE ALLOW THE CULTURE OF PAY TO PLAY, WE ALLOW GOVERNMENT CORRUPTION TO FESTER",
+          "t0": 12813.279,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    }
+  ],
+  "quote_verification": {
+    "verified": 15,
+    "partial": 3,
+    "dropped": 12
+  }
+}

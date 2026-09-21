@@ -1,0 +1,737 @@
+{
+  "clip_id": 50687,
+  "items": [
+    {
+      "meta_id": 1179669,
+      "summary": "The Board of Supervisors convened for its regular meeting, conducted roll call, acknowledged the Ramaytush Ohlone ancestral territory, and recited the Pledge of Allegiance. All eleven members were present.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1179673,
+      "summary": "Mayor Daniel Lurie addressed the Board to announce his 'Heart of the City' executive directive focused on revitalizing downtown San Francisco. He highlighted plans for office-to-residential conversions, small business streamlining, expanded nightlife and entertainment zones, and private sector commitments.",
+      "outcome": "no_action",
+      "topics": [
+        "housing",
+        "small_business",
+        "planning_land_use",
+        "budget"
+      ],
+      "speakers": [
+        {
+          "name": "Mayor",
+          "stance": "support",
+          "quote": "EARLIER TODAY AT UNION SQUARE. I ANNOUNCED MY HEART OF THE CITY EXECUTIVE DIRECTIVE TO MAKE DOWNTOWN A 24 SEVEN NEIGHBORHOOD WHERE YOU CAN LIVE, WORK, PLAY AND LEARN. DOWNTOWN IS THE HEART OF SAN FRANCISCO AND OUR JOB IS TO BRING IT MORE FULLY BACK TO LIFE.",
+          "t0": 161.757,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1179674,
+      "summary": "Supervisor Melgar engaged Mayor Lurie in a formal policy discussion regarding the Family Housing Plan and its effects on the Westside. Melgar raised concerns about small business displacement, demolition of rent-controlled units, and dedicated funding for affordable housing, with Mayor Lurie expressing support for collaborative legislative solutions.",
+      "outcome": "no_action",
+      "topics": [
+        "housing",
+        "small_business",
+        "planning_land_use"
+      ],
+      "speakers": [
+        {
+          "name": "Myrna Melgar",
+          "stance": "question",
+          "quote": "SO FOR ME THESE ISSUES INCLUDE THE POTENTIAL DISPLACEMENT OF SMALL BUSINESSES THE RESIDENTIAL TENANT DISPLACEMENT DUE TO DEMOLITION OF RENT CONTROLLED UNITS AND AND THE LACK OF DEDICATED FUNDING FOR AFFORDABLE HOUSING WHICH HAS NOT BEEN BUILT ON THE WEST SIDE FOR A VERY LONG TIME",
+          "t0": 404.88,
+          "verified": true
+        },
+        {
+          "name": "Mayor",
+          "stance": "support",
+          "quote": "LET ME BE CLEAR WE WILL NOT LEAVE SMALL BUSINESSES, RENTERS OR AFFORDABLE HOUSING BEHIND. FAMILY ZONING WILL STRENGTHEN, NOT WEAKEN OUR NEIGHBORHOODS. THAT MEANS PROTECTING SMALL BUSINESSES, SAFEGUARDING RENTERS, PRESERVING WHAT MAKES OUR COMMUNITIES SPECIAL AND BUILDING REAL AFFORDABLE HOUSING.",
+          "t0": 463.205,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1179670,
+      "summary": "The Clerk read general meeting announcements regarding public participation, broadcast options, written comment submission, and accommodations under the Americans with Disabilities Act.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1179671,
+      "summary": "The Board considered the approval of the meeting minutes from the July 29, 2025 meeting. The minutes were approved unanimously on a roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1179679,
+      "summary": "The Board considered an ordinance on final reading amending the Administrative Code regarding food purchasing standards and reporting requirements for City hospitals and jails, extending the sunset date to December 31, 2035. The ordinance passed unanimously.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1179683,
+      "summary": "The Board considered an ordinance authorizing the execution and delivery of tax-exempt or taxable Certificates of Participation not to exceed $65,000,000 to finance and refinance capital improvement projects in the City's Capital Plan. The ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1179684,
+      "summary": "The Board considered a resolution retroactively authorizing the Office of the District Attorney to accept and expend an approximate $167,000 grant from the San Francisco Superior Court for the Byrne State Crisis Intervention Program. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1179685,
+      "summary": "The Board considered a resolution approving a fourth amendment to the contract with Project Open Hand for HIV and AIDS food and nutrition services, increasing the total contract amount by $1.7 million to $20.5 million. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1179686,
+      "summary": "The Board considered a resolution retroactively authorizing the Department of Public Health to enter into a five-year agreement with the California Department of State Hospitals for the Felony Incompetent to Stand Trial Mental Health Diversion Program, with anticipated revenue of approximately $15 million. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "public_safety",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1179687,
+      "summary": "The Board considered a resolution authorizing a five-year real property lease of approximately 4,000 square feet at 8 Boardman Place from STEEL ARC, LLC for the Public Defender's Office at an annual base rent of $144,000. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1179688,
+      "summary": "The Board considered a resolution approving a lease agreement with NPU, Inc. for the continued use of the Old United States Mint at 88 Fifth Street for a four-year term, with participation rent set at 10% of gross monthly revenue. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1179689,
+      "summary": "The Board considered a resolution approving an agreement with Solaris Bus US, Inc. to purchase six battery-electric transit buses and related equipment and training through options under a King County Metro procurement, with an anticipated expenditure of $10.8 million. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "transit",
+        "environment",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1179690,
+      "summary": "The Board considered a resolution approving the issuance and delivery of multifamily housing revenue notes not to exceed $84,116,000 to finance the construction of 127 units of affordable rental housing at Balboa Reservoir Building E. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "budget"
+      ],
+      "speakers": [
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "WE NEED TO MAKE AN AMENDMENT THAT WAS NOT QUITE READY AT THE BUDGET COMMITTEE BUT WAS DISCUSSED AND RECOMMENDED BY THE BUDGET LEGISLATIVE ANALYST WHEN IT WAS AT THE COMMITTEE AND THE AMENDMENT HAS BEEN SENT TO YOU ELECTRONICALLY",
+          "t0": 1433.452,
+          "verified": false
+        },
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "IT'S BEEN LITERALLY 30 YEARS IN THE MAKING AND THE PERSON THAT I ALSO WANT TO THANK IS MY DEAR FRIEND AND FORMER DISTRICT SEVEN SUPERVISOR AND PRESIDENT AND MANY WHO WAS A SUPERVISOR WITH THIS PROJECT WAS ENTITLED",
+          "t0": 1543.837,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1179691,
+      "summary": "The Board considered an amended and restated loan agreement with BHC Balboa Builders, LLC for up to $56,425,904 for first-phase infrastructure improvements at the Balboa Reservoir site. Supervisor Chan proposed an amendment requiring MOHCD to provide a written report on loan disbursements and potential forgiveness within 90 days of Building E's completion, which was adopted, and the resolution passed as amended.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "budget",
+        "planning_land_use"
+      ],
+      "speakers": [
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "ADDING A CLAUSE THAT INDICATING THAT EMIL CD HAS AGREED TO PROVIDE A WRITTEN REPORTS TO THE POOR SUPERVISORS WITHIN THE 90 DAYS OF THE COMPLETION OF BUILDING E PARTICULARLY THIS IS REALLY ABOUT TO REPORT BACK. WE ARE PROVIDING A LOAN TO THE PROJECT",
+          "t0": 1463.214,
+          "verified": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "A COUPLE OF YEARS AGO WE WE AMENDED THE DEVELOPMENT AGREEMENT TO HAVE THE AFFORDABLE HOUSING GO FIRST AND THAT'S WHAT'S HAPPENING. AND THIS INFRASTRUCTURE WILL SUPPORT PRIMARILY AFFORDABLE HOUSING AS BEING BUILT FIRST BUT WILL SUPPORT THE PROJECT OVERALL.",
+          "t0": 1562.256,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1179692,
+      "summary": "The Board considered a resolution approving a 75-year ground lease and an amended and restated loan agreement not to exceed $28,000,000 with Balboa Lee Avenue, L.P. to construct a 100% affordable 127-unit rental housing development at Balboa Reservoir Building E. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "budget"
+      ],
+      "speakers": [
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "WE NEED TO MAKE AN AMENDMENT THAT WAS NOT QUITE READY AT THE BUDGET COMMITTEE BUT WAS DISCUSSED AND RECOMMENDED BY THE BUDGET LEGISLATIVE ANALYST",
+          "t0": 1433.452,
+          "verified": false
+        },
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "I JUST WANTED TO SAY THANK YOU VERY MUCH TO CHAIR TRAN FOR HER WORK AND THOUGHTFULNESS ON THIS AMENDMENT AND TO THE ENTIRE BUDGET COMMITTEE AND TO EXPRESS MY GRATITUDE TO THE MAYOR'S OFFICE OF HOUSING FOR THEIR DILIGENT WORK ON THIS PROJECT.",
+          "t0": 1526.78,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1179694,
+      "summary": "The Board received committee reports consisting of eight proposed settlement ordinances from the Government Audit and Oversight Committee. The ordinances passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "settlements"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1179695,
+      "summary": "The Board considered an ordinance authorizing the settlement of an employment dispute lawsuit filed by Katrina Baptiste against the City for $125,000. The ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "settlements",
+        "labor"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1179696,
+      "summary": "The Board considered an ordinance authorizing the settlement of a personal injury lawsuit filed by Alyonik Hrushow regarding an incident on a city sidewalk for $225,000. The ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "settlements"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1179697,
+      "summary": "The Board considered an ordinance authorizing the settlement of a personal injury lawsuit filed by Jane Gazzola involving a city sidewalk for $128,000. The ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "settlements"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1179698,
+      "summary": "The Board considered an ordinance authorizing the settlement of two employment dispute lawsuits filed by Keith Baraka against the City for a total of $160,000. The ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "settlements",
+        "labor"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1179699,
+      "summary": "The Board considered an ordinance authorizing the settlement of a lawsuit filed by the Coalition on Homelessness concerning city property seizure practices and bag-and-tag policies, settling for approximately $2.8 million and non-monetary terms. The ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "settlements",
+        "homelessness"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1179700,
+      "summary": "The Board considered an ordinance authorizing a partial settlement in opioid litigation against the Raymond Sackler family trust, securing between $8 million and $12 million over 15 years for opioid crisis abatement. The ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "settlements",
+        "health"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1179701,
+      "summary": "The Board considered an ordinance authorizing the settlement of a False Claims Act lawsuit against AT&T Corp. and Pacific Bell Telephone Company for alleged under-collection of the Access Line Tax, resulting in $15.4 million to the City. The ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "settlements",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1179702,
+      "summary": "The Board considered an ordinance authorizing the settlement of a California False Claims Act lawsuit against U.S. Telepacific Corp. (TPx Communications) regarding under-collected Access Line Taxes, under which the City will receive $3.66 million. The ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "settlements",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1179693,
+      "summary": "The Board presented commendations recognizing retired Galileo High School athletic coach Kevin Adams for 43 years of service to youth athletics, and retiring SF 311 Director Nancy Alfaro for over 30 years of public service, including her leadership as County Clerk during the historic 2004 same-sex marriages.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Chyanne Chen",
+          "stance": "support",
+          "quote": "IT'S MY GREAT HONOR TODAY TO RECOGNIZE COACH KEVIN ADAMS, A LIFELONG EDUCATOR, COACH AND MENTOR. AFTER 43 YEARS OF DEDICATION TO HIS PLAYERS, COACH ADAM RETIRED THIS YEAR.",
+          "t0": 1846.891,
+          "verified": false
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "I'M PRESENTING A SPECIAL COMMENDATION TO NANCY ALFARO WHO'S RETIRING FROM HER ROLE AS DIRECTOR OF S.F. 311 AFTER MORE THAN 30 YEARS OF SERVICE TO THE CITY AND COUNTY OF SAN FRANCISCO",
+          "t0": 2170.302,
+          "verified": false
+        },
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "AND I THINK IT'S APPROPRIATE IN THE HISTORY OF LGBTQ PLUS RIGHTS THERE IS GOING TO BE A CASE WITH YOUR NAME ON IT BECAUSE THEY SUED YOU. AND I ALWAYS THOUGHT THAT WAS KIND OF GREAT BECAUSE BECAUSE YOU COULD HAVE SAID NO AND IT REALLY DID MATTER",
+          "t0": 2361.364,
+          "verified": true
+        },
+        {
+          "name": "Danny Sauter",
+          "stance": "support",
+          "quote": "I APPRECIATE YOUR WORK ON 311 BECAUSE I THINK IT IS THE PROBABLY THE MOST COMMON WAY THAT EVERYDAY CITIZENS ENGAGE WITH OUR CITY AND IS SOMETHING THAT I WOULD SAY 99% OF THE TIME IT FEELS LIKE MAGIC TO PEOPLE WHEN THEY USE IT",
+          "t0": 2418.233,
+          "verified": false
+        },
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "AND AGAIN TO THANK YOU AS FROM ONE LATINA TO ANOTHER FOR YOUR VISIBILITY, YOUR REPRESENTATION AND THE WAY THAT YOU HAVE CARRIED YOURSELF IN THIS POSITION AND WHAT YOU'VE MEANT FOR THE REST OF US.",
+          "t0": 2508.456,
+          "verified": true
+        },
+        {
+          "name": "Department head",
+          "stance": "support",
+          "quote": "NANCY, YOU'RE NOT GOING TO ONLY BE MISSED BECAUSE OF THE WORK THAT YOU'VE DONE TO MODERNIZE AND MOVE OUR GOVERNMENT FORWARD AND FOR ALL OF THE INNOVATION AND AND WORK THAT YOU'VE DONE, WE'RE GOING TO MISS YOU FOR YOUR PARTNERSHIP.",
+          "t0": 2691.64,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1179705,
+      "summary": "The Board considered a presidential appointment motion approving Antonio Tolentino to the San Francisco Downtown Revitalization and Economic Recovery Financing District Board of Directors for a term ending July 22, 2027. The motion was approved as amended without objection.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "planning_land_use",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1179706,
+      "summary": "The Board considered a presidential appointment motion approving Kristen Wang to the San Francisco Downtown Revitalization and Economic Recovery Financing District Board of Directors for a term ending July 22, 2029. The motion was approved as amended without objection.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "planning_land_use",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1179708,
+      "summary": "Supervisors introduced new legislation and spoke on policy matters, including Library Card Sign-Up Month, repealing the cannabis business tax, emergency response training, residential tenant protections, community policing updates, and a resolution urging the commutation of death sentences. Supervisors also adjourned in memory of merchant Peter Kane and legendary California lawmaker John Burton.",
+      "outcome": "no_action",
+      "topics": [
+        "housing",
+        "public_safety",
+        "small_business",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "AS THE SON OF A FORMER LIBRARIAN I AM PROUDLY INTRODUCING A RESOLUTION RECOGNIZING SEPTEMBER AS LIBRARY CARD SIGN-UP MONTH IN SAN FRANCISCO THIS RESOLUTION UPLIFTS THE SAN FRANCISCO PUBLIC LIBRARY SYSTEM",
+          "t0": 3274.207,
+          "verified": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "COLLEAGUES I AM INTRODUCING LEGISLATION TO NEARLY SEVEN YEARS AFTER IT WAS IMPOSED OR APPROVE MOVED TO REPEAL OUR NEVER YET IMPOSED CANNABIS BUSINESS TAX AGAIN BACK IN NOVEMBER OF 2018 VOTERS VOTED ON THIS MEASURE",
+          "t0": 3435.172,
+          "verified": true
+        },
+        {
+          "name": "Danny Sauter",
+          "stance": "support",
+          "quote": "TODAY I AM INTRODUCING A HEARING REQUEST ON THE PERFORMANCE OF THE CITY'S MAIN DISASTER TRAINING PROGRAM. THE NEIGHBORHOOD EMERGENCY RESPONSE TEAM. MORE COMMONLY KNOWN AS INERT HAS BEEN AROUND SINCE 1990 AND HAS TRAINED THOUSANDS OF RESIDENTS",
+          "t0": 3738.289,
+          "verified": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "stance": "support",
+          "quote": "THIS ORDINANCE OFFERS PROACTIVE STRATEGY TO EXPAND THE RIGHTS OF TENANTS WHO FACE DISPLACEMENT WHEN A DEVELOPER OR LANDLORD PURSUES THE DEMOLITION OF A TENANT OCCUPIED A PROPERTY IN ORDER TO BUILD NEW HOUSING.",
+          "t0": 3841.86,
+          "verified": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "COLLEAGUES, I ASK THAT WE ADJOURN TODAY'S MEETING ON BEHALF OF THE ENTIRE BOARD OF SUPERVISORS IN REMEMBRANCE OF JOHN BURTON, A TRUE SON OF SAN FRANCISCO AND A ONE ONCE IN A GENERATION POLITICAL LEADER WHOSE INFLUENCE SPANNED SIX DECADES",
+          "t0": 4124.4,
+          "verified": true
+        },
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "ONE HE KNEW WHO HE WAS. HE KNEW HIS VALUES. HE KNEW HIS ALLY MIKE CASEY. HE TRUSTED HIM AND HE KNEW WHAT IT WAS ABOUT THE LABOR MOVEMENT AND WE HAVE LABOR AND BEING PART OF THE MOVEMENT THEN HE'S PART OF IT TOO.",
+          "t0": 4466.675,
+          "verified": true
+        },
+        {
+          "name": "Joel Engardio",
+          "stance": "support",
+          "quote": "TODAY I'M INTRODUCING AN ORDINANCE TO EXPAND THE CITY'S COMMUNITY POLICING POLICY. THE COMMUNITY POLICING POLICY WAS ADOPTED NEARLY 15 YEARS AGO TO PROVIDE GUIDANCE TO THE POLICE DEPARTMENT ON BUILDING RELATIONSHIPS AND MAINTAINING TRUST",
+          "t0": 4751.566,
+          "verified": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "support",
+          "quote": "COLLEAGUES TODAY I'M INTRODUCING A RESOLUTION THAT CALLS ON GOVERNOR NEWSOM TO COMMUTE EVERY DEATH SENTENCE IN CALIFORNIA AND REDIRECT THOSE RESOURCES TO THE SURVIVORS OF VIOLENT CRIME WHO NEED THEM MOST.",
+          "t0": 4931.36,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1179709,
+      "summary": "Members of the public provided general comments on topics within the Board's jurisdiction, including Western Addition community meetings, public housing preservation, federal law enforcement actions and ICE arrests of local activists, transit taxes, and water utility pipe capacity for new affordable housing.",
+      "outcome": "no_action",
+      "topics": [
+        "other",
+        "housing",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": [
+        "ICE enforcement actions against community activists",
+        "Western Addition community meetings and ambassador programs",
+        "Muni transit funding and proposed parcel taxes",
+        "Utility pipe infrastructure limits for affordable housing development"
+      ]
+    },
+    {
+      "meta_id": 1179710,
+      "summary": "The Board considered items 25 through 32 introduced for adoption without committee reference, including recognitions for La Playa Village and Claude the Alligator, support for Proposition 50, designations for Transit Month and Childhood Cancer Awareness Month, opposition to federal EPA rollbacks, and municipal fuel contracts. All resolutions were adopted unanimously on a roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "transit",
+        "environment",
+        "public_safety",
+        "elections_governance",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "THANK YOU. I WOULD LIKE TO BE ADDED AS A CO-SPONSOR TO NUMBER 26 AND 32.",
+          "t0": 6201.448,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    }
+  ],
+  "quote_verification": {
+    "verified": 16,
+    "partial": 8,
+    "dropped": 0
+  }
+}

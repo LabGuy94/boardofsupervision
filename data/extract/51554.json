@@ -1,0 +1,1002 @@
+{
+  "clip_id": 51554,
+  "items": [
+    {
+      "meta_id": 1202336,
+      "summary": "Board President Rafael Mandelman called the regular meeting of the San Francisco Board of Supervisors to order and the Clerk conducted roll call, confirming all eleven members were present. The Board then acknowledged the ancestral homeland of the Ramaytush Ohlone and recited the Pledge of Allegiance.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1202340,
+      "summary": "The Clerk announced the 2:00 PM special order for Mayor Daniel Lurie's appearance before the Board of Supervisors.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1202341,
+      "summary": "Mayor Daniel Lurie addressed the Board to announce that Vanderbilt University had selected San Francisco for a new academic campus at the former California College of the Arts site. Supervisor Chyanne Chen then questioned the Mayor regarding city resources, inter-agency coordination, and budget commitments to combat human trafficking ahead of Super Bowl 60 and the FIFA Club World Cup.",
+      "outcome": "no_action",
+      "topics": [
+        "public_safety",
+        "budget",
+        "health"
+      ],
+      "speakers": [
+        {
+          "name": "Mayor",
+          "stance": "support",
+          "quote": "VANDERBILT UNIVERSITY, ONE OF THE WORLD'S LEADING RESEARCH UNIVERSITIES HAS SELECTED SAN FRANCISCO AS THE HOME FOR A FULL TIME ACADEMIC CANCER CAMPUS BEGINNING IN 2027",
+          "t0": 173.577,
+          "verified": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "stance": "question",
+          "quote": "WHILE WE ARE EXCITED TO HOST TO BE A HOST CITY FOR THE NFL'S SUPER BOWL 60 AND FIFA WORLD CLUB THIS YEAR I'M HEARING GROWING CONCERNS ABOUT POTENTIAL INCREASES IN HUMAN TRAFFICKING BOTH LABOR AND SEX TRAFFICKING.",
+          "t0": 344.765,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1202337,
+      "summary": "The Clerk read standard communications regarding meeting broadcasts, procedures for submitting written public comment, and instructions for requesting disability accommodations and language assistance.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1202338,
+      "summary": "The Board considered the approval of regular meeting minutes from November 18, December 2, and December 9, 2025, along with special meeting minutes from November 17, 2025. The motion to approve the minutes passed unanimously.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1202339,
+      "summary": "Board President Mandelman announced anticipated agenda changes, informing the public that Items 24 through 27 were expected to be continued to February 3, 2026.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1202343,
+      "summary": "The Board called Unfinished Business, considering Items 2 and 3 together concerning the San Francisco Fire Department training facility at 1236 Carroll Avenue.",
+      "outcome": "no_action",
+      "topics": [
+        "public_safety",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1202345,
+      "summary": "The Board considered an ordinance ordering the vacation of portions of Hawes Street, Griffith Street, and Bancroft Avenue for the San Francisco Fire Department training facility at 1236 Carroll Avenue, and approving an interdepartmental transfer of property from Public Works to the Fire Department. The ordinance passed unanimously on final reading.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1202348,
+      "summary": "The Board considered an ordinance amending the Planning Code Zoning Map to rezone parcels at 1236 Carroll Avenue from PDR-2 to Public use and reclassifying height and bulk limits to facilitate the new Fire Department training facility. The ordinance passed unanimously on final reading.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1202349,
+      "summary": "The Board considered an ordinance amending the Planning Code to update the definition of family to household, remove numeric limits on unrelated members living together, and classify residential care facilities serving six or fewer persons as residential uses. The ordinance was finally passed without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "housing",
+        "health"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1202353,
+      "summary": "The Board approved a resolution retroactively authorizing the Department of the Environment to accept and expend a $400,000 grant prize from the U.S. Department of Energy Buildings Upgrade Challenge Phase 1. The grant supports pilot planning to upgrade San Francisco homes with electric heat pumps and energy efficiency measures.",
+      "outcome": "passed",
+      "topics": [
+        "environment",
+        "budget",
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1202354,
+      "summary": "The Board approved a resolution retroactively authorizing the Department of the Environment to accept and expend a second $400,000 grant prize from the U.S. Department of Energy Buildings Upgrade Challenge Phase 2. The funds will implement a pilot program upgrading 20 homes with electric heat pump water heaters.",
+      "outcome": "passed",
+      "topics": [
+        "environment",
+        "budget",
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1202355,
+      "summary": "The Board approved a resolution establishing a rent reduction and minimum annual guarantee modification program for food and beverage concessions at San Francisco International Airport. The measure provides relief across eligible airport leases and was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "small_business"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1202356,
+      "summary": "The Board adopted a resolution authorizing the Department of Public Health to accept and expend approximately $6.75 million from the San Francisco General Hospital Foundation for the ZSFG Epic electronic health record optimization and staff development program. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1202357,
+      "summary": "The Board adopted a resolution retroactively authorizing the Department of Public Health to accept and expend approximately $1.12 million from the California Department of Health for a disease intervention specialist workforce development grant. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1202358,
+      "summary": "The Board adopted a resolution authorizing the Human Services Agency to accept and expend a $268,000 grant from Blue Cross of California Partnership Plan for the Housing and Homelessness Incentive Program through March 2030. The item was approved without objection.",
+      "outcome": "passed",
+      "topics": [
+        "homelessness",
+        "housing",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1202359,
+      "summary": "The Board adopted a resolution authorizing the Human Services Agency to accept and expend a $1,072,000 grant from the San Francisco Health Plan for the Housing and Homelessness Incentive Program. The resolution was approved without objection.",
+      "outcome": "passed",
+      "topics": [
+        "homelessness",
+        "housing",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1202360,
+      "summary": "The Board adopted a resolution authorizing the Department of Public Health to execute a grant agreement with the California Department of Health Care Services for approximately $21.35 million in revenue under Bond BHCIP Round 1. The funding supports capital development of behavioral health facilities at 887 Potrero Avenue.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1202361,
+      "summary": "The Board adopted a resolution authorizing the Department of Public Health to execute a grant agreement with the California Department of Health Care Services for approximately $6.34 million under Bond BHCIP Round 1. The grant will fund behavioral health infrastructure at 333 7th Street.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1202362,
+      "summary": "The Board approved a resolution retroactively authorizing the Mayor and MOHCD to execute a 20-year grant agreement of up to $15.37 million with RSU Associates, L.P. The grant provides operating subsidies for 100% affordable supportive housing for low-income and formerly homeless youth and households at 78 Haight Street and 120 Octavia Street.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "homelessness",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1202363,
+      "summary": "The Board approved a resolution authorizing the issuance and delivery of multifamily housing revenue notes in an aggregate principal amount not to exceed $41.75 million. The financing supports the construction of a 95-unit affordable senior rental housing project at 967 Mission Street.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1202364,
+      "summary": "The Board approved a 75-year ground lease and loan agreement not to exceed $44.32 million with 967 Mission, LP for city-owned property at 967 Mission Street. The agreement enables the development of 95 units of 100% affordable senior housing, including units dedicated to homeless seniors.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1202366,
+      "summary": "The Board approved a resolution authorizing a 15-year grant agreement with 967 Mission, LP for up to $10.55 million in senior operating subsidies. The funding supports 40 units designated for extremely low-income seniors at 967 Mission Street.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1202369,
+      "summary": "The Board recognized three individuals with commendations for service to the city: local artist Denise Fielder for designing the USPS Holiday Cheer stamp series, Olivia Scanlon for over two decades of public service including her work as Chief of Staff at the Department of Emergency Management, and Moses Corrette upon his retirement after 26 years as a city preservation planner.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Danny Sauter",
+          "stance": "support",
+          "quote": "DENISE'S ARTWORK HAS BEEN SEEN AROUND THE WORLD MILLIONS AND MILLIONS OF TIMES IN A ONE INCH BY ONE INCH SQUARE. >> THAT IS BECAUSE HER ARTWORK HAS GRACED MILLIONS OF POSTAGE STAMPS AS SHE WAS. THIS YEAR'S FEATURED ARTIST FOR THE HOLIDAY CHEER SERIES.",
+          "t0": 1624.795,
+          "verified": false
+        },
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "COLLEAGUES TODAY IT IS MY HONOR TO RECOGNIZE OLIVIA SCANLON FOR HER MORE THAN TWO DECADES OF EXTRAORDINARY PUBLIC SERVICE TO THE CITY AND COUNTY OF SAN FRANCISCO.",
+          "t0": 1829.29,
+          "verified": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "MOSES CARETTE RETIRED EARLIER THIS MONTH AFTER 26 YEARS OF SERVICE AS AN EMPLOYEE OF THE SAN FRANCISCO PLANNING DEPARTMENT AND THE BOARD OF SUPERVISORS",
+          "t0": 2838.67,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1202374,
+      "summary": "The Board held a public hearing on an appeal filed by Docomomo Northern California regarding the Planning Department's CEQA statutory emergency exemption determination for dismantling and storing the Vaillancourt Fountain at Embarcadero Plaza. Appellants argued the city created the emergency through deferred maintenance and piecemealed environmental review, while city departments and neighborhood advocates cited severe structural failure risks and public hazards.",
+      "outcome": "no_action",
+      "topics": [
+        "parks",
+        "environment",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": [
+        "preservation of iconic brutalist public art and historic heritage",
+        "criticism of using emergency exemptions to bypass standard CEQA review",
+        "public safety risks posed by crumbling concrete and internal steel corrosion",
+        "support for Embarcadero Plaza revitalization and waterfront park improvements"
+      ]
+    },
+    {
+      "meta_id": 1202377,
+      "summary": "The Board voted 10-1 to uphold the Planning Department's determination that the removal and storage of the Vaillancourt Fountain is statutorily exempt from CEQA review as an emergency safety project, rejecting the appeal. Supervisor Fielder cast the lone dissenting vote, expressing concern about prioritizing downtown park funding over neighborhood park equity.",
+      "outcome": "passed",
+      "topics": [
+        "parks",
+        "environment",
+        "public_safety"
+      ],
+      "speakers": [
+        {
+          "name": "Public commenter",
+          "stance": "oppose",
+          "quote": "THE MATTER TODAY IS WHETHER THE CITY CAN BYPASS SECURE UNDER THE PREMISE OF AN EMERGENCY. THE EVIDENCE SHOWS NO EMERGENCY ONLY THAT THE FOUNDERS CONDITION IS A PREDICTABLE RESULT OF THE CITY'S OWN LONG TERM DEFERRED MAINTENANCE.",
+          "t0": 3600.821,
+          "verified": false
+        },
+        {
+          "name": "Danny Sauter",
+          "stance": "support",
+          "quote": "AFTER REVIEWING THE MATERIALS HEARING THE PRESENTATIONS TODAY ,I DO BELIEVE THAT THIS FOUNTAIN WHICH IS A 710 TON CONCRETE STRUCTURE POSES A SIGNIFICANT PUBLIC SAFETY HAZARD. AS SUCH I BELIEVE IT QUALIFIES FOR THE STATUTORY EXEMPTION",
+          "t0": 8749.147,
+          "verified": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "oppose",
+          "quote": "I REMAIN DEEPLY CONCERNED ABOUT HOW RICHMOND PARK HAS REALLY PRIORITIZED THIS PARTICULAR SPACE AND DOWNTOWN AND OTHER PARK SITES AND THE DUNES THE PAST COUPLE OF YEARS AND I BELIEVE THAT IS VERY CONCERNING IN LIGHT OF BUDGET DEFICITS",
+          "t0": 8811.677,
+          "verified": false
+        }
+      ],
+      "votes": [
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1202378,
+      "summary": "This motion to conditionally reverse the Planning Department's statutory exemption determination for the removal of the Vaillancourt Fountain was tabled after the Board voted to affirm the exemption.",
+      "outcome": "failed",
+      "topics": [
+        "parks",
+        "environment",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1202379,
+      "summary": "This motion directing the preparation of findings to reverse the statutory exemption determination for the Vaillancourt Fountain was tabled following the Board's decision to affirm the exemption.",
+      "outcome": "failed",
+      "topics": [
+        "parks",
+        "environment",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1202381,
+      "summary": "The Board called the public hearing on an appeal of a Conditional Use authorization for 825 Sansome Street to convert existing garage space into commercial EV fleet and public charging facilities. Supervisor Sauter moved to continue the hearing, which was approved without objection.",
+      "outcome": "continued",
+      "topics": [
+        "planning_land_use",
+        "transit"
+      ],
+      "speakers": [
+        {
+          "name": "Danny Sauter",
+          "stance": "neutral",
+          "quote": "",
+          "t0": 9035.456,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1202385,
+      "summary": "The Board continued the motion approving Conditional Use authorization for the parking and EV charging facility at 825 Sansome Street to the February 3, 2026 meeting.",
+      "outcome": "continued",
+      "topics": [
+        "planning_land_use",
+        "transit"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1202386,
+      "summary": "The Board continued the motion disapproving Conditional Use authorization for 825 Sansome Street to the February 3, 2026 meeting.",
+      "outcome": "continued",
+      "topics": [
+        "planning_land_use",
+        "transit"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1202387,
+      "summary": "The Board continued the motion directing the preparation of findings related to the Conditional Use authorization at 825 Sansome Street to the February 3, 2026 meeting.",
+      "outcome": "continued",
+      "topics": [
+        "planning_land_use",
+        "transit"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1202365,
+      "summary": "The Board considered a resolution approving a three-year contract amendment with A&A Health Services, Inc. for rehabilitative board and care residential services, increasing the agreement amount by approximately $23 million to a total not to exceed $32.65 million. The resolution was adopted unanimously on roll call.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1202368,
+      "summary": "The Board approved a motion appointing Saki Bailey and Tiffany Bohee to the Inclusionary Housing Technical Advisory Committee for unexpired terms. The motion passed without objection.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1202389,
+      "summary": "The Board approved a motion confirming Mayor Lurie's reappointment of Carmen Chu as City Administrator for a five-year term. The confirmation was approved without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1202390,
+      "summary": "Supervisors introduced new legislation during roll call. Topics included improving Public Works ADA permitting for small businesses, updating economic equity indicators, condemning ICE operations and in-custody deaths, investigating health insurer coverage denials for firefighters, enhancing fire displacement relief, creating a Glen Park entertainment zone, and landmarking 28 historic properties in District 8.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance",
+        "public_safety",
+        "small_business",
+        "health",
+        "housing"
+      ],
+      "speakers": [
+        {
+          "name": "Stephen Sherrill",
+          "stance": "support",
+          "quote": "TODAY I'M INTRODUCING A HEARING REQUEST FOCUSED ON IMPROVING THE CITY'S ADMINISTRATION OF ADA ACCESSIBILITY REQUIREMENTS AND PERMITTING SO THAT OUR ENTREPRENEURS CAN QUICKLY OPEN DOORS AND OPEN ACCESS TO EVERY SAN FRANCISCAN",
+          "t0": 9330.44,
+          "verified": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "stance": "support",
+          "quote": "COLLEAGUE TODAY I AM INTRODUCING A RESOLUTION URGING OUR COMPTROLLER TO INCORPORATE ADDITIONAL METRICS IN THE BI MONTHLY COMPTROLLER STATUS OF SAN FRANCISCO'S ECONOMY. ECONOMY REPORT MONITORING THE CITY'S PROGRESS TOWARDS A JUST ECONOMIC RECOVERY",
+          "t0": 9477.864,
+          "verified": false
+        },
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "I AM TODAY SUBMITTING A LETTER OF INQUIRY TO REQUEST INFORMATION THROUGH THE SAN FRANCISCO HEALTH SERVICE SYSTEM AS TO WHETHER BLUE SHIELD OF CALIFORNIA MAY BE ENGAGING IN A PATTERN OF DENYING OR DELAYING COVERAGE FOR MEDICALLY NECESSARY CARE",
+          "t0": 9815.62,
+          "verified": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "THAT'S WHY TODAY I'M INTRODUCING A RESOLUTION IN SUPPORT OF ASSEMBLYMEMBER ISAAC BRYAN'S ASSEMBLY BILL NUMBER 1537 WHICH PROHIBITS PEACE OFFICERS FROM BEING EMPLOYED BY CONTRACTING WITH OR VOLUNTEERING FOR THE UNITED STATES DEPARTMENT OF HOMELAND SECURITY",
+          "t0": 10094.512,
+          "verified": false
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "FIRST I AM INTRODUCING LEGISLATION TO ESTABLISH AN ENTERTAINMENT ZONE IN AND AROUND DOWNTOWN GLEN PARK. THIS ENTERTAINMENT ZONE WILL ALLOW RESTAURANTS AND BARS ON DIAMOND STREET, HENRY STREET AND MONTEREY BOULEVARD TO SELL ALCOHOLIC BEVERAGES TO GO",
+          "t0": 10652.503,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1202391,
+      "summary": "Members of the public provided general comments on non-agenda city matters. Speakers raised concerns about federal immigration enforcement and ICE operations, called on supervisors to support a ballot measure restoring vehicle traffic on the Upper Great Highway, criticized proposed tree removals by Public Works, and recounted personal property code disputes.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": [
+        "demands to place a measure on the ballot to restore Upper Great Highway vehicle access",
+        "condemnation of ICE enforcement, federal detention, and immigration raids",
+        "opposition to Public Works removing street trees along Howard Street",
+        "landlord and property owner complaints regarding ADU regulations and tenant buyouts"
+      ]
+    },
+    {
+      "meta_id": 1202392,
+      "summary": "The Clerk called the adoption without committee reference calendar for Items 31 and 32. The motions and resolutions on the calendar were adopted unanimously by roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1202394,
+      "summary": "The Board adopted the routine resolutions and routine business on the Adoption Without Committee Reference calendar. Items included resolutions honoring National Human Trafficking Prevention Month and Roe v. Wade, an $800,000 lawsuit settlement with Renee Owens, utility easements for stormwater improvements, a real property lease at 111 Pine Street, and parking garage management amendments.",
+      "outcome": "passed",
+      "topics": [
+        "settlements",
+        "budget",
+        "health",
+        "public_safety",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1202419,
+      "summary": "The Board adjourned the meeting in memory of Renee Nicole Good, who was killed by a federal immigration agent in Minneapolis, and Grateful Dead founding member and guitarist Bob Weir.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    }
+  ],
+  "quote_verification": {
+    "verified": 6,
+    "partial": 7,
+    "dropped": 1
+  }
+}

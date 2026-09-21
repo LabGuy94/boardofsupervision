@@ -1,0 +1,291 @@
+{
+  "clip_id": 48335,
+  "items": [
+    {
+      "meta_id": 1110368,
+      "summary": "The Board of Supervisors called the meeting to order and conducted the initial roll call for attendance. All members were present, and attendees were led in the Pledge of Allegiance.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1110369,
+      "summary": "The Clerk communicated the election credentials and confirmation of surety bonds for newly elected and re-elected supervisors following the November 5, 2024 election. The Clerk explained that formal oaths were taken earlier that day before the Mayor's inauguration.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1110370,
+      "summary": "Presiding Judge of the San Francisco Superior Court administered the ceremonial oath of office to the newly elected and re-elected members of the Board of Supervisors.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1110371,
+      "summary": "Nominations opened for the office of Board President. Supervisor Dorsey nominated Supervisor Rafael Mandelman, seconded and supported with remarks by Supervisor Connie Chan, with no other nominations offered.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "it is my honor to place the name of rafael mandelman to nomination for pedestrian san francisco board of supervisors.",
+          "t0": 547.219,
+          "verified": false
+        },
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "I want to express my support for supervisor mandelman presidency and lead us.",
+          "t0": 816.958,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1110372,
+      "summary": "Members of the public provided general public comment. Speakers congratulated the incoming supervisors, offered praise for Rafael Mandelman's nomination, and addressed concerns including downtown street conditions, the arts budget, and racial disparities in fatal overdoses.",
+      "outcome": "no_action",
+      "topics": [
+        "public_safety",
+        "budget",
+        "health",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": [
+        "Congratulations to new supervisors and support for Rafael Mandelman",
+        "Clean and safe streets downtown",
+        "Arts budget protection",
+        "Disparities in overdose deaths affecting Black residents"
+      ]
+    },
+    {
+      "meta_id": 1110374,
+      "summary": "The Board of Supervisors voted unanimously to elect Rafael Mandelman as Board President for a two-year term. Following the vote, President Mandelman assumed the dais and led a land acknowledgment and a moment of silence for former President Jimmy Carter.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "it is a tremendous honor to serve the resident in my district, this board, beautiful city as a whole.",
+          "t0": 2432.896,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1110375,
+      "summary": "President Mandelman introduced the Mayor of San Francisco to deliver remarks to the chamber.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1110376,
+      "summary": "Newly inaugurated Mayor Daniel Lurie addressed the Board of Supervisors, commending the unanimous vote for President Mandelman and pledging transparent, open partnership between the executive and legislative branches to deliver results for the city.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [
+        {
+          "name": "Mayor",
+          "stance": "support",
+          "quote": "As your mayor working along side the board PRESIDENT That we are going to have honest, open transparent conversation at all times",
+          "t0": 2608.107,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1110377,
+      "summary": "Newly elected, re-elected, and continuing members of the Board of Supervisors delivered remarks outlining their legislative priorities, thanking family and supporters, and sharing reflections on public service. Priorities highlighted included housing production, public safety, budget oversight, and community unity.",
+      "outcome": "no_action",
+      "topics": [
+        "housing",
+        "public_safety",
+        "budget",
+        "elections_governance",
+        "small_business"
+      ],
+      "speakers": [
+        {
+          "name": "Connie Chan",
+          "stance": "neutral",
+          "quote": "We will tackle the 1 billion dollars budget deficit. Ensure clean and safe street in all our neighborhoods. Will protect our immigrant and working families",
+          "t0": 3068.4,
+          "verified": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "stance": "neutral",
+          "quote": "My first action to call a hearing on first year free a program that waves fee and stream lines permitting for new small businesses",
+          "t0": 3253.428,
+          "verified": true
+        },
+        {
+          "name": "Danny Sauter",
+          "stance": "neutral",
+          "quote": "Homelessness service are successful and effective and china town protect sro tenant support, small businesses and zero tolerance for attack on asian elders.",
+          "t0": 3487.85,
+          "verified": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "stance": "neutral",
+          "quote": "Left year I heard loud and clear to ensure we have mutt humane and fair d 5 ensure we build more housing for all san franciscans are housed. Safe and clean streets all families, seniors and children",
+          "t0": 3766.348,
+          "verified": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "stance": "neutral",
+          "quote": "Overnight next 4 years I recommit to work tireless low to make our neighborhoodses safer, to build more affordable housing. To fight for our city's most vulnerable populations.",
+          "t0": 4028.714,
+          "verified": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "neutral",
+          "quote": "As a renter, I am also very much proud to continue to serve tenants across the city who continue to struggle and battle with eviction crisis",
+          "t0": 4565.358,
+          "verified": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "stance": "neutral",
+          "quote": "And I will continue to commit to work hard to ensure that our working families, children and youth, seniors and our small business ordinance in district 11 and the city to make sure we can continue top have a voice",
+          "t0": 4818.882,
+          "verified": true
+        },
+        {
+          "name": "Joel Engardio",
+          "stance": "neutral",
+          "quote": "We are here together we need to row together there will be choppy access some days feel I want to three that person out of the boat that will not help us we need to row together",
+          "t0": 4961.56,
+          "verified": true
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "neutral",
+          "quote": "And just reminds you we will not agree on everything but most certainly we are here to get this work done.",
+          "t0": 5126.828,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1110378,
+      "summary": "Board President Rafael Mandelman delivered inaugural remarks reflecting on the history of the Board, the responsibilities of leadership, and the balance between social justice and effective governance. The meeting was then adjourned.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "There can be no social justice without effective government and government cannot exceed without social justice. Our task is to figure out how to pursue both",
+          "t0": 5466.605,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    }
+  ],
+  "quote_verification": {
+    "verified": 13,
+    "partial": 1,
+    "dropped": 0
+  }
+}

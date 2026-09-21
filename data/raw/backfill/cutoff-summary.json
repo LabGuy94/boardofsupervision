@@ -1,0 +1,172 @@
+{
+  "stop_reason": "User wrap-up; stopped recent extraction runner after final completion window; no historical extraction begun",
+  "recent_ingested": 67,
+  "recent_captioned": 66,
+  "recent_extracted": 40,
+  "recent_missing": [
+    {
+      "clip_id": 50992,
+      "date": "2025-10-21",
+      "cues": 2452
+    },
+    {
+      "clip_id": 51073,
+      "date": "2025-11-04",
+      "cues": 1943
+    },
+    {
+      "clip_id": 51109,
+      "date": "2025-11-10",
+      "cues": 0
+    },
+    {
+      "clip_id": 51179,
+      "date": "2025-11-18",
+      "cues": 3387
+    },
+    {
+      "clip_id": 51260,
+      "date": "2025-12-02",
+      "cues": 3357
+    },
+    {
+      "clip_id": 51317,
+      "date": "2025-12-09",
+      "cues": 2047
+    },
+    {
+      "clip_id": 51391,
+      "date": "2025-12-16",
+      "cues": 2596
+    },
+    {
+      "clip_id": 51452,
+      "date": "2026-01-06",
+      "cues": 1978
+    },
+    {
+      "clip_id": 51554,
+      "date": "2026-01-13",
+      "cues": 3249
+    },
+    {
+      "clip_id": 51666,
+      "date": "2026-01-27",
+      "cues": 3150
+    },
+    {
+      "clip_id": 51724,
+      "date": "2026-02-03",
+      "cues": 5645
+    },
+    {
+      "clip_id": 51764,
+      "date": "2026-02-10",
+      "cues": 4967
+    },
+    {
+      "clip_id": 51859,
+      "date": "2026-02-24",
+      "cues": 1708
+    },
+    {
+      "clip_id": 51912,
+      "date": "2026-03-03",
+      "cues": 1912
+    },
+    {
+      "clip_id": 51954,
+      "date": "2026-03-10",
+      "cues": 2607
+    },
+    {
+      "clip_id": 52014,
+      "date": "2026-03-17",
+      "cues": 4408
+    },
+    {
+      "clip_id": 52067,
+      "date": "2026-03-24",
+      "cues": 2767
+    },
+    {
+      "clip_id": 52134,
+      "date": "2026-04-07",
+      "cues": 4080
+    },
+    {
+      "clip_id": 52187,
+      "date": "2026-04-14",
+      "cues": 1454
+    },
+    {
+      "clip_id": 52251,
+      "date": "2026-04-21",
+      "cues": 1767
+    },
+    {
+      "clip_id": 52291,
+      "date": "2026-04-28",
+      "cues": 2205
+    },
+    {
+      "clip_id": 52341,
+      "date": "2026-05-05",
+      "cues": 2064
+    },
+    {
+      "clip_id": 52398,
+      "date": "2026-05-12",
+      "cues": 3229
+    },
+    {
+      "clip_id": 52457,
+      "date": "2026-05-19",
+      "cues": 4058
+    },
+    {
+      "clip_id": 52550,
+      "date": "2026-06-02",
+      "cues": 1829
+    },
+    {
+      "clip_id": 52591,
+      "date": "2026-06-09",
+      "cues": 2183
+    },
+    {
+      "clip_id": 52641,
+      "date": "2026-06-16",
+      "cues": 3380
+    }
+  ],
+  "ingested_by_year": {
+    "2021": 11,
+    "2022": 39,
+    "2023": 39,
+    "2024": 42,
+    "2025": 39,
+    "2026": 28
+  },
+  "extracted_by_year": {
+    "2025": 32,
+    "2026": 8
+  },
+  "logged_extraction_cost_usd": 3.7763073,
+  "standard_model_probe_cost_usd": 0.000123,
+  "confirmed_logged_total_usd": 3.7764303,
+  "cost_limitation": "Cancelled in-flight provider calls may have incurred unreturned usage; confirmed logged total is a lower bound, not an invoice total. Existing seven pre-assignment extracts excluded.",
+  "caption_probe_available": 15,
+  "caption_probe_total": 15,
+  "historical_2006_2018": "Deferred by user; captions cached, no extraction",
+  "verification_53160": {
+    "verified": 9,
+    "partial": 12,
+    "dropped": 1
+  },
+  "verification_52756": {
+    "verified": 23,
+    "partial": 10,
+    "dropped": 0
+  }
+}

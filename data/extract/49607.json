@@ -1,0 +1,710 @@
+{
+  "clip_id": 49607,
+  "items": [
+    {
+      "meta_id": 1147788,
+      "summary": "The Board of Supervisors convened for its regular meeting on April 22, 2025. The clerk called the roll, confirming a quorum, followed by the land acknowledgment and the Pledge of Allegiance.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1147789,
+      "summary": "The clerk read general communications regarding options for attending meetings in person, viewing broadcasts, submitting public comments, and requesting accessibility or language accommodations.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1147790,
+      "summary": "The board considered and approved the minutes of the regular Board of Supervisors meeting held on March 18, 2025. The motion passed unanimously on a roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1147793,
+      "summary": "The board voted on the consent agenda items 1 through 5, covering planning code updates, infrastructure acceptance, sidewalk encroachments at Mission Rock, utility permits, and nonprofit reporting. The items passed unanimously on final passage.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1147795,
+      "summary": "Consent agenda items 1 through 5 were taken together and enacted on final passage, including planning code revisions for PDR districts, infrastructure acceptances and sidewalk encroachments at Mission Rock, Pier 70, and Potrero Power Station, a master encroachment permit for Mission Rock Utilities, and nonprofit reporting requirements.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1147807,
+      "summary": "The board considered an ordinance approving a Port Commission park lease, loan, and management agreement for China Basin Park and adjacent open spaces at Mission Rock, along with utility licenses and service agreements with PG&E. The ordinance passed unanimously on final passage without objection.",
+      "outcome": "passed",
+      "topics": [
+        "parks",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1147811,
+      "summary": "The board considered a resolution authorizing the Recreation and Parks Department to accept and expend an in-kind or cash grant of approximately $1,125,000 from Wu Yee Children's Services for improvements to the Tenderloin Recreation Center Children's Playground. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "parks",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1147812,
+      "summary": "The board considered a resolution authorizing the Recreation and Parks Department to accept and expend up to $5,000,000 in cash and in-kind grants from KABOOM! to improve up to eight children's playspaces. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "parks",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1147815,
+      "summary": "The board debated an ordinance amending the Planning Code to require 300-foot notice to property owners and residents for rezonings intended to comply with state housing element law. Opponents expressed concern over setting an alarming precedent that deviates from prior citywide rezonings, while supporters argued the measure ensures community transparency, equity, and the public's right to know. The ordinance passed on first reading on an 8-3 vote.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "planning_land_use"
+      ],
+      "speakers": [
+        {
+          "name": "Matt Dorsey",
+          "stance": "oppose",
+          "quote": "I think this notice requirement is potentially needlessly alarming, overly prescriptive and a departure from past presidents precedent and that's why I'm not going to be supporting it",
+          "t0": 502.214,
+          "verified": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "stance": "oppose",
+          "quote": "We have never done this kind of notification and for any rezoning that we've done in the city and this is certainly not the first it's not going to be the last and you know, I fear that it just adds to sort of climate and conversation that has been alarming needlessly",
+          "t0": 533.647,
+          "verified": true
+        },
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "Then again this legislation is simply notifying residents, business and property owners that will be impacted by the upcoming rezoning plan that will impact them within 300ft of their property and where they reside and where they conduct business.",
+          "t0": 724.373,
+          "verified": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "stance": "support",
+          "quote": "I also want to express my strong support for the goal of ensuring that our city is providing adequate notice to the residents whose properties will be affected by the rezoning",
+          "t0": 756.805,
+          "verified": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "support",
+          "quote": "It doesn't stop rezoning. It simply says if we're going to change the rules for entire neighborhoods, the people who live and run small businesses there deserve to know. To me that's basic responsible governance and community engagement.",
+          "t0": 815.165,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1147817,
+      "summary": "The board voted on an ordinance amending the Administrative Code to allow city departments to purchase content and data subscriptions without standard competitive solicitation requirements. The ordinance passed unanimously on first reading.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1147818,
+      "summary": "Committee reports were called, presenting items 11 and 12 forwarded from the Land Use and Transportation Committee, including an ordinance establishing a special sign district at 3250 19th Avenue.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1147819,
+      "summary": "The board approved an ordinance amending the Planning Code and Zoning Map to establish the 3250 19th Avenue Special Sign District, enabling parcel-appropriate signage opportunities. The ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1147820,
+      "summary": "Supervisor Sherrill introduced an ordinance to remove conditional use authorization requirements for formula retail on Van Ness Avenue and ease transitions for prior retail locations, citing high commercial vacancy rates and grocery access issues such as the former Fillmore Safeway. The ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "small_business"
+      ],
+      "speakers": [
+        {
+          "name": "Stephen Sherrill",
+          "stance": "support",
+          "quote": "this legislation takes a major step towards reducing barriers to filling commercial vacancies. First this ordinance principally permits formulary retail along venice between chestnut and broadway venice is facing a crisis of persistent commercial vacancies.",
+          "t0": 1037.958,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1147821,
+      "summary": "During the roll call for introductions, supervisors introduced new legislation, including resolutions recognizing Transcontinental Chinese Railroad Workers Day, establishing a downtown commercial-to-residential revitalization financing district, designating Earth Month, and an entitlement package for the Prologis logistics project at 749 Toland Street. Supervisor Walton also adjourned in memory of Otis Winfield Jr.",
+      "outcome": "no_action",
+      "topics": [
+        "planning_land_use",
+        "environment",
+        "housing",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "it's really my honor to introduce a resolution which recognize MAY 10th as the transcontinental chinese railroad workers day.",
+          "t0": 1248.938,
+          "verified": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "together with mayor lurie supervisors mahmood and sadr we are introducing a resolution of intent to create a commercial to residential downtown revitalization financing district.",
+          "t0": 1390.682,
+          "verified": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "Today on this earth day I'm introducing a resolution recognizing APRIL 2025 as earth month.",
+          "t0": 1533.459,
+          "verified": true
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "I'm introducing the entitlement package for the prologis proposal at 749 toland street and bellevue's market zone neighborhood a place that's long powered san francisco through essential industry and labor but that has also endured decades of disinvestment.",
+          "t0": 1655.783,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1147822,
+      "summary": "The board presented commendations to community leaders and organizations, honoring Grace Horikiri of the Japantown Community Benefit District, Majors Darren and Mary Norton of the Salvation Army, herchurch (Ebenezer Lutheran Church), and Franco Stevens for Lesbian Visibility Week.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "Colleagues today I am happy today to be honoring grace mercury, the executive director of the japantown community benefit district and the neon mochi street fair",
+          "t0": 1954.552,
+          "verified": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "on the occasion of their transfer to hawaii it is my distinct honor to recognize major's darren and mary norton of the salvation army.",
+          "t0": 2440.545,
+          "verified": false
+        },
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "today I am honoring her church and emerging liberating feminist congregation in the christian lutheran denomination as they are a vital part of district seven spiritual community.",
+          "t0": 2749.724,
+          "verified": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "in recognition of lesbian visibility week it is my great honor to present a special commendation to franco stevens.",
+          "t0": 3148.429,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1147824,
+      "summary": "The board heard general public comment on various community issues. Numerous residents from HUD-subsidized and public housing sites including Alice Griffith, Plaza East, and Thomas Paine Square voiced urgent concerns regarding deplorable living conditions, broken elevators, and pest infestations. Other speakers supported Arab American Heritage Month, noncooperation with federal registries, and funding for home care and nonprofit service providers.",
+      "outcome": "no_action",
+      "topics": [
+        "housing",
+        "health",
+        "public_safety",
+        "labor"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": [
+        "Severe living condition defects, mold, pests, and broken elevators in HUD and public housing complexes like Alice Griffith and Plaza East",
+        "Calls for Mayor Lurie and supervisors to visit public housing sites and enforce repairs and accountability",
+        "Support for Arab American Heritage Month and civil liberties protections against discriminatory federal surveillance",
+        "Need for livable wages and safety training for Homebridge home care providers and increased nonprofit contract funding"
+      ]
+    },
+    {
+      "meta_id": 1147825,
+      "summary": "The board took up items 15 through 27 on the adoption without committee reference calendar, severing items 18 and 21 for separate consideration. The remaining resolutions and motions were adopted unanimously on a roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1147831,
+      "summary": "The board considered and adopted a resolution recognizing April 2025 as Arab American Heritage Month in San Francisco. Supervisors Mahmood and Dorsey highlighted the cultural and economic contributions of Arab Americans, while affirming support against xenophobia, hate violence, and civil rights violations.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "Every american heritage month observed in the month of APRIL provides a significant opportunity to honor and celebrate the diverse cultures, traditions and histories of arab-americans while promoting awareness and understanding of the arab-american communities",
+          "t0": 8456.807,
+          "verified": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "This resolution seeks not only to celebrate arab american heritage but also to confront that legacy of exclusion. It is an affirmation of identity history and the vibrant cultural richness that arab-americans bring to san francisco",
+          "t0": 8637.69,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1147834,
+      "summary": "The board considered and adopted a resolution affirming San Francisco's commitment to preserving BIPOC and LGBTQ+ history and promoting an inclusive and diverse environment. Supervisor Mahmood spoke in support, referencing recent federal removals of BIPOC history and honoring Reverend Amos Brown.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "I just want to thank again supervisor walton and supervisor mandell man and PRESIDENT For introducing this resolution and especially in the context of the current trump administration's weaponized version of this issue and the actions it is continuing to take.",
+          "t0": 8751.206,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1147863,
+      "summary": "Having concluded its business, the Board of Supervisors adjourned the meeting in memory of Otis Winfield Jr.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    }
+  ],
+  "quote_verification": {
+    "verified": 15,
+    "partial": 2,
+    "dropped": 0
+  }
+}

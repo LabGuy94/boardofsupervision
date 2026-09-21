@@ -1,0 +1,709 @@
+{
+  "clip_id": 50291,
+  "items": [
+    {
+      "meta_id": 1168050,
+      "summary": "Board President Rafael Mandelman called the regular meeting of the San Francisco Board of Supervisors to order. The Clerk called the roll, confirming all eleven members were present. President Mandelman then delivered the ancestral land acknowledgement and led the Pledge of Allegiance.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1168051,
+      "summary": "The Clerk announced communications regarding how members of the public can attend board meetings, watch broadcasts, submit written comments, and request disability accommodations.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1168052,
+      "summary": "The Board considered the approval of the meeting minutes from the May 20, 2025 Board of Supervisors meeting. A motion to approve was made by Supervisor Mahmood and seconded by Supervisor Sherrill, passing unanimously on a roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1168054,
+      "summary": "The Board took up the consent agenda comprising Items 1 through 12. Without any requests from supervisors to sever items, the consent calendar was adopted unanimously on roll call.",
+      "outcome": "passed",
+      "topics": [
+        "settlements",
+        "planning_land_use",
+        "public_safety",
+        "budget",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1168056,
+      "summary": "Items 1 through 12 were considered together on the consent agenda, including various lawsuit settlements, code amendments for projecting signs and interim hotel housing, airport surveillance policies, entertainment zones, and fund allocations. The full package passed unanimously.",
+      "outcome": "passed",
+      "topics": [
+        "settlements",
+        "planning_land_use",
+        "public_safety",
+        "budget",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1168081,
+      "summary": "The Board considered the Proposed Interim Budget and Appropriation Ordinance for FYs 2025-2026 and 2026-2027 under unfinished business alongside Item 14. The interim budget ordinance passed without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1168082,
+      "summary": "The Board considered the Proposed Interim Annual Salary Ordinance for FYs 2025-2026 and 2026-2027 to enumerate positions, authorizations, and compensation. It was considered together with Item 13 and passed without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "labor"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1168085,
+      "summary": "The Board considered Item 15, an ordinance authorizing the settlement of a property tax lawsuit filed by Ridgegate Apartments, Inc. regarding 524 Howard Street, alongside Item 16 regarding SoMa Community Stabilization Fund expenditures. Both measures were approved without objection.",
+      "outcome": "passed",
+      "topics": [
+        "settlements",
+        "budget",
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1168091,
+      "summary": "The Board considered a lease amendment for temporary shelter at 2177 Jerrold Avenue. Supervisor Walton introduced non-substantive amendments that eliminated the addition of 82 shelter beds and reduced the city's financial contribution from approximately $3 million to $1,246,746 to fund only utility upgrades. The Board adopted the amendments and passed the amended resolution without objection.",
+      "outcome": "passed",
+      "topics": [
+        "homelessness",
+        "budget",
+        "housing"
+      ],
+      "speakers": [
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "I'M HAPPY TO REPORT TODAY THAT WE WILL BE AMENDING THIS RESOLUTION TO ONLY PROVIDE RESOURCES FOR A UTILITIES UPGRADE AND ELIMINATE THE INCLUSION AND EXPANSION OF 82 ADDITIONAL BEDS AT THE SITE.",
+          "t0": 538.225,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1168093,
+      "summary": "The Board considered a resolution determining that the issuance of a Type 90 On-Sale General Music Venue liquor license for Club Deluxe at 1511 Haight Street would serve the public convenience. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1168094,
+      "summary": "The Board considered a resolution determining that the transfer of an off-sale liquor license to Bottles and Bites at 1799 Union Street would serve the public convenience. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1168095,
+      "summary": "The Board considered a resolution endorsing the Tenderloin Community Action Plan (TCAP) Investment Blueprint as a guiding framework for equitable recovery and revitalization investments in the Tenderloin. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "public_safety",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1168097,
+      "summary": "The Board considered an ordinance approving the surveillance technology policy for the SFMTA's continued use of automated red light and no-turn enforcement cameras. The ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "transit",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1168098,
+      "summary": "The Board considered a motion to reappoint Laura Thomas to the Entertainment Commission for a term ending July 1, 2029. The motion was approved without objection.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1168099,
+      "summary": "The Board considered a motion confirming the appointment of Pratibha Tekkey to the Police Commission for a term ending April 30, 2029. The motion was approved without objection.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1168102,
+      "summary": "The Board considered the appointment of Supervisor Stephen Sherrill as an alternate to the Enhanced Infrastructure Financing District Public Financing Authority No. 1. Supervisor Sherrill was excused from voting, and the motion was approved without objection.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1168104,
+      "summary": "During roll call for introductions, supervisors introduced new legislation. Supervisor Dorsey introduced a drafting request for a San Francisco Hate Crime Reward Fund, President Mandelman introduced an expansion of the all-electric building ordinance to major renovations, and Supervisor Sauter introduced legislation advancing the 530 Sansom mixed-use project.",
+      "outcome": "no_action",
+      "topics": [
+        "public_safety",
+        "environment",
+        "planning_land_use",
+        "housing"
+      ],
+      "speakers": [
+        {
+          "name": "Matt Dorsey",
+          "stance": "neutral",
+          "quote": "COLLEAGUES I AM TODAY ANNOUNCING A LEGISLATIVE DRAFTING REQUEST TO ESTABLISH THE SAN FRANCISCO HATE CRIME REWARD FUND WHICH WOULD AUTHORIZE THE CHIEF OF POLICE IN COORDINATION WITH THE DISTRICT ATTORNEY TO OFFER INFORMANTS A REWARD OF UP TO $100,000 FOR INFORMATION LEADING TO THE CONVICTION",
+          "t0": 1080.337,
+          "verified": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "neutral",
+          "quote": "THE LEGISLATION I AM INTRODUCING TODAY WILL EXPAND THE ALL ELECTRIC ORDINANCE TO NOW INCLUDE MAJOR RENOVATIONS THAT IS ALTERATIONS AND ADDITIONS TO EXISTING BUILDINGS THAT INCLUDE SUBSTANTIAL UPGRADES TO MECHANICAL SYSTEMS AND STRUCTURES.",
+          "t0": 1300.974,
+          "verified": false
+        },
+        {
+          "name": "Danny Sauter",
+          "stance": "neutral",
+          "quote": "THIS REPRESENTS THE MOST AMBITIOUS NEW DEVELOPMENT IN THE NORTHERN PART OF DOWNTOWN IN DECADES. A 41 STOREY TOWER WILL RISE COMPRISING MIXED USES ACROSS HOTEL OFFICE, RESTAURANT AND WHEAT RETAIL. AND WHEN COMPLETED IT WILL GENERATE MORE THAN $800 MILLION IN ANNUAL ECONOMIC ACTIVITY.",
+          "t0": 1354.499,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1168103,
+      "summary": "In celebration of Pride Month and community leadership, the Board presented special commendations to Harry Breaux, Minister Marvin K. White, Jim Haas, Mother Bar, Madeline Lim, Ron Gallman, and Rebecca Rolfe.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Stephen Sherrill",
+          "stance": "support",
+          "quote": "TODAY IS THE LAST BOARD MEETING OF PRIDE MONTH. AND TODAY I AM SO HONORED TO COMMEND HARRY BRO.",
+          "t0": 1517.862,
+          "verified": false
+        },
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "WE ARE HERE TO CELEBRATE MINISTER MARVIN K WHITE, THE MINISTER OF CELEBRATION AT GLIDE MEMORIAL CHURCH WHOSE MINISTRY IS AS ROOTED IN POETRY AS IT IS IN PROPHETIC POWER AND WHOSE LEADERSHIP SPEAKS NOT JUST TO THE SOUL OF A CONGREGATION BUT TO THE SOUL OF OUR CITY.",
+          "t0": 1936.106,
+          "verified": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "COLLEAGUES AS WE CELEBRATE LEADERS FROM OUR LGBTQ PLUS COMMUNITY FOR PRIDE MONTH IT IS MY DISTINCT HONOR TO RECOGNIZE JAMES JIM HOSS.",
+          "t0": 2455.732,
+          "verified": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "support",
+          "quote": "I AM SO HONORED TO RECOGNIZE MOTHER BARD TODAY. A LESBIAN AND BAR IN THE HEART OF THE MISSION ON 16TH STREET.",
+          "t0": 3056.752,
+          "verified": true
+        },
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "IT IS TRULY A PRIVILEGE TO BE ABLE TO INVITE AND RECOGNIZE MALENA LIM A CELEBRATING A CELEBRATED FILMMAKER, PRODUCER, DIRECTOR, ADJUNCT PROFESSOR AND LONG TIME LGBTQ ACTIVIST",
+          "t0": 3286.212,
+          "verified": false
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "SO RON IS THE SAN FRANCISCO SYMPHONY'S LONGTIME DIRECTOR OF EDUCATION AND YOUTH ORCHESTRA AND HE IS RETIRING THIS MONTH AFTER 42 YEARS OF SERVICE TO THE SYMPHONY.",
+          "t0": 4052.886,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1168105,
+      "summary": "Members of the public provided general public comment on topics including trans healthcare and city support for Pride, city budget cuts and progressive taxation, law enforcement technology, gun violence, and unresolved city settlements. Supervisor Walton also reopened roll call to present an in memoriam honoring community leader Queen Aisha.",
+      "outcome": "no_action",
+      "topics": [
+        "budget",
+        "public_safety",
+        "health",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": [
+        "Opposition to budget cuts affecting social safety net services and support for local wealth taxes",
+        "Advocating for law enforcement use of facial recognition technology to solve violent crimes",
+        "Concerns over LGBTQ+ civil rights, trans healthcare access, and representation at City Hall",
+        "Grief and frustration over unresolved homicides and demands for victim justice"
+      ]
+    },
+    {
+      "meta_id": 1168107,
+      "summary": "The Board took up measures introduced for adoption without committee reference (Items 27 through 31). President Mandelman severed Item 29 to be considered separately, and the remaining items (Items 27, 28, 30, and 31) were voted upon and adopted unanimously.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1168109,
+      "summary": "The Board adopted resolutions introduced without committee reference, including a resolution urging state legislators to authorize local wealth and progressive income taxes, as well as support for California Senate Bill 48 protecting student information from immigration enforcement.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "elections_governance",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1168112,
+      "summary": "President Mandelman introduced and spoke on Item 29, a resolution condemning antisemitism and all forms of race- and religion-based violence in San Francisco. The Board adopted the resolution unanimously without objection.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "COLLEAGUES, I BELIEVE AT THE VERY LEAST THIS IS A MOMENT FOR OUR BOARD OF SUPERVISORS TO SPEAK UP ABOUT THIS PARTICULAR FORM OF HATRED, TO CONDEMN IT AND RECOMMIT OURSELVES TO ENSURING THAT SAN FRANCISCO CONTINUES TO BE A WELCOMING CITY FOR JEWS AND FOR ALL PEOPLE.",
+          "t0": 7014.24,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1168135,
+      "summary": "The Board of Supervisors adjourned the meeting in memory of Queen Aisha.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    }
+  ],
+  "quote_verification": {
+    "verified": 8,
+    "partial": 3,
+    "dropped": 0
+  }
+}

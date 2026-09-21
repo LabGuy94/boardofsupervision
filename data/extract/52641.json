@@ -1,0 +1,776 @@
+{
+  "clip_id": 52641,
+  "items": [
+    {
+      "meta_id": 1247483,
+      "summary": "The Board of Supervisors convened for its regular meeting on June 16, 2026. The clerk called the roll and established a quorum with ten members present and Supervisor Jackie Fielder absent, followed by the land acknowledgement and the Pledge of Allegiance.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1247484,
+      "summary": "The clerk announced procedures for public viewing and written comment submission. The Board approved a motion excusing Supervisor Jackie Fielder from attendance through June 30, 2026, without objection.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1247485,
+      "summary": "The Board considered approval of the meeting minutes from May 12, 2026. The minutes were approved unanimously on a 10-0 roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1247490,
+      "summary": "The Board took up an ordinance retroactively authorizing Public Works to enter into a grant agreement of up to $24,516.19 with the Transgender District for placemaking banners in the southeastern Tenderloin and along 6th Street, waiving competitive solicitation requirements. The ordinance was finally passed unanimously on roll call.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1247493,
+      "summary": "The Board considered an ordinance adopting and implementing a Memorandum of Understanding between the City and the Municipal Executives' Association Fire, effective July 1, 2026, through June 30, 2030. The ordinance was finally passed without objection.",
+      "outcome": "passed",
+      "topics": [
+        "labor",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1247494,
+      "summary": "The Board considered an ordinance adopting and implementing a Memorandum of Understanding between the City and the Municipal Executives' Association Police, effective July 1, 2026, through June 30, 2034. The ordinance was finally passed without objection.",
+      "outcome": "passed",
+      "topics": [
+        "labor",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1247495,
+      "summary": "The Board considered an ordinance fixing compensation, work schedules, and conditions of employment for unrepresented City and County employees under Charter Section 8.409, effective July 1, 2026. The ordinance was finally passed without objection.",
+      "outcome": "passed",
+      "topics": [
+        "labor"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1247496,
+      "summary": "The Board considered an ordinance approving the first amendment to the 2024\u20132027 Memorandum of Understanding with Machinists Union Local 1414 to adopt a side letter agreement updating the apprenticeship program. The ordinance was finally passed without objection.",
+      "outcome": "passed",
+      "topics": [
+        "labor"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1247498,
+      "summary": "The Board considered an ordinance amending the Planning Code to adjust the Balboa Reservoir Special Use District, allowing a connecting element between two buildings adjacent to South Street across from Brighton Paseo and setting design parameters and height limits. The ordinance was finally passed without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1247499,
+      "summary": "The Board considered an ordinance accepting public infrastructure and street dedication on Geneva Avenue associated with an affordable housing project at 2340 San Jose Avenue, establishing sidewalk widths, and transferring property from the Mayor's Office of Housing and Community Development to Public Works. The ordinance was finally passed without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "housing",
+        "transit"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1247502,
+      "summary": "The Board considered an ordinance amending the Administrative Code to create the Downtown Hospitality Zone. The ordinance was finally passed without objection.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1247505,
+      "summary": "The Board considered the proposed interim budget and appropriation ordinance for City departments for fiscal years ending June 30, 2027, and June 30, 2028. The ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1247506,
+      "summary": "The Board considered the proposed interim annual salary ordinance enumerating positions and establishing compensations for fiscal years 2026\u20132027 and 2027\u20132028. The ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "labor"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1247507,
+      "summary": "The Board considered a resolution approving the interim budget for the Office of Community Investment and Infrastructure operating as the successor agency to the San Francisco Redevelopment Agency for FY 2026\u20132027. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1247509,
+      "summary": "The Board considered a resolution approving a first amendment to the agreement with the Homeless Children's Network for mental health treatment services, extending the term through June 30, 2027, and adding approximately $3.2 million for a total not to exceed $11,786,969. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "homelessness"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1247510,
+      "summary": "The Board considered a resolution authorizing agreements with the California Department of Health Care Services for reimbursement under the Medi-Cal County Inmate Program for approximately $35,000 through June 30, 2029. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1247511,
+      "summary": "The Board considered a resolution authorizing the Department of Public Health to accept a capital gift of a mobile mammography van valued at $1.5 million from the San Francisco General Hospital Foundation, funded by Salesforce, Inc., and approving a naming agreement through 2041. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "health"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1247512,
+      "summary": "The Board considered a resolution authorizing the Department of Public Health to accept and expend a $3.75 million grant from the Homes for the Homeless Fund LLC for the Placement Solutions program through June 30, 2028. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "homelessness",
+        "housing",
+        "health"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1247513,
+      "summary": "The Board considered a resolution directing the Executive Director of the Treasure Island Development Authority to prepare an appendix to the Infrastructure Financing Plan for the annexation of property to IRFD No. 1. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1247516,
+      "summary": "The Board considered an ordinance amending the San Francisco Fire Code to ban the sale, offer, and delivery of uncertified lithium-ion batteries and replacement batteries and establishing enforcement processes and penalties. The ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "environment"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1247517,
+      "summary": "The Board considered an ordinance amending the Transportation, Administrative, and Fire Codes to make non-substantive organizational changes regarding the Interdepartmental Staff Committee on Traffic and Transportation and removing outdated provisions on street use for schools. The ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "transit",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1247531,
+      "summary": "During the roll call for introductions, Supervisor Mahmood introduced components of the Affordable Groceries Act and legislation harmonizing mezzanine building and planning codes. Supervisor Mandelman requested adjournment in memory of former Glen Park Association president Michael Frank Rice, and Supervisors Melgar and Chen introduced a performance audit motion for the Academy of Sciences and memorialized martial arts pioneer Phoebe Lee.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance",
+        "small_business",
+        "planning_land_use"
+      ],
+      "speakers": [
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "TODAY I'M ANNOUNCING TWO ADDITIONAL COMPONENTS OF THIS PACKAGE THAT MY OFFICE WILL BE PURSUING IF THESE PASS IN NOVEMBER.",
+          "t0": 1126.23,
+          "verified": false
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "neutral",
+          "quote": "COLLEAGUES I'M ASKING THAT WE ADJOURN TODAY'S MEETING IN MEMORY OF MICHAEL FRANK RICE WHO PREVIOUSLY SERVED AS THE PRESIDENT OF THE GLEN PARK ASSOCIATION",
+          "t0": 1347.135,
+          "verified": false
+        },
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "TODAY I AM FORMALLY INTRODUCING ALONG WITH OUR BUDGET CHAIR SUPERVISOR CONNIE CHAN A MOTION TO DIRECT THE BUDGET AND LEGISLATIVE ANALYSTS TO COLLABORATE WITH A COMPTROLLER'S TEAM TO CONDUCT A PERFORMANCE AND MANAGEMENT AUDIT OF THE ACADEMY OF SCIENCES.",
+          "t0": 1597.265,
+          "verified": false
+        },
+        {
+          "name": "Chyanne Chen",
+          "stance": "neutral",
+          "quote": "SHE BROUGHT IMMENSE WARM AND LEADERSHIP TO OUR COMMUNITY. I HAD THE PLEASURE OF MEETING MS. FOUR BAILEY DURING AN EVENT WHERE SHE WAS PROMOTING CHINESE CULTURE AND ARTS.",
+          "t0": 1823.977,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1247518,
+      "summary": "The Board presented special commendations to several individuals and organizations, including retiring SFPUC Assistant General Manager for Power Barbara Hale, martial arts instructor Professor Teodora Ildefonso-Olmo and youth competitors Mali and Gabriel Olmo, the Dolphin Club and South End Rowing Club celebrating 50 years of women's membership, contest winners Mike, Nora, and Kathryn Roberts, and outgoing SF Gay Men's Chorus CEO Chris Verdugo.",
+      "outcome": "no_action",
+      "topics": [
+        "other",
+        "environment"
+      ],
+      "speakers": [
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "TODAY I AM HONORED TO PRESENT A SPECIAL COMMENDATION TO BARBARA HALE, THE SAN FRANCISCO PUBLIC UTILITIES COMMISSION'S ASSISTANT GENERAL MANAGER FOR POWER WHO WILL BE RETIRING AT THE END OF THIS MONTH",
+          "t0": 1901.729,
+          "verified": true
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "IT IS MY PRIVILEGE TO RECOGNIZE AS AN EXTRAORDINARY COMMUNITY LEADER, MENTOR, EDUCATOR AND MOTHER PROFESSOR THEODORE ILDEFONSO OLMO",
+          "t0": 2663.326,
+          "verified": false
+        },
+        {
+          "name": "Stephen Sherrill",
+          "stance": "support",
+          "quote": "TODAY IT IS MY HONOR TO RECOGNIZE THE DOLPHIN SWIMMING AND BOATING CLUB AND THE SOUTH END ROWING CLUB AS THEY CELEBRATE 50 YEARS OF WOMEN'S MEMBERSHIP.",
+          "t0": 3207.435,
+          "verified": true
+        },
+        {
+          "name": "Alan Wong",
+          "stance": "support",
+          "quote": "COLLEAGUES TODAY I AM HONORED TO RECOGNIZE MIKE, NORA AND KATHRYN ROBERTS THE WINNERS OF SAN FRANCISCO DUMBLEDORE'S CONTEST.",
+          "t0": 3902.368,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1247522,
+      "summary": "The Board convened as a Committee of the Whole to hold a public hearing on authorizing the SFMTA Director of Transportation to execute a loan agreement with the Metropolitan Transportation Commission for up to $200 million for public transit operations. SFMTA staff and the Budget and Legislative Analyst presented the loan's fiscal terms, and the hearing was heard and filed.",
+      "outcome": "no_action",
+      "topics": [
+        "transit",
+        "budget"
+      ],
+      "speakers": [
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "",
+          "t0": 5886.796,
+          "verified": false
+        },
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "",
+          "t0": 5940.982,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1247525,
+      "summary": "The Board considered a resolution authorizing the SFMTA Director of Transportation to enter into a loan agreement with the Metropolitan Transportation Commission for up to $200 million over a 12-year term for public transit operations. The resolution was adopted unanimously on a 10-0 roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "transit",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1247529,
+      "summary": "The Board sat as a Committee of the Whole to conduct a Beilenson hearing on proposed Department of Public Health budget reductions to medical and healthcare services for FYs 2026\u20132028. DPH Director Dan Tsai outlined the impacts of federal and state Medicaid cuts and detailed CBO contract reductions and clinic consolidations, followed by public testimony from clinicians, patients, and advocates protesting clinic closures and service cuts.",
+      "outcome": "no_action",
+      "topics": [
+        "health",
+        "budget"
+      ],
+      "speakers": [
+        {
+          "name": "Department head",
+          "stance": "neutral",
+          "quote": "WE AS THE COUNTY CANNOT DIG OUT OF ALL OF THESE CUTS BY OURSELVES. SO THAT'S THE UNDERLYING CONTEXT AND WE HAVE A LARGE BUDGET INCREASE RELATIVE TO GENERAL FUND SUPPORT BUT WE WILL NOT FEEL THAT IMPACT",
+          "t0": 6476.9,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": [
+        "Opposition to the proposed closure or consolidation of the Southeast Mission Geriatric Clinic and youth clinics at Larkin Street and Huckleberry House",
+        "Deep concern over cuts to HIV prevention, care programs, and harm reduction services",
+        "Fears of adverse health outcomes, hospitalizations, and displacement among seniors, LGBTQ+ youth, and unhoused residents",
+        "Criticism of understaffing and calls for the City to tap reserve funds rather than reduce frontline healthcare services"
+      ]
+    },
+    {
+      "meta_id": 1247532,
+      "summary": "Continuing the roll call for introductions, Supervisor Dorsey introduced a legislative drafting request to modernize the T.J. Anthony Catastrophic Illness Program. The proposal aims to align the City's catastrophic illness definition with state standards to support employees suffering severe, debilitating injuries or illnesses that are not immediately life-threatening.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance",
+        "labor",
+        "health"
+      ],
+      "speakers": [
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "THE LEGISLATION I AM PROPOSING WOULD BETTER ALIGN SAN FRANCISCO'S DEFINITION OF CATASTROPHIC ILLNESS WITH CURRENT CALIFORNIA LAW BY FOCUSING ON INCAPACITY EXTENDED ABSENCE FROM WORK AND THE EXHAUSTION OF AVAILABLE LEAVE",
+          "t0": 11615.12,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": [
+        "Calls to address homelessness and substance abuse rehabilitation rather than harm reduction",
+        "Concerns regarding Medicare and health insurance provider network notices sent to retired City employees",
+        "Criticism of funding priorities for community events and public safety"
+      ]
+    },
+    {
+      "meta_id": 1247535,
+      "summary": "The Board moved to consider items on the adoption without committee reference calendar. The clerk introduced Items 24 through 26 for consideration.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1247537,
+      "summary": "The Board called Items 24 through 26 on the adoption without committee reference agenda. Item 24 was taken up for amendment and roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1247538,
+      "summary": "The Board considered a resolution recognizing Dragon Boat Festival Day (Duanwu Jie) on June 19, 2026, and supporting California Assembly Concurrent Resolution 123. Supervisor Chen introduced clerical amendments, which were adopted without objection, and the amended resolution was adopted unanimously on roll call.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Chyanne Chen",
+          "stance": "support",
+          "quote": "I WOULD LIKE TO MAKE A MOTION TO AMEND ITEM 24 FILE NUMBER 2606 EIGHT SUPPORTING CALIFORNIA'S ASSEMBLY CONCURRENT RESOLUTION 123 DOGWOODS YET DRAGON BALL FESTIVAL DATE JUNE 19TH, 2026 TO MAKE MINOR CLERICAL CORRECTIONS",
+          "t0": 12618.505,
+          "verified": false
+        }
+      ],
+      "votes": [
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1247539,
+      "summary": "The Board considered a resolution celebrating Juneteenth as a day of reflection, empowerment, and commemoration of Black freedom and excellence in San Francisco. Supervisor Walton thanked co-sponsors for their support, and the resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "AS YOU KNOW IN 2021 JUNETEENTH WAS MADE A FEDERAL HOLIDAY AND OF COURSE THIS IS A TIME OF CELEBRATION. WE ARE IN JUNETEENTH WEEK AND JUST APPRECIATE ALL OF THE SUPPORT EVERY YEAR.",
+          "t0": 12774.546,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1247540,
+      "summary": "The Board considered a motion approving Final Map No. 12681 and a public improvement agreement for Major Phase 2 of the Candlestick Point-Hunters Point Shipyard Phase 2 Project, authorizing up to 441 residential condominium units and 15 commercial condominium units. The calendar item also included sub-items for lawsuit settlements with Robert Blaisdell and David Portales ($1,000,000), Alfred Martinez Engineering ($80,000), and Anne Liao ($40,000), as well as real property and copier agreements. Supervisor Walton moved an amendment removing certain General Plan findings from the title, and the amended motion was approved without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "housing",
+        "settlements"
+      ],
+      "speakers": [
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "I WOULD LIKE TO MAKE A MOTION TO AMEND TO REMOVE THE FINDINGS AND THE LONG TITLE ON PAGE ONE LINES NINE TO LEVEL 11 REMOVING THE WORDS AND ADOPTING FINDINGS PURSUANT TO THE GENERAL PLAN",
+          "t0": 12857.57,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1247562,
+      "summary": "The Board adjourned the meeting in memory of Michael Frank Rice, requested by President Mandelman, and Phoebe Lee, requested by Supervisors Melgar and Chen.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    }
+  ],
+  "quote_verification": {
+    "verified": 6,
+    "partial": 7,
+    "dropped": 2
+  }
+}

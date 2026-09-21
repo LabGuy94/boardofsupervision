@@ -1,0 +1,1176 @@
+{
+  "clip_id": 51039,
+  "items": [
+    {
+      "meta_id": 1189915,
+      "summary": "Board President Rafael Mandelman called the meeting to order, and the clerk conducted roll call with all ten supervisors present. The Board then acknowledged the ancestral homeland of the Ramaytush Ohlone and recited the Pledge of Allegiance.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1189916,
+      "summary": "The clerk read communications regarding attendance, public broadcast options, and instructions for submitting written public comment and requesting disability accommodations.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1189918,
+      "summary": "The clerk introduced the consent agenda, explaining that items are routine and may be acted upon together unless an objection is made.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1189920,
+      "summary": "The Board considered Consent Agenda Items 1 through 8, comprising various lawsuit settlements (including Kareim McKnight, Cynthia Pabalate, MCI Communications Services, Martine Aniel, Theodore Franzone, and Damena Page), a Planning Code amendment regarding automobile detailing in Geary Boulevard NCD, and an Administrative Code measure for the Union Street Entertainment Zone. The items were approved unanimously on roll call.",
+      "outcome": "passed",
+      "topics": [
+        "settlements",
+        "planning_land_use",
+        "small_business"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1189935,
+      "summary": "The Board considered an ordinance amending the Building and Planning Codes to comply with California Government Code Section 66007 by postponing the collection of development impact fees for designated residential development projects until the first certificate of occupancy. The ordinance was passed on roll call alongside Item 10 with an 8-2 vote.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Shamann Walton",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1189936,
+      "summary": "The Board considered an ordinance amending the Business and Tax Regulations Code to exclude gross receipts of low-income housing partnerships from the gross receipts tax, suspend registration requirements, and exempt affordable housing properties from the commercial vacancy tax. The measure required eight votes and passed 8-2.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Shamann Walton",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1189939,
+      "summary": "The Board considered an ordinance appropriating approximately $5.8 million in Treasure Island IRFD No. 1 tax increment revenue bond proceeds to the Mayor's Office of Housing and Community Development for affordable housing projects. The ordinance passed on first reading unanimously.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1189940,
+      "summary": "The Board considered a resolution authorizing the issuance and sale of tax increment revenue bonds not to exceed $31 million for Treasure Island IRFD No. 1. The resolution was adopted unanimously on roll call.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1189941,
+      "summary": "The Board adopted a resolution retroactively authorizing the San Francisco Fire Department to accept and expend approximately $2.3 million in grant funds from FEMA's Assistance to Firefighters Grant Program to purchase personal protective equipment. The resolution was approved without objection.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1189942,
+      "summary": "The Board considered a resolution authorizing the Fire Department to enter into a cooperative agreement with CAL FIRE under the Firefighter Property Program to receive temporary loans of property and equipment. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1189943,
+      "summary": "The Board considered a resolution authorizing the Fire Department to enter into a five-year cooperative agreement under the Federal Excess Personal Property Program with CAL FIRE for loans of equipment for fire suppression. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1189944,
+      "summary": "The Board adopted a resolution retroactively authorizing the San Francisco Police Department to accept and expend a grant of approximately $63,000 from the California Governor's Office of Emergency Services for the Paul Coverdell Forensic Science Improvement Program. The item was approved without objection.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1189945,
+      "summary": "The Board approved a professional services contract with BEUMER Lifecycle Management, LLC not to exceed $30 million for operation and maintenance of airport baggage handling systems over a three-year term. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1189946,
+      "summary": "The Board adopted a resolution approving a contract amendment with Universal Protection Service, LP (Allied Universal Security Services) for unarmed security guard services at San Francisco General Hospital, extending the contract and increasing the total amount to $12.18 million. The item was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "health",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1189947,
+      "summary": "The Board adopted a resolution authorizing standard agreements with the California Department of Housing and Community Development under the Affordable Housing and Sustainable Communities Program for nearly $46 million, supporting affordable housing at 11 Frida Kahlo Way and related transit improvements. The resolution was approved without objection.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "transit",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1189948,
+      "summary": "The Board adopted resolutions authorizing the execution and delivery of multifamily housing revenue notes not to exceed $19 million and a loan agreement not to exceed $18.5 million for a 68-unit 100% affordable housing development at 1303 Larkin Street. The items were adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1189950,
+      "summary": "The Board considered a resolution authorizing a loan agreement not to exceed $37.8 million with MEDA Precita Small Properties, LLC under the Small Sites Program to acquire, rehabilitate, and permanently finance 15 multifamily rental buildings comprising 89 residential units and 9 commercial units. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1189951,
+      "summary": "The Board considered a resolution authorizing the delivery of multifamily housing revenue bonds not to exceed $60 million for financing construction of 136 units of multifamily rental housing at 2970 16th Street. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1189952,
+      "summary": "The Board adopted a resolution authorizing a 75-year ground lease and an amended and restated loan agreement not to exceed $61.2 million for 1979 Mission Street PSH Associates to construct 136 units of permanent supportive housing at 2970 16th Street. The resolution was approved without objection.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "homelessness",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1189954,
+      "summary": "The Board considered an ordinance amending the Labor and Employment Code to revise health care expenditure requirements under the Healthy Airport Ordinance. Supervisor Dorsey moved to continue the item for one week to November 4, 2025, which passed without objection.",
+      "outcome": "continued",
+      "topics": [
+        "labor",
+        "health"
+      ],
+      "speakers": [
+        {
+          "name": "Rafael Mandelman",
+          "stance": "neutral",
+          "quote": "NONETHELESS, WE HAVE RECEIVED REQUESTS TO CONTINUE IT. I AM INCLINED TO I SEE THERE SPEAKERS IN THE QUEUE SO I WILL ALLOW THEM TO SPEAK BUT I AM INCLINED TO THINK THAT IT IS APPROPRIATE TO GIVE A ONE WEEK EXTENSION.",
+          "t0": 1067.798,
+          "verified": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "THANK YOU PRESIDENT MANDELA AND I WOULD MOVE TO CONTINUE THIS ITEM FOR ONE WEEK TO NOVEMBER 4TH.",
+          "t0": 1087.18,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1189955,
+      "summary": "The Board considered a resolution authorizing a six-month waiver of the Behested Payments Ordinance for the Mayor and designated Mayor's Office staff to solicit donations for core initiatives, including immigration legal defense and civil rights services. The resolution was adopted without objection alongside Item 27.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1189956,
+      "summary": "The Board considered a resolution authorizing designated city officials, including the City Attorney and City Administrator, to solicit behested donations for services related to immigration, LGBTQ+ rights, environmental protection, reproductive rights, and racial equity. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance",
+        "environment",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1189958,
+      "summary": "The Board considered a resolution granting a behested payment waiver to the Assessor-Recorder's Office to solicit donations for legal defense and services protecting immigration, LGBTQ+ rights, environmental, and civil rights causes. Supervisor Fielder opposed the waiver citing ethics concerns with the office's large number of interested parties, while President Mandelman argued the protection was needed to avoid inadvertent violations; the resolution passed 8-2.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance",
+        "budget"
+      ],
+      "speakers": [
+        {
+          "name": "Jackie Fielder",
+          "stance": "oppose",
+          "quote": "THE ASSESSOR RECORDER'S OFFICE MAKES DECISIONS ON ASSESSED PROPERTY VALUES WHICH TO ME EXPOSES THE OFFICE TO HUNDREDS IF NOT THOUSANDS OF POTENTIALLY INTERESTED PARTIES ... I DON'T THINK THIS PARTICULAR WAIVER IS NECESSARY AND IS NOT WORTH THE RISK OF THE EXPOSURE.",
+          "t0": 1384.604,
+          "verified": false
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "BECAUSE OF THE VERY LARGE NUMBER OF POTENTIAL INTERESTED PARTIES AND THE DIFFICULTY OF THE OF THE ASSESSOR RECORDER HIMSELF FIGURING OUT IF HE MAY BE INADVERTENTLY RUNNING AFOUL OF THAT, I THINK HE DOES NEED THIS UMBRELLA OF PROTECTION",
+          "t0": 1531.354,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1189961,
+      "summary": "The Board considered a motion appointing ten individuals to the Immigrant Rights Commission with several residency requirements waived. The motion was approved unanimously on roll call.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1189964,
+      "summary": "The Board adopted a resolution authorizing the District Attorney and chief of staff to solicit behested donations for prosecutorial technology and public safety prevention initiatives for six months. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1189967,
+      "summary": "The Board held an extensive debate on an ordinance amending the Planning Code and Zoning Map to consolidate North Beach special use and neighborhood commercial controls and expand allowable uses and size limits in District 3. Supervisor Chan moved to duplicate the file and send the North Beach and Jackson Square portions back to committee, but the motion failed on a 5-5 vote; the Board subsequently passed the ordinance on first reading by an 8-2 vote.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "small_business"
+      ],
+      "speakers": [
+        {
+          "name": "Danny Sauter",
+          "stance": "support",
+          "quote": "COLLEAGUES THIS LEGISLATION WILL HELP FILL EMPTY STOREFRONTS ALLOW EXISTING SMALL BUSINESS OWNERS TO GROW AND BRING REFORM TO COMPLEX, CONFUSING AND INEQUITABLE PLANNING CODES ACROSS DISTRICT THREE NEIGHBORHOODS.",
+          "t0": 1751.88,
+          "verified": true
+        },
+        {
+          "name": "Connie Chan",
+          "stance": "oppose",
+          "quote": "AND SO WITH THAT COLLEAGUES IT'S I WANTED TO SAY THAT WE DO HAVE A RESPONSIBILITY TO LISTEN TO SOME OF SAN FRANCISCO MOST ICONIC RENOWN BUSINESS THAT ACTUALLY ARE OPPOSING SUPERVISORS FROM DISTRICT THREE'S CHANGES PROPOSED TODAY",
+          "t0": 2243.579,
+          "verified": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "THIS LEGISLATION TRIMS BACK THE SPIDER'S WEB OF RULES THAT HAVE CONTRIBUTED TO STOREFRONT VACANCIES IN THE VIBRANT NEIGHBORHOODS IN THE NORTHEASTERN SAN FRANCISCO.",
+          "t0": 2502.598,
+          "verified": true
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "oppose",
+          "quote": "I THINK THAT OUT OF RESPECT FOR COMMUNITY INPUT AROUND ANY CHANGES IN AREAS WITH DISSENT IN AREAS THAT WOULD HAVE A NEGATIVE IMPACT, IT MAKES SENSE FOR US TO ALLOW FOR THOSE FURTHER CONVERSATIONS",
+          "t0": 2737.705,
+          "verified": false
+        },
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "SO IN THE LAND USE COMMITTEE WE IN THE AT THE BOARD OF SUPERVISORS HAVE A LONG TRADITION OF DEFERRING TO THE DISTRICT SUPERVISOR ON LAND USE DECISIONS SPECIFICALLY BECAUSE WE TRUST THAT THE DISTRICT SUPERVISORS KNOW THEIR DISTRICT THE BEST.",
+          "t0": 2934.251,
+          "verified": false
+        },
+        {
+          "name": "Stephen Sherrill",
+          "stance": "support",
+          "quote": "",
+          "t0": 7777.707,
+          "verified": false
+        },
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "",
+          "t0": 7927.472,
+          "verified": false
+        },
+        {
+          "name": "Chyanne Chen",
+          "stance": "support",
+          "quote": "",
+          "t0": 8557.333,
+          "verified": false
+        }
+      ],
+      "votes": [
+        {
+          "name": "Shamann Walton",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1189962,
+      "summary": "The Board conducted a Special Order honoring community leaders in celebration of Filipino-American History Month and arts achievements. Commendations were presented to Marily Mondejar and the Foundation for Filipina Women's Network, educator Doxany Foothill of Longfellow Elementary, YMCA executive Derrick Brown, LGBTQ+ advocate and drag artist Kiki Lopez (Miss Kiki Crunch), Janet Alvarado of the Alvarado Project, and Sherri Young, founder of the African-American Shakespeare Company.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "IN CELEBRATION OF FILIPINO-AMERICAN HERITAGE MONTH I AM HONORED TO RECOGNIZE A REMARKABLE ORGANIZER THAT HAS BEEN SHAPING THE GLOBAL STORY OF FILIPINA LEADERSHIP FOR 25 YEARS. THE FOUNDATION FOR FILIPINA WOMEN'S NETWORK",
+          "t0": 3113.764,
+          "verified": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "stance": "support",
+          "quote": "TODAY I AM VERY PROUD TO HONOR SO SANDY FOOTHILL A SECOND GENERATION FILIPINO-AMERICAN AND A TEACHER AT LONGFELLOW ELEMENTARY SCHOOL.",
+          "t0": 4080.935,
+          "verified": false
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "TODAY IT IS MY HONOR TO PRESENT THIS SPECIAL COMMENDATION TO A MAN WHOSE LIFE'S WORK EMBODIES LEADERSHIP ,SERVICE AND AN UNWAVERING COMMITMENT TO THE PEOPLE OF SAN FRANCISCO. DERRICK BROWN",
+          "t0": 4530.942,
+          "verified": false
+        },
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "COLLEAGUES PLEASE JOIN ME AND WELCOME KIKI LOPEZ ALSO KNOWN AS MISS KIKI CRUNCH.",
+          "t0": 5551.562,
+          "verified": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "stance": "support",
+          "quote": "TODAY I'M HONORED TO COMMEND JANET ALVARADO, FOUNDER AND EXECUTIVE DIRECTOR OF THE ALVARADO PROJECT IN CELEBRATION OF FILIPINO-AMERICAN HISTORY MONTH",
+          "t0": 6396.51,
+          "verified": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "SHERRY IS THE FOUNDER AND EXECUTIVE DIRECTOR OF THE AFRICAN-AMERICAN SHAKESPEARE COMPANY, WHICH SHE ESTABLISHED IN 1994 TO PROVIDE ACTORS OF COLOR WITH THE OPPORTUNITY TO PERFORM CLASSICAL WORKS",
+          "t0": 7023.516,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1189970,
+      "summary": "The Board considered a motion recommended by the Rules Committee appointing Jesse Ruiz Navarro to the Immigrant Rights Commission for a term ending June 6, 2026. The motion was approved unanimously on roll call.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1189971,
+      "summary": "Supervisors introduced new legislative business, hearing requests, and in memoriam adjournments. Supervisor Walton introduced resolutions reaffirming the WATCH Act and responding to federal SNAP disruptions, while mourning Belva Davis; Supervisor Chan honored Fire Assistant Chief Frank Blackburn; Supervisor Chen requested a hearing on city agency protocols regarding ICE enforcement; Supervisor Fielder adjourned in memory of Daniel Casanova; Supervisor Mahmood introduced a Fillmore Entertainment Zone ordinance and a Safe Cities Blueprint regarding ICE; Supervisor Mandelman introduced a resolution for Restaurant Week; and Supervisor Melgar adjourned in honor of Father Tony LaTorre and John J. Bouvier III. Members of the public spoke regarding the Fillmore Heritage Center, tenant protections in family zoning, federal surveillance, and legal defense funding for immigrants.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance",
+        "public_safety",
+        "small_business",
+        "housing"
+      ],
+      "speakers": [
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "I AM INTRODUCING A RESOLUTION REAFFIRMING SAN FRANCISCO'S WATCH ACT. ACROSS THE COUNTRY WE ARE SEEING A DISTURBING RISE IN GOVERNMENT SURVEILLANCE DATA COLLECTION AND TARGETING OF COMMUNITIES",
+          "t0": 8870.1,
+          "verified": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "stance": "support",
+          "quote": "COLLEAGUES TODAY I AM INTRODUCED IN A HEARING REQUEST AND LETTER OF INQUIRY TO MULTIPLE CITY AGENCIES ABOUT THEIR PROTOCOLS AND TRAINING FOR INTERACTIONS WITH FEDERAL IMMIGRATION ENFORCEMENT.",
+          "t0": 9627.614,
+          "verified": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "neutral",
+          "quote": "COLLEAGUES TODAY WITH A HEAVY HEART I REQUEST THAT WE ADJOURN THIS MEETING IN MEMORIAM OF DANIEL CASANOVA WHO PASSED AWAY SUDDENLY ON JULY SECOND.",
+          "t0": 9802.536,
+          "verified": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "COLLEAGUES TODAY I'M INTRODUCING LEGISLATION ESTABLISHING THE SECOND DISTRICT FIVE ENTERTAINMENT ZONE. THIS TIME ON FILLMORE STREET .",
+          "t0": 9960.495,
+          "verified": false
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "AND SECONDLY, I DO HAVE A RESOLUTION I AM INTRODUCING TO RECOGNIZE NOVEMBER 1ST THROUGH THE NINTH AS RESTAURANT WEEK IN THE CITY AND COUNTY OF SAN FRANCISCO.",
+          "t0": 10312.745,
+          "verified": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "stance": "neutral",
+          "quote": "FIRST SAN FRANCISCO MOURNS THE PASSING OF FATHER TONY LATORRE, A BELOVED NATIVE SON WHOSE WARMTH HUMOR AND FAITH TOUCHED GENERATIONS ACROSS OUR CITY.",
+          "t0": 10388.395,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": [
+        "Revitalizing and returning the Fillmore Heritage Center to the Black community",
+        "Support for the $3.5 million budget supplemental for immigrant legal defense",
+        "Extending tenant protections to non-rent controlled units under family zoning"
+      ]
+    },
+    {
+      "meta_id": 1189980,
+      "summary": "The Board considered resolutions introduced for adoption without committee reference, excluding items severed for individual consideration (Items 38 and 46). The remaining items on the agenda were adopted unanimously on roll call.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1189985,
+      "summary": "The Board considered a resolution recognizing October 2025 as Filipino American History Month and celebrating the history, culture, and contributions of Filipino Americans in San Francisco. Supervisors Dorsey and Chen highlighted local historical milestones and community organizations, and the resolution was approved without objection.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "EACH OCTOBER WE HAVE THE HONOR OF CELEBRATING THE HISTORY AND CONTRIBUTIONS OF OUR FILIPINO COMMUNITY AND I'M PROUD TO REPRESENT THE FILIPINO CULTURAL HERITAGE DISTRICT AS WELL AS MANY FILIPINO COMMUNITY SERVING ORGANIZATIONS",
+          "t0": 13917.836,
+          "verified": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "stance": "support",
+          "quote": "FILIPINO AMERICAN HISTORY MONTH IS A TIME FOR US TO HONOR THE RICH CULTURE, VIBRANT TRADITIONS AND LONGSTANDING RESILIENCE OF OUR COMMUNITY.",
+          "t0": 14070.327,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1189993,
+      "summary": "The Board considered a resolution urging SFMTA and SFPD to enforce state laws prohibiting riding electric and gas-powered scooters on sidewalks to safeguard pedestrians and advance Vision Zero goals. Supervisor Walton detailed existing legal restrictions and ongoing efforts with the City Attorney, and the resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "transit",
+        "public_safety"
+      ],
+      "speakers": [
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "THIS RESOLUTION IS SPECIFIC TO MOTORIZED SCOOTERS AND GAS POWERED SCOOTERS BUT THERE'S ALREADY LAWS ON THE BOOKS THAT PROHIBIT CYCLING ON SIDEWALKS AND OTHER FORMS OF TRANSPORTATION THAT HAVE BEEN BANNED ON OUR SIDEWALKS.",
+          "t0": 14191.461,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1189994,
+      "summary": "The Board convened in closed session to confer with the City Attorney regarding existing litigation matters against Donald Trump in which the city is a party. Upon returning to open session, the Board voted 10-0 not to disclose its closed session deliberations.",
+      "outcome": "passed",
+      "topics": [
+        "settlements",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1189995,
+      "summary": "The clerk reported no imperative agenda items, and the Board officially adjourned in memory of Belva Davis, Frank Blackburn, Daniel Casanova, Father Tony LaTorre, and John J. Bouvier III.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    }
+  ],
+  "quote_verification": {
+    "verified": 17,
+    "partial": 7,
+    "dropped": 3
+  }
+}

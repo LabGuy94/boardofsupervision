@@ -1,0 +1,1391 @@
+{
+  "clip_id": 51317,
+  "items": [
+    {
+      "meta_id": 1197430,
+      "summary": "The Board of Supervisors convened for its regular meeting, conducted roll call, recited the land acknowledgment, and led the Pledge of Allegiance. Supervisor Alan Wong requested to be excused until his arrival due to a medical appointment. The Board voted unanimously to excuse Supervisor Wong.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1197431,
+      "summary": "The Clerk announced instructions for members of the public seeking reasonable accommodations under the Americans with Disabilities Act or language assistance for future Board meetings.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1197432,
+      "summary": "The Board considered the approval of the regular meeting minutes from October 21, 2025, and the special meeting minutes from November 3, 2025. The minutes were approved by roll call vote subject to public comment.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1197435,
+      "summary": "The Clerk read the procedural introduction for the consent agenda, explaining that items are routine and may be severed upon objection by any supervisor.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1197437,
+      "summary": "The Board voted on the consent agenda comprising Items 1 through 8. These included settlements for Bruno Mincin ($140,000), Jonathan Manalang ($105,000), Californians For Equal Rights Foundation ($50,000), and Gajanan, Inc. ($1,191,000); zoning amendments for the Central Neighborhoods and Corona Heights Large Residence SUDs; police regulations regarding vehicle sideshows; enforcement against unauthorized street vending; and the West SoMa Entertainment Zone. The ordinances were finally passed.",
+      "outcome": "passed",
+      "topics": [
+        "settlements",
+        "planning_land_use",
+        "public_safety",
+        "small_business"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1197455,
+      "summary": "The Board considered an appropriation ordinance of $4,508,500 in state cost reimbursement revenue to the Department of Elections for the November 2025 statewide special election. The ordinance was passed on final passage without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1197457,
+      "summary": "The Board considered an ordinance authorizing a $5,845,000 settlement in a class-action lawsuit concerning elder abuse, privacy violations, and negligence claims by over 700 residents of Laguna Honda Hospital. The ordinance was finally passed without objection.",
+      "outcome": "passed",
+      "topics": [
+        "settlements",
+        "health"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1197459,
+      "summary": "The Board considered General Plan amendments implementing the Family Housing Zoning Program across multiple neighborhood plans, adjusting guidelines for building heights, density, and design. Items 11 through 14 were voted on together and passed with six ayes and four noes.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "no",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1197460,
+      "summary": "The Board considered an ordinance amending the Zoning Map to implement the Family Zoning Plan by reclassifying properties, revising height and bulk limits, and updating the Local Coastal Program. The ordinance was voted on alongside Items 11 through 14 and was finally passed.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "no",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1197461,
+      "summary": "The Board considered amendments to the Planning and Business and Tax Regulations Codes to create the Housing Choice San Francisco program and modify transit-oriented development standards under the Family Zoning Plan. The ordinance was finally passed in a combined vote on Items 11 through 14.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "housing",
+        "transit"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "no",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1197465,
+      "summary": "The Board approved a resolution transmitting amendments to the City's certified Local Coastal Program to the California Coastal Commission for review and certification as part of the Family Zoning Plan. The item was adopted as part of the combined vote on Items 11 through 14.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "environment",
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "no",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1197466,
+      "summary": "The Board took up an ordinance amending the Building Code to revise expiration timelines for building permits and permit application fees. An initial vote was rescinded, and upon a second roll call, the ordinance passed on first reading with a 6-4 vote.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "no",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1197467,
+      "summary": "The Board considered an ordinance amending the Planning Code to permit waivers of inclusionary housing fees in exchange for subjecting all units in a project to rent control or dedicating land to the City in well-resourced neighborhoods. Supervisor Melgar spoke in support, highlighting the creation of new rent-controlled rental stock. The ordinance passed unanimously on first reading.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "planning_land_use"
+      ],
+      "speakers": [
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "THIS LEGISLATION PROVIDES MORE FLEXIBILITY AND OPTIONS FOR DEVELOPERS OUTSIDE OF PRIORITY EQUITY GEOGRAPHIES TO OPT TO FULFILL THEIR INCLUSIONARY REQUIREMENTS BY OFFERING RENT CONTROLLED UNITS AND WE WOULD THUS BE INCREASING TO OUR RENTAL HOUSING STOCK",
+          "t0": 848.693,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1197470,
+      "summary": "The Board adopted a resolution approving a 24-month amendment to the grant agreement with Episcopal Community Services for shelter services at Sanctuary Shelter, increasing the grant by $15 million to a total of approximately $41 million. The item was adopted without objection alongside Item 18.",
+      "outcome": "passed",
+      "topics": [
+        "homelessness",
+        "housing",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1197471,
+      "summary": "The Board approved a resolution extending the grant agreement with Felton Institute for drop-in resource center operations in the Bayview by 24 months and increasing the total funding to $16.8 million. The item was approved without objection alongside Item 17.",
+      "outcome": "passed",
+      "topics": [
+        "homelessness",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1197472,
+      "summary": "The Board approved a resolution authorizing a Homekey+ standard agreement with the State of California, Swords to Plowshares, and 1035 Vets LLC for the acquisition and rehabilitation of real property at 1035 Van Ness Avenue into permanent supportive housing for veterans. Items 19 through 22 were taken together and adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "homelessness",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1197473,
+      "summary": "The Board approved an $11 million loan and grant agreement with 1035 Vets LLC to rehabilitate 1035 Van Ness Avenue into 124 units of permanent supportive housing for veterans exiting homelessness. The item was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "homelessness",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1197474,
+      "summary": "The Board authorized a standard agreement under the Homekey+ program with the California Department of Housing and Community Development and co-applicants for $17.3 million to fund permanent supportive housing at 835 Turk Street. The item was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "homelessness",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1197475,
+      "summary": "The Board approved a 55-year ground lease and financing agreement with 835 Turk LLC for 106 units of 100% permanent supportive rental housing affordable to very low-income households. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "homelessness",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1197476,
+      "summary": "The Board retroactively approved the acceptance and expenditure of a $1.1 million grant from the California Department of Insurance for the District Attorney's Workers' Compensation Insurance Fraud Program. Items 23 and 24 were adopted together without objection.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1197477,
+      "summary": "The Board retroactively authorized the District Attorney's Office to accept and expend an automobile insurance fraud grant of approximately $347,000 from the California Department of Insurance. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1197478,
+      "summary": "The Board approved a two-year extension of the agreement between the Recreation and Park Department and Active Network, LLC for the City's recreation program and facility reservation system, with no change to the annual $100,000 contract amount. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "parks"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1197479,
+      "summary": "The Board approved a contract amendment with Priority Healthcare Distribution (dba CuraScript Specialty Distribution) to procure specialty drugs for the Department of Public Health, extending the term through 2030 and increasing the total amount to approximately $98.4 million. The resolution was adopted without objection alongside Item 27.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1197480,
+      "summary": "The Board approved an amendment extending the agreement with Hyde Street Community Services, Inc. for mental health services through June 2028 and increasing total funding to approximately $38.8 million. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1197481,
+      "summary": "The Board approved a grant agreement with the California Department of Social Services for Community Care Expansion Preservation Projects, bringing approximately $7.4 million in revenue through June 2029. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1197485,
+      "summary": "Taken out of order prior to Item 29, the Board approved an ordinance amending the Administrative Code to establish the Reparations Fund. The ordinance was passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1197483,
+      "summary": "The Board debated an ordinance to extend the suspension of the cannabis business tax for ten years through December 31, 2035. Sponsor Mandelman and Supervisor Mahmood argued that collecting the tax would harm legal cannabis businesses already struggling against the illicit market and high state taxes. Supervisors Chan and Walton opposed the suspension, pointing to the City's projected billion-dollar budget deficit and arguing the City cannot afford to forego roughly $6.2 million in annual revenue. The ordinance passed on first reading by an 8-2 vote.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "budget",
+        "public_safety"
+      ],
+      "speakers": [
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "IT IS NOT APPROPRIATE TO BE SUBJECTING THE LEGAL CANNABIS INDUSTRY TO ADDITIONAL BURDENS AT THIS TIME OUR CANNABIS MARKET REMAINS HIGHLY COMPETITIVE AND FRANKLY THE COMPETITION IS BEING LOST BY OUR LEGAL OPERATORS.",
+          "t0": 1613.724,
+          "verified": true
+        },
+        {
+          "name": "Connie Chan",
+          "stance": "oppose",
+          "quote": "TO WAIVE ANY TAX REVENUE FOR TEN YEARS FOR A PROJECTED $80 MILLION IN TAX REVENUE WITHOUT OTHER CRITICAL BUDGET AND FINANCIAL ANALYSIS THAT WE WOULD TYPICALLY HAVE DURING THE BUDGET PROCESS. IT'S SIMPLY IRRESPONSIBLE.",
+          "t0": 1907.354,
+          "verified": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "SUSPENDING THIS TAX WILL GIVE THE INDUSTRY MORE BREATHING ROOM TO MAKE UP GROUND AGAINST ILLEGAL UNTAXED BLACK MARKETS THAT ARE STILL THRIVING ON OUR STREETS BECAUSE OF THIS DOUBLE TAXATION AT THE HIGH LEVEL FROM STATE AND LOCAL LEVELS.",
+          "t0": 2005.932,
+          "verified": true
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "oppose",
+          "quote": "SO AS WE CAN SEE WE HAVE FORECASTS OF AT LEAST A BILLION DOLLAR BUDGET DEFICIT GOING INTO THE NEXT YEAR AND TO TURN AROUND SUSPEND FORMS OF REVENUE. I JUST TRULY, COMPLETELY FEEL THAT'S PRETTY IRRESPONSIBLE ON OUR PART.",
+          "t0": 2326.662,
+          "verified": true
+        },
+        {
+          "name": "City Controller",
+          "stance": "neutral",
+          "quote": "IN OUR MOST RECENT FIVE YEAR PROJECTION ISSUED IN MARCH 2025, THE FORECAST WAS THAT AN IMBALANCE BETWEEN REVENUES AND EXPENDITURES SHOWED GROWTH IN THE DEFICIT IN EXCESS OF $1 BILLION",
+          "t0": 2278.681,
+          "verified": false
+        }
+      ],
+      "votes": [
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1197486,
+      "summary": "The Board presented commendations recognizing community members for meritorious service. Supervisor Chen and Supervisor Melgar commended community organizer Oscar Grande; Supervisor Sauter commended Chef Miguel Escobedo; and Supervisor Sherrill commended high school student and water-quality sensor inventor Piper Johnson.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Chyanne Chen",
+          "stance": "support",
+          "quote": "FOR THOSE WHO DON'T KNOW OSCAR, HE HAS A SHINING SPIRIT ,A COMMANDING PRESENCE AND INFECTIOUS SENSE OF HUMOR AND DEEPLY ROOTED IN SENSE OF COMMUNITY.",
+          "t0": 2767.329,
+          "verified": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "I JUST HAVE SO MUCH PROFOUND RESPECT FOR YOU AND I KNOW NOT JUST THE WORK THAT YOU'VE DONE BUT WHO YOU ARE AS A HUMAN AND WHAT YOU HAVE DONE IN THIS WORLD.",
+          "t0": 3159.9,
+          "verified": true
+        },
+        {
+          "name": "Danny Sauter",
+          "stance": "support",
+          "quote": "CHEF MIGUEL HAS BROUGHT HIS MEXICO CITY STYLE EL PASTORE TO DISTRICT THREE WITH THE OPENING OF EL PASTORE PAPI IN THE HEART OF UNION SQUARE.",
+          "t0": 3770.651,
+          "verified": false
+        },
+        {
+          "name": "Stephen Sherrill",
+          "stance": "support",
+          "quote": "PIPER IS A REMARKABLE STUDENT AT SACRED HEART CATHEDRAL PREP IN DISTRICT TWO WHOSE INNOVATION IS HELPING MAKE OUR COASTAL WATERS SAFER FOR SWIMMERS, SURFERS AND MARINE LIFE",
+          "t0": 4070.58,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1197491,
+      "summary": "The Board held a public hearing on appeals regarding the CEQA categorical exemption and conditional use authorization for an AT&T macro wireless telecommunications facility at 350 Amber Drive. Both the appellant and project sponsor submitted written requests waiving statutory deadlines and requesting a continuance. The Board voted to continue Items 31 through 38 to February 10, 2026.",
+      "outcome": "continued",
+      "topics": [
+        "planning_land_use",
+        "environment"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "absent",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1197504,
+      "summary": "This item pertained to the preparation of findings related to the conditional use authorization appeal for 350 Amber Drive. Along with the accompanying appeals on Items 31 through 38, it was continued to February 10, 2026.",
+      "outcome": "continued",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1197507,
+      "summary": "The Board considered a committee report ordinance authorizing a settlement of up to $20,000,000 in an employment dispute lawsuit filed by Devon Anderson and Beverly L. Sweeney. The ordinance was passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "settlements",
+        "labor"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1197511,
+      "summary": "The Board considered an ordinance delegating authority to the Public Works Director to vacate certain streets and public service easements within the Potrero HOPE SF project site to expedite implementation. The ordinance was passed on first reading unanimously.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "planning_land_use",
+        "transit"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1197512,
+      "summary": "The Board considered a resolution of intent to declare the intention to vacate portions of Haze Street, Griffith Street, and Bancroft Avenue for the development of the Fire Department training facility at 1236 Carroll Avenue. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1197513,
+      "summary": "The Board approved a motion approving Final Map No. 10857 for a commercial condominium project located at 1301-1341 Evans Avenue. The motion was approved without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1197514,
+      "summary": "Supervisors introduced new legislation and shared reports during Roll Call for Introductions. Highlights included Supervisor Mahmood's ordinance prohibiting the commandeering of City property for federal immigration enforcement, Supervisor Mandelman's film incentive updates, an in memoriam tribute led by Supervisors Walton and Fielder for slain SF General Hospital social worker Alberto Rangel, an inquiry regarding safety protocols, Caltrain governance concerns raised by Walton, an in-lieu street tree fee ordinance introduced by Supervisor Wong, and a proposed mandate for public restrooms introduced by Supervisor Fielder.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance",
+        "public_safety",
+        "transit",
+        "health",
+        "environment"
+      ],
+      "speakers": [
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "TODAY THE ORDINANCE WE ARE INTRODUCING WILL AMEND ADMINISTRATIVE CODE SECTION 4.19 TO ACCOMPLISH THE FOLLOWING ONE PROHIBIT ANY ENTITY FROM COMMANDEERING CITY PROPERTY FOR USE THAT WOULD DISRUPT CITY OPERATIONS",
+          "t0": 4864.428,
+          "verified": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "COLLEAGUES TODAY I'M INTRODUCING AN ORDINANCE TO MODERNIZE AND STRENGTHEN SAN FRANCISCO'S FILM INCENTIVE PROGRAM.",
+          "t0": 5096.335,
+          "verified": true
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "neutral",
+          "quote": "TODAY. I DO HAVE AN IN MEMORIAM FOR THE TRAGIC LOSS OF OUR FELLOW CITY WORKER ALBERTO RANGEL WHO MADE THE ULTIMATE SACRIFICE WHILE SERVING THE PEOPLE OF SAN FRANCISCO WITH COMPASSION AND DEDICATION.",
+          "t0": 5727.138,
+          "verified": true
+        },
+        {
+          "name": "Alan Wong",
+          "stance": "support",
+          "quote": "THIS ORDINANCE INTRODUCES A CLEAR AND SIMPLE ALTERNATIVE AND IN LIEU FEE THAT PROPERTY OWNERS CAN CHOOSE INSTEAD OF DIRECT TREE PLANTING.",
+          "t0": 6475.744,
+          "verified": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "support",
+          "quote": "COLLEAGUES TODAY I WANT TO SHARE THAT I'VE ASKED THE CITY ATTORNEY TO DRAFT LEGISLATION TO MANDATE A MINIMUM BATHROOM RATIO IN THE CITY PUBLIC CONVENIENCES LIKE RESTROOMS ARE ESSENTIAL INFRASTRUCTURE",
+          "t0": 6657.799,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1197515,
+      "summary": "Members of the public addressed the Board during general public comment. Speakers discussed issues ranging from city building decarbonization, SFPUC employee safety and wrongful terminations, trash dumping in the Bayview, and alleged acoustic weapon usage.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Public commenter",
+          "stance": "support",
+          "quote": "I'M HERE TO SPEAK ABOUT ITEM NUMBER 47 THE RESOLUTION AFFIRMING SAN FRANCISCO'S COMMITMENT TO DECARBONIZATION EFFORTS THAT CENTER ENVIRONMENTAL JUSTICE.",
+          "t0": 7216.251,
+          "verified": true
+        },
+        {
+          "name": "Public commenter",
+          "stance": "neutral",
+          "quote": "",
+          "t0": 7083.585,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": [
+        "building decarbonization and environmental justice",
+        "SFPUC employee safety and terminations",
+        "trash and debris dumping in the Bayview district",
+        "allegations of acoustic weapon monitoring"
+      ]
+    },
+    {
+      "meta_id": 1197516,
+      "summary": "The Board considered resolutions introduced for adoption without committee reference, with Items 48, 49, and 52 severed for separate consideration. The remaining resolutions (Items 46, 47, 50, and 51), including Dr. Jian Zhang Day and affirming building decarbonization centering environmental justice, were adopted by roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance",
+        "environment",
+        "health"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "absent",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1197522,
+      "summary": "The Board considered a resolution introduced by Supervisor Mandelman declaring December 12, 2025, as Drag Story Hour Day in San Francisco in recognition of the program's founding in the city. The resolution was adopted unanimously by roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "SAN FRANCISCO HAS ALWAYS BEEN A CITY THAT CHAMPIONS CREATIVITY AND LGBTQ VISIBILITY AND DRAG STORY HOUR EMBODIES BOTH THIS RESOLUTION CELEBRATES A REMARKABLE MILESTONE AND DEMONSTRATES OUR CONTINUED SUPPORT FOR PROGRAMS THAT LIFT UP CHILDREN",
+          "t0": 7944.648,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1197523,
+      "summary": "The Board considered a resolution urging the California State Legislature to amend Senate Bill 330 to strengthen protections for tenants in rent-controlled units. Supervisor Melgar offered a technical clarifying amendment, which was adopted without objection, and the amended resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "housing"
+      ],
+      "speakers": [
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "COLLEAGUES ARE HAVE A SMALL TECHNICAL AMENDMENT FOR THIS RESOLUTION FOR CLARITY WHICH I DISTRIBUTED AND IT IS TO ADD THE PHRASE SECTIONS ENACTED BY THE PASSAGE OF TWO PAGE ONE LINE THREE AND PAGE THREE, LINE FOUR",
+          "t0": 8049.753,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1197526,
+      "summary": "The Board considered a motion establishing its regular meeting schedule for 2026. Supervisor Melgar proposed an amendment to cancel the meeting on the week of Thanksgiving (November 24) and schedule a meeting on December 1 instead. The amendment and amended motion were approved without objection.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "I WOULD LIKE TO MAKE A MOTION TO AMEND THIS MOTION SO THAT WE CANCEL THE BOARD MEETING HERE THE WEEK OF THANKSGIVING AND 2026 LIKE WE DID THIS YEAR LIKE WE DID FOR THE PAST COUPLE OF YEARS SO THAT WE DO NOT MEET THAT WEEK IN AND SET WE MEET THE FOLLOWING WEEK.",
+          "t0": 8160.332,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1197528,
+      "summary": "The Clerk confirmed there were no items on the imperative agenda. The Board adjourned the meeting in memory of Alberto Rangel, a social worker at San Francisco General Hospital and UCSF who was fatally attacked on duty.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    }
+  ],
+  "quote_verification": {
+    "verified": 16,
+    "partial": 3,
+    "dropped": 1
+  }
+}

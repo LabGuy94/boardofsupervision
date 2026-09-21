@@ -1,0 +1,1081 @@
+{
+  "clip_id": 53160,
+  "items": [
+    {
+      "meta_id": 1262825,
+      "summary": "The Board of Supervisors convened for its regular meeting and conducted roll call, confirming that all eleven supervisors were present to establish a quorum. President Rafael Mandelman led the land acknowledgment recognizing the Ramaytush Ohlone and led the recitation of the Pledge of Allegiance.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1262829,
+      "summary": "Mayor Daniel Lurie addressed the Board of Supervisors during the mayoral appearance, discussing the city's housing and rent affordability challenges. He detailed initiatives to cap banked rent increases, expand funding for tenant legal defense and the right to counsel, streamline permitting via Permit SF, and finalize early multi-year labor agreements with city worker unions. Following his remarks, the item was filed.",
+      "outcome": "no_action",
+      "topics": [
+        "housing",
+        "labor",
+        "budget"
+      ],
+      "speakers": [
+        {
+          "name": "Mayor",
+          "stance": "neutral",
+          "quote": "SAN FRANCISCO IS IN A RENT EMERGENCY. AND I WANT TO SAY HOW GRATEFUL I AM FOR YOUR PARTNERSHIP IN COMING TOGETHER TO MEET THIS MOMENT.",
+          "t0": 193.731,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1262826,
+      "summary": "The Clerk of the Board presented general communications regarding public access to proceedings. Information covered in-person chamber rules, television broadcast and web streaming details, written public comment options, and procedures for requesting disability and language accommodations.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1262827,
+      "summary": "The Board considered the approval of meeting minutes from the July 21, July 28, and September 1, 2026 Board of Supervisors meetings. A motion by Supervisor Chyanne Chen, seconded by Supervisor Shamann Walton, to approve the minutes as presented passed unanimously on a roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1262832,
+      "summary": "The Board considered the consent agenda comprising Items 1 through 15, which included multiple lawsuit and unlitigated claim settlements across city departments. No supervisor severed any item, and the consent agenda was approved unanimously, passing ordinances on first reading and adopting resolutions.",
+      "outcome": "passed",
+      "topics": [
+        "settlements"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1262853,
+      "summary": "The Board considered on final passage an ordinance amending the Public Works, Administrative, Planning, and Business and Tax Regulations Codes to reform street tree planting requirements and in-lieu fees. The ordinance allows developers to pay an in-lieu fee or provide alternative landscaping, exempts accessory dwelling units, and restricts Board of Appeals jurisdiction over hazardous tree removals. The ordinance was finally passed with seven votes in favor and four opposed.",
+      "outcome": "passed",
+      "topics": [
+        "environment",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Connie Chan",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1262857,
+      "summary": "The Board considered an ordinance authorizing the issuance and sale of tax-exempt or taxable Certificates of Participation in an aggregate amount not to exceed $43 million for the Open Space Fund to finance or refinance capital projects. Considered together with Item 18, the ordinance passed on first reading following a unanimous roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "parks"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1262858,
+      "summary": "The Board considered an ordinance appropriating $43 million in Certificates of Participation Series 2026A Open Space Fund proceeds to the Recreation and Park Department for FY 2026-2027. The funds remain on Controller's reserve pending receipt of the bond proceeds. Taken together with Item 17, the ordinance passed on first reading unanimously.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "parks"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1262859,
+      "summary": "The Board considered a resolution authorizing the issuance and sale of General Obligation Social Bonds for Affordable Housing (Series 2026D) in an amount not to exceed $107,540,000. Considered together with Items 20 through 22, the resolution was adopted without objection via same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1262862,
+      "summary": "The Board considered an ordinance appropriating $202,004,550 in General Obligation bond proceeds to the Mayor's Office of Housing and Community Development for FY 2026-2027. The appropriation covers middle-income, senior, and low-income housing as well as seismic safety preservation of at-risk multi-unit buildings. Considered with Items 19 through 21, the ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1262863,
+      "summary": "The Board considered a resolution authorizing the issuance and sale of up to $83,475,000 in Health and Recovery General Obligation Bonds (Series 2026B). Taken together with Item 24, the resolution was adopted without objection via same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1262865,
+      "summary": "The Board considered an ordinance de-appropriating $43,505,000 of Health and Recovery bond proceeds from Series 2025G and appropriating $83,475,000 from Series 2026B to the Department of Public Health and the Recreation and Park Department for FY 2026-2027. Considered with Item 23, the ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "parks",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1262866,
+      "summary": "The Board considered a resolution authorizing the issuance and sale of up to $138 million in Earthquake Safety and Emergency Response General Obligation Bonds (Series 2026C). Taken together with Item 26, the resolution was adopted without objection via same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1262867,
+      "summary": "The Board considered an ordinance appropriating $138 million in Earthquake Safety and Emergency Response bond proceeds to the Department of Public Works for FY 2026-2027, placed on Controller's reserve. Considered with Item 25, the ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1262869,
+      "summary": "The Board considered two resolutions modifying professional services agreements at the San Francisco International Airport, including an amendment with AtkinsR\u00e9alis USA Inc. increasing the contract amount by $8.4 million to a total not to exceed $17 million for airfield project management support. The resolutions were adopted without objection via same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "transit",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1262872,
+      "summary": "The Board considered three resolutions granting retroactive authorization for the Department of Public Health to accept and expend various grants, including a $204,313.34 grant from the San Francisco Health Plan for community health assessment and improvement planning. The resolutions were adopted without objection via same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1262876,
+      "summary": "The Board considered five resolutions providing retroactive authorization for the Mayor's Office of Housing and Community Development to execute grant agreements under the Affordable Housing Opportunity Fund, including an agreement with 1166 Howard Street Associates, LP for up to $3,239,075 to provide rental subsidies for an 88-unit affordable housing development. The resolutions were adopted without objection via same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1262877,
+      "summary": "The Board considered a resolution retroactively authorizing the Mayor and the Director of the Mayor's Office of Housing and Community Development to execute a grant agreement with MHDC South Park Properties, LP for an amount not to exceed $3,798,723 to provide project-based rental subsidies for 160 units of affordable housing. Taken together with Items 32 through 35, the resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1262884,
+      "summary": "Supervisors presented special commendations recognizing community members and public servants for meritorious service. Honorees included participants in the Department of Public Health's Living Proof SF recovery campaign, Recreation and Park Commission President Kat Anderson, SFPD Commander Christopher Delgado, the SFFD Battalion Six NERT team, Jo-Anne Giovannoni of Portal World Travel, KTSF Channel 26, and members of the Castro Public Works Block Sweepers team.",
+      "outcome": "no_action",
+      "topics": [
+        "other",
+        "health",
+        "public_safety",
+        "parks"
+      ],
+      "speakers": [
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "SEPTEMBER IS NATIONAL RECOVERY MONTH AND TODAY I AM PROUD TO RECOGNIZE THE DEPARTMENT OF PUBLIC HEALTH'S LIVING PROOF S.F. CAMPAIGN TOGETHER WITH THE 11 SAN FRANCISCANS WHO HAVE SHARED THEIR STORIES OF ADDICTION, TREATMENT AND RECOVERY WITH OUR CITY",
+          "t0": 1685.823,
+          "verified": false
+        },
+        {
+          "name": "Stephen Sherrill",
+          "stance": "support",
+          "quote": "TODAY I'M EXTREMELY HONORED TO COMMEND COMMISSIONER PRESIDENT EXCUSE ME KAT ANDERSON AS WE CELEBRATE OUR 10TH ANNIVERSARY SERVING THE CITY ON THE REC PARKS COMMISSION AND FOR MORE THAN THREE DECADES OF LEADERSHIP, VOLUNTEERISM AND CREATIVE CONTRIBUTION TO SAN FRANCISCO.",
+          "t0": 2215.48,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1262887,
+      "summary": "The Board convened as a Committee of the Whole to hold a public hearing on adding territory and adopting an annexation supplement to the Infrastructure Financing Plan for IRFD No. 1 on Treasure Island and Yerba Buena Island. Supervisor Dorsey and Treasure Island Development Authority staff presented an overview of the annexation and bond authorization expansion. Following no public comment, the hearing was closed and filed.",
+      "outcome": "no_action",
+      "topics": [
+        "planning_land_use",
+        "housing",
+        "budget"
+      ],
+      "speakers": [
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "",
+          "t0": 5889.425,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1262893,
+      "summary": "The Board considered resolutions approving the addition of territory to IRFD No. 1 on Treasure Island and calling for a special landowner election. Both resolutions were adopted unanimously by roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "housing",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1262894,
+      "summary": "The Board considered Items 44 through 46 concerning the declaration of election results, the annexation ordinance, and increasing bond authorization for IRFD No. 1 on Treasure Island. Supervisor Dorsey moved to continue all three items to the September 29, 2026 meeting, and the motion was approved without objection.",
+      "outcome": "continued",
+      "topics": [
+        "planning_land_use",
+        "budget"
+      ],
+      "speakers": [
+        {
+          "name": "Matt Dorsey",
+          "stance": "neutral",
+          "quote": "I'D LIKE TO MAKE A MOTION AT THIS TIME IF IT HAS A IF IT'S NOT ON THE FLOOR TO FOUR ITEMS 4445 AND 46 TO BE CONTINUED TO SEPTEMBER 29TH.",
+          "t0": 6628.802,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1262879,
+      "summary": "The Board considered an amendment to the agreement with OpenGov Inc. for citywide permitting software products and services. Supervisor Chyanne Chen offered amendments to shorten the contract term from five years to three years and reduce the not-to-exceed amount from $38.9 million to $28 million, alongside annual budget reviews and termination provisions. The amendments were approved and the resolution as amended was adopted with ten votes in favor and Supervisor Fielder opposed.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "housing",
+        "planning_land_use"
+      ],
+      "speakers": [
+        {
+          "name": "Chyanne Chen",
+          "stance": "support",
+          "quote": "WE HAVE ALSO NEGOTIATED THE CONTRACT DOWN FROM A FIVE YEAR EXTENSION TO A THREE YEAR EXTENSION. WE REDUCED IT TO TOTAL NOT TO EXCEED AMOUNT DOWN FROM 38.9 MILLIONS TO 28 MILLION.",
+          "t0": 6844.17,
+          "verified": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "oppose",
+          "quote": "THREE YEARS IS MORE REASONABLE THAN FIVE BUT UNTIL PERMANENT STUFF GETS A FIRM HANDLE ON ITS OPERATIONS AND SETS MORE CONCRETE DELIVERABLES FOR OPEN GOVT, THE BOARD OF SUPERVISORS HAS NO BUSINESS EXPANDING THIS CONTRACT BEYOND THE DOJ RECOMMENDED ONE YEAR.",
+          "t0": 7344.234,
+          "verified": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "I AM HAPPY TO SUPPORT THESE THESE AMENDMENTS THAT SUPERVISOR CHEN HAS PROPOSED AND I HOPE WE CAN PASS THIS",
+          "t0": 7506.41,
+          "verified": false
+        },
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "A THREE YEAR TERM AS SUPERVISOR CHEN HAS PROPOSED, GIVES THE VENDOR EVERY INCENTIVE TO MAKE THE FIXES THAT EARN THAT EXTENSION WHILE PRESERVING THE BOARD'S ABILITY TO HAVE A SEAT AT THE TABLE AND ANY NECESSARY AMENDMENTS TO THE CONTRACT.",
+          "t0": 7884.336,
+          "verified": false
+        },
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "I THINK THAT THREE YEARS IS A VERY WISE MOVE TO SCALE BACK. WHAT I DO THINK THOUGH I CONCUR WITH THE SENTIMENTS WITH SUPERVISOR FIELDER ON THIS ONE IS THE FACT THAT IT IS STILL NOT CLEAR TO ME WHAT THE DELIVERABLES ACTUALLY ARE",
+          "t0": 8336.95,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1262881,
+      "summary": "The Board considered an ordinance amending the Administrative Code to approve the amended Airport Surveillance Technology Policy governing third-party security cameras. The ordinance was passed on first reading following a unanimous roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "transit"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1262883,
+      "summary": "The Board considered two ordinances authorizing lawsuit settlements arising from employment disputes, including an $8.7 million settlement in Arroyo et al. v. City and County of San Francisco and a $6,000,000 settlement in Shin v. City and County of San Francisco et al. Both ordinances passed on first reading without objection via same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "settlements",
+        "labor"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1262896,
+      "summary": "The Board considered a motion to approve President Mandelman's appointment of Malea Chavez to the Planning Commission for a term ending July 1, 2028. Supervisor Melgar and President Mandelman spoke in praise of Chavez's extensive community work and collaborative approach, and the motion was approved without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "elections_governance"
+      ],
+      "speakers": [
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "I JUST WANTED TO SAY A COUPLE OF WORDS OF PERSONAL SUPPORT FOR MY FRIEND MELISSA CHAVEZ FOR THE PLANNING COMMISSION. SHE AND I MAY NOT MAY NOT ALWAYS AGREE ON PLANNING THINGS AND I TRUST HER AND SUPPORT HER WHOLEHEARTEDLY.",
+          "t0": 8807.71,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1262897,
+      "summary": "The Board considered a motion to approve City Controller Greg Wagner's nomination of Christopher Simi to the Sanitation and Streets Commission for a term ending July 1, 2030. The motion was approved without objection via same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1262898,
+      "summary": "During roll call for introductions, supervisors introduced new legislation, hearings, and policy initiatives. Key measures included an oversight hearing request on OpenGov (Chen), state rent cap tenant disclosures (Dorsey), reporting rules on behested payment waivers and opposition to SFO immigration detentions (Fielder), dog safety rules in supportive housing (Mahmood), storefront transparency exemptions for sex venues (Mandelman), a city housing department structure and co-op housing programs (Melgar), rent banking caps (Sauter), official misconduct proceedings against a Sheriff's oversight commissioner (Sherrill), an interim zoning moratorium on data centers (Walton), and e-bike safety regulations (Wong).",
+      "outcome": "no_action",
+      "topics": [
+        "housing",
+        "public_safety",
+        "planning_land_use",
+        "elections_governance"
+      ],
+      "speakers": [
+        {
+          "name": "Chyanne Chen",
+          "stance": "neutral",
+          "quote": "I'M INTRODUCING A HEARING REQUEST ON THE PROGRESS OF OPEN GOV CONTRACT THROUGH MANY HOURS OF NEGOTIATION WE ARE ABLE TO NEGOTIATE A SHORTER TERM CONTRACT REDUCING BOTH THE OVERALL LENGTH OF THIS CONTRACT AS WELL AS A TOTAL NOT TO EXCEED AMOUNT.",
+          "t0": 8979.62,
+          "verified": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "stance": "neutral",
+          "quote": "THAT'S WHY I AM TODAY INTRODUCING LEGISLATION THAT WILL REQUIRE LANDLORDS TO PROVIDE NOTICE TO TENANTS OF THEIR RIGHTS AND RENT INCREASE LIMITATIONS UNDER THE STATE ANTI RENT GOUGING LAW",
+          "t0": 9130.116,
+          "verified": false
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "neutral",
+          "quote": "THE LEGISLATION I'M INTRODUCING WOULD REQUIRE A REPORT AT THE END OF THE WAIVER PERIOD THAT IDENTIFIES THE NAMES OF INTERESTED PARTIES THAT WERE SOLICITED.",
+          "t0": 9622.773,
+          "verified": false
+        },
+        {
+          "name": "Bilal Mahmood",
+          "stance": "neutral",
+          "quote": "TODAY I AM INTRODUCING A RESOLUTION TO STRENGTHEN DOG SAFETY PROTOCOLS AT CITY FUNDED SHELTER, TRANSITIONAL HOUSING AND SUPPORTIVE HOUSING SITES PLACES THAT SHOULD BE SAFE FOR RESIDENTS, NEIGHBORS, WORKERS AND VISITORS.",
+          "t0": 9797.88,
+          "verified": false
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "neutral",
+          "quote": "THE ORDINANCE WOULD EXEMPT ADULT SEX VENUES AND ADULT BUSINESSES FROM THE PLANNING CODE STOREFRONT TRANSPARENCY REQUIREMENTS.",
+          "t0": 9934.576,
+          "verified": true
+        },
+        {
+          "name": "Danny Sauter",
+          "stance": "neutral",
+          "quote": "COLLEAGUES TODAY I AM INTRODUCING LEGISLATION TO PROTECT TENANTS FROM SURPRISE AND DEVASTATING RENT HIKES. WE WILL DO SO BY CAPPING BANKED RENT INCREASES AND CAPITAL IMPROVEMENT PASSTHROUGH AT 10% FOR RENT CONTROLLED TENANTS IN OUR CITY.",
+          "t0": 11033.203,
+          "verified": true
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "neutral",
+          "quote": "I'M INTRODUCING AN ORDINANCE TO ESTABLISH A 45 DAY INTERIM ZONING MORATORIUM ON NEW DATA CENTERS IN SAN FRANCISCO ALONG WITH CO-SPONSORS SUPERVISOR CONNIE CHEN SUPERVISOR JACKIE FIELDER AND SUPERVISOR SHYANNE CHEN.",
+          "t0": 11382.31,
+          "verified": false
+        },
+        {
+          "name": "Alan Wong",
+          "stance": "neutral",
+          "quote": "COLLEAGUES TODAY I AM INTRODUCING TWO RELATED ITEMS CONCERNING THE SAFE USE OF E-BIKES E-SCOOTERS AND OTHER ELECTRIC MOBILITY DEVICES IN SAN FRANCISCO.",
+          "t0": 11752.78,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1262899,
+      "summary": "Members of the public addressed the Board during general public comment on a range of municipal and regional issues. Public commenters raised concerns regarding street conditions, encampments, and open drug use in the Hub neighborhood, dog attacks, energy usage and existential risks of artificial intelligence and data centers, and tributes to youth activist Felicia 'Opie' Freeney.",
+      "outcome": "no_action",
+      "topics": [
+        "public_safety",
+        "homelessness",
+        "environment",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": [
+        "Street conditions, open-air drug activity, and encampments in the Hub neighborhood",
+        "Dangerous dogs and need for enforcement of dog safety laws",
+        "Energy consumption of data centers and existential safety risks of artificial intelligence",
+        "Honoring the memory and youth justice advocacy of Felicia 'Opie' Freeney"
+      ]
+    },
+    {
+      "meta_id": 1262900,
+      "summary": "The Board considered the agenda for adoption without committee reference, covering Items 51 through 59. Items 52 and 58 were severed for separate consideration, and the remaining resolutions and motions were adopted by a unanimous vote of present members, with Supervisor Chan recorded as absent.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Connie Chan",
+          "vote": "absent",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1262904,
+      "summary": "The Board considered a resolution declaring September 19 through 20, 2026 as Muni Heritage Weekend in San Francisco. Supervisor Dorsey spoke about the historical significance of the Municipal Railway, praised the transit workforce, and highlighted the importance of protecting Muni funding amid projected budget shortfalls. The resolution was adopted without objection via same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "transit"
+      ],
+      "speakers": [
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "HONORING MUNI MEANS INVESTING IN ITS FUTURE AND WITH THIS RESOLUTION WE HONOR THE PEOPLE WHO BUILT MUNI SUPPORT THE PEOPLE WHO ARE RUNNING IT TODAY AND REAFFIRM OUR COMMITMENT TO THIS ESSENTIAL PUBLIC SERVICE OF THE SAN FRANCISCANS CAN CONTINUE TO DEPEND ON IT.",
+          "t0": 14902.756,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1262910,
+      "summary": "The Board considered a resolution declaring September 15 through October 15, 2026 as Latin@ Heritage Month in San Francisco. Supervisors Melgar and Fielder spoke in support, celebrating Central American and Latino history and community contributions to the city while emphasizing immigrant solidarity. The resolution was adopted without objection via same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "THIS MONTH SERVES AS A REMINDER TO HONOR THE LEGACIES OF RESISTANCE AND RESILIENCE THAT CONNECTS US IN THE LATIN AMERICAN AND DIASPORA IN OUR CONTINUED FIGHT FOR JUSTICE, DIGNITY AND THE HOPE FOR A BETTER TOMORROW.",
+          "t0": 15039.169,
+          "verified": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "support",
+          "quote": "AS A FEDERAL ADMINISTRATION CONTINUES ITS ATTACKS ON IMMIGRANT COMMUNITIES, IT'S IMPORTANT TO CONTINUE CELEBRATING THE AMAZING COMMUNITY THAT WE HAVE IN SAN FRANCISCO AMONG THE LATINO COMMUNITY.",
+          "t0": 15146.142,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1262945,
+      "summary": "The Board adjourned its meeting in memory of several community members. Adjournments were held for Felicia 'Opie' Freeney, Jeremiah Halsey, Thomas 'Tom' Frankel, and Mailing Low. Following the memorial announcements, the meeting was adjourned.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    }
+  ],
+  "quote_verification": {
+    "verified": 9,
+    "partial": 12,
+    "dropped": 1
+  }
+}

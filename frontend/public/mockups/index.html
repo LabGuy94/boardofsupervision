@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>BoardOfSupervision design directions</title>
+    <style>
+      :root { color-scheme: dark; font-family: Inter, ui-sans-serif, system-ui, sans-serif; color: #eff8eb; background: #08130c; }
+      * { box-sizing: border-box; }
+      body { min-width: 320px; margin: 0; background: radial-gradient(circle at 5% 0%, #2b633b55, transparent 28rem), #08130c; }
+      main { width: min(1180px, calc(100% - 40px)); margin: 0 auto; padding: 55px 0 70px; }
+      .brand { display: flex; align-items: center; gap: 10px; color: #f3faef; font-weight: 780; letter-spacing: -.045em; }
+      .leaf { width: 17px; height: 22px; border-radius: 88% 12% 88% 12%; background: linear-gradient(140deg, #ddf6a7, #55955f); transform: rotate(-32deg); }
+      h1 { max-width: 820px; margin: 28px 0 12px; font-size: clamp(2.4rem, 6vw, 5rem); line-height: .98; letter-spacing: -.065em; }
+      .intro { max-width: 690px; color: #afc2ae; font-size: 1.05rem; line-height: 1.6; }
+      .grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; margin-top: 38px; }
+      .card { display: flex; min-height: 255px; flex-direction: column; overflow: hidden; border: 1px solid #d7f2ba24; border-radius: 19px; background: #0d1e13; text-decoration: none; transition: transform 160ms ease, border-color 160ms ease; }
+      .card:hover { border-color: #d7f2ba80; transform: translateY(-3px); }
+      .preview { position: relative; flex: 1; min-height: 155px; overflow: hidden; background: var(--bg); }
+      .preview::before, .preview::after { content: ''; position: absolute; border: 1px solid #d7f2ba28; border-radius: 8px; }
+      .woodland { --bg: radial-gradient(circle at 10% 0%, #31562f, transparent 45%), #0b120c; }
+      .woodland::before { inset: 25px 20px 56px; } .woodland::after { right: 20px; bottom: 20px; width: 38%; height: 29px; background: #cce99b; }
+      .glass { --bg: radial-gradient(circle at 35% 10%, #7baf6955, transparent 34%), #0a2118; } .glass::before { inset: 24px 20px 49px; background: #dff8cc10; } .glass::after { left: 20px; bottom: 19px; width: 48%; height: 18px; }
+      .notes { --bg: #192016; } .notes::before { inset: 21px 25px; border-left: 2px solid #d5eb9b; border-radius: 0; } .notes::after { left: 48px; top: 45px; width: 55%; height: 1px; border: 0; background: #d7f2ba44; box-shadow: 0 24px #d7f2ba44, 0 48px #d7f2ba44; }
+      .timeline { --bg: radial-gradient(circle at 70% 0%, #346a3777, transparent 42%), #08140d; } .timeline::before { left: 28px; top: 20px; bottom: 20px; border-left: 1px solid #d9f5ad77; border-radius: 0; } .timeline::after { left: 25px; top: 52px; width: 8px; height: 8px; border: 0; border-radius: 50%; background: #d9f5ad; box-shadow: 0 43px #9dc978, 0 86px #9dc978; }
+      .chat { --bg: #000925; } .chat::before { left: 19px; top: 27px; width: 46%; height: 45px; border-color: #2a60af; background: #0a1734; } .chat::after { right: 19px; top: 20px; width: 40%; bottom: 20px; border-color: #2a3a63; background: #04091c; }
+      .copy { padding: 17px 19px 19px; border-top: 1px solid #d7f2ba1d; } .number { color: #cce99d; font-size: .74rem; } h2 { margin: 6px 0; color: #f0f8ec; font-size: 1.2rem; letter-spacing: -.035em; } .copy p { margin: 0; color: #94a991; font-size: .86rem; line-height: 1.5; }
+      .card:last-child { grid-column: 1 / -1; min-height: 280px; } .card:last-child .preview { min-height: 175px; }
+      footer { margin-top: 27px; color: #80947e; font-size: .84rem; } footer b { color: #cbe99b; font-weight: 600; }
+      @media (max-width: 650px) { main { width: min(100% - 28px, 640px); padding-top: 30px; } .grid { grid-template-columns: 1fr; } .card:last-child { grid-column: auto; } }
+    </style>
+  </head>
+  <body>
+    <main>
+      <div class="brand"><i class="leaf"></i>BoardOfSupervision</div>
+      <h1>Five directions for the meeting record.</h1>
+      <p class="intro">All preserve the green, dark civic-search theme. Pick a direction and we will apply it to the working frontend.</p>
+      <section class="grid">
+        <a class="card" href="01-woodland-editorial.html"><div class="preview woodland"></div><div class="copy"><span class="number">01</span><h2>Woodland editorial</h2><p>Quiet, magazine-like reading with an evidence feature card.</p></div></a>
+        <a class="card" href="02-moss-glass-dashboard.html"><div class="preview glass"></div><div class="copy"><span class="number">02</span><h2>Moss glass dashboard</h2><p>Translucent metrics and compact search-result panels.</p></div></a>
+        <a class="card" href="03-field-notes-search.html"><div class="preview notes"></div><div class="copy"><span class="number">03</span><h2>Field notes search</h2><p>A research notebook built around context and transcript lines.</p></div></a>
+        <a class="card" href="04-night-canopy-timeline.html"><div class="preview timeline"></div><div class="copy"><span class="number">04</span><h2>Night canopy timeline</h2><p>An app-style timeline with an inspector for the active moment.</p></div></a>
+        <a class="card" href="05-civic-atlas-chat-video.html"><div class="preview chat"></div><div class="copy"><span class="number">05</span><h2>Chat and video workspace</h2><p>The shipped direction: conversation beside the official video, themed after SF.gov.</p></div></a>
+      </section>
+      <footer><b>Shipped:</b> 05 is the live interface, full width and themed on the SF.gov palette and typography.</footer>
+    </main>
+  </body>
+</html>

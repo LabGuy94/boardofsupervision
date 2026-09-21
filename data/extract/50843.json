@@ -1,0 +1,1211 @@
+{
+  "clip_id": 50843,
+  "items": [
+    {
+      "meta_id": 1183917,
+      "summary": "The Board of Supervisors convened for its regular meeting, called the roll, acknowledged the ancestral lands of the Ramaytush Ohlone, and recited the Pledge of Allegiance. All eleven members were present.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1183918,
+      "summary": "The Clerk of the Board announced instructions for in-person and remote participation, details on submitting written comments, and procedures for requesting disability and language accommodations.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1183920,
+      "summary": "The Board considered the consent agenda consisting of Items 1 and 2. The resolutions were adopted unanimously without objection.",
+      "outcome": "passed",
+      "topics": [
+        "settlements"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1183922,
+      "summary": "The Board adopted two unlitigated claim settlements on the consent agenda, including a $1,000,000 settlement and debarment resolution with Providence Foundation of San Francisco and a settlement against Alvogen, Inc. providing $1,200,000 to $2,000,000 over 10 years. Both matters were adopted unanimously on roll call.",
+      "outcome": "passed",
+      "topics": [
+        "settlements"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1183929,
+      "summary": "The Board considered an ordinance amending the Planning Code to waive certain development impact fees in the Market and Octavia Area Plan and to sunset the Market and Octavia Community Advisory Committee six months after the effective date. The ordinance was finally passed on a 9-2 vote, with Supervisors Walton and Fielder dissenting.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1183930,
+      "summary": "The Board approved an appropriation of $400,000 from General City Responsibility and approximately $14,000 from Public Works for District 7 capital and community projects. Funded improvements include curb ramps, sidewalk repairs, school playground updates, murals, and pedestrian daylighting. The ordinance was finally passed with 11 ayes.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "parks",
+        "transit"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1183933,
+      "summary": "The Board approved an ordinance amending the Business and Tax Regulations Code to lower gross receipts tax rates on telecommunications activities by shifting them from Category 5 to Category 4 starting January 1, 2026. The measure passed without objection on the same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1183935,
+      "summary": "The Board considered an ordinance amending the Subdivision Code to establish procedures for resale prices, capital improvements, and transfers of below market rate (BMR) condominium conversion units. The ordinance was finally passed without objection on the same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1183936,
+      "summary": "The Board approved an ordinance amending the Building Code to remove certain local requirements governing commercial lighting, rooftop mechanical penthouses, and driveway and sidewalk load limits. The ordinance was finally passed without objection on the same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1183937,
+      "summary": "The Board considered an ordinance amending the Health Code to clarify enhanced ventilation standards for urban infill developments containing sensitive uses and to align single-family home rules with state law. The ordinance was finally passed without objection on the same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "environment",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1183938,
+      "summary": "The Board approved an ordinance ordering the summary vacation of a public service easement at 112 Kensington Way and authorizing a quitclaim of the city's interest. The ordinance was finally passed without objection on the same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1183942,
+      "summary": "The Board considered an ordinance amending the Administrative Code and Labor and Employment Codes to update city contract processes and requirements. The ordinance was passed on first reading without objection on the same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "labor",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1183943,
+      "summary": "The Board considered a resolution approving the 15th modification to an airport agreement with WCME JV for Terminal 3 West modernization project management services, increasing the contract by $76 million to $126 million and extending it through December 2030. The resolution was adopted without objection on the same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "transit"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1183944,
+      "summary": "The Board adopted a resolution authorizing a six-year real property lease with Innes Group, LLC for fleet management operations at 1908-1950 Innes Avenue at an initial base rent of $631,800 per year with tenant improvements up to $349,092. The resolution was adopted without objection on the same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1183945,
+      "summary": "The Board considered a resolution setting the combined property tax rate and establishing pass-through rates for residential tenants for fiscal year 2025-2026. The resolution was adopted without objection on the same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1183946,
+      "summary": "The Board approved a resolution authorizing Animal Care and Control to execute a cooperative agreement with the Presidio Trust for animal control and welfare services for an initial five-year term with an option to extend. The resolution was adopted without objection on the same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1183947,
+      "summary": "The Board approved a contract amendment with Edgewood Center for Children and Families to extend hospital diversion and crisis stabilization unit services through June 2030, increasing the total amount to approximately $31.6 million. The resolution was adopted without objection on the same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1183948,
+      "summary": "The Board adopted a resolution authorizing the Department of Public Health to execute a grant agreement with the California Department of Health Care Services for $10 million in BHCIP Round 5 funding through June 2027. The resolution was adopted without objection on the same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1183949,
+      "summary": "The Board approved a resolution authorizing a retroactive subgrant agreement with The Urban Institute for $200,000 in Just Home Cohort 1 continuation funds to support project management through September 2026. The resolution was adopted without objection on the same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "homelessness",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1183950,
+      "summary": "The Board approved a resolution authorizing the acquisition of real property at 1660 and 1670 Mission Street for approximately $18.5 million plus escrow closing costs. The resolution was adopted without objection on the same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1183952,
+      "summary": "The Board considered an amendment to a grant agreement with Urban Alchemy for shelter services at 711 Post Street, extending the contract by six months and increasing the amount by $4.9 million. Supervisor Sauter voiced concerns regarding prior financial mismanagement at the site and requested a hearing, while Supervisor Mahmood underscored the importance of Urban Alchemy's street safety ambassadors. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "homelessness",
+        "housing",
+        "budget"
+      ],
+      "speakers": [
+        {
+          "name": "Danny Sauter",
+          "stance": "support",
+          "quote": "WE'RE LOOKING AT A SIX MONTH EXTENSION HERE AND I WILL BE SUPPORTING THIS BUT I DO HAVE CONCERNS ABOUT THE PRACTICE OF URBAN ALCHEMY AT THIS SITE IN PARTICULAR HAS BEEN FINDINGS THAT THERE'S BEEN MISMANAGEMENT OF FUNDS FROM THIS SITE IN PARTICULAR",
+          "t0": 1045.458,
+          "verified": false
+        },
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "ECHOING A SURPRISE OF SADR'S COMMENTS I AGREE ACCOUNTABILITY IS KEY AND RIGHTFULLY SO AND THERE IS CONCERN ABOUT NONPROFIT MANAGEMENT AND FISCAL SUSTAINABILITY HERE AND IT WOULD BE WISE FOR US AS A BODY TO DO OUR DUE DILIGENCE",
+          "t0": 1100.379,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1183955,
+      "summary": "The Board adopted a resolution responding to the Civil Grand Jury report titled 'Capacity To Serve: Setting Social Services Nonprofits Up for Success' and urged the Mayor to implement accepted recommendations. The resolution was approved without objection.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1183956,
+      "summary": "The Board adopted a resolution responding to the Civil Grand Jury report titled 'Techs in the City - Government\u2019s Opportunity to Seize the AI Moment' and urging implementation of accepted recommendations. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1183957,
+      "summary": "The Board adopted a resolution responding to the Civil Grand Jury report titled 'Failed Vision - Revamping the Roadmap to Safer Streets' and urging the Mayor to implement accepted recommendations through department heads. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "transit",
+        "public_safety",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1183959,
+      "summary": "The Board passed an ordinance on first reading amending the Public Works Code to authorize Public Works to perform graffiti abatement on private commercial properties at no cost upon owner request and waiver of claims. The ordinance was passed without objection on the same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1183960,
+      "summary": "The Board debated a resolution expressing interest in forming an Enhanced Infrastructure Financing District (EIFD) to fund affordable housing in well-resourced neighborhoods. Supervisor Melgar and President Mandelman advocated for exploring diverse and countercyclical financing tools, while Supervisor Chan argued tax increments divert broad city revenues and distract from regional housing bonds. The resolution was adopted on a 10-1 vote, with Supervisor Chan voting no.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "budget",
+        "planning_land_use"
+      ],
+      "speakers": [
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "IT ALLOWS US TO USE A PROPERTY TAX GROWTH AND ACTUALLY ONLY PART OF THAT AS PER OUR CITY'S POLICY TO SUPPORT FINANCIAL INFRASTRUCTURE PROJECTS IN THE SHORT TERM AND AFFORDABLE HOUSING IS SOMETHING THAT THE STATE ALLOWS US TO CONSIDER INFRASTRUCTURE",
+          "t0": 1371.2,
+          "verified": true
+        },
+        {
+          "name": "Connie Chan",
+          "stance": "oppose",
+          "quote": "I WILL NOT BE IN SUPPORT OF THIS ITEM TODAY OR THIS RESOLUTION TODAY FOR THE REASON BECAUSE I SEE THAT THE BETTER VENUE TO REALLY INVEST IN AFFORDABLE HOUSING IS TO CONTINUE TO FIGURE OUT WAYS LIKE AFFORDABLE HOUSING BY WHICH WE HAVE DONE SUCCESSFULLY IN THE LAST FEW YEARS.",
+          "t0": 1493.389,
+          "verified": false
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "I AM GOING TO SUPPORT THIS RESOLUTION TODAY AS A MEMBER OF YOUR CAPITAL, AS A MEMBER OF THE CAPITAL PLANNING COMMITTEE I HAVE CONCERNS ABOUT THE CITY'S HISTORIC UNDERINVESTMENT IN OUR CAPITAL NEEDS",
+          "t0": 1711.64,
+          "verified": false
+        }
+      ],
+      "votes": [
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1183974,
+      "summary": "The Board convened a special order of commendations recognizing meritorious service in honor of Latino Heritage Month and Recovery Month. Honorees included Dr. Diana Archila, Faith in Action Bay Area, Ruth Barajas, Alma Castellanos, Jose Aguayo of Balboa Produce, Javier Aragon and Balaam Vigil of Leonor's Deli, Hilda Mendez of Cafe Isabella, Daniel Ramirez of Smokin D's BBQ, firefighter Juan Luis Gomez Pe\u00f1a, former Supervisor Bill Maher, Omar Del Rio of Mission Hiring Hall, and Gabriela Judd of Primeros Pasos.",
+      "outcome": "no_action",
+      "topics": [
+        "small_business",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1183962,
+      "summary": "The Board considered a resolution determining that the transfer of an off-sale general liquor license to Grocery Outlet Inc. at 350 Bay Street serves the public convenience or necessity. The resolution was adopted unanimously on roll call.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1183963,
+      "summary": "The Board approved a resolution determining that the issuance of an on-sale general music venue liquor license to Endgames Improv LLC at 2989 Mission Street serves the public convenience or necessity. The resolution was adopted unanimously on roll call.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1183965,
+      "summary": "Supervisor Sherrill proposed amendments to the Union Street Entertainment Zone ordinance to allow sidewalk events without full street closures. The Board accepted the amendments without objection and re-referred the legislation to the Rules Committee for further public hearing.",
+      "outcome": "referred",
+      "topics": [
+        "small_business",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Stephen Sherrill",
+          "stance": "support",
+          "quote": "I'M PROPOSING AMENDMENTS TODAY TO THIS ITEM THAT WILL ALLOW EVENTS IN THE UNION STREET ENTERTAINMENT ZONE THAT DO NOT CLOSE THE STREET. THESE AMENDMENTS WHICH WE CIRCULATED TO YOUR OFFICES EARLIER TODAY WILL EMPOWER MERCHANTS ALONG THE STREET TO HOST SMALLER GATHERINGS ON THE SIDEWALKS",
+          "t0": 7811.285,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1183966,
+      "summary": "The Board considered an ordinance approving amendments to the rules and regulations for the Neighborhood Beautification and Graffiti Clean-up Fund. The ordinance passed on first reading unanimously on an 11-0 roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1183967,
+      "summary": "The Board approved a motion appointing Crystal Hawkins to the Child Care Planning and Advisory Council for a term ending March 19, 2028. The motion was approved without objection on the same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1183970,
+      "summary": "The Board excused President Mandelman from voting and unanimously approved a motion reappointing him to the California State Association of Counties for a term ending December 1, 2026.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1183973,
+      "summary": "The Board excused Supervisor Walton from voting and approved a motion appointing him to the Committee on City Workforce Alignment for an indefinite term. The motion passed unanimously on roll call.",
+      "outcome": "passed",
+      "topics": [
+        "labor",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1183977,
+      "summary": "The Board considered an ordinance amending the Planning Code to designate the Mint Mall and Hall at 951-957 Mission Street as a city landmark. Supervisor Dorsey highlighted the site's rich cultural history as a hub for San Francisco's Filipino American community, and the ordinance was passed on first reading unanimously.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "I'M PROUD TO BE SPONSORING THIS COMMUNITY INITIATED LANDMARKING OF THE MINT MALL. THIS IS BOTH A SIGNIFICANT CULTURAL INSTITUTION FOR SAN FRANCISCO'S FILIPINO COMMUNITY AND A CHERISHED NEIGHBORHOOD GEM.",
+          "t0": 8184.754,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1183978,
+      "summary": "Supervisors introduced various resolutions and hearings during Roll Call for Introductions, including measures addressing sideshow fines, street enforcement near schools and parks, healthcare access for immigrants, SOMA West entertainment zones, surveillance law attorney fees, and social service worker pay equity. Supervisor Engardio also gave an extended speech on the Great Highway, climate change, and housing policy.",
+      "outcome": "no_action",
+      "topics": [
+        "public_safety",
+        "housing",
+        "parks",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1183979,
+      "summary": "Members of the public provided general comment on matters within the Board's jurisdiction. Speakers voiced strong support for the Mission Cultural Center for Latino Arts, advocated for pay equity for UCSF campus social workers, expressed concerns over city planning for Native American Heritage Month, and urged greater funding for affordable social housing.",
+      "outcome": "no_action",
+      "topics": [
+        "housing",
+        "health",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": [
+        "Support and continuity for the Mission Cultural Center for Latino Arts during seismic retrofit",
+        "Pay equity and elimination of two-tier system for UCSF clinical social workers",
+        "Concerns regarding Native American representation and event planning by the Mayor's Office",
+        "Funding for affordable housing and the Housing Stability Fund"
+      ]
+    },
+    {
+      "meta_id": 1183981,
+      "summary": "The Board called the calendar for adoption without committee reference for Items 35 through 39, which require a unanimous vote on first appearance.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1183983,
+      "summary": "The Board unanimously adopted Items 35 through 39 without committee reference. The items encompassed resolutions recognizing Firefighter Appreciation Month, Good Neighbor Week, and Korean Chuseok Day; multiple lawsuit settlements; municipal code updates for building and plumbing; and major early care and education grant agreements.",
+      "outcome": "passed",
+      "topics": [
+        "settlements",
+        "budget",
+        "housing",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1184023,
+      "summary": "The Board of Supervisors adjourned the meeting in memory of Noni Wilson and Raven Skeeter Sorrell.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    }
+  ],
+  "quote_verification": {
+    "verified": 2,
+    "partial": 5,
+    "dropped": 0
+  }
+}

@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto+Flex:wght@400;600;700&family=Roboto+Slab:wght@500;600;700&display=swap" />
+    <title>Chat and video workspace — BoardOfSupervision</title>
+    <style>
+      :root {
+        color-scheme: light;
+        font-family: "Roboto Flex", Roboto, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        background: #fcfcfc;
+        color: #0b0c0c;
+      }
+      * { box-sizing: border-box; }
+      body { min-width: 320px; margin: 0; background: #fcfcfc; }
+      button, input { font: inherit; }
+      .shell { width: 100%; min-height: 100vh; padding: 0 40px; }
+      .topbar { display: flex; align-items: center; min-height: 76px; margin: 0 -40px; padding: 0 40px; border-bottom: 1px solid #e3e7ec; background: #fff; }
+      .brand { margin: 0; color: #001d4e; font-family: "Roboto Slab", ui-serif, Georgia, serif; font-size: 1.35rem; font-weight: 600; }
+      .workspace { display: grid; grid-template-columns: minmax(0, 1.04fr) minmax(400px, .96fr); gap: 64px; padding: 44px 0 40px; }
+      .conversation { display: flex; min-height: calc(100vh - 168px); flex-direction: column; }
+      .thread { display: grid; align-content: start; gap: 30px; flex: 1; }
+      .message { max-width: 700px; }
+      .question { justify-self: end; width: min(74%, 560px); }
+      .speaker, .answer-meta, .fact-row { color: #5a616c; font-size: .82rem; }
+      .speaker { display: block; margin-bottom: 8px; text-align: right; }
+      .question-copy { padding: 14px 18px; border-radius: 14px 14px 4px 14px; color: #001d4e; background: #e9f1fe; line-height: 1.55; }
+      .answer-meta { display: flex; justify-content: space-between; gap: 16px; }
+      .answer-copy { margin: 10px 0 0; font-size: 1.12rem; line-height: 1.68; }
+      .citations { display: grid; gap: 10px; margin-top: 22px; }
+      .citation { display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: center; border-radius: 10px; background: #e9f1fe; box-shadow: inset 4px 0 0 #2a60af; }
+      .citation.quiet { background: #f4f6f9; box-shadow: none; }
+      .citation > div { padding: 15px 8px 15px 18px; }
+      .citation strong { display: block; color: #001d4e; font-size: .93rem; font-weight: 600; line-height: 1.5; }
+      .fact-row { display: flex; flex-wrap: wrap; gap: 2px 20px; margin-top: 7px; line-height: 1.45; }
+      .citation a { padding: 0 18px; color: #2a60af; font-size: .85rem; font-weight: 600; text-decoration: none; white-space: nowrap; }
+      .waiting { color: #2a60af; font-size: .95rem; }
+      .composer { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 10px; padding-top: 26px; }
+      input { min-width: 0; height: 52px; border: 1px solid #c3c9d2; border-radius: 999px; padding: 0 20px; outline: none; color: #0b0c0c; background: #fff; }
+      button { height: 52px; border: 0; border-radius: 999px; padding: 0 26px; color: #fff; background: #2a60af; font-weight: 700; cursor: pointer; }
+      .suggestions { display: flex; flex-wrap: wrap; gap: 8px 22px; margin-top: 16px; color: #2a60af; font-size: .85rem; }
+      .media { align-self: start; }
+      .video-frame { position: relative; overflow: hidden; aspect-ratio: 16 / 9; border-radius: 12px; background: #001d4e; box-shadow: 0 2px 10px rgba(11, 12, 12, .12); }
+      .play { position: absolute; top: 50%; left: 50%; display: grid; width: 56px; height: 56px; place-items: center; border-radius: 50%; color: #001d4e; background: #fff; transform: translate(-50%, -50%); }
+      .video-title { display: flex; justify-content: space-between; gap: 24px; padding-top: 18px; }
+      .video-title strong { color: #001d4e; font-family: "Roboto Slab", ui-serif, Georgia, serif; font-size: 1.05rem; font-weight: 600; }
+      .video-title span, .evidence time { flex: none; color: #5a616c; font: .82rem ui-monospace, SFMono-Regular, Menlo, monospace; }
+      .link { display: inline-block; margin-top: 12px; color: #2a60af; font-size: .88rem; font-weight: 600; text-decoration: none; }
+      .evidence { display: grid; grid-template-columns: 62px minmax(0, 1fr); gap: 16px; padding: 16px 0; border-bottom: 1px solid #edf0f4; }
+      .evidence:first-of-type { margin-top: 22px; border-top: 1px solid #edf0f4; }
+      .evidence strong { display: block; color: #001d4e; font-size: .9rem; font-weight: 600; }
+      .meetings { display: flex; flex-wrap: wrap; gap: 10px; padding: 26px 0 44px; }
+      .chip { display: flex; gap: 12px; border-radius: 999px; padding: 9px 18px; color: #414a57; background: #f4f6f9; font-size: .82rem; }
+      .chip b { color: #001d4e; }
+      .chip.is-selected { color: #001d4e; background: #e9f1fe; box-shadow: inset 0 0 0 1px #2a60af; }
+      @media (max-width: 900px) { .workspace { grid-template-columns: 1fr; gap: 40px; } .conversation { min-height: 620px; } }
+      @media (max-width: 560px) {
+        .shell { padding: 0 18px; }
+        .topbar { min-height: 62px; margin: 0 -18px; padding: 0 18px; }
+        .workspace { gap: 30px; padding: 28px 0 24px; }
+        .conversation { min-height: 560px; }
+        .question { width: min(92%, 560px); }
+        .answer-copy { font-size: 1.04rem; }
+      }
+    </style>
+  </head>
+  <body>
+    <main class="shell">
+      <header class="topbar"><h1 class="brand">BoardOfSupervision</h1></header>
+      <section class="workspace">
+        <section class="conversation" aria-label="Meeting conversation">
+          <div class="thread">
+            <article class="message question">
+              <span class="speaker">You</span>
+              <div class="question-copy">What did the Board decide about street trees?</div>
+            </article>
+            <article class="message">
+              <div class="answer-meta"><span>BoardOfSupervision</span><span>2.3 s</span></div>
+              <p class="answer-copy">The Board passed the Street Tree Standards ordinance on a 7–4 vote. The measure updates planting requirements, development fees, ADU exemptions, and appeals for hazardous tree removals.</p>
+              <div class="citations">
+                <div class="citation">
+                  <div>
+                    <strong>Street tree standards, appeals, and the Adopt-A-Tree Fund</strong>
+                    <span class="fact-row"><span>2026-09-15</span><span>Agenda item 16</span><span>11:36</span></span>
+                  </div>
+                  <a href="#video">▶ Play here</a>
+                </div>
+                <div class="citation quiet">
+                  <div>
+                    <strong>Final roll call recorded the 7–4 result</strong>
+                    <span class="fact-row"><span>2026-09-15</span><span>Agenda item 16</span><span>13:08</span></span>
+                  </div>
+                  <a href="#video">▶ Play here</a>
+                </div>
+              </div>
+            </article>
+            <article class="message question">
+              <span class="speaker">You</span>
+              <div class="question-copy">Which supervisors spoke most about housing this month?</div>
+            </article>
+            <div class="waiting">Asking Gemini → querying FalkorDB…</div>
+          </div>
+          <div class="composer-region">
+            <form class="composer"><input value="Ask about a decision, person, or policy" aria-label="Ask the meeting record" /><button type="button">Ask</button></form>
+            <div class="suggestions"><span>What did the Board decide about street trees on Sept 15?</span><span>How much in lawsuit settlements did the City approve?</span><span>What happened at the Sept 15 meeting?</span></div>
+          </div>
+        </section>
+        <section class="media" id="video" aria-label="Official meeting video">
+          <div class="video-frame"><span class="play">▶</span></div>
+          <div class="video-title"><strong>Street tree standards</strong><span>11:36</span></div>
+          <a class="link" href="#video">Open official video ↗</a>
+          <div class="evidence"><time>11:36</time><div><strong>Street tree standards are introduced</strong><span class="fact-row"><span>Agenda item 16</span><span>7–4 final vote</span></span></div></div>
+          <div class="evidence"><time>13:08</time><div><strong>Final roll call</strong><span class="fact-row"><span>Official meeting record</span></span></div></div>
+          <a class="link" href="#retrieval">View retrieval details →</a>
+        </section>
+      </section>
+      <section class="meetings">
+        <span class="chip is-selected"><b>Sep 15</b><span>47 items</span><span>4,001 cues</span></span>
+        <span class="chip"><b>Sep 1</b><span>38 items</span><span>2,068 cues</span></span>
+        <span class="chip"><b>Jul 28</b><span>82 items</span><span>3,729 cues</span></span>
+      </section>
+    </main>
+  </body>
+</html>

@@ -1,0 +1,24 @@
+.prose { font-size: 16.5px; line-height: 1.55; overflow-wrap: anywhere; }
+.prose > :first-child { margin-top: 0; }
+.prose > :last-child { margin-bottom: 0; }
+.prose p { font-size: inherit; line-height: inherit; margin: 0 0 .85em; }
+.prose strong { font-weight: 600; }
+.prose h3 { font-size: 18px; line-height: 1.35; font-weight: 600; margin: 1.1em 0 .5em; }
+.prose ul, .prose ol { margin: .5em 0 .85em; padding-left: 1.35em; }
+.prose li { font-size: 15.5px; line-height: 1.55; margin: .25em 0; }
+.prose li p { margin: .25em 0; }
+.prose blockquote { margin: .85em 0; padding: .2em 0 .2em 1em; border-left: 3px solid #c4d8e4; color: #536775; }
+.prose blockquote p:last-child { margin-bottom: 0; }
+.prose-table-scroll { max-width: 100%; overflow-x: auto; margin: 1em 0; overscroll-behavior-x: contain; }
+.prose table { width: 100%; border-collapse: collapse; font-size: 14.5px; line-height: 1.45; text-align: left; }
+.prose th { color: #536775; font-size: 12px; font-weight: 600; text-transform: uppercase; letter-spacing: .045em; }
+.prose th, .prose td { padding: .65em .75em; border-bottom: 1px solid #dfe7ec; vertical-align: top; }
+.prose th:first-child, .prose td:first-child { padding-left: 0; }
+.prose th:last-child, .prose td:last-child { padding-right: 0; }
+.prose .numeric { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.prose tbody tr.total-row:last-child td { font-weight: 600; border-top: 2px solid #b7cbd7; border-bottom: 0; }
+.prose .citation-chip { display: inline-flex; align-items: center; gap: .3em; vertical-align: baseline; margin: 0 .2em; padding: .12em .48em; border: 1px solid #c6dce8; border-radius: 999px; background: #edf6fb; color: #005a83; font-family: inherit; font-size: 11.5px; font-weight: 500; line-height: 1.5; white-space: nowrap; cursor: pointer; }
+.prose .citation-chip:hover { background: #dcedf7; border-color: #7aaec9; }
+.prose .citation-chip:focus-visible { outline: 2px solid #005a83; outline-offset: 2px; }
+.prose .citation-chip > span { font-size: 8px; }
+@media (max-width: 600px) { .prose table { min-width: 390px; } }

@@ -1,0 +1,743 @@
+{
+  "clip_id": 52251,
+  "items": [
+    {
+      "meta_id": 1235470,
+      "summary": "Board President Rafael Mandelman called the regular meeting of the San Francisco Board of Supervisors to order. The clerk conducted the roll call, noting nine supervisors present with Supervisors Connie Chan and Jackie Fielder absent. The Board recited the ancestral land acknowledgement and the Pledge of Allegiance.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1235471,
+      "summary": "The clerk announced procedures for public attendance, ADA accommodations, and written comments, and presented absence requests from Supervisors Chan and Fielder. On a motion by Supervisor Chen, seconded by Supervisor Walton, both supervisors were excused from the meeting without objection.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1235472,
+      "summary": "The Board considered the approval of the meeting minutes from March 17, 2026. A roll call vote was conducted, and the minutes were approved unanimously by all nine present members.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1235475,
+      "summary": "The clerk introduced the consent agenda, which comprised Items 1 through 14. A roll call vote was initiated to consider the consent calendar collectively.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1235477,
+      "summary": "The Board voted on Items 1 through 14 on the consent agenda, which included landmark designations under the Planning Code for several historic properties, including the Bob Ross House, Sha'ar Zahav, American Indian Historical Society, and others. The ordinances were finally passed unanimously on a 9-0 roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1235495,
+      "summary": "The Board took up unfinished business starting with Item 15, an ordinance governing airport surveillance technology policy for transportation network company virtual queues. Supervisor Melgar moved to refer the item back to committee to address privacy and driver concerns. The motion to refer passed without objection.",
+      "outcome": "referred",
+      "topics": [
+        "transit",
+        "labor",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1235497,
+      "summary": "The Board considered an ordinance approving the Airport Surveillance Technology Policy governing transportation network company virtual queue technology. Supervisor Melgar expressed concerns regarding privacy and the impact on drivers, requesting that the ordinance be re-vetted in committee. On Supervisor Melgar's motion, seconded by Supervisor Walton, the item was referred back to committee without objection.",
+      "outcome": "referred",
+      "topics": [
+        "transit",
+        "labor",
+        "public_safety"
+      ],
+      "speakers": [
+        {
+          "name": "Myrna Melgar",
+          "stance": "oppose",
+          "quote": "THERE WERE SOME QUESTIONS THAT CAME UP FROM FOLKS IN THE INDUSTRY AND I'VE ALSO HEARD FROM LABOR THAT THERE THEY HAVE LOTS OF QUESTIONS ABOUT THE IMPACT THAT THIS WILL HAVE ON MOSTLY DRIVERS. SO I I'M GOING TO DO SOMETHING VERY UNUSUAL TO ASK THAT WE SEND IT BACK TO COMMITTEE.",
+          "t0": 360.552,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1235499,
+      "summary": "The Board considered an ordinance establishing the Fire Code Technical Advisory Council to advise the Fire Marshal on criteria for waiving, modifying, or delaying fire sprinkler requirements for certain existing high-rise residential buildings. The ordinance was finally passed on an 8-1 roll call vote, with Supervisor Walton dissenting.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1235503,
+      "summary": "The Board voted on an ordinance extending the SFPUC General Manager's authority to enter into grant agreements under the Green Infrastructure Grant Program for terms of up to 20 years after project completion. The ordinance was passed on first reading following a unanimous 9-0 roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "environment"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1235504,
+      "summary": "The Board considered a resolution authorizing the SFPUC General Manager to execute a professional services agreement with Archer Energy Solutions, LLC for compliance and audit support for Hetch Hetchy Water and Power, not to exceed $11.6 million through May 2031. The resolution was adopted same house, same call without objection.",
+      "outcome": "passed",
+      "topics": [
+        "environment",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1235505,
+      "summary": "The Board considered Item 19 to establish the Gann appropriations limit of $14.6 billion for Fiscal Year 2025-2026 pursuant to Article XIII B of the California Constitution. The resolution was adopted same house, same call without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1235506,
+      "summary": "The Board considered Item 20 to establish the FY2025-2026 appropriations limit for Special Tax Districts and Infrastructure and Revitalization Financing Districts pursuant to California Constitution Article XIII B. The resolution was adopted same house, same call without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1235507,
+      "summary": "The Board took up a resolution retroactively authorizing the Department of Elections to accept and expend approximately $416,431.10 from the California Secretary of State for voting and election management system replacement. The resolution was adopted same house, same call without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1235508,
+      "summary": "The Board considered a resolution approving an agreement between member agencies of the Peninsula Corridor Joint Powers Board regarding fiscal obligations to CalPERS. The resolution was adopted same house, same call without objection.",
+      "outcome": "passed",
+      "topics": [
+        "transit",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1235510,
+      "summary": "The Board reviewed an ordinance amending the Planning Code zoning map to increase the allowable podium height from 120 feet to 140 feet for the One Oak Street project. The ordinance was passed on first reading same house, same call without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1235512,
+      "summary": "The Board considered a resolution to determine that a Type 21 off-sale general liquor license transfer to Tazza D'Amore Cafe at 700 4th Street serves the public convenience or necessity. The resolution was adopted same house, same call without objection.",
+      "outcome": "passed",
+      "topics": [
+        "small_business"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1235513,
+      "summary": "The Board considered a resolution determining that a Type 48 on-sale general liquor license transfer to Bark 77 at 77 Cambon Drive serves the public convenience or necessity. The resolution was adopted same house, same call without objection.",
+      "outcome": "passed",
+      "topics": [
+        "small_business"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1235515,
+      "summary": "The Board considered a resolution affirming the importance of maintaining independent civilian oversight of the San Francisco Police Commission. The resolution was adopted same house, same call without objection.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1235516,
+      "summary": "The Board considered a motion to appoint Supervisor Chyanne Chen as an alternate member of the Local Agency Formation Commission. Supervisor Chen was excused from voting, and the appointment was approved unanimously by the remaining eight supervisors on roll call.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1235519,
+      "summary": "The Board considered a resolution authorizing the settlement of unlitigated claims against Associated Pharmacies, Inc. and other distributors for alleged unlawful distribution practices contributing to the opioid epidemic, with the city to receive between $250,000 and $350,000. The resolution was adopted unanimously on roll call with nine ayes.",
+      "outcome": "passed",
+      "topics": [
+        "settlements",
+        "health"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1235522,
+      "summary": "The Board considered an ordinance amending the Administrative Code to establish the Glen Park Entertainment Zone. Taken together with Item 30, the ordinance was passed on first reading same house, same call without objection.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1235523,
+      "summary": "The Board considered an ordinance amending the Administrative Code to create the Upper Fillmore Entertainment Zone. Taken together with Item 29, the ordinance was passed on first reading same house, same call without objection.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1235524,
+      "summary": "The Board considered an ordinance amending the Administrative Code to establish the Pacific Islander Cultural District in Visitacion Valley and Sunnydale. Supervisors Chen and Wong signed on as co-sponsors, and the ordinance passed on first reading same house, same call without objection.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1235525,
+      "summary": "During roll call for introductions, supervisors introduced several new measures and paid tribute to community figures. Supervisor Sauter introduced a hearing on reviving the city's Vicious and Dangerous Dogs Unit, Supervisor Wong honored the memory of his grandmother Hong Ching Paul Ang, Supervisor Mahmood introduced resolutions for Autism Awareness Month and Arab American Heritage Month, and Supervisor Melgar recognized Public Works Week. Supervisors Melgar, Chen, and Walton spoke in memoriam for Reverend Roland Gordon of Ingleside Presbyterian Church, and the meeting was adjourned in his honor.",
+      "outcome": "no_action",
+      "topics": [
+        "public_safety",
+        "health",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Danny Sauter",
+          "stance": "support",
+          "quote": "",
+          "t0": 1083.926,
+          "verified": false
+        },
+        {
+          "name": "Alan Wong",
+          "stance": "neutral",
+          "quote": "COLLEAGUES I WOULD LIKE TO TAKE A MOMENT TODAY TO RECOGNIZE IN MEMORIAM THE LIFE OF MY GRANDMOTHER ON TAKING PART IN WHO WE LOVINGLY CALLED PAUL PAUL SHE WAS BORN IN THE EARLY 1920S IN MACAO AND LIVED THROUGH BOTH TIMES OF PROSPERITY AND PROFOUND HARDSHIP",
+          "t0": 1180.757,
+          "verified": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "COLLEAGUES TODAY I'M INTRODUCING A RESOLUTION TO RECOGNIZE APRIL AS AUTISM AWARENESS MONTH WITH A FOCUS ON MOVING BEYOND AWARENESS TOWARDS REAL INCLUSION AND TANGIBLE APPRECIATION. THIS IS PERSONAL FOR ME BUT IT IS ALSO GROUNDED IN WHAT WE'RE SEEING ACROSS OUR CITY RIGHT NOW IN 2026.",
+          "t0": 1280.407,
+          "verified": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "AND COLLEAGUES TODAY I AM THRILLED TO INTRODUCE A RESOLUTION COMMENDING THE WORKFORCE OF THE SAN FRANCISCO PUBLIC WORKS DEPARTMENT AND DECLARE APRIL 20TH THROUGH APRIL 24TH 2026 AS PUBLIC WORKS WEEK IN THE CITY AND COUNTY OF SAN FRANCISCO.",
+          "t0": 1621.636,
+          "verified": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "stance": "neutral",
+          "quote": "I WANT TO EXPRESS MY DEEPEST CONDOLENCES TO REFUGEES FAMILY AS WELL AND ALSO TO THE CONGREGATION AND COMMUNITY. ALTHOUGH I ONLY HAD THE PRIVILEGE TO GET TO KNOW REV REVEREND JERRY OVER THE LAST FEW YEARS HE'S ALWAYS EMBRACED ME VERY WARMLY AND OFFERED HIS UNCONDITIONAL SUPPORT.",
+          "t0": 2112.943,
+          "verified": true
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "neutral",
+          "quote": "REVEREND G WAS MORE THAN JUST A MEMBER OF THE CLERGY. HE WAS A MAN COMMITTED TO BETTERING THE ENTIRE COMMUNITY AROUND HIM. HE WAS RARE IN THE FACT THAT HE COULD RELATE TO YOUNG PEOPLE AS WELL AS ELDERS. HE HAD THE ABILITY TO CONNECT WITH EVERYONE ACROSS ALL NEIGHBORHOODS IN SAN FRANCISCO",
+          "t0": 2232.93,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1235517,
+      "summary": "The Board convened a special order to present commendations to local community figures and organizations. Supervisor Wong recognized the UCSF ALS Center and Dr. Catherine Lomen-Hoerth; Supervisor Mahmood recognized the Hayes Valley Neighborhood Cleanup Crew; Supervisor Dorsey commended SOMA Pilipinas on its tenth anniversary; and Supervisor Walton and Supervisor Mahmood honored the Curtis Family C-Notes for their musical artistry and community activism.",
+      "outcome": "no_action",
+      "topics": [
+        "health",
+        "environment",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Alan Wong",
+          "stance": "support",
+          "quote": "TODAY I'M HONORED TO RECOGNIZE YOU SEE S.F. ALS CENTER AND DR. CATHERINE LOHMAN HEARST FOR THEIR EXTRAORDINARY LEADERSHIP IN THE CARE AND TREATMENT OF PEOPLE LIVING WITH ALS ALSO KNOWN AS LOU GEHRIG'S DISEASE.",
+          "t0": 2372.48,
+          "verified": false
+        },
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "COLLEAGUES IN HONOR OF EARTH DAY, I'M PROUD TO RECOGNIZE A GROUP OF NEIGHBORS FROM HAZE VALLEY. CAN WE HAVE THE HAYES VALLEY NEIGHBORHOOD CLEANUP CREW COME UP TO THE PODIUM? THIS CREW HAS TURNED A SIMPLE IDEA INTO SOMETHING TRULY IMPACTFUL.",
+          "t0": 2688.622,
+          "verified": false
+        },
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "COLLEAGUES, IT IS MY HONOR TO RECOGNIZE SAMA PILIPINAS AS IT CELEBRATES TEN YEARS OF LEADERSHIP IN ADVANCING PRESERVING AND CELEBRATING FILIPINO CULTURE IN SAN FRANCISCO.",
+          "t0": 3039.326,
+          "verified": true
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "TODAY I STAND TO HONOR THE CURTIS FAMILY SEE NOTES. IT IS BOTH AN HONOR AND A JOY TO STAND BEFORE YOU TODAY TO RECOGNIZE A FAMILY WHOSE IMPACT ON SAN FRANCISCO REACHES FAR BEYOND THE STAGE, FAR BEYOND MUSIC AND DEEP INTO THE HEART OF OUR COMMUNITY.",
+          "t0": 3997.69,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1235526,
+      "summary": "Members of the public commented on building inspection irregularities at 1660 Mission Street, severe habitability and security concerns at Thomas Paine Square Apartments, grocery store closures in the Fillmore, open-air drug use and street sanitation, and resolutions on sexual assault prevention and library policies. Following public comment, the Board severed Items 34, 37, and 39 and unanimously adopted resolutions 35, 36, 38, and 40 on roll call. Items 34 (Arbor Day), 37 (Armenian Genocide Commemoration Day), and 39 (honoring Vicha Ratanapakdee and elder safety) were then individually considered and adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "public_safety",
+        "environment",
+        "health",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "COLLEAGUES TODAY WILL BE VOTING ON A RESOLUTION DECLARING APRIL 23RD 24TH 2026 AS ARBOR DAY IN SAN FRANCISCO. ARBOR DAY IS A REMINDER THAT TREES ARE ONE OF THE SIMPLEST AND MOST IMPACTFUL INVESTMENTS WE CAN MAKE IN OUR CITY.",
+          "t0": 6479.828,
+          "verified": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "THANK YOU AND THANK YOU COLLEAGUES FOR YOUR CO-SPONSORSHIP OF THIS RESOLUTION COMMEMORATING THE 111TH ANNIVERSARY OF THE ARMENIAN GENOCIDE AND DECLARING APRIL 24TH, 2026 AS THE ARMENIAN GENOCIDE COMMEMORATION DAY IN THE CITY AND COUNTY OF SAN FRANCISCO.",
+          "t0": 6623.388,
+          "verified": true
+        },
+        {
+          "name": "Alan Wong",
+          "stance": "support",
+          "quote": "THIS RESOLUTION HONORS EACH HIS LIFE. IT COMMITS SAN FRANCISCO TO ELDER SAFETY VIOLENCE PREVENTION AND COMMUNITY HEALING. HE ASKS OUR CITY DEPARTMENTS OUR PUBLIC SAFETY AGENCIES AND OUR EDUCATORS TO TEACH AND ACT WITH RESPECT FOR ELDERS",
+          "t0": 6873.377,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": [
+        "Allegations of building permit and inspection violations at 1660 Mission Street",
+        "Tenant exploitation, missing rent payments, poor security, and harassment at Thomas Paine Square Apartments",
+        "Support for Sexual Assault Awareness and Prevention Month funding and programs",
+        "Street cleanliness, public restrooms, and open-air drug activity",
+        "Grocery store closures affecting the Fillmore neighborhood"
+      ]
+    }
+  ],
+  "quote_verification": {
+    "verified": 10,
+    "partial": 3,
+    "dropped": 1
+  }
+}

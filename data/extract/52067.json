@@ -1,0 +1,1063 @@
+{
+  "clip_id": 52067,
+  "items": [
+    {
+      "meta_id": 1229423,
+      "summary": "President Mandelman called the regular meeting of the Board of Supervisors to order and the clerk conducted the roll call. Supervisor Fielder was excused from the meeting without objection, and the Board recited the Land Acknowledgement and Pledge of Allegiance.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1229428,
+      "summary": "The Board considered an ordinance amending the Police Code to require non-legal immigration service providers to offer city-prepared notices listing free or low-cost legal service providers and consulates. The ordinance also authorizes the Human Rights Commission to assist members of the public in filing complaints against consultants who violate legal requirements. The ordinance was finally passed unanimously on roll call.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1229431,
+      "summary": "The Board considered an ordinance amending the Planning Code and Zoning Map to establish the 2245 Post Street Special Use District and affirming CEQA findings. The ordinance was finally passed without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1229434,
+      "summary": "The Board considered an ordinance re-adopting Planning Code and Zoning Map designations to establish the Mission and 9th Street Special Use District at 1270 Mission Street and adjusting height limits from 120-X to 200-X for compliant projects. The ordinance was finally passed without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1229435,
+      "summary": "The Board considered an ordinance amending the Public Works Code to modify the sidewalk flower stand permit program, clarify fees, and amend the Police Code to authorize Public Works to collect administrative penalties. The ordinance was finally passed without objection.",
+      "outcome": "passed",
+      "topics": [
+        "small_business"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1229437,
+      "summary": "The Board considered an ordinance ordering the conditional vacation of roadway and sidewalk right-of-way on Christmas Tree Point Road and Twin Peaks Boulevard, re-designating it for recreation and park purposes to facilitate the Twin Peaks Promenade Project. The ordinance was finally passed without objection.",
+      "outcome": "passed",
+      "topics": [
+        "parks",
+        "transit"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1229439,
+      "summary": "The Board considered an ordinance amending the Administrative Code to modify five downtown activation locations, including Jessie Alley, Minna Alley, Natoma Street, Second Street, and Yerba Buena Lane. The ordinance was finally passed without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1229441,
+      "summary": "The Board debated and approved a police surveillance technology policy for electronic location tracking devices, such as StarChase GPS tracking. Supervisor Walton opposed the measure over civil liberties, labor, and privacy concerns, while Supervisors Chan and Wong supported it citing strict policy guardrails and pursuit-mitigation benefits. The ordinance was finally passed on a 9-1 roll-call vote.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety"
+      ],
+      "speakers": [
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "COLLEAGUES, IT IS OUR COLLECTIVE RESPONSIBILITY TO ENSURE THAT THE CITY BALANCES SAFETY AND PRIVACY WHEN WE'RE DEPLOYING TECHNOLOGY. SO WHEN WE APPROVE THESE POLICIES WE INDEED NEED TO MAKE SURE THE DEPARTMENTS CAN FOLLOW THROUGH WITH THE SAFEGUARDS NECESSARY TO CREATE THAT BALANCE",
+          "t0": 599.97,
+          "verified": true
+        },
+        {
+          "name": "Department head",
+          "stance": "support",
+          "quote": "THE POLICE DEPARTMENT'S ELECTRONIC LOCATION TRACKING DEVICE POLICY WHICH IS BEFORE YOU TODAY DOES LIMIT THE USE OF THESE ELECTRONIC LOCATION TRACKING DEVICES TO WARRANTS OR WARRANT EXCEPTIONS INCLUDING EXIGENT CIRCUMSTANCES.",
+          "t0": 711.882,
+          "verified": true
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "oppose",
+          "quote": "SO FROM MY STANDPOINT IT DOESN'T MAKE SENSE TO SUPPORT THESE DEVICES IN OUR NEIGHBORHOODS WITH OTHER CITIES THAT USE THEM CURRENTLY AND THEY'RE NOT TRUSTING THIS TECHNOLOGY. I THINK AT THE VERY LEAST WE SHOULD PUT A PAUSE ON TECHNOLOGY LIKE THIS AND LEARN SOME MORE.",
+          "t0": 1035.563,
+          "verified": true
+        },
+        {
+          "name": "Alan Wong",
+          "stance": "support",
+          "quote": "THIS IS A PUBLIC SAFETY TOOL THAT CAN HELP US REDUCE DANGEROUS CAR CHASES AND THE VERY HARMS THAT COME WITH THEM CRASHES, INJURIES, DEATHS AND PROPERTY DAMAGE.",
+          "t0": 1203.214,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1229445,
+      "summary": "The Board considered an ordinance amending the Health, Business and Tax Regulations, and Public Works Codes to update definitions for compact mobile food operations and mobile support units to conform with state retail food code changes. The ordinance expands Public Works' street vending regulatory authority in consultation with the Department of Public Health and the Fire Department. The ordinance passed on first reading unanimously.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "health"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1229446,
+      "summary": "The Board considered an ordinance appropriating approximately $34.36 million to overtime salaries from permanent premium and comp time salaries within the Police Department for FY2025-2026. The ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1229449,
+      "summary": "The Board adopted a resolution retroactively authorizing Animal Care and Control to accept and expend a gift of approximately $100,000 from the Whilt Living Trust for operational needs. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1229450,
+      "summary": "The Board adopted a resolution authorizing a second lease amendment with KLW Investments, LLC for approximately 11,000 square feet of office space at 3119-3127 Mission Street for continued use by the Human Services Agency. The amendment extends the lease through September 30, 2030, at an annual base rent of approximately $410,145, with an option to renew. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1229451,
+      "summary": "The Board adopted a resolution authorizing a second lease amendment with KLW Investments, LLC for approximately 39,000 square feet of office space at 3120 Mission Street for continued use by the Human Services Agency. The amendment extends the term through September 30, 2030, at an annual base rent of approximately $1.2 million with a five-year option to renew. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1229469,
+      "summary": "Supervisors recognized and commended several community leaders in honor of Women's History Month and American Red Cross Month. Honorees included Michelle Olivas, Britt Alexandria Benton, Cherise Dorsey-Smith, Dr. Dina Edwards, the San Francisco Women's Housing Coalition, Lynn Davis, Bree von Faith, the American Red Cross Bay Area Chapter, and Tatyana Al-Oulasi.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "AS CO FOUNDER OF UNITED PLAYERS AND ITS DIRECTOR OF COMMUNITY AND FAMILY ENGAGEMENT MICHELLE HAS HELPED TO BUILD SOMETHING TRULY SPECIAL A BELOVED AND WIDELY RESPECTED ORGANIZATION THAT SERVES YOUTH AMONG OTHERS BY HOLDING THEM CLOSE THROUGH MENTORSHIP, ACADEMIC SUPPORT AND LEADERSHIP DEVELOPMENT",
+          "t0": 1653.679,
+          "verified": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "TODAY I AM SO EXCITED TO HONOR A DAUGHTER OF DISTRICT SEVEN OUR OWN BRITT ALEXANDRIA BENTON.",
+          "t0": 2246.708,
+          "verified": false
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "TODAY AS EXECUTIVE DIRECTOR SHE BRINGS NOT ONLY DEEP INSTITUTIONAL KNOWLEDGE BUT I LIVED PASSION FOR ENSURING EVERY YOUNG PERSON IN OUR CITY HAS AN OPPORTUNITY TO THRIVE.",
+          "t0": 2601.83,
+          "verified": false
+        },
+        {
+          "name": "Chyanne Chen",
+          "stance": "support",
+          "quote": "IT IS MY GREAT HONOR TO RECOGNIZE DR. DINA ATWOOD TODAY. SHE HAS SPANNED MORE THAN 30 YEARS STRENGTHENING THE LAKE WHALE COMMUNITY AND DISTRICT 11 BOTH AS A LONG TIME RESIDENT AND AS THE PRINCIPAL OF SHERIDAN ELEMENTARY SCHOOL.",
+          "t0": 3538.625,
+          "verified": false
+        },
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "THE WOMEN'S HOUSING COALITION BREAKS THE CYCLE OF VIOLENCE AND HOMELESSNESS THROUGH COMPASSIONATE CARE AND A BELIEVE STRONG BELIEVE THAT HOUSING IS A FUNDAMENTAL RIGHT FOR EVERYONE.",
+          "t0": 3821.847,
+          "verified": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "stance": "support",
+          "quote": "IT IS AN ABSOLUTE HONOR TO COMMEND YOU, LYNN, FOR YOUR DECADES OF DEDICATED SERVICE TO THE OPERA PLAZA NEIGHBORHOOD AND YOUR EXTRAORDINARY COMMITMENT TO BUILDING COMMUNITY RIGHT HERE IN SAN FRANCISCO",
+          "t0": 4583.684,
+          "verified": true
+        },
+        {
+          "name": "Danny Sauter",
+          "stance": "support",
+          "quote": "BREE WAS SELECTED LAST YEAR AS THE NEW EXECUTIVE DIRECTOR OF FISHERMAN'S WHARF CBD, A PROCESS IN WHICH SHE BEAT OUT MORE THAN 270 OTHER APPLICANTS FOR THE ROLE.",
+          "t0": 5089.872,
+          "verified": true
+        },
+        {
+          "name": "Alan Wong",
+          "stance": "support",
+          "quote": "CLARA BARTON FOUNDED THE AMERICAN RED CROSS IN 1881 AND HELPED SHAPE OUR NATION'S COMMITMENT TO NEUTRAL COMPASSIONATE RELIEF IN TIMES OFRISIS.",
+          "t0": 5401.209,
+          "verified": false
+        },
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "FOR ALMOST TEN YEARS TATYANA HAS HELPED MAKE THE TENDERLOIN SAFER FOR CHILDREN ON THEIR WAY TO AND FROM SCHOOL.",
+          "t0": 5952.716,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1229452,
+      "summary": "The Board considered a resolution approving a second amendment to the grant agreement with Lutheran Social Services of Northern California for money management services supporting the Department of Homelessness and Supportive Housing. The amendment extends the term by 24 months through June 30, 2028, and adds approximately $5.2 million for a total not to exceed $15,210,535. The resolution was adopted unanimously on roll call.",
+      "outcome": "passed",
+      "topics": [
+        "homelessness",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1229455,
+      "summary": "The Board debated and approved a project agreement and bond issuance for the Potrero Yard Modernization Project at 2500 Mariposa Street. Supervisors expressed frustration over the elimination of a planned housing podium that reduced the project's housing scope, but recognized the critical need for a modern bus facility. Supervisor Chan offered amendments urging MOHCD and SFMTA to identify funding and alternative sites to deliver the lost affordable housing units, which passed 9-1 (Mandelman dissenting), and the amended resolution was subsequently adopted unanimously.",
+      "outcome": "passed",
+      "topics": [
+        "transit",
+        "housing",
+        "budget"
+      ],
+      "speakers": [
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "THE BOARD SUPERVISORS URGES H C D TO IDENTIFY FUNDING SOURCES TO CONSTRUCT THE INFRASTRUCTURE NEEDED TO ENABLE FUTURE HOUSING DEVELOPMENT OPPORTUNITIES AS PART OF THE PATROL. YOUR MODERNIZATION PROJECT",
+          "t0": 6960.455,
+          "verified": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "WE HAVE LONG HELD TO THE PRINCIPLE OF TRANSIT ORIENTED DEVELOPMENT TRANSIT ORIENTED COMMUNITY EASE AND THAT MEANS THAT WE MAXIMIZE THE SPACE THAT'S CLOSE TO TRANSIT HUBS TO BUILD HOUSING SO PEOPLE WILL TAKE PUBLIC TRANSPORTATION.",
+          "t0": 7061.555,
+          "verified": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "stance": "support",
+          "quote": "NOW I KNOW THAT THIS MODERNIZATION PROJECT IS A LONG OVERDUE AND I AM VERY MUCH IN SUPPORT OF UPDATING THE PETROLIA TO BETTER SERVE THE NEEDS OF MUNI EMPLOYEES AND THE FACILITIES THAT NEED FOR OUR TRANSIT NETWORK.",
+          "t0": 7208.64,
+          "verified": true
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "I THINK WE HAVE TO TAKE THIS WIN AND GET SOME MORE AFFORDABLE HOUSING OUT IN OUR COMMUNITY BUT I DEFINITELY WILL SUPPORT THE AMENDMENTS. I THINK IT IS IT SAYS SOMETHING ABOUT THE FOCUS ON WHAT WE NEED TO DO AND WHAT WE WANT TO DO ON NOT ONLY PUBLIC LAND BUT JUST IN THE FUTURE",
+          "t0": 7404.315,
+          "verified": false
+        },
+        {
+          "name": "Department head",
+          "stance": "neutral",
+          "quote": "THE BIGGEST CHUNK WAS ABOUT $70 MILLION FOR REMOVING THE PODIUM. IT'S NOT JUST A STRONGER BUILDING. IT'S ALSO A DEEPER BASEMENT YOU KNOW, POTENTIAL FUTURE EGRESS LOBBY SPACES FOR THE HOUSING.",
+          "t0": 7800.388,
+          "verified": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "stance": "support",
+          "quote": "AS LONG AS WE'RE NOT URGING THE MTA TO BUILD THE PODIUM WHICH I THINK MIGHT RESTRICT THE AMOUNT OF AFFORDABLE HOUSING WE COULD ACTUALLY BUILD THE CITY OVERALL AS LONG AS WE ARE MAXIMIZING THE NUMBER OF HOUSING UNITS WE CAN BUILD IN THE CITY OVERALL AND WE'RE NOT SLOWING DOWN THIS PROJECT, I'M OKAY",
+          "t0": 8432.65,
+          "verified": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "oppose",
+          "quote": "I AM NOT INCLINED AT THIS POINT TO TELL EITHER OF THESE TWO THE TWO AGENCIES WHICH I THINK HAVE DONE THEIR VERY, VERY BEST, YOU KNOW, TO GIVE THEM MORE DIRECTION ON ON THIS PARTICULAR PROJECT. I THINK THEY NEED TO GET THE RAIL YARD OR THE BUS YARD DONE",
+          "t0": 8505.418,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1229458,
+      "summary": "The Board adopted a resolution approving a five-year Port Commission lease with Dylan's Tours, LLC for approximately 1,500 square feet at 490 Jefferson Street, with an initial base rent of $72,000 annually and a five-year renewal option. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1229461,
+      "summary": "The Board considered a motion establishing priorities for the Budget and Appropriations Committee and setting forth the process guiding deliberations for the City's FY2026-2027 and FY2027-2028 budgets. The motion was approved without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1229463,
+      "summary": "The Board adopted a resolution designating the commemorative street name 'Ed Decker Way' on Oak Street between Van Ness Avenue and Franklin Street in honor of Ed Decker's retirement from the New Conservatory Theatre Center. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1229465,
+      "summary": "The Board considered an ordinance amending the Administrative Code to require Public Works to submit periodic evaluation reports on mechanical street sweeping operations to the Board and Mayor, and amending the Health Code regarding refuse receptacles. The ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "environment",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1229468,
+      "summary": "The Board approved a motion appointing Gale Renee Rosboro and Carla Cuevas to the Sheriff\u2019s Department Oversight Board for terms ending March 1, 2027, and March 1, 2029, respectively. The motion was approved without objection.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1229471,
+      "summary": "The Board considered a resolution initiating landmark designation under Article 10 of the Planning Code for the Century Club of California at 1355 Franklin Street. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1229472,
+      "summary": "The Board considered a resolution initiating landmark designation under Article 10 of the Planning Code for the Religious School for the Congregation Emanu-El/Grabhorn Press Building at 1335-1337 Sutter Street. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1229473,
+      "summary": "The Board considered a resolution initiating landmark designation under Article 10 of the Planning Code for the Inverness Garage at 1565 Bush Street. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1229474,
+      "summary": "The Board considered a resolution initiating landmark designation under Article 10 of the Planning Code for the Allen-Weaver-Durant-Smith Auto Showroom at 1625 Van Ness Avenue. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1229475,
+      "summary": "The Board considered a resolution initiating landmark designation under Article 10 of the Planning Code for the First Church of Christ Scientist at 1700 Franklin Street. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1229476,
+      "summary": "The Board considered a resolution initiating landmark designation under Article 10 of the Planning Code for the Golden Gate Spiritualist Church at 1901 Franklin Street. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1229477,
+      "summary": "The Board considered a resolution initiating landmark designation under Article 10 of the Planning Code for the Pacific States Telephone and Telegraph Company / National Urban League building at 2015 Steiner Street. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1229478,
+      "summary": "The Board considered a resolution initiating landmark designation under Article 10 of the Planning Code for Mr. Cudworth\u2019s House at 2032-2040 Union Street. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1229479,
+      "summary": "The Board considered a resolution initiating landmark designation under Article 10 of the Planning Code for the Upper Fillmore Storefronts at 2035-2047 Fillmore Street. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1229480,
+      "summary": "The Board considered a resolution initiating landmark designation under Article 10 of the Planning Code for the Lincoln Grill at 2049-2051 Fillmore Street. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1229481,
+      "summary": "The Board considered a resolution initiating landmark designation under Article 10 of the Planning Code for the First AME Zion Church at 2155-2159 Golden Gate Avenue. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1229482,
+      "summary": "The Board considered a resolution initiating landmark designation under Article 10 of the Planning Code for the International Institute at 2209 Van Ness Avenue. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1229483,
+      "summary": "The Board considered a resolution initiating landmark designation under Article 10 of the Planning Code for the Presidio Theatre at 2336-2346 Chestnut Street. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1229484,
+      "summary": "The Board considered a resolution initiating landmark designation under Article 10 of the Planning Code for the Arthur Castle Home at 2402 Steiner Street. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1229485,
+      "summary": "The Board considered a resolution initiating landmark designation under Article 10 of the Planning Code for the Hannibal Lodge No. 1 at 2804 Bush Street. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1229486,
+      "summary": "The Board considered a resolution initiating landmark designation under Article 10 of the Planning Code for The Bridge Theatre at 3008 Geary Boulevard. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1229487,
+      "summary": "The Board considered a resolution initiating landmark designation under Article 10 of the Planning Code for The Vogue at 3290 Sacramento Street. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1229488,
+      "summary": "The Board considered a resolution initiating landmark designation under Article 10 of the Planning Code for Mel\u2019s Drive-In at 3355 Geary Boulevard. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1229489,
+      "summary": "Supervisors introduced new legislation during roll call for introductions. Items included state legislation support on curb management, electrical infrastructure contracting authority, grant acceptance thresholds, labor negotiations at SFO, 15 historic landmark designations in District 3, an Upper Fillmore entertainment zone, an in memoriam for Jose de Souza Garcia, and a resolution condemning ICE enforcement actions at SFO.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance",
+        "labor",
+        "planning_land_use",
+        "transit"
+      ],
+      "speakers": [
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "BY ALLOWING THE USE OF MODERN TECHNOLOGY LIKE STATIONARY CAMERAS AND SENSORS, SB 1292 WILL ENABLE SAN FRANCISCO TO TACKLE THE ISSUE OF DOUBLE PARKING HEAD ON BY MAKING OUR CURB POLICIES EFFECTIVE.",
+          "t0": 9000.592,
+          "verified": false
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "I AM ALSO TODAY INTRODUCING LEGISLATION TO RAISE THE THRESHOLD FOR BOARD OF SUPERVISORS APPROVAL OF GRANTS THAT IS EXCEPT AN EXPENSE FROM $100,000 TO $1 MILLION OR THE FEDERAL SINGLE AUDIT THRESHOLD WHICHEVER IS HIGHER.",
+          "t0": 9126.937,
+          "verified": true
+        },
+        {
+          "name": "Danny Sauter",
+          "stance": "support",
+          "quote": "COLLEAGUES TODAY I AM INTRODUCING RESOLUTIONS TO INITIATE 15 NEW HISTORIC LANDMARKS IN DISTRICT THREE ACROSS CHINATOWN, NORTH BEACH, HILL AND UNION SQUARE.",
+          "t0": 9417.252,
+          "verified": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "stance": "support",
+          "quote": "COLLEAGUES TODAY I'M INTRODUCING AN UPPER FILLMORE ENTERTAINMENT ZONE THIS ENTERTAINMENT ZONE STRETCHING ALONG FILLMORE BETWEEN SUTTER TO JACKSON WILL HELP ACTIVATE OUR NEIGHBORHOODS, SUPPORT OUR RESTAURANTS AND BARS",
+          "t0": 9713.101,
+          "verified": false
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "COLLEAGUES TODAY I WANT TO HONOR THE LIFE AND LEGACY OF JOSE THE OASIS GARCIA BORN IN GUADALAJARA, MEXICO.",
+          "t0": 9763.485,
+          "verified": true
+        },
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "COLLEAGUES TODAY I AM INTRODUCING A RESOLUTION TO CONDEMN THE ACTIONS OF THE TRUMP ADMINISTRATION'S IMMIGRATION AND CUSTOMS ENFORCEMENT AGENTS ICE AT OUR AIRPORT ON SUNDAY EVENING AND THROUGHOUT.",
+          "t0": 9922.913,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1229490,
+      "summary": "The Board heard public comment on general city matters. Speakers addressed the fentanyl overdose crisis, city handling of ICE arrests and mayoral security confrontations, opposition to permanent street closures on Hayes Street, and meeting schedules.",
+      "outcome": "no_action",
+      "topics": [
+        "health",
+        "public_safety",
+        "transit"
+      ],
+      "speakers": [
+        {
+          "name": "Public commenter",
+          "stance": "neutral",
+          "quote": "THIS WEEK. A TWO YEAR OLD CHILD OVERDOSED AND DIED ON FENTANYL. SAN FRANCISCO. THIS IS NOT THE FIRST CHILD WHO'S DIED FROM FINNING ON OUR CITY AND UNFORTUNATELY IT PROBABLY WON'T BE THE LAST.",
+          "t0": 10105.39,
+          "verified": true
+        },
+        {
+          "name": "Public commenter",
+          "stance": "oppose",
+          "quote": "IT SHOULDN'T BE CONTROVERSIAL TO WANT TO SAVE A BROWN DEAF KID'S LIFE AND A HOMELESS BLACK MAN FROM JAIL AND TO PROTECT US FROM ICE VIOLENCE.",
+          "t0": 10339.27,
+          "verified": true
+        },
+        {
+          "name": "Public commenter",
+          "stance": "oppose",
+          "quote": "CALIFORNIA LAW IS CLEAR THAT STREET CLOSURES ARE TIED TO SAFETY ACCESS AND NECESSITY NOT PREFERENCE. WHAT IS HAPPENING HERE MOVES IN THE OPPOSITE EXIT. IT SETS A DANGEROUS PRECEDENT WHERE A SINGLE OFFICE CAN DIRECT TRANSPORTATION POLICY",
+          "t0": 10447.211,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": [
+        "Fentanyl overdoses and street conditions",
+        "Immigration enforcement and mayoral security accountability",
+        "Opposition to permanent street closure on Hayes Street"
+      ]
+    },
+    {
+      "meta_id": 1229491,
+      "summary": "The Board considered resolutions on the For Adoption Without Committee Reference agenda. Supervisor Walton severed Items 43 and 44 for individual consideration, and the remaining resolutions (Items 40, 41, 42, 45, and 46) were adopted unanimously on roll call.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1229497,
+      "summary": "Supervisor Walton presented a resolution declaring March 2026 as Endometriosis Awareness Month in San Francisco, discussing the severity of the systemic inflammatory disease, delays in medical diagnoses particularly for Black women, and federal legislation to boost research. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "health"
+      ],
+      "speakers": [
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "COLLEAGUES THIS RESOLUTION DECLARES MARCH AS ENDOMETRIOSIS AWARENESS MONTH HERE IN SAN FRANCISCO AND IS PERSONAL TO MY OFFICE. ENDOMETRIOSIS IS A CHRONIC INFLAMMATORY CONDITION WITH TISSUES SIMILAR TO THE LINING OF THE UTERUS GROWS OUTSIDE OF IT THROUGHOUT THE BODY.",
+          "t0": 10687.87,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1229498,
+      "summary": "The Board considered a resolution declaring March 29 through April 5, 2026, as Community-Based Doula Week in San Francisco. Supervisor Walton spoke on the critical role of community doulas in improving maternal health outcomes and addressing racial health disparities for Black and brown mothers. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "settlements",
+        "budget",
+        "elections_governance"
+      ],
+      "speakers": [
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "COMMUNITY BASED DOULAS PROVIDE CONTINUOUS CULTURALLY GROUNDED SUPPORT TO BIRTHING PEOPLE THROUGH ONE OF THE MOST PHYSICALLY AND EMOTIONALLY DEMANDING EXPERIENCES OF THEIR LIVES. WHAT MAKES COMMUNITY DO THIS DISTINCT IS THAT THEY SHARE LIVED EXPERIENCE WITH THE PEOPLE THEY SERVE.",
+          "t0": 10881.402,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1229522,
+      "summary": "The Board of Supervisors adjourned the regular meeting in memory of Jose de Souza Garcia on behalf of Supervisor Walton.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    }
+  ],
+  "quote_verification": {
+    "verified": 22,
+    "partial": 9,
+    "dropped": 0
+  }
+}

@@ -1,0 +1,916 @@
+{
+  "clip_id": 48801,
+  "items": [
+    {
+      "meta_id": 1125486,
+      "summary": "President Mandelman called the regular meeting of the Board of Supervisors to order and the clerk conducted the roll call, confirming all eleven members were present. The Board then recited the land acknowledgement and the Pledge of Allegiance.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1125488,
+      "summary": "The Board considered the approval of the meeting minutes from the January 14, 2025 meeting. With a motion by Supervisor Walton and a second by Supervisor Sherrill, the minutes were approved unanimously by roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1125491,
+      "summary": "The Board considered the consent agenda consisting of Items 1 and 2, which included an appropriation for the Portsmouth Square Garage parking and transit fares and an amended airport surveillance technology policy. With no items severed, the consent agenda was unanimously adopted on a roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "transit",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1125502,
+      "summary": "The Board considered an ordinance amending the Planning and Health Codes to permit tax-exempt bond financing and tax credits for certain affordable housing projects and provide an exemption from alternate non-potable water source requirements. The ordinance was finally passed without objection.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "planning_land_use",
+        "environment"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1125506,
+      "summary": "The Board considered an ordinance amending the Administrative Code regarding PUC purchase and sale of electricity and related products, modifying contract waivers and increasing annual energy procurement limits. The ordinance was passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "environment",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1125507,
+      "summary": "The Board considered a resolution approving a lease termination agreement with Minute Suites Travelers Retreat SFO, LLC at Harvey Milk Terminal 1 with a termination fee of $75,000. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1125508,
+      "summary": "The Board considered a resolution approving the specialty retail minimum annual guarantee rent reduction program for airport retail concession tenants. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1125509,
+      "summary": "The Board considered a resolution authorizing the Department of Technology to amend an enterprise agreement with SSP Data Inc. for Palo Alto Software products for a total amount of $40,000,000 through May 2029. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1125510,
+      "summary": "The Board considered a resolution authorizing the sale of approximately 68,000 square feet of real property to the City of San Bruno for $5,000. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1125511,
+      "summary": "The Board considered a resolution authorizing the Office of the Treasurer and Tax Collector to sell certain parcels of tax-defaulted real property at public and sealed bid auctions. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1125512,
+      "summary": "The Board considered a resolution approving a ninth amendment to the SFMTA contract with TEGSCO, LLC for vehicle towing, storage, and disposal services, adding $15.3 million for a new total not to exceed $136,700,000. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "transit",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1125513,
+      "summary": "The Board considered a retroactive contract agreement with the Department of State Hospitals for early access and stabilization services for approximately $3.3 million through December 2027. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1125514,
+      "summary": "The Board considered a resolution retroactively authorizing the Department of Public Health to accept and expend an $829,025.83 grant from the Department of Justice through the SFGH Foundation for the Children and Adolescent Support Advocacy and Resource Center (CASARC). The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "budget",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1125515,
+      "summary": "The Board considered a resolution retroactively authorizing the Mayor's Office of Housing and Community Development to accept and expend a $250,000 state grant for the Center for Immigrant Protection. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1125517,
+      "summary": "The Board considered an amendment to a grant agreement with the Mid-Market Foundation for the Mid-Market/Tenderloin Community-Based Safety Program, adding $4 million for a total not to exceed $68.8 million. Supervisor Chan spoke in opposition due to the city's budget deficit and competing funding priorities, while Supervisor Mahmood spoke in support of the ambassador program's impact on street safety. The resolution was adopted 10-1, with Supervisor Chan voting against.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "budget"
+      ],
+      "speakers": [
+        {
+          "name": "Connie Chan",
+          "stance": "oppose",
+          "quote": "We already spent more than $68 million on this contract since 2018 without clear result and matrix for success. And now for this fiscal year alone with this amendment additional $4 million we will have spent about $25 million in this fiscal year just for this contract alone.",
+          "t0": 1708.426,
+          "verified": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "These kind words that brighten your morning are just a small part of the work done by community ambassadors who do so much of the important work our city departments cannot do. And I have heard repeatedly from S.F. Pd that this is work that they cannot do.",
+          "t0": 1933.954,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1125519,
+      "summary": "The Board debated an ordinance to waive development impact fees and inclusionary housing requirements for commercial-to-residential conversion projects downtown. Supervisor Sauter introduced an amendment placing a 7-million-square-foot cap on projects eligible for the waiver, which was adopted without objection. The amended ordinance passed on first reading by a 9-2 vote, with Supervisors Walton and Fielder dissenting due to concerns over equity, displacement, and the loss of affordable housing funding.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "housing"
+      ],
+      "speakers": [
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "underutilized and vacant office buildings offer us an incredible opportunity to unlock more units of housing and to welcome new neighbors downtown. In many ways this legislation seeks to correct the errors of 20th century planning which was overreliant on office only downtowns",
+          "t0": 2198.522,
+          "verified": true
+        },
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "principally I am against fee waiver especially those without some kind of a sunset date or some kind of condition and cap. ... so with that I am today in support of you've amended and successfully we capping this to a $7 million 7,000,000ft2",
+          "t0": 2374.901,
+          "verified": false
+        },
+        {
+          "name": "Danny Sauter",
+          "stance": "support",
+          "quote": "So today I am introducing an amendment to place a 7,000,000 square foot cap on the total square footage subject to this development fee waiver in addition to two small technical amendments that accommodate the cap in the legislation.",
+          "t0": 2586.415,
+          "verified": true
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "oppose",
+          "quote": "We have certain communities that are suffering from indigenous population flight and on the brink of complete extinction which goes even beyond gentrification priority equity neighborhoods such as south of market and of course bayview and district ten are to be protected",
+          "t0": 2739.504,
+          "verified": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "oppose",
+          "quote": "during a time when we absolutely need more affordable housing the projects that this legislation will incentivize will be market rate with no one side affordable housing and will provide zero funding for affordable housing impact fees",
+          "t0": 2915.782,
+          "verified": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "stance": "support",
+          "quote": "I really hope that we would be able to leave out this community in the scope of this legislation and when the market kicks in and more office to residential conversion occur, we are ensuring that affordable housing investment and impact fees continue to flow to these communities.",
+          "t0": 3158.195,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "no",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1125521,
+      "summary": "The Board held a special order of business honoring community members for meritorious service, particularly in celebration of Black History Month. Honorees included Cedric Spencer, Dorothy Lathan, PG&E gas and fleet service workers, Christian Martin, Reverend Roland Gordon, Jean Harrell, and Rodney Earl Jackson Jr.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "Today I am proud to recognize cedric spencer, a distinguished leader and advocate whose work bridges the corporate, legislative and community spheres to drive meaningful change.",
+          "t0": 3499.673,
+          "verified": true
+        },
+        {
+          "name": "Joel Engardio",
+          "stance": "support",
+          "quote": "dorothy is one of the first black people allowed to buy a home in the outer sunset. Yes. >> yes, it is true. For many decades nonwhite people were not allowed to be homeowners throughout much of san francisco's west side.",
+          "t0": 3788.633,
+          "verified": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "Amidst that crisis there were 51 brave workers from the gas and fleet members of pge and from the bay area who volunteered to go towards the fire to help our neighbors in southern california.",
+          "t0": 4208.359,
+          "verified": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "Christian martin, executive director of the soho community benefit district and step up for with with more than a decade of experience managing community benefit districts. Christian has worked tirelessly to make west soma streets and sidewalks cleaner, safer and more welcoming.",
+          "t0": 4374.527,
+          "verified": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "it is my distinct honor today to join supervisors chen and walton in commending the incomparable reverend roland gordon for as we like to call him in the neighborhood rev g. >> of the ingleside presbyterian church.",
+          "t0": 5117.547,
+          "verified": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "support",
+          "quote": "MISS Jean is the owner of ruth's uniform shop and we're commending her for her service to the poor community for many years this commendation is all the more specialized machine is planning to retire at the end of this month at the age of 80 six.",
+          "t0": 6184.428,
+          "verified": false
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "today it is my great honor to offer a special commendation to rodney earl jackson jr the artistic director and co-founder of the san francisco bay area theater company also known as S.F. That come rodney is a san francisco native and a graduate of the roots of ruth asawa school of the arts.",
+          "t0": 6311.323,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1125524,
+      "summary": "The Board convened as a Committee of the Whole to hold a public hearing on Mayor Daniel Lurie's proposed removal of Max Carter-Oberstone from the Police Commission. Commissioner Carter-Oberstone addressed the Board defending his independence, integrity, and oversight record, followed by extensive public testimony. Following public comment, the hearing was concluded and filed.",
+      "outcome": "no_action",
+      "topics": [
+        "public_safety",
+        "elections_governance"
+      ],
+      "speakers": [
+        {
+          "name": "Public commenter",
+          "stance": "oppose",
+          "quote": "",
+          "t0": 7001.421,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": [
+        "Support for Carter-Oberstone's independence and data-driven police oversight",
+        "Opposition to mayoral consolidation of power over charter commissions",
+        "Importance of limits on pretextual traffic stops and addressing racial disparities",
+        "Calls to retain Black leadership during Black History Month",
+        "Concerns regarding police accountability and excessive force"
+      ]
+    },
+    {
+      "meta_id": 1125527,
+      "summary": "The Board considered a motion to consent or dissent in Mayor Lurie's removal of Max Carter-Oberstone from the Police Commission. Supervisor Dorsey introduced an amendment for the Board to consent to the removal, arguing the Charter grants the mayor appointment authority over at-will commissioners. The Board approved the amendment and consented to the removal on a 9-2 vote, with Supervisors Melgar and Fielder dissenting.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "elections_governance"
+      ],
+      "speakers": [
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "charter section 4.19 provides that members of our police commission generally serve at the pleasure of their appointing authority. In other words, they MAY be removed without cause except that mayoral appointments and removals are also subject to board approval.",
+          "t0": 14050.464,
+          "verified": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "oppose",
+          "quote": "commissioner max carter robertson and I both know that his removal is bigger than him and that his removal is going to lend towards not just in unaccountable and less effective police force but also a chilling effect on any oversight whatsoever that will ultimately put members of the public in danger",
+          "t0": 14608.53,
+          "verified": false
+        },
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "to sustain like this meaningful accountability in police reform, I think we must recognize that it does not hinge on any one person but collective work that all of us have to do to push for structural change an independent one independent commissioner does not equate to an independent commission.",
+          "t0": 14791.348,
+          "verified": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "stance": "oppose",
+          "quote": "I do not believe in removing commissioners or supervisors before their term is up when there has been no malfeasance or illegal conduct. ... mayor lurie's reasons that commissioner carter ober stone's manner has been needlessly confrontational and difficult to work with do not rise to my standard",
+          "t0": 14916.408,
+          "verified": false
+        }
+      ],
+      "votes": [
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "no",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1125520,
+      "summary": "The Board considered an ordinance amending the Building, Administrative, and Public Works Codes to remove local requirements regarding disability access improvements for primary entries and paths of travel into places of public accommodation in existing buildings. The ordinance passed on first reading unanimously.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "small_business"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1125529,
+      "summary": "The Board considered a resolution determining that the transfer of a Type 21 off-sale general liquor license to Dapper Hill LLC at 1198 Pacific Avenue will serve the public convenience. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1125530,
+      "summary": "The Board considered a resolution determining that the issuance of a Type 90 on-sale general music venue liquor license to Urban Life Inc. (doing business as Neck of the Woods) at 406 Clement Street will serve the public convenience and requesting ABC impose conditions. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1125533,
+      "summary": "The Board considered a motion appointing Sabrina Hernandez, Bert Hill, Liam Devlin, and Gregory Michael Hardeman to the Golden Gate Bridge, Highway and Transportation District Board of Directors for terms ending January 31, 2027. The motion was approved without objection.",
+      "outcome": "passed",
+      "topics": [
+        "transit",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1125534,
+      "summary": "The Board considered a motion approving the Mayor's nomination of W. E. Wilson Leung to the Police Commission for a term ending April 30, 2028. The motion was approved without objection.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1125536,
+      "summary": "The Board considered an ordinance amending the Planning Code to create an exception allowing certain distilleries, wineries, and breweries to establish on-sale liquor establishments in the Bayview Neighborhood Commercial District under conditional use authorization. The ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "small_business"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1125537,
+      "summary": "The Board considered an ordinance amending the Planning Code and Zoning Map to establish the Leland Avenue Neighborhood Commercial District. The ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "small_business"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1125538,
+      "summary": "Supervisors introduced new legislation and in memoriam adjournments. Items introduced included resolutions regarding drug market intervention strategies, city contracting streamlining, building inspection code amnesty, defense of the Presidio, Local Business Enterprise support, a 'Recovery First' drug policy, and retail pharmacy cooperative study.",
+      "outcome": "referred",
+      "topics": [
+        "public_safety",
+        "health",
+        "budget",
+        "small_business",
+        "parks"
+      ],
+      "speakers": [
+        {
+          "name": "Bilal Mahmood",
+          "stance": "neutral",
+          "quote": "today I'm introducing a resolution with co-sponsorship from supervisor matt dorsey and PRESIDENT Rafael randleman for the implementation of a drug market intervention or dmi strategy to address our city's fentanyl crisis.",
+          "t0": 15635.837,
+          "verified": false
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "neutral",
+          "quote": "The first item is on the open for business contracts streamlining act of 2025 a sent a set of sensible contract reforms to simplify the city's procurement processes reduce the burden of contracting regulations on small businesses, nonprofits and the city",
+          "t0": 15958.464,
+          "verified": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "stance": "neutral",
+          "quote": "Last week PRESIDENT Trump is issued a ridiculous executive order that targeted the presidio for dramatic cuts ... I'm introducing a resolution that firmly opposes this so-called executive order calls it out as the political stunt that it is",
+          "t0": 16794.278,
+          "verified": false
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "neutral",
+          "quote": "First I'm introducing a resolution to reaffirm san francisco's commitment to our local business enterprise program. ... Our city's chapter 14 be local business enterprise program is all about keeping opportunities local and making sure small businesses especially those owned by minorities and women",
+          "t0": 16997.16,
+          "verified": false
+        },
+        {
+          "name": "Matt Dorsey",
+          "stance": "neutral",
+          "quote": "introducing the recovery first ordinance legislation that seeks to provide a clear and unifying policy directive for city agencies and contractors whose services relate to illicit drug use or to mitigating its myriad and deadly harms.",
+          "t0": 17542.268,
+          "verified": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "neutral",
+          "quote": "today I'll be requesting the budget and legislative analysts to complete a report of the feasibility of adopting a cooperative pharmacy model in san francisco show recommendations for local and state policies that would support independent and co-op pharmacies",
+          "t0": 18109.877,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1125539,
+      "summary": "Members of the public provided general public comment on topics within the Board's jurisdiction. Multiple taxi medallion holders addressed the Board regarding financial ruin and requested city debt relief and price reduction to $125,000, while other speakers spoke about unsolved homicides and safety concerns.",
+      "outcome": "no_action",
+      "topics": [
+        "transit",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": [
+        "Financial distress of taxi medallion owners and requests for debt relief and price adjustments",
+        "Demands for justice and investigation of unsolved homicides in San Francisco",
+        "Concerns regarding harassment and targeting of community advocates"
+      ]
+    },
+    {
+      "meta_id": 1125540,
+      "summary": "No discussion was captured for this item in the provided transcript.",
+      "outcome": "unknown",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1125542,
+      "summary": "No discussion was captured for this item in the provided transcript.",
+      "outcome": "unknown",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1125576,
+      "summary": "No discussion was captured for this item in the provided transcript.",
+      "outcome": "unknown",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    }
+  ],
+  "quote_verification": {
+    "verified": 18,
+    "partial": 7,
+    "dropped": 1
+  }
+}

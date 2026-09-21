@@ -1,0 +1,366 @@
+{
+  "clip_id": 50330,
+  "items": [
+    {
+      "meta_id": 1169116,
+      "summary": "President Rafael Mandelman convened the regular meeting of the Board of Supervisors, and the clerk conducted roll call confirming all members were present. The Board recited the Land Acknowledgement honoring the Ramaytush Ohlone and the Pledge of Allegiance.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1169117,
+      "summary": "The clerk read general communications and instructions for public participation and disability accommodations.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1169122,
+      "summary": "The Board considered an ordinance approving the surveillance technology policy for the SFMTA's continued use of automated red light and no turn enforcement cameras. The ordinance was finally passed on a unanimous roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "transit"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1169126,
+      "summary": "The Board considered an ordinance amending the Business and Tax Regulations Code to extend the waiver of first-year permit, license, and business registration fees for specified small businesses through June 30, 2026. The ordinance was passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "small_business"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1169130,
+      "summary": "The Board considered a resolution authorizing the execution and delivery of a multifamily housing revenue note in an aggregate principal amount not to exceed $76 million to finance an 89-unit rental housing project at 65 Santos Street (Sunnydale HOPE SF Block 7). The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1169133,
+      "summary": "The Board considered an ordinance amending the Planning and Subdivision Codes to allow the separate conveyance of certain accessory dwelling units and associated primary residences as condominiums. The ordinance was passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1169134,
+      "summary": "Supervisors introduced new legislation during the roll call for introductions. Items introduced included relief funds for merchants affected by the Islais Creek Bridge project, opposition to State Senate Bill 79 unless amended, urging Blue Shield and UC Health to resolve their contract dispute, designating Tucan Day, the Shared Housing Reform Act, and updating oversight of domestic violence shelter funds.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance",
+        "health",
+        "housing",
+        "labor",
+        "small_business"
+      ],
+      "speakers": [
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "THE RESOLUTION IS URGING THE CITY TO ESTABLISH A SMALL BUSINESS RELIEF FUND FOR MERCHANTS WHO WILL BE AFFECTED BY THIS LATEST CREEK BRIDGE REPLACEMENT PROJECT ALONG THE THIRD STREET BAYVIEW CORRIDOR.",
+          "t0": 394.539,
+          "verified": true
+        },
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "ALSO COLLEAGUES, TODAY I'M INTRODUCING A RESOLUTION PUTTING SAN FRANCISCO ON THE RECORD TO OPPOSE STATE SENATE BILL 70 NINE UNLESS AMENDED AFFORDABLE HOUSING DEVELOPERS AND VARIOUS TENANTS GROUPS TO ATTEMPT TO SECURE AMENDMENTS FROM THE BILL'S CHIEF SPONSOR SENATOR SCOTT WIENER.",
+          "t0": 669.18,
+          "verified": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "I AM TODAY INTRODUCING A RESOLUTION THAT URGES BLUE SHIELD OF CALIFORNIA AND THE UNIVERSITY OF CALIFORNIA HEALTH SYSTEM TO RESOLVE THEIR DISPUTE REGARDING REIMBURSEMENT FOR MEDICAL SERVICES AND TREATMENT.",
+          "t0": 941.374,
+          "verified": false
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "support",
+          "quote": "COLLEAGUES I'M INTRODUCING A RESOLUTION TODAY TO DESIGNATE JULY 12TH AS CHU KANG DAY IN HONOR OF THE FIFTH ANNIVERSARY OF THE DISTRICT NINE BLOCK PARTY THAT CELEBRATES THE LIFE AND LEGACY OF SEAN MONTERROSA.",
+          "t0": 1083.593,
+          "verified": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "COLLEAGUES TODAY I AM INTRODUCING THIS SHARED HOUSING REFORM ACT AN ORDINANCE THAT IS MEANT TO MODERNIZE THE CITY'S OUTDATED DEFINITION OF FAMILY IN THE PLANNING CODE TO EXPAND ACCESS TO SHARED HOUSING AND BRING SAN FRANCISCO INTO COMPLIANCE WITH STATE HOUSING REGULATIONS.",
+          "t0": 1209.652,
+          "verified": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "COLLEAGUES TODAY I AM INTRODUCING AN ORDINANCE TO UPDATE THE ADMINISTRATIVE CODE SECTIONS GOVERNING THE DOMESTIC VIOLENCE SHELTER BASED PROGRAM FUNDS TO ENSURE THAT OUR LAWS REFLECT THE REALITY OF HOW GENDER BASED VIOLENCE PREVENTION WORK IS BEING DELIVERED IN SAN FRANCISCO.",
+          "t0": 1416.622,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1169127,
+      "summary": "The Board presented special commendations recognizing community members and public servants. Honorees included Diane Gray upon her retirement from 100% College Prep, Scott Taylor as the new owner preserving The Cinch Saloon, Kumiko Burton upon her retirement from the City Attorney's Office, Charlie and Chrissie Harb of Charlie's Cafe in Bernal Heights, and Debbie Lehrman upon her retirement from the San Francisco Human Services Network.",
+      "outcome": "no_action",
+      "topics": [
+        "other",
+        "small_business"
+      ],
+      "speakers": [
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "TODAY IT IS MY DISTINCT HONOR TO PRESENT THE SPECIAL COMMENDATION TO MISS DIANE GRAY IN CELEBRATION OF HER EXTRAORDINARY CAREER IN HER WELL-EARNED RETIREMENT.",
+          "t0": 1837.733,
+          "verified": true
+        },
+        {
+          "name": "Danny Sauter",
+          "stance": "support",
+          "quote": "AND TODAY RECOGNIZE SCOTT TAYLOR, THE OWNER OF THE CINCH SALOON.",
+          "t0": 2395.457,
+          "verified": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "ON THE OCCASION OF HER RETIREMENT I HAVE THE GREAT HONOR TODAY OF RECOGNIZING A REMARKABLE PUBLIC SERVANT WHO HAPPENS ALSO TO BE A FRIEND AND FORMER CITY ATTORNEY'S OFFICE COLLEAGUE OF MINE WHOSE CAREER HAS BEEN DISTINGUISHED BY EXTRAORDINARY LEADERSHIP AND BY A FIERCE COMMITMENT TO JUSTICE AND EQUITY",
+          "t0": 2674.682,
+          "verified": true
+        },
+        {
+          "name": "City Attorney",
+          "stance": "support",
+          "quote": "SOME 34 YEARS AGO AS SUPERVISOR DORSEY HAS LAID OUT ,SHE STARTED SERVING OUR CITY AND LIKE BURDENS BEFORE HER INCLUDING THE INCREDIBLE 92 YEAR OLD BURTON WHO IS GRACING OUR PRESENCE TODAY. SHE HAS GIVEN VOICE TO THE VOICELESS.",
+          "t0": 3060.764,
+          "verified": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "support",
+          "quote": "TODAY I HAVE THE DISTINCT PLEASURE OF HONORING MY DEAR FRIENDS AND DINA AND THE SMALL BUSINESS OWNERS CHARLIE AND CHRISSIE HARB OWNERS OF CHARLIE'S CAFE.",
+          "t0": 3472.13,
+          "verified": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "COLLEAGUES, TODAY IT IS MY HONOR TO PRESENT A SPECIAL COMMENDATION TO DEBBIE LEHRMAN WHO EARLIER THIS YEAR RETIRED AFTER MORE THAN TWO DECADES AS THE DIRECTOR OF THE SAN FRANCISCO HUMAN SERVICES NETWORK AND A 40 YEAR CAREER OF ADVOCACY COMMUNITY ORGANIZING AND PUBLIC SERVICE.",
+          "t0": 3950.107,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1169135,
+      "summary": "Members of the public addressed the Board during general public comment. Topics raised included LGBTQ+ and trans community rights and advocacy, difficulties with abusive subtenants and inadequate enforcement of protective orders, and opposition to siting permanent supportive housing next to Marshall Elementary School.",
+      "outcome": "no_action",
+      "topics": [
+        "housing",
+        "public_safety"
+      ],
+      "speakers": [
+        {
+          "name": "Public commenter",
+          "stance": "oppose",
+          "quote": "NONE OF YOU REPRESENT THE TRANSGENDER COMMUNITY YOU SHOULD BE SUPPORTING US BUT YOU'RE NOT.",
+          "t0": 4638.1,
+          "verified": false
+        },
+        {
+          "name": "Public commenter",
+          "stance": "neutral",
+          "quote": "WHAT HAPPENS WHEN SOMEONE WHO IS NEVER ON THE LEASE NEVER SCREENED AND NEVER APPROVED, GAINED ACCESS TO A UNIT AND BEGINS TERRORIZING ROOMMATES, THREATENING OTHER TENANTS, HARASSING NEIGHBORS, DAMAGING PROPERTY AND VIOLATING COURT ORDERS?",
+          "t0": 4761.374,
+          "verified": false
+        },
+        {
+          "name": "Public commenter",
+          "stance": "oppose",
+          "quote": "BECAUSE WE DON'T WANT ATTICS AND PSYCH CASES TO BE SITED NEXT TO A VULNERABLE ELEMENTARY SCHOOL THAT HAS A HIGH PREPONDERANCE OF HOMELESS KIDS, OF IMMIGRANT KIDS OF KIDS OF COLOR AND OF LOW INCOME KIDS.",
+          "t0": 5093.126,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": [
+        "Transgender community rights and leadership accountability",
+        "Tenant and master-tenant harassment and legal loopholes in housing court",
+        "Opposition to permanent supportive housing next to elementary schools"
+      ]
+    },
+    {
+      "meta_id": 1169140,
+      "summary": "The Board considered a motion to convene in closed session on July 8, 2025, to confer with the City Attorney regarding existing litigation in which the City is petitioner and Pacific Gas and Electric Company is an adverse party. The motion was approved unanimously on a roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "settlements"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1169141,
+      "summary": "The clerk reported no imperative agenda items. The meeting was adjourned in memory of Byron Rhett.",
+      "outcome": "no_action",
+      "topics": [
+        "other",
+        "settlements"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    }
+  ],
+  "quote_verification": {
+    "verified": 12,
+    "partial": 3,
+    "dropped": 0
+  }
+}

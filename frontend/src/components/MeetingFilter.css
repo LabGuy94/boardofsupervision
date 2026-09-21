@@ -1,0 +1,188 @@
+.meeting-range-filter {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+  min-width: 0;
+  max-width: 100%;
+}
+
+.meeting-range-trigger {
+  max-width: 100%;
+  padding: 7px 12px;
+  border: 1px solid #dedfdc;
+  border-radius: 999px;
+  background: #fff;
+  color: #405866;
+  font-size: 12px;
+  line-height: 1.5;
+  text-align: left;
+  white-space: normal;
+}
+
+.meeting-range-trigger:not(:disabled):hover,
+.meeting-range-trigger[aria-expanded="true"] {
+  border-color: #245c92;
+  color: #245c92;
+}
+
+.meeting-range-trigger:disabled {
+  cursor: default;
+  opacity: .6;
+}
+
+.meeting-range-empty {
+  color: #5e6970;
+  font-size: 12px;
+}
+
+.meeting-range-panel {
+  position: fixed;
+  z-index: 100;
+  display: flex;
+  flex-direction: column;
+  width: min(360px, calc(100vw - 16px));
+  overflow: auto;
+  border: 1px solid #dedfdc;
+  border-radius: 8px;
+  background: #fff;
+  color: #182b36;
+  box-shadow: 0 8px 28px #182b361a;
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.meeting-range-panel button,
+.meeting-range-panel input {
+  font: inherit;
+}
+
+.meeting-range-presets {
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 4px;
+  padding: 12px 10px 8px;
+}
+
+.meeting-range-presets button,
+.meeting-range-actions button {
+  min-height: 32px;
+  padding: 5px 8px;
+  border: 0;
+  border-radius: 4px;
+  background: transparent;
+  color: #245c92;
+  cursor: pointer;
+}
+
+.meeting-range-presets button:hover,
+.meeting-range-actions button:hover {
+  background: #edf2f6;
+}
+
+.meeting-range-dates {
+  display: grid;
+  flex: 0 0 auto;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  gap: 12px;
+  padding: 4px 16px 14px;
+  border-bottom: 1px solid #dedfdc;
+}
+
+.meeting-range-dates label {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  min-width: 0;
+  color: #5e6970;
+  font-size: 12px;
+}
+
+.meeting-range-dates input {
+  width: 100%;
+  min-width: 0;
+  min-height: 36px;
+  padding: 6px 8px;
+  border: 1px solid #dedfdc;
+  border-radius: 4px;
+  background: #fff;
+  color: #182b36;
+  color-scheme: light;
+}
+
+.meeting-range-list {
+  min-height: 80px;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  padding: 4px 8px 8px;
+  scrollbar-width: thin;
+  scrollbar-color: #c7d2d9 transparent;
+}
+
+.meeting-range-month {
+  padding: 12px 8px 6px;
+  color: #5e6970;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.meeting-range-option {
+  display: block;
+  width: 100%;
+  min-height: 36px;
+  padding: 7px 10px;
+  border: 0;
+  border-radius: 4px;
+  background: transparent;
+  color: #182b36;
+  text-align: left;
+  cursor: pointer;
+}
+
+.meeting-range-option[aria-selected="true"] {
+  background: #edf2f6;
+  box-shadow: inset 2px 0 #245c92;
+  color: #245c92;
+}
+
+.meeting-range-option:hover {
+  background: #e5edf4;
+}
+
+.meeting-range-count {
+  color: #5e6970;
+}
+
+.meeting-range-actions {
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: flex-end;
+  padding: 8px 12px;
+  border-top: 1px solid #dedfdc;
+}
+
+.meeting-range-panel button:focus-visible,
+.meeting-range-panel input:focus-visible {
+  outline: 2px solid #245c92;
+  outline-offset: -2px;
+}
+
+@media (max-width: 800px) {
+  .meeting-range-trigger {
+    padding-block: 8px;
+  }
+}
+
+@media (max-width: 600px) {
+  .meeting-range-presets button,
+  .meeting-range-actions button,
+  .meeting-range-option {
+    min-height: 40px;
+  }
+
+  .meeting-range-dates {
+    gap: 8px;
+    padding-inline: 12px;
+  }
+}

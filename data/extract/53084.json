@@ -1,0 +1,1915 @@
+{
+  "clip_id": 53084,
+  "items": [
+    {
+      "meta_id": 1260193,
+      "summary": "President Mandelman called the regular meeting of the San Francisco Board of Supervisors to order and the clerk conducted roll call, confirming all members present. The Board recited the ancestral homeland acknowledgement and the Pledge of Allegiance. Mandelman also acknowledged SFGovTV staff member Kalina Mendoza.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1260194,
+      "summary": "The clerk announced procedures for participating in the meeting, including hybrid remote public comment access under SB 707 and the rules against disorderly conduct and personal attacks.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1260195,
+      "summary": "The Board considered the approval of meeting minutes from the June 30, July 7, and July 14, 2026 Board of Supervisors meetings. A motion to approve the minutes passed unanimously on roll call.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1260203,
+      "summary": "The Board considered 22 landmark designation ordinances under Items 1 through 22 collectively, including the Charles Katz Home at 1200 Dolores Street. The ordinances amend the Planning Code to designate properties as historic landmarks. The Board approved the measure on roll call alongside the rest of the package.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1260204,
+      "summary": "The Board considered the landmark designation of the Charles L. Hinkel Home at 740 Castro Street as part of Items 1 through 22. The ordinance amends the Planning Code to designate the property as a city landmark. It was adopted unanimously on roll call.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1260205,
+      "summary": "The Board considered landmark designation for the De Urioste Home / James C. Hormel Mansion at 181 Buena Vista Avenue East as part of Items 1 through 22. The ordinance amends the Planning Code to designate the site as a landmark. The ordinance was passed on roll call.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1260206,
+      "summary": "The Board considered landmark designation for the Duboce Triangle Greek Revival Home at 2173 15th Street within Items 1 through 22. The ordinance amends the Planning Code to formalize the landmark status. It passed unanimously.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1260207,
+      "summary": "The Board considered the landmark designation of the Early Haight Ashbury Farmhouse at 11 Piedmont Street as part of Items 1 through 22. The ordinance amends the Planning Code to designate the historic farmhouse as a landmark. It was approved on final reading.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1260208,
+      "summary": "The Board considered landmark designation for the Elliott M. Wilson Home at 1335 Guerrero Street as part of Items 1 through 22. The ordinance makes appropriate findings to designate the property under the Planning Code. The measure was adopted unanimously.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1260209,
+      "summary": "The Board considered landmark designation for Engine Company No. 44 / Adams-Van Hoesen House at 3816 22nd Street under Items 1 through 22. The ordinance designates the property in the Planning Code and was approved unanimously on roll call.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1260210,
+      "summary": "The Board considered landmark designation for the Guerrero Street Double Stick Eastlake Home at 1415-1417 Guerrero Street as part of Items 1 through 22. The ordinance amends the Planning Code to designate the structure as a landmark. It was adopted unanimously on final passage.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1260211,
+      "summary": "The Board considered landmark designation for the Henry Street Rowhouses at 191 through 197 Henry Street as part of Items 1 through 22. The ordinance amends the Planning Code to formally designate the rowhouses as landmarks. The ordinance passed unanimously.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1260212,
+      "summary": "The Board considered landmark designation for Holy Innocents Church at 455 Fair Oaks Street as part of Items 1 through 22. The ordinance amends the Planning Code to grant landmark status. It passed unanimously on final reading.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1260213,
+      "summary": "The Board considered landmark designation for the John J. Clark House at 210 Douglas Street as part of Items 1 through 22. The ordinance amends the Planning Code to provide formal landmark designation. The measure passed unanimously.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1260214,
+      "summary": "The Board considered landmark designation for Mission Congregational Church at 3689 19th Street as part of Items 1 through 22. The ordinance amends the Planning Code to add landmark protections. It passed on final reading with unanimous support.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1260215,
+      "summary": "The Board considered landmark designation for the Phoenix Brewery at 552 Noe Street under Items 1 through 22. The ordinance amends the Planning Code to designate the historic brewery as a landmark. It passed unanimously on roll call.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1260216,
+      "summary": "The Board considered landmark designation for the Richard Spreckels Mansion / Buena Vista Studios at 737 Buena Vista Avenue West as part of Items 1 through 22. The ordinance amends the Planning Code to designate the property as a landmark. It was adopted unanimously.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1260217,
+      "summary": "The Board considered landmark designation for the Second Church of Christ Scientist at 651 Dolores Street within Items 1 through 22. The ordinance amends the Planning Code to provide formal landmark designation. It was approved unanimously on roll call.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1260218,
+      "summary": "The Board considered landmark designation for the Tietz-Beneke House at 657 Henry Street under Items 1 through 22. The ordinance amends the Planning Code to establish the property as a city landmark. It passed unanimously.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1260219,
+      "summary": "The Board considered landmark designation for the William Shaughnessy Home at 394 Fair Oaks Street as part of Items 1 through 22. The ordinance amends the Planning Code to designate the residence as a historic landmark. It was adopted unanimously on final reading.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1260220,
+      "summary": "The Board considered landmark designation for the Fernando Nelson Home at 701 Castro Street within Items 1 through 22. The ordinance amends the Planning Code to designate the structure as a landmark. The ordinance passed unanimously.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1260221,
+      "summary": "The Board considered landmark designation for the Lange House at 199 Carl Street under Items 1 through 22. The ordinance amends the Planning Code to establish landmark designation for the property. It was passed on final reading with unanimous support.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1260222,
+      "summary": "The Board considered landmark designation for Engine Company No. 33 at 117 Broad Street, the final ordinance among Items 1 through 22. The ordinance amends the Planning Code to designate the historic firehouse as a landmark. It was adopted unanimously on roll call.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1260223,
+      "summary": "The Board considered an ordinance to accept an irrevocable offer of public infrastructure associated with Phase 2 of the Hunters View HOPE SF project, dedicate improvements for public roadway use, establish street grades and sidewalk widths, and delegate authority to Public Works. The ordinance was finally passed without objection.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1260226,
+      "summary": "The Board debated an ordinance amending the Public Works, Administrative, Planning, and Business and Tax Regulations codes to allow developers to pay in-lieu fees or provide landscaping instead of planting street trees, exempt accessory dwelling units, and eliminate appeals to the Board of Appeals for hazardous tree removals. Supervisors Sauter and Fielder expressed concerns regarding tree canopy reduction and loss of community appeal processes, while Supervisors Melgar and Mahmood supported the streamlined process and central management. The ordinance passed on first reading by a 7-4 vote.",
+      "outcome": "passed",
+      "topics": [
+        "environment",
+        "planning_land_use"
+      ],
+      "speakers": [
+        {
+          "name": "Danny Sauter",
+          "stance": "oppose",
+          "quote": "I THINK THIS HAS AN EQUAL CHANCE OF MAYBE IMPROVING SOME THINGS AS IT DOES DETRACTING FROM WHAT WE REALLY SHOULD BE FOCUSED ON HERE WHICH IS A HEALTHIER TREE CANOPY AND STRONGER NEIGHBORHOODS.",
+          "t0": 699.201,
+          "verified": false
+        },
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "I DO THINK THAT IT MAKES IT EASIER FOR SMALLER PROPERTY OWNERS, MOSTLY HOMEOWNERS ON THE WEST SIDE TO ADD THOSE AVENUES TO DENSIFY THEIR PROPERTIES WHICH IS WHAT WE WANT.",
+          "t0": 812.121,
+          "verified": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "oppose",
+          "quote": "FIRST, THIS LEGISLATION MAKES IT MORE DIFFICULT TO PROTECT EXISTING TREE CANOPY BY REMOVING THE APPEALS PROCESS FOR CITY TREES SLATED FOR REMOVALS IN 2018.",
+          "t0": 970.364,
+          "verified": false
+        },
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "THAT'S WHY IN COMMITTEE I INTRODUCED AN AMENDMENT TO ALLOW FOR HAZARD TREE REMOVALS TO STILL BE APPEALED TO THE DIRECTOR OF PUBLIC WORKS AND THIS AMENDMENT WAS PASSED UNANIMOUSLY.",
+          "t0": 1101.701,
+          "verified": false
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "question",
+          "quote": "IT HURTS ME TO TAKE JURISDICTION AWAY FROM THE BOARD OF APPEALS BUT FROM MY CONVERSATION WITH DIRECTOR SHORT, IT SOUNDS LIKE THE WAY IN WHICH THESE APPEALS AND THE NUMBER OF THESE APPEALS TO THE BOARD OF APPEALS HAS INCREASED SIGNIFICANTLY",
+          "t0": 1188.321,
+          "verified": false
+        },
+        {
+          "name": "Department head",
+          "stance": "neutral",
+          "quote": "PRESERVATION IS THE NUMBER ONE GOAL AND TREE RISK MANAGEMENT AND YOU TAKE AS MANY MEASURES AS YOU CAN TO LIMIT THE CHANCES OF THE TREE DAMAGING SOMETHING AS A VERY LAST RESORT.",
+          "t0": 1382.63,
+          "verified": false
+        }
+      ],
+      "votes": [
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "no",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1260227,
+      "summary": "Supervisor Wong presented a commendation recognizing Vets Boats, a veteran-led organization providing therapeutic sailing and maritime community to Bay Area veterans. Board member Matt Gettleman accepted the commendation and spoke on the importance of community support in preventing veteran suicide.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Alan Wong",
+          "stance": "support",
+          "quote": "TODAY I'M HONORED TO RECOGNIZE BOTH FOR THEIR EXTRAORDINARY WORK SUPPORTING OUR VETERANS AND AS WE MARK SUICIDE PREVENTION MONTH WE ALSO RECOGNIZE THE VITAL ROLE THAT COMMUNITY CONNECTION AND A RENEWED SENSE OF PURPOSE CAN PLAY IN VETERANS LIVES.",
+          "t0": 1915.167,
+          "verified": true
+        },
+        {
+          "name": "Public commenter",
+          "stance": "support",
+          "quote": "WHAT I'D LIKE TO SAY ABOUT THE ORGANIZATION JUST FIRST AND FOREMOST IS IT'S FOUNDED BY VETERANS FOR VETERANS. IT'S BEEN AROUND FOR 14 YEARS NOW AND YOU KNOW, I THINK THE BIGGEST THING THAT I CAN SAY TO THE CITY AND COUNTY IS HOW MEANINGFUL AND IMPACTFUL",
+          "t0": 2046.72,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1260238,
+      "summary": "Supervisors introduced new legislation and resolutions during roll call for introductions. Items introduced included commemorations for KTSF and KALW, anti-eviction protections based on HUD fair market rent thresholds, planning code changes for legalizing nonconforming rear yard structures, hearings on surplus public property utilization for housing, memorials, autonomous vehicle emergency response coordination, and protections for small business tenants and worker cooperatives.",
+      "outcome": "referred",
+      "topics": [
+        "housing",
+        "small_business",
+        "public_safety",
+        "planning_land_use"
+      ],
+      "speakers": [
+        {
+          "name": "Chyanne Chen",
+          "stance": "support",
+          "quote": "",
+          "t0": 2000.816,
+          "verified": false
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "support",
+          "quote": "TODAY I'M INTRODUCING LEGISLATION TO HELP STEM THE TIDE OF SAN FRANCISCO'S EVICTION CRISIS. EVICTIONS IN SAN FRANCISCO HIT A TEN YEAR HIGH LAST YEAR",
+          "t0": 2340.841,
+          "verified": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "TODAY I AM INTRODUCING AN ORDINANCE TO MAKE A MINOR ADJUSTMENTS TO THE PLANNING CODE TO EXTEND ELIGIBILITY FOR LEGAL NONCONFORMING REAR YARD STRUCTURES TO INCLUDE THOSE CONSTRUCTED BETWEEN 2003 THE CURRENT CUTOFF AND 2010.",
+          "t0": 2595.501,
+          "verified": true
+        },
+        {
+          "name": "Danny Sauter",
+          "stance": "support",
+          "quote": "I AM TODAY SUBMITTING A HEARING REQUEST TO DISCUSS THE BLAZE FINDING AND POLICY OPTIONS WITH THE DEPARTMENT OF REAL ESTATE.",
+          "t0": 2884.609,
+          "verified": true
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "I AM HONORING THE LIFE AND LEGACY OF VIVIAN AND HOPKINS, A TRUE DAUGHTER OF SAN FRANCISCO.",
+          "t0": 2930.254,
+          "verified": true
+        },
+        {
+          "name": "Alan Wong",
+          "stance": "support",
+          "quote": "I AM INTRODUCING A RESOLUTION TO SUPPORT CONGRESSMEMBER KEVIN MULLINS AVE EMERGENCY RESPONSE COORDINATION ACT.",
+          "t0": 3083.87,
+          "verified": false
+        },
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "TODAY I AM OFFICIALLY INTRODUCING A PAIR OF LEGISLATION THE SMALL BUSINESS TENANTS UNION AND THE WORKERS OPPORTUNITY TO PURCHASE ACT TODAY.",
+          "t0": 3248.319,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1260232,
+      "summary": "The Board held a public hearing regarding an appeal of Public Works' tentative parcel map approval for a two-unit condominium conversion at 2722-2724 Folsom Street. The appellant challenged a condition requiring abatement of planning code violations concerning an alleged unauthorized dwelling unit, while Public Works and Planning maintained the condition was standard and necessary for General Plan consistency. Following testimony, the hearing was filed.",
+      "outcome": "no_action",
+      "topics": [
+        "housing",
+        "planning_land_use"
+      ],
+      "speakers": [
+        {
+          "name": "Public commenter",
+          "stance": "support",
+          "quote": "TO BE CLEAR, THE OWNERS ARE NOT APPEALING THE APPROVED COUNT OF A CONVERSION MAP. INSTEAD THEY APPEAL THE CONDITIONS IMPOSED AND ADDED BY THE PLANNING DEPARTMENT IN THEIR REFERRAL FORM WHICH IS ON PAGE 180 OF THE BOARD'S PACKET.",
+          "t0": 3733.842,
+          "verified": true
+        },
+        {
+          "name": "Department head",
+          "stance": "oppose",
+          "quote": "THE CITY THROUGH PUBLIC WORKS HAS ALWAYS REQUIRED THAT ALL CONDO CONVERSIONS RECEIVE AN INSPECTION AND CORRECT ANY BUILDING CODE VIOLATIONS BEFORE CONVERTING. WE BELIEVE THIS IS WITHIN PUBLIC WORKS AUTHORITY UNDER THE MAP ACT.",
+          "t0": 4478.958,
+          "verified": false
+        },
+        {
+          "name": "Department head",
+          "stance": "oppose",
+          "quote": "THE CONDITION OF APPROVAL WAS NECESSARY IN ORDER TO MAKE THE FINDING THAT THE APPLICATION IS CONSISTENT WITH THE GENERAL PLAN BECAUSE WE WILL REQUIRE THAT ALL EITHER EXISTING FIRE VIOLATIONS OR ANY POTENTIAL FUTURE VIOLATIONS HAD BEEN FULLY ABATED BEFORE THE FINAL MAP IS ISSUED.",
+          "t0": 4669.959,
+          "verified": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "question",
+          "quote": "IS THIS A TYPICAL CONDITION OF APPROVAL FOR A TENTATIVE MAP SUCH AS THIS ONE? AND WHY OR WHY NOT?",
+          "t0": 4747.459,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1260237,
+      "summary": "Following the hearing on 2722-2724 Folsom Street, Supervisor Fielder moved to approve the decision of Public Works upholding the tentative parcel map approval (Item 26) and table the motions to conditionally disapprove and prepare findings (Items 27 and 28). The motion to approve Public Works' decision and table disapproval passed unanimously.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "planning_land_use"
+      ],
+      "speakers": [
+        {
+          "name": "Jackie Fielder",
+          "stance": "support",
+          "quote": "I AM PERSUADED THAT PUBLIC WORKS AND PLANNING HAVE THE AUTHORITY TO IMPOSE A DISPUTED CONDITION ON THIS TENTATIVE MAP APPROVAL AND THAT THEY PROPERLY DID SO. I DO NOT FIND THE EVIDENCE OR ARGUMENTS PRESENTED BY THE APPELLANT TO SUPPORT REMOVAL OF THE CONDITION.",
+          "t0": 5217.355,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1260239,
+      "summary": "The Board heard general public comment from community members on a variety of municipal topics. Multiple speakers urged the Board to declare an emergency and halt artificial intelligence development, while others discussed street closures in Hayes Valley, peer crisis response counseling, and public safety on Sixth Street.",
+      "outcome": "no_action",
+      "topics": [
+        "public_safety",
+        "health",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Public commenter",
+          "stance": "neutral",
+          "quote": "I THINK THIS IS AN EMERGENCY THAT YOU NEED TO DECLARE AND LOOK INTO WHAT THESE COMPANIES ARE DOING, WHAT THEY'RE DEVELOPING, WHAT THEY SAY ABOUT IT THEMSELVES AND PROTECT THE PUBLIC SAFETY.",
+          "t0": 5458.685,
+          "verified": true
+        },
+        {
+          "name": "Public commenter",
+          "stance": "neutral",
+          "quote": "SO I URGE YOU TO DECLARE AN AI EMERGENCY AND TAKE EMERGENCY ACTION AS SOON AS POSSIBLE FOR PUBLIC SAFETY A IMMEDIATELY HALT ALL RESEARCH AND DEVELOPMENT TOWARDS AGI PERMANENTLY BAN DEVELOPMENT OF AGI AND SUPERINTELLIGENCE IN THIS JURISDICTION.",
+          "t0": 5539.699,
+          "verified": true
+        },
+        {
+          "name": "Public commenter",
+          "stance": "neutral",
+          "quote": "AFTER APPROXIMATELY 90 WEEKS OF DOCUMENTATION ENGAGEMENT THERE REMAINS NO MEANINGFUL INDEPENDENT CHECKPOINT WITHIN THAT PROCESS. THAT IS AN ACCOUNTABILITY GAP AND IS ONE THIS BOARD SHOULD EXAMINE",
+          "t0": 5926.17,
+          "verified": false
+        },
+        {
+          "name": "Public commenter",
+          "stance": "neutral",
+          "quote": "SO RESPECTFULLY I ASK ALL THE SUPERVISORS DO WHAT YOUR SDR TO SRT RESPONDERS DO EVERY CALL WITH WHATEVER YOU'VE GOT MAKE IT WORK. LET'S DO WHAT WE CAN TOGETHER TO BREAK THE CYCLE.",
+          "t0": 7059.307,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": [
+        "Demanding a municipal emergency declaration and ban on frontier artificial intelligence research",
+        "Concerns over recurring Hayes Street closures and lack of administrative appeals",
+        "Support for keeping peer counselors on the Street Crisis Response Team"
+      ]
+    },
+    {
+      "meta_id": 1260243,
+      "summary": "The Board considered Items 31 through 33 introduced for adoption without committee reference, consisting of resolutions urging Kaiser Permanente to drop contract demands and recognizing World Hepatitis Day. Supervisor Sherrill severed Item 33 for separate consideration. The remaining resolutions, Items 31 and 32, were adopted on a 10-0 roll call with Supervisor Melgar absent.",
+      "outcome": "passed",
+      "topics": [
+        "labor",
+        "health"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "absent",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1260246,
+      "summary": "Supervisor Sherrill spoke in support of a resolution declaring September 2026 as National Service Dog Month in the City and County of San Francisco, commending the work of Canine Companions. The resolution, along with the consent agenda items, was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "settlements",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Stephen Sherrill",
+          "stance": "support",
+          "quote": "COLLEAGUES TODAY I AM VERY PLEASED TO BE VOTING ON THIS RESOLUTION RECOGNIZING SEPTEMBER 2026 AS NATIONAL SERVICE DOG MONTH HERE IN SAN FRANCISCO.",
+          "t0": 7464.412,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1260304,
+      "summary": "President Mandelman adjourned the meeting in memory of Vivian Ann Hopkins on behalf of Supervisor Walton.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    }
+  ],
+  "quote_verification": {
+    "verified": 12,
+    "partial": 12,
+    "dropped": 1
+  }
+}

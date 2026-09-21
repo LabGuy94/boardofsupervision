@@ -1,0 +1,1064 @@
+{
+  "clip_id": 51912,
+  "items": [
+    {
+      "meta_id": 1218441,
+      "summary": "Board President Rafael Mandelman called the regular meeting of the San Francisco Board of Supervisors to order. The Clerk conducted roll call, finding all eleven members present, followed by the Land Acknowledgement and the Pledge of Allegiance.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1218442,
+      "summary": "The Clerk announced general meeting communications, including broadcast availability on SFGovTV, options for submitting written public comment, and instructions for requesting disability accommodations and language assistance.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1218443,
+      "summary": "The Board considered the approval of the meeting minutes from the January 27, 2026 regular meeting. The minutes were approved unanimously by roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1218445,
+      "summary": "The Board called the Consent Agenda for consideration. No supervisor requested any items to be severed for separate debate.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1218447,
+      "summary": "The Board conducted a roll call vote on Consent Agenda Items 1 through 4, which included appropriations for dry dock removal and Portsmouth Square garage fares, Administrative Code amendments regarding Fire Department appointments, and the Fisherman's Wharf Entertainment Zone. The ordinances were passed unanimously.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "transit",
+        "public_safety",
+        "small_business"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1218456,
+      "summary": "The Board initiated the New Business portion of the agenda.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1218458,
+      "summary": "The Board considered an ordinance appropriating $4,000,000 from the General City Reserve to the Department of Emergency Management for expanded street conditions staffing, and $150,000 to the Human Rights Commission for community initiatives in FY2025-2026. The ordinance was passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1218459,
+      "summary": "The Board considered a resolution approving a third contract amendment with IMCO Parking, LLC for the management of off-street parking facilities at Pier 32 and Pier 74. The amendment increased the contract amount by $12 million for a total not-to-exceed amount of $219 million. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "transit",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1218460,
+      "summary": "The Board considered a resolution approving a second contract amendment with LAZ Parking California, LLC for the management of off-street parking facilities at Triangle Lot and Seawall 321. The amendment added $9 million for a total contract amount of $189 million through January 31, 2032. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "transit",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1218461,
+      "summary": "The Board considered a resolution approving the second amendment to an agreement with YMCA of San Francisco to provide mental health services to children and youth. The amendment extends the term through June 30, 2028 and increases the total contract amount to approximately $11.6 million. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1218462,
+      "summary": "The Board considered a resolution authorizing the Treasure Island Development Authority to execute standard grant agreements with the California Department of Housing and Community Development under the Affordable Housing and Sustainable Communities Program. The award provides approximately $45.1 million, including a $30 million loan for 100% affordable housing at Treasure Island Parcel IC4.3 and $15.1 million for transit improvements. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "transit",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1218464,
+      "summary": "The Board considered an ordinance amending the Planning Code to allow additional principally or conditionally permitted uses in historic buildings citywide. The ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1218465,
+      "summary": "The Board considered an ordinance amending the Administrative and Public Works codes regarding the Shared Spaces Program to remove Planning Department design review and eliminate specific neighbor notification, documented outreach, and alternate seating requirements. The ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1218468,
+      "summary": "The Board considered an ordinance repealing the 2022 San Francisco Fire Code and adopting the 2025 Fire Code based on state and international standards with local amendments. The ordinance was passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1218471,
+      "summary": "The Board considered a resolution initiating landmark designation under Article 10 of the Planning Code for the Alexander Adams Home located at 1450 Masonic Avenue. Taken together with Items 14 through 37, the resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1218472,
+      "summary": "The Board considered a resolution initiating landmark designation for the Hinkel House at 740 Castro Street. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1218473,
+      "summary": "The Board considered a resolution initiating landmark designation for the Born Home at 99 Buena Vista Terrace. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1218474,
+      "summary": "The Board considered a resolution initiating landmark designation for the Buena Vista Farmhouse at 11 Piedmont Street. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1218475,
+      "summary": "The Board considered a resolution initiating landmark designation for the Charles Katz Home at 1200 Dolores Street. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1218476,
+      "summary": "The Board considered a resolution initiating landmark designation for the Duboce Triangle Greek Revival Home at 2173 15th Street. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1218477,
+      "summary": "The Board considered a resolution initiating landmark designation for the Elliott M. Wilson Home at 1335 Guerrero Street. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1218478,
+      "summary": "The Board considered a resolution initiating landmark designation for the Fernando Nelson House at 701 Castro Street. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1218479,
+      "summary": "The Board considered a resolution initiating landmark designation for the Engine Company No. 44 building at 3816 22nd Street. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1218480,
+      "summary": "The Board considered resolutions initiating landmark designation for the Floyd Spreckels Mansion at 737 Buena Vista Avenue West and Golden Gate Lutheran Church at 3689 19th Street. The resolutions were adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1218482,
+      "summary": "The Board considered a resolution initiating landmark designation for the Guerrero Street Double Stick Eastlake House at 1415-1417 Guerrero Street. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1218483,
+      "summary": "The Board considered a resolution initiating landmark designation for the Henry Street Rowhouses at 191-197 Henry Street. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1218484,
+      "summary": "The Board considered a resolution initiating landmark designation for the Holy Innocents Church at 455 Fair Oaks Street. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1218485,
+      "summary": "The Board considered a resolution initiating landmark designation for the James C. Hormel Mansion at 181 Buena Vista Avenue East. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1218486,
+      "summary": "The Board considered a resolution initiating landmark designation for the John J. Clark House at 210 Douglas Street. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1218487,
+      "summary": "The Board considered a resolution initiating landmark designation for the Kirby House and Phoenix Brewery buildings at 552 and 560 Noe Street. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1218488,
+      "summary": "The Board considered a resolution initiating landmark designation for the Lange House at 199 Carl Street. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1218489,
+      "summary": "The Board considered a resolution initiating landmark designation for the Mission Dolores Academy at 3370 16th Street. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1218490,
+      "summary": "The Board considered resolutions initiating landmark designation for the Lebanon Presbyterian Church / Noe Valley Ministry at 1021 Sanchez Street and the Poole-Bell House at 192 Laidley Street. The resolutions were adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1218492,
+      "summary": "The Board considered a resolution initiating landmark designation for the Power House at 1526 Masonic Avenue. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1218493,
+      "summary": "The Board considered a resolution initiating landmark designation for the Second Church of Christ Scientist at 651 Taylor Street. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1218494,
+      "summary": "The Board considered a resolution initiating landmark designation for the Second Church of Christ Scientist at 651 Taylor Street. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1218495,
+      "summary": "The Board considered a resolution initiating landmark designation for the Shaughnessy House at 394 Fair Oaks Street. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1218496,
+      "summary": "The Board considered a resolution initiating landmark designation for the Tietz/Beneke House at 657 Guerrero Street. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1218497,
+      "summary": "The Board considered a resolution adding the commemorative street name 'Carmen Johnson Way' to the 1100 block of Pierce Street between Turk and Eddy streets. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1218500,
+      "summary": "The Board considered a motion approving the mayoral appointment of Alison Warner to the Redevelopment Successor Agency Oversight Board. Supervisor Shamann Walton moved to amend the title to remove reference to the Commission on Community Investment and Infrastructure. The amendment was approved, and the motion as amended was approved without objection.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "I WOULD LIKE TO MAKE A MOTION TO AMEND THIS ITEM AND TO CORRECT THE TITLE STATING COMMONLY KNOWN AS THE COMMISSION ON COMMUNITY INVESTMENT IN INFRASTRUCTURE. STRIKING THAT ON LINES FOUR AND FIVE.",
+          "t0": 839.584,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1218502,
+      "summary": "Supervisors introduced new legislation and hearing requests during Roll Call for Introductions. Supervisor Chyanne Chen requested a hearing on affordable housing mandates and introduced a Women's History Month resolution; Supervisor Bilal Mahmood introduced a resolution on artificial intelligence and civil liberties; Board President Rafael Mandelman scheduled a Committee of the Whole hearing on charter reform; Supervisor Danny Sauter requested a hearing on budget impacts on seniors; and Supervisor Stephen Sherrill introduced legislation creating a technical advisory council for fire sprinkler retrofit exemptions.",
+      "outcome": "no_action",
+      "topics": [
+        "housing",
+        "budget",
+        "health",
+        "public_safety",
+        "elections_governance"
+      ],
+      "speakers": [
+        {
+          "name": "Chyanne Chen",
+          "stance": "support",
+          "quote": "TODAY I AM INTRODUCING A HEARING REQUEST TO ADDRESS SAN FRANCISCO'S UNFUNDED AFFORDABLE HOUSING MANDATE. SAN FRANCISCO VOTERS AND CITY OFFICIALS HAVE REPEATEDLY INDICATED THAT HOUSING AFFORDABILITY IT'S ONE OF THE CITY'S TOP CONCERNS",
+          "t0": 888.533,
+          "verified": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "TODAY SUPERVISOR CHERYL AND I ARE INTRODUCING A RESOLUTION AFFIRMING SAN FRANCISCO'S COMMITMENT TO CIVIL LIBERTIES, ETHICAL INNOVATION AND DEMOCRATIC ACCOUNTABILITY IN THE AGE OF ARTIFICIAL INTELLIGENCE",
+          "t0": 1255.604,
+          "verified": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "I JUST HAVE A MOTION THAT I'M INTRODUCING TO TWO SCHEDULING COMMITTEE FOR THE WHOLE FOR MARCH 17TH. WE'D VOTE ON IT NEXT WEEK. I BACK ON FEBRUARY 10TH INTRODUCED A HEARING REQUEST FOR A HEARING ON THE WORK OF THE PROP E STREAMLINING TASK FORCE COMMITTEE.",
+          "t0": 1347.295,
+          "verified": true
+        },
+        {
+          "name": "Danny Sauter",
+          "stance": "support",
+          "quote": "COLLEAGUES TODAY I'M INTRODUCING HEARING REQUEST TO EXAMINE HOW THIS YEAR'S PROPOSED BUDGET WILL IMPACT OLDER ADULTS THROUGHOUT SAN FRANCISCO. SENIORS ARE THE CITY'S FASTEST GROWING POPULATION IN SAN FRANCISCO.",
+          "t0": 1396.544,
+          "verified": false
+        },
+        {
+          "name": "Stephen Sherrill",
+          "stance": "support",
+          "quote": "SUPERVISOR SAUTER AND I ARE INTRODUCING LEGISLATION TO CONVENE A TECHNICAL ADVISORY COUNCIL. THE COUNCIL WILL INCLUDE RESIDENTS IMPACTED BY THIS PURCHASE SPRINKLER RETROFIT MANDATE TECHNICAL EXPERTS REPRESENTATIVES FROM RELEVANT CITY DEPARTMENTS AND A MEMBER OF THE BOARD OF SUPERVISORS.",
+          "t0": 1540.961,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1218501,
+      "summary": "The Board held a special commendations ceremony honoring Lord Mayor Fergal Dennehy of Cork, Ireland; Edgewood Center for Children and Families on its 175th anniversary; hospitality leader Andrew Freeman; Dr. Gregoria Nova Cahill of City College of San Francisco; the organizers of the 2025 Castro Halloween Night Markets; and the Jing Mo Athletic Association.",
+      "outcome": "no_action",
+      "topics": [
+        "small_business",
+        "health",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "I'M GOING TO START TODAY BY PRESENTING A SPECIAL COMMENDATION TO LORD MAYOR FULLER FERGAL DENNEHY WHO SERVES AS THE HEAD OF THE CORK CITY COUNCIL.",
+          "t0": 1635.47,
+          "verified": false
+        },
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "TODAY I AM JOINING SUPERVISOR ALAN WONG IN COMMENDING EDGEWOOD AS WE CELEBRATE THEIR 175TH ANNIVERSARY SINCE 1851 AT WHAT HAS BEEN A PART OF THE FABRIC OF SAN FRANCISCO AND ONE OF THE MOST IMPORTANT INSTITUTIONS ON THE WEST SIDE.",
+          "t0": 2226.362,
+          "verified": false
+        },
+        {
+          "name": "Alan Wong",
+          "stance": "support",
+          "quote": "FAMILIES ACROSS OUR CITY RELY ON EDGEWOOD DURING SOME OF THE MOST CHALLENGING MOMENTS IN THEIR LIVES AT A TIME WHEN YOUTH MENTAL HEALTH NEEDS ARE GROWING. EDGEWOOD EMPHASIS ON EARLY INTERVENTION PREVENTION AND WHOLE FAMILY SUPPORT IS MORE IMPORTANT THAN EVER.",
+          "t0": 2537.32,
+          "verified": false
+        },
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "COLLEAGUES I AM TODAY HONORED TO RECOGNIZE ANDREW FREEMAN, A NATIONALLY RESPECTED HOSPITALITY LEADER AND ONE OF SAN FRANCISCO'S MOST DEDICATED CULTURAL CHAMPIONS.",
+          "t0": 2892.94,
+          "verified": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "support",
+          "quote": "IN HONOR OF INTERNATIONAL WOMEN'S DAY AND WOMEN'S HISTORY MONTH, DR. CAHILL IS A LEADER IN DISTRICT NINE WHO CENTERS JOY LOVE FOR COMMUNITY AND A COMMITMENT TO ACCESSIBLE AND QUALITY HIGHER EDUCATION.",
+          "t0": 3455.597,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1218503,
+      "summary": "Members of the public addressed the Board during general public comment. Speakers voiced opposition to repealing Proposition I transfer tax funds intended for social housing, raised community issues in the Western Addition and Fillmore, criticized police department IT contracting, and complained about the Hayes Street closure process.",
+      "outcome": "no_action",
+      "topics": [
+        "housing",
+        "budget",
+        "transit",
+        "public_safety"
+      ],
+      "speakers": [
+        {
+          "name": "Public commenter",
+          "stance": "oppose",
+          "quote": "",
+          "t0": 5561.246,
+          "verified": false
+        },
+        {
+          "name": "Public commenter",
+          "stance": "neutral",
+          "quote": "HI MY NAME IS RICHARD JOHNSON AND I'M HERE TO SPEAK ABOUT THE HAYES STREET CLOSURE I THINK THIS IS MY THIRD TIME IS SPEAKING IN FRONT OF THE BOARD . I HAVE SPOKE VERY CLEARLY IN FRONT OF THE S.F. MTA",
+          "t0": 5939.448,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": [
+        "Opposition to repealing Proposition I transfer taxes and demand to fund social housing",
+        "Community development and equity in the Fillmore and Western Addition",
+        "Discontent with the Hayes Street closure and MTA appeal procedures"
+      ]
+    },
+    {
+      "meta_id": 1218512,
+      "summary": "The Board considered the adoption without committee reference agenda. Supervisors severed Items 43, 47, 48, and 55 for individual consideration, and unanimously approved the remaining unsevered resolutions (Items 44-46 and 49-54) by roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1218515,
+      "summary": "The Board considered a resolution urging the Department of Emergency Management and Department of Technology to prioritize the restoration and funding of the outdoor public warning siren system in coastal and tsunami evacuation zones. The resolution was adopted 10-1, with Board President Rafael Mandelman dissenting.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1218519,
+      "summary": "The Board considered a resolution supporting California Senate Bill 875, the Access to Public Power Act introduced by State Senator Scott Wiener, which protects local jurisdictions attempting to establish or expand municipal public power by easing eminent domain asset acquisition from PG&E. The resolution was adopted unanimously.",
+      "outcome": "passed",
+      "topics": [
+        "environment",
+        "elections_governance"
+      ],
+      "speakers": [
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "SB 875 WHICH MAKES SEVERAL CHANGES TO THE LEGAL PROCESS BY WHICH A PUBLIC UTILITY CAN ACQUIRE ASSETS OF AN INVESTOR OWNED UTILITY THROUGH THE EXERCISE OF EMINENT DOMAIN. SPECIFICALLY, THIS LEGISLATION REMOVES SPECIAL PROTECTIONS THAT INVESTOR OWNED UTILITIES CURRENTLY ENJOY",
+          "t0": 7003.111,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1218520,
+      "summary": "The Board considered a resolution supporting Assembly Bill 1897, authored by Assemblymember Matt Haney, which clarifies legal standards for continued post-custody mental health treatment for incarcerated individuals with severe mental illness using structured clinical evaluations. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "public_safety"
+      ],
+      "speakers": [
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "AB 1897 AMENDS THE LAW TO MANDATE THAT WHEN INDIVIDUALS WITH SEVERE MENTAL ILLNESS ARE RELEASED FROM PRISON, THE DETERMINATION OF WHETHER THEY NEED MENTAL HEALTH CARE IS BASED ON STRUCTURED CLINICAL ASSESSMENT INSTEAD OF GUESSWORK.",
+          "t0": 7221.737,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1218527,
+      "summary": "The Board considered a motion authorizing the preparation of proponent, opponent, and rebuttal ballot arguments for the June 2, 2026 direct primary election. The motion was amended to designate Bilal Mahmood as author of the proponent argument on lifetime term limits, Mayor Lurie for the G.O. bond proponent argument, and Connie Chan as author of the opponent argument on term limits, and was approved as amended without objection.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "SO I'M GOING TO LOOK FOR A MOTION TO AMEND TO AMEND THE MOTION TO DESIGNATE SUPERVISOR MAHMUD TO WRITE THE PROPONENT ARGUMENT FOR THE CHARTER AMENDMENT ON LIFETIME TERM LIMITS. DESIGNATE MAYOR LURIE TO WRITE THE PROPONENT ARGUMENT FOR THE G.O. BOND. DESIGNATE SUPERVISOR CHAN",
+          "t0": 7308.174,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1218506,
+      "summary": "The Board convened in closed session pursuant to motion M26-018 to receive advice and confer with the City Attorney regarding existing litigation in Airlines for America v. City and County of San Francisco.",
+      "outcome": "no_action",
+      "topics": [
+        "settlements",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1218505,
+      "summary": "The Board convened in closed session to discuss pending litigation. Upon returning to open session, the Board voted unanimously not to disclose its closed session deliberations.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1218507,
+      "summary": "The Board held a closed session regarding existing litigation in Airlines for America v. City and County of San Francisco. In open session, Board President Rafael Mandelman announced that no action was taken during closed session.",
+      "outcome": "no_action",
+      "topics": [
+        "settlements"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1218548,
+      "summary": "The Board concluded its scheduled business and adjourned the meeting.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    }
+  ],
+  "quote_verification": {
+    "verified": 10,
+    "partial": 5,
+    "dropped": 1
+  }
+}

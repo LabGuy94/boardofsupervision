@@ -1,0 +1,813 @@
+{
+  "clip_id": 52756,
+  "items": [
+    {
+      "meta_id": 1250879,
+      "summary": "Board President Rafael Mandelman called the regular meeting to order, followed by the roll call and land acknowledgment. All eleven supervisors were present. Supervisor Jackie Fielder was granted privilege of the floor to address her colleagues and the public upon returning from an extended medical leave.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [
+        {
+          "name": "Jackie Fielder",
+          "stance": "neutral",
+          "quote": "I WANT TO THANK YOU FOR YOUR GRACE IN EXTENDING A EXCUSE FOR MY ABSENCE FOR AN EXTENDED LEAVE. IT'S NOT SOMETHING THAT I WANTED TO DO BUT SOMETHING THAT MY DOCTOR RECOMMENDED AND I'M VERY GLAD I DID TAKE THE TIME TO PROTECT MY MENTAL HEALTH.",
+          "t0": 172.811,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1250880,
+      "summary": "The Clerk of the Board announced instructions for public participation, broadcast channels, written comment submissions, and accommodation requests under the Americans with Disabilities Act.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1250882,
+      "summary": "The Board considered the consent agenda consisting of Items 1 through 4, which included four litigation settlements. The items were approved unanimously on a roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "settlements"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1250884,
+      "summary": "The Board approved four routine settlements on the consent agenda: Cruz and Jimenez ($3,000,000), Kennedy-Phelps ($50,000), Williams ($35,000), and unlitigated claim Banks ($100,000). The ordinances passed on first reading and the resolution was adopted unanimously.",
+      "outcome": "passed",
+      "topics": [
+        "settlements"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1250893,
+      "summary": "The Board considered an ordinance amending the Administrative Code regarding the Domestic Violence Shelter-Based Program Fund, transferring administrative duties to the Mayor's Office of Housing and Community Development and aligning local provisions with state law. The ordinance was finally passed without objection.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "health",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1250897,
+      "summary": "The Board considered a 308-page code cleanup ordinance removing obsolete reporting requirements, defunct funds, and inactive programs across various municipal codes. Multiple supervisors voiced concerns regarding legislative transparency, community outreach, and specific reporting eliminations. The Board voted without objection to continue the item for two weeks to July 14, 2026.",
+      "outcome": "continued",
+      "topics": [
+        "elections_governance",
+        "small_business",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "SO I THINK IT WOULD MAKE SENSE TO GIVE THIS GIVE US A LITTLE BIT OF TIME TO THINK THROUGH THESE ISSUES AND FIGURE OUT IF WE NEED TO MAKE AMENDMENTS OR WHAT WE NEED TO DO WITH US. SO I WOULD LIKE TO I WILL MOVE THAT WE CONTINUE THIS ITEM FOR TWO WEEKS.",
+          "t0": 532.609,
+          "verified": false
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "question",
+          "quote": "JUST KIND OF WANT TO UNDERSTAND WHAT EVEN BROUGHT THIS ABOUT. WHAT WAS THE PURPOSE OF THIS LEGISLATION, THIS ORDINANCE EVEN BROUGHT IT ABOUT WELL OH GOSH.",
+          "t0": 556.633,
+          "verified": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "stance": "neutral",
+          "quote": "I THINK THAT IT IS A 308 PAGE PIECE OF LEGISLATION. IT'S A LOT AND I'M NOT ON GAO. I DID WATCH SOME OF THE CONVERSATION AND I'M APPRECIATIVE OF MY COLLEAGUES WEIGHING IN ON IT. I WENT HOME AND I RAN IT THROUGH CLYDE AND I DO THINK MOST OF IT IS CLEANUP.",
+          "t0": 639.917,
+          "verified": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "stance": "oppose",
+          "quote": "I DO NOT UNDERSTAND WHY IS IN THE LEGISLATION 300 SOMETHING PAGES OF IT BUT WHAT ACTUALLY MULTIPLE SUBJECT COULDN'T BE BROKEN INTO DIFFERENT PIECES OF LEGISLATION TO ALLOW A FIRST OF ALL FIRST AND FOREMOST A SUMMARY OF THE LEGISLATION THAT IS MORE DIGESTIBLE FOR THE PUBLIC",
+          "t0": 790.3,
+          "verified": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "stance": "support",
+          "quote": "SOMETIMES WHEN WE TALK ABOUT TRANSPARENCY I THINK TRANSPARENCY IS WILDLY IMPORTANT BUT SOMETIMES WE DECIDE TO BE TRANSPARENT WHILE IN A IN ACTUALITY DROWNING PEOPLE IN INFORMATION AND THAT BECOMES THE COMPLETE OPPOSITE OF TRANSPARENCY.",
+          "t0": 1067.83,
+          "verified": false
+        },
+        {
+          "name": "Connie Chan",
+          "stance": "oppose",
+          "quote": "I AM JUST QUESTIONING THE OUTREACH AND CONVERSATION AND WHAT HAS IT BEEN LIKE FOR FOR THE PEOPLE THAT MAYBE COUNTING ON SOME OF THESE RECORDS AND THAT WE DON'T KNOW IF THEY ARE READING THESE RECORDS BUT THEN PERHAPS THEY ARE I KNOW THAT CIVIL GRAND JURIES SOMETIMES DEPEND",
+          "t0": 1303.943,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1250898,
+      "summary": "The Board considered an ordinance amending the Fair Chance Ordinance in the Police Code to prohibit employers and affordable housing providers from using out-of-state convictions or arrests for reproductive health care, gender-affirming care, and drug-related conduct that is lawful in California. The ordinance was passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "housing",
+        "labor",
+        "health"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1250899,
+      "summary": "The Board considered a resolution authorizing the Mayor or a designee to cast an assessment ballot in favor of the renewal and expansion of the Downtown Community Benefit District for city-owned parcels. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1250900,
+      "summary": "The Board adopted a resolution approving the San Francisco Police Department's 2025 Annual Report on Law Enforcement Equipment Use Policy, pursuant to state law requirements.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1250902,
+      "summary": "The Board debated a proposed charter amendment for the November 2026 ballot to establish a Municipal Finance Corporation and public bank framework. Proponents emphasized expanded access to capital for small businesses and affordable housing, while opponents raised concerns about financial risk and municipal capacity amid a budget deficit. A motion to continue the item to July 7, 2026, passed 10-1, with Supervisor Wong dissenting.",
+      "outcome": "continued",
+      "topics": [
+        "elections_governance",
+        "budget",
+        "housing",
+        "small_business"
+      ],
+      "speakers": [
+        {
+          "name": "Chyanne Chen",
+          "stance": "support",
+          "quote": "COLLEAGUE I ASKED FOR YOUR SUPPORT TODAY FOR THIS CHARTER AMENDMENT TO ESTABLISH TO ESTABLISH THE FRAMEWORK AND GOVERNANCE FOR OUR MUNICIPAL FINANCE CORPORATION AND PUBLIC BANK.",
+          "t0": 1695.831,
+          "verified": false
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "support",
+          "quote": "I WANT TO THANK MY COLLEAGUE SUPERVISOR CHEN FOR TAKING THIS UP. I WANT TO THANK CHARLIE AND HER OFFICE FOR WORKING TIRELESSLY ON THIS CHARTER AMENDMENT AS HAS BEEN MANY YEARS COMING.",
+          "t0": 1823.844,
+          "verified": true
+        },
+        {
+          "name": "Alan Wong",
+          "stance": "oppose",
+          "quote": "I DO NOT BELIEVE CREATING A FRAMEWORK FOR A PUBLIC BANK IS THE RIGHT PATH FOR THE CITY AT THIS TIME. RIGHT NOW SAN FRANCISCANS WANT US TO TAKE CARE OF THE BASICS. THEY ARE ASKING US TO MAKE GOVERNMENT WORK BETTER TO SPEND CAREFULLY AND TO DELIVER RESULTS IN THEIR NEIGHBORHOODS.",
+          "t0": 1911.872,
+          "verified": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "THIS IS ABOUT MAINTAINING THE OPTION FOR SAN FRANCISCO TO CREATE A PUBLIC BANK IN THE FUTURE. THERE IS A STATE DEADLINE THAT IS COMING UP AND THIS IS NOT ABOUT FUNDING THAT INFRASTRUCTURE TODAY. IT'S ABOUT ALLOWING FOR THE OPTIONALITY FOR US TO FUND IT IN THE FUTURE.",
+          "t0": 2077.504,
+          "verified": true
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "OUR CONSTITUENTS ARE ASKING FOR OPPORTUNITIES TO THRIVE. BUSINESS OWNERS IN DEVELOPERS ARE LOOKING FOR FINANCING AND THIS IS VERY MUCH AN ISSUE THAT HAS BEEN BROUGHT TO US BY THE PUBLIC.",
+          "t0": 2221.396,
+          "verified": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "THIS IS ABOUT THE FRAMEWORK IN MEETING THE DEADLINE THAT WE'RE UP AGAINST NOT FUNDING AND NOT SPELLING OUT THE GOVERNANCE THAT WILL COME. IT IS THE FRAMEWORK FOR HOW WE'RE GOING TO DO THAT AND I FULLY SUPPORT IT.",
+          "t0": 2294.74,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1250903,
+      "summary": "The Board held its special commendations order honoring retiring City Hall Building Manager Rob Reiner, small business owners Lloyd Haddad and Keith Wicker of Capricorn Framing and Walter Adams Framing, Jason Chittagong and Will Cuevas of Vets Supporting, and outgoing Youth Commission Chair Gabby Lazama.",
+      "outcome": "no_action",
+      "topics": [
+        "small_business",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "TODAY WE ARE PRESENTING A SPECIAL COMMENDATION TO ROB REINER, THE BUILDING MANAGER OF SAN FRANCISCO CITY HALL WHO IS RETIRING AT THE END OF THIS WEEK AFTER MORE THAN TWO DECADES OF SERVICE TO THE CITY AND COUNTY",
+          "t0": 2481.74,
+          "verified": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "stance": "support",
+          "quote": "AS THE OWNERS OF CAPRICORN FRAMING AND WALTER ADAMS FRAMING, IT IS MY HONOR TO COMMEND YOU BOTH FOR YOUR BUSINESS LEADERSHIP, YOUR PHILANTHROPY, YOUR CIVIC ENGAGEMENT AND JUST OVERALL SERVICE TO SAN FRANCISCO.",
+          "t0": 3029.984,
+          "verified": true
+        },
+        {
+          "name": "Alan Wong",
+          "stance": "support",
+          "quote": "I WANT TO RECOGNIZE VETS SUPPORTING IN HONOR OF PTSD AWARENESS MONTH AND THEIR IMPORTANT WORK SERVING VETERANS AND THEIR FAMILIES IN OUR COMMUNITY.",
+          "t0": 3371.75,
+          "verified": false
+        },
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "COLLEAGUES AS WE CLOSE OUT PRIDE MONTH TODAY I AM HONORING A REMARKABLE YOUNG LEADER OUR OUTGOING DISTRICT SIX YOUTH COMMISSIONER GABBY LA STANA.",
+          "t0": 3617.601,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1250906,
+      "summary": "The Board unanimously approved a resolution designating the 500 and 600 blocks of Connecticut Street with the commemorative street name 'Art Agnos Way' in honor of former Mayor Art Agnos.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1250909,
+      "summary": "The Board considered amendments to its Rules of Order to comply with state law (SB 707) requiring remote public comment options at full Board meetings, as well as policies governing meeting disruptions. While supervisors voiced strong frustration over potential bad-faith callers and limited local authority, the motion was adopted without objection to avoid legal liability under the Brown Act.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [
+        {
+          "name": "Shamann Walton",
+          "stance": "oppose",
+          "quote": "THIS IS SOMETHING THAT IS BEING FORCED UPON US FROM THE STATE LEGISLATURE TO TAKE REMOTE PUBLIC COMMENT. SOME OF YOU MAY REMEMBER THAT AND BY THE WAY, I AM 100% AND PROVIDING ACCESS TO THE PUBLIC. BUT SOME OF YOU MAY REMEMBER THAT DURING THE PANDEMIC WE HAD TO SIT HERE FOR HOURS",
+          "t0": 4283.182,
+          "verified": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "stance": "oppose",
+          "quote": "I THINK THIS IS GOING TO END UP BACKFIRING AND DECREASING PUBLIC PARTICIPATION FOR THE REGULAR PEOPLE WHO HAVE LIVES AND JOBS AND CHILDREN AND OBLIGATIONS AND ARE JUST TRYING TO WEIGH IN ON THE CITY THAT THEY LIVE IN TO MAKE THEIR LIVES BETTER",
+          "t0": 4406.181,
+          "verified": true
+        },
+        {
+          "name": "City Attorney",
+          "stance": "neutral",
+          "quote": "THIS REQUIREMENT COMES FROM SENATE BILL 707 THAT WAS APPROVED BY THE LEGISLATURE LAST YEAR WHICH IS AN AMENDMENT TO THE BROWN ACT WHICH GOVERNS PUBLIC MEETINGS IN THE STATE AND I THINK WHAT COULD HAPPEN IS A MEMBER OF THE PUBLIC WHO TRIED TO CALL INTO A MEETING AS THEY ARE THERE HAS THE THEY WILL",
+          "t0": 4541.601,
+          "verified": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "stance": "question",
+          "quote": "I APPRECIATE THAT WE HAVE SOME CLARIFICATION HERE ABOUT WHAT THE PRESIDING OFFICER CAN DO DURING A MEETING TO, YOU KNOW, STOP THE ABUSE OF PUBLIC COMMENT TO ABUSE A PUBLIC OFFICIAL OR TARGET SOMEBODY IN. I AM WONDERING HOW MUCH FLEXIBILITY WE HAVE TO FURTHER THAT.",
+          "t0": 4646.44,
+          "verified": false
+        },
+        {
+          "name": "Connie Chan",
+          "stance": "question",
+          "quote": "I DO HAVE A QUESTION ABOUT HOW WOULD WHETHER IT'S POSSIBLE WITHIN THIS FRAMEWORK BACK FROM THE STATE LEGISLATURE OR BROWN ACT AMENDMENT IS THAT WE COULD NARROW THE REMOTE PUBLIC COMMONS TO AGAIN LIKE IS THERE A WAY TO NARROW IT TO TO RESIDENTS AND PEOPLE THAT HAVE DISABILITIES",
+          "t0": 4878.827,
+          "verified": true
+        },
+        {
+          "name": "Clerk",
+          "stance": "neutral",
+          "quote": "THE WAY WE'RE GOING TO HANDLE THE PUBLIC COMMENT IS WE'LL TAKE THOSE WHO ARE HERE IN PERSON FIRST AS PEOPLE SIGN UP FROM MONDAY OR TUESDAY TO THE BOARD MEETING WILL THEN BRING IN THE REMOTE CALLERS IN THE ORDER THAT THEY SIGNED UP.",
+          "t0": 5094.112,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1250910,
+      "summary": "Supervisors introduced new legislation and inquiries during roll call. Mandelman introduced resolutions backing AB 1573 and raising the City Attorney's settlement authority to $100,000; Melgar announced rent ordinance amendments restricting eviction grounds; Wong introduced a healthcare corridor designation for Noriega Street; Chan introduced a support resolution for KGO-TV's license renewal; and Fielder submitted an inquiry regarding SFPD deployments during Pride weekend.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance",
+        "housing",
+        "settlements",
+        "health",
+        "public_safety"
+      ],
+      "speakers": [
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "FIRST I'M INTRODUCING A RESOLUTION OF SUPPORT FOR ASSEMBLY BILL 1573 THE UNSEEN AND UNHEARD HOUSING ACT AUTHORED BY ASSEMBLYMEMBER BRIAN AND COAUTHORED BY ASSEMBLYMEMBER STEPHANIE WHICH WOULD ADD ADD SURVIVORS OF DOMESTIC VIOLENCE, SEXUAL ASSAULT AND HUMAN TRAFFICKING TO THE DEFINITION OF TARGET POPULATION",
+          "t0": 5281.179,
+          "verified": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "COLLEAGUES, TODAY I WANT TO ANNOUNCE A DRAFTING REQUEST THAT I MADE TO OUR CITY ATTORNEY'S OFFICE TO AMEND OUR RENT ORDINANCE TO RESPOND TO A TROUBLE PATTERN THAT WE HAVE BEEN SEEING ONCE AGAIN IN SAN FRANCISCO RECENTLY.",
+          "t0": 5646.217,
+          "verified": true
+        },
+        {
+          "name": "Alan Wong",
+          "stance": "support",
+          "quote": "COLLEAGUES TODAY I AM INTRODUCING A RESOLUTION TO DESIGNATE AND COMMEMORATE NORIEGA STREET BETWEEN 19TH AND 33RD AVENUE AS A SUNSET HEALTH CARE CORRIDOR.",
+          "t0": 5816.336,
+          "verified": false
+        },
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "COLLEAGUES TODAY I'M INTRODUCING A RESOLUTION IN SUPPORT OF THE LICENSE RENEWAL FOR KGO-TV ALSO LOCALLY KNOWN AS ABC CHANNEL SEVEN.",
+          "t0": 5884.875,
+          "verified": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "question",
+          "quote": "I WAS VERY CONCERNED THIS WEEKEND SEEING REPORTS AND VIDEO FOOTAGE OF SAN FRANCISCO POLICE CLASHING WITH SAN FRANCISCO RESIDENTS AND VISITORS PARTICIPATING IN PRODUCTIVITY'S IN TWO SEPARATE INCIDENTS ONE TRANS MARCH AND TWO AN EVENT KNOWN AND SUDDENLY THE IMAGES OF POLICE IN FULL TACTICAL GEAR",
+          "t0": 6236.909,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1250911,
+      "summary": "Members of the public addressed the Board on general matters within its jurisdiction. Speakers criticized the administration's allocation of Prop C funds, condemned the criminalization of homelessness following the Grants Pass Supreme Court decision, denounced aggressive police tactics during Pride and the Trans March, supported the Coors boycott commemoration, and raised labor concerns for frontline healthcare staff.",
+      "outcome": "no_action",
+      "topics": [
+        "public_safety",
+        "homelessness",
+        "labor",
+        "health",
+        "housing"
+      ],
+      "speakers": [
+        {
+          "name": "Public commenter",
+          "stance": "oppose",
+          "quote": "I WANT TO OBJECT TO FUNDS BEING HIJACKED AND MISAPPROPRIATED STOLE LAND OUT OF PROPOSITION C SAN FRANCISCO VOTERS VOTED FOR PROPOSITION C TO HELP THE MOST VULNERABLE PEOPLE IN VERY LOW AND LOW INCOME BRACKETS",
+          "t0": 6357.763,
+          "verified": true
+        },
+        {
+          "name": "Public commenter",
+          "stance": "oppose",
+          "quote": "TODAY I WANT TO SPEAK TO THE TWO YEAR ANNIVERSARY OF THE LANDMARK US SUPREME COURT DECISION GRANTS PASS VERSUS JOHNSON. THE QUESTION BEFORE THE COURT IN GRANTS PASS WAS WHETHER A MUNICIPAL MUNICIPALITY'S PRACTICE OF JAILING A PERSON WHO ERECTED A STRUCTURE IN THE PUBLIC RIGHT OF WAY",
+          "t0": 6492.641,
+          "verified": true
+        },
+        {
+          "name": "Public commenter",
+          "stance": "oppose",
+          "quote": "I AM DEEPLY SADDENED AND ENRAGED BY SPEEDY'S VIOLENT ,AGGRESSIVE, OUTSIZED AND OUTSIZED ASSAULTS ON TRANS PEOPLE DURING OUR MARCH SUPPOSEDLY OVER PAINT AND AND WHAT HAPPENED IN THE ALLEY SUPPOSEDLY OVER PERMITS.",
+          "t0": 6637.72,
+          "verified": true
+        },
+        {
+          "name": "Public commenter",
+          "stance": "support",
+          "quote": "STEPHEN TORRES FROM THE CASTRO LGBTQ CULTURAL DISTRICT TRUST ONCE AGAIN SPEAKING IN SUPPORT OF ITEM 15 THE RESOLUTION TO RECOGNIZE THE COURSE BOYCOTT COMMEMORATION DAY WHICH TOOK PLACE THIS PAST FRIDAY, JUNE 26TH.",
+          "t0": 6739.382,
+          "verified": true
+        },
+        {
+          "name": "Public commenter",
+          "stance": "oppose",
+          "quote": "I AM TALKING ABOUT THE MISTREATMENT OF FRONTLINE STAFF BY MIDDLE AND UPPER MANAGEMENT AND THE LACK OF ACCOUNTABILITY FOR THEIR MISCONDUCT THAT DISTORTS PROGRAM PERFORMANCES AND WASTES TAXPAYER MONEYS.",
+          "t0": 6857.701,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": [
+        "Misuse of Proposition C funds away from supportive housing",
+        "Homeless sweeps and criminalization following the Grants Pass ruling",
+        "Police tactics and alleged brutality during Pride weekend and the Trans March",
+        "Frontline SEIU healthcare worker conditions and management accountability"
+      ]
+    },
+    {
+      "meta_id": 1250912,
+      "summary": "The Board considered Items 15 through 19 on the adoption without committee reference agenda. The resolutions and motions were adopted unanimously on a single roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "labor",
+        "elections_governance",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1250914,
+      "summary": "The Board unanimously adopted Items 15 through 19 without committee reference, including the Coors Boycott Commemoration Day resolution, the California Arts Council local partner designation, certified June 2026 election results, opposition to federal disability benefit cuts for veterans, a Committee of the Whole hearing on Kaiser Permanente bargaining, and city contract approvals.",
+      "outcome": "passed",
+      "topics": [
+        "labor",
+        "elections_governance",
+        "health",
+        "budget",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1250939,
+      "summary": "The Board adjourned the meeting in memory of longtime Glen Park salon owner Gloria Dela Rea and retired library worker Stanislaw Chan.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    }
+  ],
+  "quote_verification": {
+    "verified": 23,
+    "partial": 10,
+    "dropped": 0
+  }
+}

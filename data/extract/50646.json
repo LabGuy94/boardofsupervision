@@ -1,0 +1,627 @@
+{
+  "clip_id": 50646,
+  "items": [
+    {
+      "meta_id": 1178420,
+      "summary": "President Rafael Mandelman opened the regular meeting and the Clerk called the roll. All eleven members were present. The Board recited the Land Acknowledgement and the Pledge of Allegiance, and acknowledged SFGovTV staff.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1178421,
+      "summary": "The Clerk read general communications announcing procedures for attending Board meetings in person or remotely, submitting written public comment, and requesting disability or language accommodations.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1178422,
+      "summary": "The Board considered the approval of meeting minutes from July 1, July 8, July 15, and July 22, 2025. The motion to approve the minutes passed unanimously on roll call.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1178425,
+      "summary": "The Board took up the consent agenda covering Items 1 through 4, which were deemed routine ordinances. The items were passed unanimously on roll call.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "housing",
+        "environment"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1178427,
+      "summary": "Items 1 through 4 on the consent agenda were considered and finally passed. These included code amnesties for DBI audits, a ban on automated rent-setting, regulations on unauthorized and rent-controlled units, and all-electric major renovations.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "housing",
+        "environment"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1178439,
+      "summary": "The Board considered an ordinance amending the Administrative Code regarding equitable citywide access to homeless shelters, transitional housing, and behavioral health facilities. The ordinance restricts siting in neighborhoods exceeding their share of unsheltered persons and within 300 feet of existing shelters without a Board waiver. The ordinance passed on final reading with nine ayes and two noes (Supervisors Chan and Chen dissenting).",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "homelessness",
+        "health"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1178442,
+      "summary": "The Board voted on an ordinance amending the Planning Code regarding nonresidential use size limits in specified commercial districts, which passed on final reading 9-2 with Supervisors Chan and Chen dissenting. The Board then considered an ordinance amending food purchasing goals and reporting requirements for city hospitals and jails. Supervisor Walton offered amendments adjusting sourcing percentages for small to medium farms and clarifying patient dietary protocols, which were accepted before the amended ordinance passed on first reading.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "small_business",
+        "health",
+        "public_safety"
+      ],
+      "speakers": [
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "NOW THEY HAVE REACHED AN AGREEMENT ON THEIR GOALS AND I WOULD LIKE TO MAKE A MOTION TO AMEND THIS LEGISLATION TO REFLECT THAT BEFORE THIS POLICY EXPIRES LATER THIS MONTH",
+          "t0": 543.522,
+          "verified": false
+        }
+      ],
+      "votes": [
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1178448,
+      "summary": "The Board considered a resolution determining that a Type 21 off-sale liquor license transfer to Jumbo Trading Company LLC at 761 Jackson Street would serve public convenience. The item was called together with Item 9 and adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "small_business"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1178449,
+      "summary": "The Board considered a resolution determining public convenience for the issuance of a Type 90 on-sale general music venue liquor license to The Stud at 1123 Folsom Street. The item was considered alongside Item 8 and adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "small_business"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1178451,
+      "summary": "Supervisors introduced new legislation and shared reports from external bodies. Supervisor Mahmood introduced a resolution supporting Proposition 50 and reported on the Bay Area Air Quality Management District. President Mandelman introduced resolutions for Childhood Cancer Awareness Month and a donation waiver renewal, while also reporting on the Transbay Joint Powers Authority. Supervisors Melgar, Sauter, Walton, Chan, Dorsey, and Engardio also introduced local resolutions and shared regional agency updates.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance",
+        "transit",
+        "environment",
+        "health",
+        "parks"
+      ],
+      "speakers": [
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "",
+          "t0": 897.102,
+          "verified": false
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "I'M ALSO INTRODUCING A RESOLUTION DESIGNATING SEPTEMBER 2025 AS CHILDHOOD CANCER AWARENESS MONTH IN THE CITY AND COUNTY OF SAN FRANCISCO.",
+          "t0": 1059.136,
+          "verified": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "FIRST I PROPOSE TO INTRODUCE A RESOLUTION PROCLAIMING SEPTEMBER 2025 AS THE 10TH ANNUAL SAN FRANCISCO TRANSIT MONTH.",
+          "t0": 1370.201,
+          "verified": true
+        },
+        {
+          "name": "Danny Sauter",
+          "stance": "support",
+          "quote": "FIRST I'M PLEASED TO INTRODUCE A RESOLUTION COMMEMORATING THE 150TH ANNIVERSARY OF LAWRENCE FOUNTAIN.",
+          "t0": 1724.369,
+          "verified": true
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "",
+          "t0": 2432.199,
+          "verified": false
+        },
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "",
+          "t0": 2939.863,
+          "verified": false
+        },
+        {
+          "name": "Joel Engardio",
+          "stance": "support",
+          "quote": "",
+          "t0": 3396.26,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1178450,
+      "summary": "Supervisor Stephen Sherrill commended the Canine Companions San Francisco South Bay Chapter in honor of National Service Dog Month. Representatives, including a client and volunteer puppy raisers, spoke about the life-changing impact of service dogs on individuals with disabilities.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Stephen Sherrill",
+          "stance": "support",
+          "quote": "I AM VERY HONORED TO COMMEND THE CANINES COMPANIONS SAN FRANCISCO SOUTH BAY CHAPTER IN RECOGNITION OF NATIONAL SERVICE DOG MONTH",
+          "t0": 1998.474,
+          "verified": true
+        },
+        {
+          "name": "Public commenter",
+          "stance": "support",
+          "quote": "IN JANUARY OF 2020 WE WERE GIFTED NAPOLEON THE THIRD COMPLETELY FREE OF CHARGE FROM CANINE COMPANIONS. AND WHEN I SAY HE'S CHANGED OUR LIVES I MEAN IT.",
+          "t0": 2234.185,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1178452,
+      "summary": "The Board heard general public comment on various issues not listed on the published agenda or items without committee reference. Speakers addressed neighborhood conditions in District 5 and the Fillmore, support for Muni Heritage Month and Transit Month, religious topics, and advocacy for a resolution supporting Temporary Protected Status (TPS) recipients.",
+      "outcome": "no_action",
+      "topics": [
+        "transit",
+        "elections_governance",
+        "public_safety",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Public commenter",
+          "stance": "neutral",
+          "quote": "WE ARE IN A STATE OF EMERGENCY IN THE WEST IN ADDITION TO AREA D FIVE HOWEVER YOU WANT TO CALL IT DYSFUNCTION YOU KNOW, ALL UP AND DOWN THE FILLMORE",
+          "t0": 3626.608,
+          "verified": true
+        },
+        {
+          "name": "Public commenter",
+          "stance": "support",
+          "quote": "I'M HERE TODAY TO SPEAK IN SUPPORT OF DECLARING SEPTEMBER 2025 AS MINI HERITAGE MONTH FOR OVER A CENTURY MINI HAS PROVIDED EQUITABLE TRANSPORTATION TO GENERATIONS OF SAN FRANCISCANS.",
+          "t0": 3988.124,
+          "verified": true
+        },
+        {
+          "name": "Public commenter",
+          "stance": "support",
+          "quote": "I'M SPEAKING IN REGARDS TO THE RESOLUTION BROUGHT TO YOU TO VOTE TODAY TO URGE CONGRESSIONAL DELEGATION TO URGE CONGRESS TO CREATE A PERMANENT RESIDENCY PATHWAY FOR ALL TEMPORARY PROTECTED STATUS TPS HOLDERS.",
+          "t0": 4080.486,
+          "verified": false
+        },
+        {
+          "name": "Public commenter",
+          "stance": "support",
+          "quote": "THANK YOU TO SUPERVISOR MELGAR FOR INTRODUCING THE RESOLUTION RECOGNIZING SEPTEMBER AS TRANSIT MONTH AND REAFFIRMING THE SUPPORT FOR PUBLIC TRANSPORTATION.",
+          "t0": 4415.768,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": [
+        "Conditions and state of emergency in the Fillmore and Western Addition",
+        "Support for Muni Heritage Month and Transit Month",
+        "Urging support and protections for Temporary Protected Status (TPS) recipients"
+      ]
+    },
+    {
+      "meta_id": 1178453,
+      "summary": "The Board considered Items 12 through 16 on the Adoption Without Committee Reference calendar. The items included several resolutions, litigated lawsuit settlements, contract amendments, property tax setting, and real property leases. The entire package was adopted unanimously on roll call.",
+      "outcome": "passed",
+      "topics": [
+        "settlements",
+        "budget",
+        "transit",
+        "health",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1178492,
+      "summary": "The meeting was adjourned in memory of Father Mario Paul Farina, Christina Moylan, Samuel Murray, and Father Edward Reese.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    }
+  ],
+  "quote_verification": {
+    "verified": 8,
+    "partial": 2,
+    "dropped": 4
+  }
+}

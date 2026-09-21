@@ -1,0 +1,429 @@
+{
+  "from": "2025-01-01",
+  "to": "9999-12-31",
+  "meetings": 66,
+  "cost": 3.0106779,
+  "results": [
+    {
+      "clip_id": 48405,
+      "status": "existing",
+      "cost": 0.0,
+      "loaded": true
+    },
+    {
+      "clip_id": 48520,
+      "status": "existing",
+      "cost": 0.0,
+      "loaded": true
+    },
+    {
+      "clip_id": 48801,
+      "status": "existing",
+      "cost": 0.0,
+      "loaded": true
+    },
+    {
+      "clip_id": 48665,
+      "status": "existing",
+      "cost": 0.0,
+      "loaded": true
+    },
+    {
+      "clip_id": 48335,
+      "status": "existing",
+      "cost": 0.0,
+      "loaded": true
+    },
+    {
+      "clip_id": 48583,
+      "status": "existing",
+      "cost": 0.0,
+      "loaded": true
+    },
+    {
+      "clip_id": 49269,
+      "status": "existing",
+      "cost": 0.0,
+      "loaded": true
+    },
+    {
+      "clip_id": 49454,
+      "status": "existing",
+      "cost": 0.0,
+      "loaded": true
+    },
+    {
+      "clip_id": 48936,
+      "status": "existing",
+      "cost": 0.0,
+      "loaded": true
+    },
+    {
+      "clip_id": 49161,
+      "status": "existing",
+      "cost": 0.0,
+      "loaded": true
+    },
+    {
+      "clip_id": 49070,
+      "status": "existing",
+      "cost": 0.0,
+      "loaded": true
+    },
+    {
+      "clip_id": 49520,
+      "status": "existing",
+      "cost": 0.0,
+      "loaded": true
+    },
+    {
+      "clip_id": 49850,
+      "status": "existing",
+      "cost": 0.0,
+      "loaded": true
+    },
+    {
+      "clip_id": 49688,
+      "status": "existing",
+      "cost": 0.0,
+      "loaded": true
+    },
+    {
+      "clip_id": 50121,
+      "status": "existing",
+      "cost": 0.0,
+      "loaded": true
+    },
+    {
+      "clip_id": 49607,
+      "status": "existing",
+      "cost": 0.0,
+      "loaded": true
+    },
+    {
+      "clip_id": 49753,
+      "status": "existing",
+      "cost": 0.0,
+      "loaded": true
+    },
+    {
+      "clip_id": 49929,
+      "status": "existing",
+      "cost": 0.0,
+      "loaded": true
+    },
+    {
+      "clip_id": 50188,
+      "status": "existing",
+      "cost": 0.0,
+      "loaded": true
+    },
+    {
+      "clip_id": 50330,
+      "status": "existing",
+      "cost": 0.0,
+      "loaded": true
+    },
+    {
+      "clip_id": 50352,
+      "status": "existing",
+      "cost": 0.0,
+      "loaded": true
+    },
+    {
+      "clip_id": 50251,
+      "status": "existing",
+      "cost": 0.0,
+      "loaded": true
+    },
+    {
+      "clip_id": 50291,
+      "status": "existing",
+      "cost": 0.0,
+      "loaded": true
+    },
+    {
+      "clip_id": 50523,
+      "status": "existing",
+      "cost": 0.0,
+      "loaded": true
+    },
+    {
+      "clip_id": 50483,
+      "status": "existing",
+      "cost": 0.0,
+      "loaded": true
+    },
+    {
+      "clip_id": 50412,
+      "status": "existing",
+      "cost": 0.0,
+      "loaded": true
+    },
+    {
+      "clip_id": 50687,
+      "status": "existing",
+      "cost": 0.0,
+      "loaded": true
+    },
+    {
+      "clip_id": 50646,
+      "status": "existing",
+      "cost": 0.0,
+      "loaded": true
+    },
+    {
+      "clip_id": 50756,
+      "status": "existing",
+      "cost": 0.0,
+      "loaded": true
+    },
+    {
+      "clip_id": 51039,
+      "status": "existing",
+      "cost": 0.0,
+      "loaded": true
+    },
+    {
+      "clip_id": 50901,
+      "status": "existing",
+      "cost": 0.0,
+      "loaded": true
+    },
+    {
+      "clip_id": 50843,
+      "status": "existing",
+      "cost": 0.0,
+      "loaded": true
+    },
+    {
+      "clip_id": 51260,
+      "status": "extracted",
+      "cost": 0.12446475,
+      "cost_calls": 1,
+      "loaded": true
+    },
+    {
+      "clip_id": 51179,
+      "status": "extracted",
+      "cost": 0.14657775,
+      "cost_calls": 1,
+      "loaded": true
+    },
+    {
+      "clip_id": 51391,
+      "status": "extracted",
+      "cost": 0.10716825,
+      "cost_calls": 1,
+      "loaded": true
+    },
+    {
+      "clip_id": 51073,
+      "status": "extracted",
+      "cost": 0.09099525,
+      "cost_calls": 1,
+      "loaded": true
+    },
+    {
+      "clip_id": 50992,
+      "status": "extracted",
+      "cost": 0.12494175,
+      "cost_calls": 1,
+      "loaded": true
+    },
+    {
+      "clip_id": 51317,
+      "status": "extracted",
+      "cost": 0.1009515,
+      "cost_calls": 2,
+      "loaded": true
+    },
+    {
+      "clip_id": 51452,
+      "status": "extracted",
+      "cost": 0.07284225,
+      "cost_calls": 1,
+      "loaded": true
+    },
+    {
+      "clip_id": 51666,
+      "status": "extracted",
+      "cost": 0.10551225,
+      "cost_calls": 1,
+      "loaded": true
+    },
+    {
+      "clip_id": 51554,
+      "status": "extracted",
+      "cost": 0.188577,
+      "cost_calls": 1,
+      "loaded": true
+    },
+    {
+      "clip_id": 51912,
+      "status": "extracted",
+      "cost": 0.08894625,
+      "cost_calls": 1,
+      "loaded": true
+    },
+    {
+      "clip_id": 51859,
+      "status": "extracted",
+      "cost": 0.11543325,
+      "cost_calls": 1,
+      "loaded": true
+    },
+    {
+      "clip_id": 51724,
+      "status": "extracted",
+      "cost": 0.31116,
+      "cost_calls": 2,
+      "loaded": true
+    },
+    {
+      "clip_id": 52014,
+      "status": "extracted",
+      "cost": 0.13065825,
+      "cost_calls": 1,
+      "loaded": true
+    },
+    {
+      "clip_id": 51954,
+      "status": "extracted",
+      "cost": 0.11223825,
+      "cost_calls": 1,
+      "loaded": true
+    },
+    {
+      "clip_id": 52187,
+      "status": "extracted",
+      "cost": 0.0580935,
+      "cost_calls": 1,
+      "loaded": true
+    },
+    {
+      "clip_id": 51764,
+      "status": "extracted",
+      "cost": 0.18310875,
+      "cost_calls": 1,
+      "loaded": true
+    },
+    {
+      "clip_id": 52067,
+      "status": "extracted",
+      "cost": 0.11594925,
+      "cost_calls": 1,
+      "loaded": true
+    },
+    {
+      "clip_id": 52134,
+      "status": "failed",
+      "cost": 0.0,
+      "cost_calls": 2
+    },
+    {
+      "clip_id": 52341,
+      "status": "extracted",
+      "cost": 0.07422,
+      "cost_calls": 1,
+      "loaded": true
+    },
+    {
+      "clip_id": 52251,
+      "status": "extracted",
+      "cost": 0.07674375,
+      "cost_calls": 1,
+      "loaded": true
+    },
+    {
+      "clip_id": 52291,
+      "status": "extracted",
+      "cost": 0.1183275,
+      "cost_calls": 1,
+      "loaded": true
+    },
+    {
+      "clip_id": 52703,
+      "status": "existing",
+      "cost": 0.0,
+      "loaded": true
+    },
+    {
+      "clip_id": 52756,
+      "status": "existing",
+      "cost": 0.0,
+      "loaded": true
+    },
+    {
+      "clip_id": 52801,
+      "status": "existing",
+      "cost": 0.0,
+      "loaded": true
+    },
+    {
+      "clip_id": 52849,
+      "status": "existing",
+      "cost": 0.0,
+      "loaded": true
+    },
+    {
+      "clip_id": 52901,
+      "status": "existing",
+      "cost": 0.0,
+      "loaded": true
+    },
+    {
+      "clip_id": 52945,
+      "status": "existing",
+      "cost": 0.0,
+      "loaded": true
+    },
+    {
+      "clip_id": 53084,
+      "status": "existing",
+      "cost": 0.0,
+      "loaded": true
+    },
+    {
+      "clip_id": 53160,
+      "status": "existing",
+      "cost": 0.0,
+      "loaded": true
+    },
+    {
+      "clip_id": 52457,
+      "status": "extracted",
+      "cost": 0.12005775,
+      "cost_calls": 1,
+      "loaded": true
+    },
+    {
+      "clip_id": 52398,
+      "status": "extracted",
+      "cost": 0.13609275,
+      "cost_calls": 2,
+      "loaded": true
+    },
+    {
+      "clip_id": 52641,
+      "status": "extracted",
+      "cost": 0.11617575,
+      "cost_calls": 1,
+      "loaded": true
+    },
+    {
+      "clip_id": 52591,
+      "status": "extracted",
+      "cost": 0.11258325,
+      "cost_calls": 1,
+      "loaded": true
+    },
+    {
+      "clip_id": 52550,
+      "status": "extracted",
+      "cost": 0.0788589,
+      "cost_calls": 2,
+      "loaded": true
+    }
+  ]
+}

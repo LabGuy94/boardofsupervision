@@ -1,0 +1,847 @@
+{
+  "clip_id": 50121,
+  "items": [
+    {
+      "meta_id": 1162177,
+      "summary": "The Board of Supervisors convened for its regular meeting, beginning with roll call and the Pledge of Allegiance. All eleven supervisors were noted present. An indigenous land acknowledgment and appreciation for SFGovTV broadcast staff were also delivered.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1162178,
+      "summary": "The Clerk read general communications announcing how the public could observe proceedings, submit written comments, and request ADA or language accommodations. No formal board action was taken.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1162179,
+      "summary": "The Board considered the approval of regular meeting minutes from April 22 and April 29, 2025, and special meeting minutes from April 30, 2025. Supervisor Melgar moved to approve the minutes as presented, seconded by Supervisor Sherrill. The motion passed unanimously on a roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1162182,
+      "summary": "The Board took up the Consent Agenda consisting of Items 1 through 8. Supervisor Sherrill requested to be added as a co-sponsor on Item 3. The Consent Agenda passed unanimously on roll call.",
+      "outcome": "passed",
+      "topics": [
+        "settlements",
+        "budget",
+        "public_safety",
+        "health",
+        "transit"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1162184,
+      "summary": "The Board considered Items 1 through 8 on consent, including bond proceeds for DPH, DPW, and SFMTA, participatory budgeting reallocations, fire apparatus purchasing code updates, and legal settlements with PG&E, IBM, and individuals. Supervisor Sherrill added his co-sponsorship to Item 3. All items passed unanimously on a roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "settlements",
+        "budget",
+        "public_safety",
+        "health",
+        "transit"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1162199,
+      "summary": "The Board considered an ordinance authorizing the execution and delivery of refunding certificates of participation to prepay rental payments to U.S. Bank Trust Company for multiple capital improvement projects. Considered alongside Item 10, the ordinance passed on first reading without objection under same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1162200,
+      "summary": "The Board considered an ordinance appropriating $379 million in refunding certificates of participation proceeds and prior debt service reserve proceeds, placing funds on Controller's reserve. The ordinance was passed on first reading without objection under same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1162201,
+      "summary": "The Board took up an ordinance amending the Administrative Code to increase Assessment Appeals Board administrative processing fees, hearing fees, and fees for written findings. The ordinance passed on first reading without objection under same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1162202,
+      "summary": "The Board considered an ordinance amending the Administrative Code to increase vendor fees at city-operated farmers' markets and the Alemany Flea Market. The ordinance passed on first reading without objection under same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "small_business"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1162203,
+      "summary": "The Board took up an ordinance appropriating $7.9 million in ambulance service revenue to the Fire Department and reallocating permanent salary and overtime funds across various city departments. The ordinance passed on first reading without objection under same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1162204,
+      "summary": "The Board reviewed a resolution retroactively authorizing the Adult Probation Department to accept and expend a $1.5 million grant from the California Department of Health Care Services for CalAIM JI PATH Round 3 funding. The resolution was adopted without objection under same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "health",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1162205,
+      "summary": "The Board considered a resolution approving a $32 million amendment to an airport professional services agreement with T.Y. Lin International for capital improvement program support, bringing the total contract amount to $40 million through September 2029. The resolution was adopted without objection under same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "transit",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1162206,
+      "summary": "The Board considered an amendment to a grant agreement with Episcopal Community Services for support services and property management at several master-leased permanent supportive housing hotels, increasing funding by approximately $25 million to $72.2 million through June 2027. The resolution was adopted without objection under same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "homelessness",
+        "housing",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1162207,
+      "summary": "The Board reviewed an amendment to a grant agreement with Five Keys Schools and Programs for emergency shelter operations at Next Door Shelter, adding approximately $26.7 million for a new total of $59.2 million through June 2028. The resolution was adopted without objection under same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "homelessness",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1162208,
+      "summary": "The Board approved the assignment and assumption of a lease and property management agreement for supportive housing at 1321 Mission Street from The Tides Center to DISH SF, effective July 1, 2025. The resolution was adopted without objection under same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "homelessness",
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1162209,
+      "summary": "The Board approved an amendment to the Senior Operating Subsidy grant agreement with Chinatown SROs, LLC, increasing funding by $572,000 to a total of $6.78 million through June 2039. The agreement subsidizes rent for 35 extremely low-income seniors at 1005 Powell Street. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1162210,
+      "summary": "The Board approved the issuance and sale of tax-exempt revenue obligations by the California Enterprise Development Authority in an amount up to $15 million to finance and refinance facilities for the California Institute of Integral Studies. The resolution was adopted without objection under same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1162211,
+      "summary": "The Board considered a motion to approve a 4.5% cost-of-living adjustment for Budget and Legislative Analyst services, establishing a contract amount of approximately $3.4 million for FY 2025-2026. The motion was approved without objection under same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1162212,
+      "summary": "The Board considered a resolution of intention to establish the San Francisco Downtown Revitalization and Economic Recovery Financing District to help finance commercial-to-residential conversion projects. Supervisor Dorsey voiced strong support for the district as a vital adaptive reuse tool to produce housing and activate downtown. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "planning_land_use",
+        "budget"
+      ],
+      "speakers": [
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "THIS DISTRICT WILL PROVIDE THE CITY WITH ANOTHER TOOL TO INCENTIVIZE ADAPTIVE REUSE PROJECT X SO THAT WE CAN BOTH FACILITATE THE PRODUCTION OF MUCH NEEDED HOUSING AND HELP BRING NEW LIFE TO UNDER ACTIVATED PARTS OF THE CITY.",
+          "t0": 923.813,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1162215,
+      "summary": "The Board considered an ordinance amending the Administrative Code to establish the board of directors and governance structure for the Downtown Revitalization and Economic Recovery Financing District. Supervisor Dorsey introduced a clarifying amendment ensuring city departments are reimbursed by the district for all administrative and creation costs, which was accepted. The amended ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "planning_land_use",
+        "elections_governance",
+        "budget"
+      ],
+      "speakers": [
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "ALL COSTS INCURRED BY ANY OTHER CITY DEPARTMENT IN CONNECTION WITH THE CREATION MANAGEMENT OR OTHER ADMINISTRATIVE SUPPORT FOR THE DOWNTOWN REVITALIZATION DISTRICT SHALL BE PAID BY THE DOWNTOWN REVITALIZATION DISTRICT.",
+          "t0": 1005.579,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1162216,
+      "summary": "The Board considered an ordinance waiving Administrative Code contracting requirements for tenant improvements performed by CAST at Large LLC for a Port lease at Pier 29. The ordinance passed on first reading without objection under same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1162220,
+      "summary": "The Board considered a resolution of intention to rename the 800 and 900 blocks of Pierce Street from Fulton Street to Golden Gate Avenue to 'Dr. Amos C. Brown Way'. The measure honors Dr. Brown's decades of leadership in civil rights upon his retirement as senior pastor of Third Baptist Church. The resolution was adopted unanimously on roll call.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1162221,
+      "summary": "The Board took up a resolution adding the commemorative street name 'Dr. Amos C. Brown Way' to Pierce Street between Fulton Street and Golden Gate Avenue. Dr. Brown was recognized for his lifetime of service, advocacy, and community leadership in San Francisco. The resolution was adopted unanimously on a roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1162222,
+      "summary": "The Board considered a resolution authorizing the Planning Department to apply to ABAG and the Metropolitan Transportation Commission to confirm, create, and revise San Francisco's Priority Conservation Areas designations. The resolution was adopted without objection under same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "environment",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1162225,
+      "summary": "The Board took up a motion approving the Mayor's appointment of Ken McNeely to the San Francisco Port Commission for a term ending May 1, 2029. The motion was approved without objection under same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1162214,
+      "summary": "A transitional heading for the Recommendations of the Rules Committee appeared in the caption record preceding the special order commendations. No standalone report or legislative action was taken under this heading.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1162217,
+      "summary": "The Board held a special commendations order honoring retiring Police Chief Bill Scott, Mission Station Captain Lisa Johansson, District 11 small business The Check-In Lounge for Pride Month, Community Youth Center Senior Program Director Michael Wong, and retiring Presidio Branch Library Manager Robert Carlson. Supervisors praised the honorees for their decades of public service, community building, and dedication to San Francisco.",
+      "outcome": "no_action",
+      "topics": [
+        "public_safety",
+        "small_business",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "AS THE LONGEST SERVING POLICE CHIEF SINCE 1970, HE'S WORKED WITH FOUR MAYORS FOR DISTRICT ATTORNEYS, SCORES OF POLICE COMMISSION COMMISSIONERS AND MEMBERS OF THIS BOARD OF SUPERVISORS.",
+          "t0": 1852.93,
+          "verified": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "AND DURING THIS INCREDIBLY DIFFICULT TIME FOR LAW ENFORCEMENT, MAYBE ONE OF THE MOST DIFFICULT TIMES IN AT LEAST RECENT HISTORY A ONCE IN A CENTURY PANDEMIC AND THE MURDER OF GEORGE FLOYD. I JUST WATCHED YOU AGAIN AND AGAIN RISE TO THE MOMENT WITH EQUANIMITY AND GRACE",
+          "t0": 1974.395,
+          "verified": true
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "BUT I DO JUST AGAIN WANT TO THANK YOU FOR YOUR COMMITMENT TO SAN FRANCISCO FOR YOUR WORK ON REFORM AND FOR COMING INTO A CITY AND REALLY WORKING HARD TO MAKE CHANGE WHILE KEEPING THE CITY SAFE WHICH I KNOW IS DEFINITELY A TASK.",
+          "t0": 2018.372,
+          "verified": false
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "support",
+          "quote": "CAPTAIN JOHANSSON IS NOT JUST A POLICE CAPTAIN. SHE IS A PART OF OUR COMMUNITY RAISED IN THE VERY HEART OF THE MISSION DISTRICT SHAPED BY ITS CULTURE, ITS RESILIENCE AND DIVERSITY.",
+          "t0": 2980.595,
+          "verified": false
+        },
+        {
+          "name": "Chyanne Chen",
+          "stance": "support",
+          "quote": "TODAY IT'S MY GREAT HONOR TO HONOR THE CHICKEN LAUNCH A LOCAL FOOD AND DRINK ESTABLISHMENT IN DISTRICT 11 IT IT'S A LGBTQ OWNED LOCAL HANGOUT SPOT AND A PROJECT OF LOVE FROM TWO CO-OWNERS",
+          "t0": 3412.26,
+          "verified": true
+        },
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "REALLY IT'S SOMEONE WHO HAS TAUGHT ME SO MUCH ABOUT COMMUNITY BUILDING AND PUBLIC SAFETY AND I'M IT'S MY PRIVILEGE TO BE ABLE TO ALSO CALL HIM MY FRIEND MR. MICHAEL WONG FOR HIS SERVICE TO SAN FRANCISCO WORKING CLASS FAMILIES AT RISK YOUTH, IMMIGRANTS AND SURVIVORS OF VIOLENCE",
+          "t0": 3866.149,
+          "verified": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "stance": "support",
+          "quote": "PRESIDIO BRANCH LIBRARY MANAGER ROBERT CARLSON AS HE RETIRES FOLLOWING A 14 ONE YEAR CAREER IN LIBRARIES INCLUDING MORE THAN 30 YEARS OF SERVICE RIGHT HERE WITH THE SAN FRANCISCO PUBLIC LIBRARY.",
+          "t0": 4598.5,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1162226,
+      "summary": "Supervisors introduced new legislation, inquiries, and memoriam adjournments. Supervisor Chen introduced a resolution urging the state to preserve adult acupuncture benefits under Medi-Cal and submitted a letter of inquiry regarding public modeling tools for state-mandated housing rezoning. Supervisor Sherrill introduced resolutions designating National Gun Violence Awareness Day and requesting priority 911 dispatch for drug activity near schools and parks, while other supervisors introduced storefront commercial zoning flexibilities and memoriam tributes.",
+      "outcome": "referred",
+      "topics": [
+        "health",
+        "housing",
+        "public_safety",
+        "planning_land_use",
+        "small_business"
+      ],
+      "speakers": [
+        {
+          "name": "Chyanne Chen",
+          "stance": "support",
+          "quote": "",
+          "t0": 4917.733,
+          "verified": false
+        },
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "KNOWING THAT IS A REALLY A A PENNY WISE DOLLAR FOR DECISION BECAUSE ACUPUNCTURE CARE IS TRULY A PREVENTIVE CARE. >> IT'S IT WILL PROVIDE PAIN TREATMENT FOR MANY OTHER TYPES OF TREATMENTS THAT REALLY ALLOW INDIVIDUALS TO RECEIVE PAIN RELIEF",
+          "t0": 5257.699,
+          "verified": false
+        },
+        {
+          "name": "Stephen Sherrill",
+          "stance": "support",
+          "quote": "SECOND TODAY I'M INTRODUCING A RESOLUTION URGING THE SAN FRANCISCO POLICE DEPARTMENT AND THE DEPARTMENT OF EMERGENCY MANAGEMENT TO CLASSIFY ALL 911 CALLS REGARDING ILLICIT DRUG ACTIVITY WITHIN 1500 FEET OF PARKS, PLAYGROUNDS AND SCHOOLS AS PRIORITY A EMERGENCIES.",
+          "t0": 5961.503,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1162227,
+      "summary": "Members of the public provided testimony during general public comment. Numerous speakers voiced strong opposition to a proposed $5 hourly fee for reserving public tennis courts, while representatives from the Glide Center for Social Justice urged supervisors to restore soda tax funding for community health equity programs. Other speakers raised concerns about solar permitting delays, federal budget opportunities, and gun violence prevention.",
+      "outcome": "no_action",
+      "topics": [
+        "parks",
+        "health",
+        "environment",
+        "public_safety",
+        "budget"
+      ],
+      "speakers": [
+        {
+          "name": "Public commenter",
+          "stance": "oppose",
+          "quote": "PLEASE DO NOT CUT FUNDING FOR SODA TAX FUNDED PROGRAMS INCLUDING BLIND SOCIAL JUSTICE ACADEMY. THIS PROGRAM IS AN ESSENTIAL TENDERLOIN SPACE FOR ENSURING THAT MARGINALIZED COMMUNITIES HAVE A VOICE AND RESOLVING THE HEALTH ISSUES THAT IMPACT THEM",
+          "t0": 6423.861,
+          "verified": false
+        },
+        {
+          "name": "Public commenter",
+          "stance": "oppose",
+          "quote": "I'M URGING YA'LL TO VOTE NO ON THE $5 AN HOUR TENNIS COURT RESERVATION FOR THIS FEE GOES DIRECTLY AGAINST PARKS AND REC PHILOSOPHY OF PRESERVING AN ENVIRONMENT FOR THE WELL-BEING OF EVERYONE IN OUR DIVERSE COMMUNITY AND IS DOUBLE DIPPING INTO OUR TAX DOLLARS.",
+          "t0": 6516.173,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": [
+        "Opposing proposed $5 hourly reservation fees on municipal tennis courts",
+        "Restoring soda tax funding for the Glide Center for Social Justice and health programs",
+        "Addressing local permitting bottlenecks for residential solar and battery storage systems",
+        "Urging action against state Medi-Cal reductions and commemorating Gun Violence Awareness Day"
+      ]
+    },
+    {
+      "meta_id": 1162228,
+      "summary": "The Board considered two resolutions introduced for adoption without committee reference: one opposing state cuts to Medi-Cal for undocumented adults, and another recognizing June 6, 2025 as National Gun Violence Awareness Day. Both resolutions were adopted unanimously on a roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1162233,
+      "summary": "The Board reviewed imperative items and read into the record the formal in memoriam adjournments. Tributes were offered for Steve Kellerman, William Joseph Heep, Sharon Ardoin, and SFFD Captain Julio Dominic De Lucci. No other imperative items were contested.",
+      "outcome": "no_action",
+      "topics": [
+        "settlements",
+        "health",
+        "budget",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1162265,
+      "summary": "With all business on the agenda concluded, President Mandelman adjourned the meeting.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    }
+  ],
+  "quote_verification": {
+    "verified": 7,
+    "partial": 6,
+    "dropped": 1
+  }
+}

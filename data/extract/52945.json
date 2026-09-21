@@ -1,0 +1,1367 @@
+{
+  "clip_id": 52945,
+  "items": [
+    {
+      "meta_id": 1257310,
+      "summary": "President Rafael Mandelman convened the regular Board of Supervisors meeting and the Clerk conducted the roll call. Supervisor Stephen Sherrill was noted as initially absent, establishing a quorum of supervisors present. Mandelman led the land acknowledgement and the Pledge of Allegiance, and acknowledged SFGovTV staff.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257311,
+      "summary": "The Clerk read general communications regarding meeting attendance, public broadcast, rules under SB 707 for remote public comment, and decorum standards for public testimony. Instructions for submitting written comments and requesting accommodations were also provided.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257312,
+      "summary": "The Board considered the approval of the June 23, 2026 Board meeting minutes as well as special meeting minutes of the Budget and Appropriations Committee from June 22, 24, and 25, 2026. A roll call vote was held, and the minutes were approved unanimously.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257315,
+      "summary": "The Board introduced the consent agenda items 1 through 18, noting that items are considered routine and can be severed if requested.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257317,
+      "summary": "The Board acted on Consent Agenda Items 1 through 18 in a single roll call vote. The items included departmental appropriations, paid parental leave eligibility, settlement agreements and unlitigated claims, planning code changes, and public works fee waivers. The consent agenda passed unanimously with all 11 supervisors voting in favor.",
+      "outcome": "passed",
+      "topics": [
+        "settlements",
+        "budget",
+        "labor",
+        "planning_land_use",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257344,
+      "summary": "The Board took up the final reading of the Annual Budget and related budget ordinances (Items 19 through 26) as recommended by the Budget and Appropriations Committee. Budget Chair Connie Chan, Vice Chair Matt Dorsey, and Supervisor Danny Sauter spoke in praise of the balanced budget, highlighting restored community services, capital investments, and healthy reserves. The ordinances were finally passed without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "health",
+        "public_safety",
+        "homelessness"
+      ],
+      "speakers": [
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "",
+          "t0": 503.85,
+          "verified": false
+        },
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "",
+          "t0": 824.482,
+          "verified": false
+        },
+        {
+          "name": "Danny Sauter",
+          "stance": "support",
+          "quote": "",
+          "t0": 1013.487,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257349,
+      "summary": "Considered as part of the unified budget package (Items 19-26), this ordinance amends the Administrative Code regarding annual department contributions to the Self-Insurance Surety Bond Fund. It was passed without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257352,
+      "summary": "Considered with the consolidated budget package (Items 19-26), this ordinance modifies baseline funding requirements for early care and education programs to allow the use of interest earned from the Early Care and Education Commercial Rents Tax. It was finally passed without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257359,
+      "summary": "Included in the budget package (Items 19-26), this ordinance temporarily suspends the cap on using Homelessness Gross Receipts Tax revenues to fund short-term rental subsidies under the Our City, Our Home Fund. It was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "homelessness",
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257356,
+      "summary": "Considered under the unified budget package (Items 19-26), this ordinance amends the Administrative Code to adjust utility meter fees and authorize the Controller to annually set weights and measures fees. It was finally passed without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257360,
+      "summary": "Considered within the budget package (Items 19-26), this ordinance adopts the Neighborhood Beautification and Graffiti Clean-Up Fund tax designation ceiling for tax year 2026. It was adopted without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257363,
+      "summary": "The Board considered an ordinance amending the Police Code to establish penalties, including fines and potential imprisonment, for the unlawful discharge of fireworks. On a roll call vote, the ordinance passed 9-2, with Supervisors Shamann Walton and Jackie Fielder voting in opposition.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Shamann Walton",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257366,
+      "summary": "The Board voted on a resolution retroactively accepting and expending a $200,000 grant from the California Department of Parks and Recreation for the Sunset Dunes striping and signage project. The resolution was adopted unanimously on roll call with 11 affirmative votes.",
+      "outcome": "passed",
+      "topics": [
+        "parks",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257367,
+      "summary": "The Board took action on a resolution authorizing a $250,000 grant from the Jain-Trivedi Fund to support increased per diem compensation for low-income jurors under the 'Be The Jury' program. The resolution was adopted without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257372,
+      "summary": "Items 30 through 32 were called together to retroactively accept and expend monetary gifts totaling over $165,000 from Epic Systems Corporation to support low-income and safety-net services. The resolutions were adopted without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257376,
+      "summary": "The Board considered contract amendments with Resource Design Interiors for systems furniture under Items 33 and 34, extending contract terms and increasing maximum amounts up to $10.6 million and $17.8 million respectively. Both resolutions were adopted without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257377,
+      "summary": "The Board reviewed two grant resolutions for public health services: a CDC grant increase for STD prevention totaling $15.9 million and a state grant for reproductive health services. Both resolutions were adopted without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257379,
+      "summary": "The Board considered a resolution approving an emergency declaration by the Recreation and Park Department General Manager for emergency dredging at the Marina Yacht Harbor exceeding $2.5 million. The resolution was adopted without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "parks",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257380,
+      "summary": "The Board considered property acquisition and long-term ground leases at 758 and 772 Pacific Avenue to develop a 175-unit 100% affordable senior housing project and community commercial space. The resolution was adopted without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "planning_land_use",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257381,
+      "summary": "The Board considered Item 39, authorizing the partial forgiveness of approximately $1.2 million in rent obligations and setting a reduced monthly rent for the New Asia Restaurant property. The resolution was adopted without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "small_business",
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257420,
+      "summary": "The Board conducted its 2:30 PM special order of business honoring several community members and organizations with commendations. Honorees included 50-year SFUSD educator Emily Wade-Thompson, the 50-year legacy of Roxy Food Center, Afghan-American community leaders for Afghan-American Heritage Month, Pomeroy Recreation and Rehabilitation Center for Disability Pride Month, People's Budget Coalition coordinator Anya Wallis-Eckman, retiring DPH leader Eileen Lofgren, and the Jingling Cantonese Opera Institute. Mayor Daniel Lurie also made brief remarks commending Assistant Chief of Public Safety Yosef Azeem.",
+      "outcome": "passed",
+      "topics": [
+        "other",
+        "health",
+        "parks",
+        "budget"
+      ],
+      "speakers": [
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "TODAY IT IS MY HONOR TO RECOGNIZE AND CELEBRATE SOMEONE WHO HAS DEDICATED AN EXTRAORDINARY 50 YEARS OF HER LIFE TO THE STUDENTS, FAMILIES AND COMMUNITIES OF SAN FRANCISCO. MISS EMILY WADE THOMPSON.",
+          "t0": 1579.354,
+          "verified": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "stance": "support",
+          "quote": "IT'S MY GREAT HONOR TO RECOGNIZE TO RECOGNIZE ROXY FOR CENTER CHU DISTRICT 11 INSTITUTION. AS THEY CELEBRATE THEIR 50TH ANNIVERSARY IN THIS AUGUST ROXY IT'S MORE THAN A NEIGHBORHOOD MARKET.",
+          "t0": 2097.972,
+          "verified": true
+        },
+        {
+          "name": "Mayor",
+          "stance": "support",
+          "quote": "YOU COME FROM THE LAW ENFORCEMENT SIDE BUT YOUR HEART IS IN THE COMMUNITY BUILDING SIDE WHICH I THINK IS SO INCREDIBLY UNIQUE. AND WE NEED MORE OF THAT IN THIS CITY.",
+          "t0": 4747.169,
+          "verified": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "support",
+          "quote": "COLLEAGUES I'M THRILLED TODAY TO COMMEND ON YOUR WALLY ZIMMERMAN WHO AMONG THE MANY ROLES THEY PLAY IN THE COMMUNITY IS THE FOUNDER AND COORDINATOR OF THE PEOPLE'S BUDGET COALITION.",
+          "t0": 5729.483,
+          "verified": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "I AM HONORED TO PRESENT A COMMENDATION RECOGNIZING EILEEN FOR NEARLY THREE DECADES OF WORK ON SOME OF THE CITY'S BIGGEST PUBLIC HEALTH CHALLENGES INCLUDING OVERDOSES ,HIV, HEPATITIS C AND HOMELESSNESS.",
+          "t0": 6386.641,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257382,
+      "summary": "Following the excusal of Supervisor Shamann Walton, the Board considered a retroactive lease agreement with the 3rd Street Youth Center and Clinic at 888 Post Street at a nominal annual rent of $1. The resolution was adopted unanimously on roll call by the remaining ten supervisors.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257383,
+      "summary": "The Board considered a resolution approving the 2026 HUD Continuum of Care grant application with anticipated revenues exceeding $16 million for homeless services. The resolution was adopted without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "homelessness",
+        "housing",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257384,
+      "summary": "The Board acted on Items 42 and 43, approving settlements of unlitigated labor claims with IFPTE Local 21 ($201,174) and SEIU Local 1021 ($181,306) arising from unfair labor practice charges. The resolutions were adopted without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "settlements",
+        "labor"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257386,
+      "summary": "Supervisor Bilal Mahmood presented an initiative ordinance for the November 2026 ballot to eliminate the real property transfer tax foreclosure exemption for large commercial properties valued over $10 million while protecting homeowners and small multifamily buildings. Supervisor Stephen Sherrill expressed reservations regarding construction transaction costs but offered support. The motion ordering the measure submitted to the voters was approved without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "elections_governance",
+        "planning_land_use",
+        "housing"
+      ],
+      "speakers": [
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "THE COMPTROLLER'S ESTIMATE OFFICE ESTIMATES THAT THIS MEASURE WOULD INCREASE OUR REAL PROPERTY TRANSFER TAX REVENUES BY AN AVERAGE OF 100 TO $150 MILLION ANNUALLY OVER THE NEXT FIVE YEARS. MEANINGFUL REVENUE WE CANNOT AFFORD TO LEAVE ON THE TABLE.",
+          "t0": 8022.644,
+          "verified": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "stance": "support",
+          "quote": "SO I WITH RESERVATIONS I WILL BE SUPPORTING THIS BUT I WOULD URGE US TO REMEMBER THAT THE ORIGINAL INTENT BEHIND THIS WAS NOT TO CREATE A NEW STREAM OF INCOME IN A VACUUM BUT WAS INTENDED TO BALANCE OUT THE POTENTIAL REDUCTION OF OTHER INCOME STREAMS",
+          "t0": 8187.91,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257389,
+      "summary": "The Board considered Items 45 and 46 regarding the Treasure Island Infrastructure and Revitalization Financing District No. 1, including an annexation supplement and intention to issue bonds. The resolutions were adopted without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "housing",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257391,
+      "summary": "Items 47 through 68 were called together, comprising 22 planning ordinances to designate historic properties across the city as official landmarks. All landmark ordinances were passed on first reading without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257392,
+      "summary": "Considered under the consolidated historic landmarking block (Items 47-68), this ordinance designates the Born Home at 99 Divisadero Street as a landmark. It was passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257393,
+      "summary": "Considered within the landmark designation package (Items 47-68), this ordinance designates the Charles Katz Home at 1200 Dolores Street as a landmark. It was passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257394,
+      "summary": "Considered with Items 47 through 68, this ordinance designates the Charles L. Hinkel Home at 740 Castro Street as a city landmark. It was passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257395,
+      "summary": "Considered within the landmark package (Items 47-68), this ordinance designates the De Urioste Home / James C. Hormel Mansion at 181 Buena Vista Avenue East as a landmark. It was passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257396,
+      "summary": "Considered in the landmark designation block (Items 47-68), this ordinance designates the Duboce Triangle Greek Revival Home at 2173 15th Street as a landmark. It was passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257397,
+      "summary": "Included in the historic landmark package (Items 47-68), this ordinance designates the Early Haight Ashbury Farmhouse at 11 Piedmont Street as a landmark. It was passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257398,
+      "summary": "Considered as part of the landmark package (Items 47-68), this ordinance designates the Elliott M. Wilson Home at 1335 Guerrero Street as a landmark. It was passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257399,
+      "summary": "Part of the landmark designations bundle (Items 47-68), this ordinance designates Engine Company No. 44 / Adams-Van Hoesen House at 3816 22nd Street as a landmark. It was passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257400,
+      "summary": "Included in the landmarking package (Items 47-68), this ordinance designates the Guerrero Street Double Stick Eastlake Home at 1415-1417 Grove Street as a landmark. It was passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257401,
+      "summary": "Considered under the landmark designation agenda (Items 47-68), this ordinance designates the Henry Street Rowhouses at 191-197 Henry Street as city landmarks. It was passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257402,
+      "summary": "Considered in the landmark designations block (Items 47-68), this ordinance designates Holy Innocents Church at 455 Fair Oaks Street as a landmark. It was passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257403,
+      "summary": "Part of the landmark designation block (Items 47-68), this ordinance designates the John J. Clark House at 210 Douglas Street as a city landmark. It was passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257404,
+      "summary": "Included in the landmarking package (Items 47-68), this ordinance designates Mission Congregational Church at 3689 19th Street as an official landmark. It was passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257405,
+      "summary": "Considered under the landmarking agenda (Items 47-68), this ordinance designates the Phoenix Brewery at 552 Noe Street as a landmark. It was passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257406,
+      "summary": "Part of the landmark designations group (Items 47-68), this ordinance designates the Richard Spreckels Mansion / Buena Vista Studios at 737 Buena Vista Avenue West as a landmark. It was passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257407,
+      "summary": "Considered with Items 47 through 68, this ordinance designates the Second Church of Christ Scientist at 651 Dolores Street as a city landmark. It was passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257408,
+      "summary": "Included in the historic landmark package (Items 47-68), this ordinance designates the Tietz-Beneke House at 657 Sanchez Street as a landmark. It was passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257409,
+      "summary": "Part of the landmark designations block (Items 47-68), this ordinance designates the William Shaughnessy Home at 394 Fair Oaks Street as a landmark. It was passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257410,
+      "summary": "Considered in the landmark designations block (Items 47-68), this ordinance designates the Fernando Nelson Home at 701 Castro Street as a landmark. It was passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257411,
+      "summary": "Included in the landmarking package (Items 47-68), this ordinance designates the Lange House at 199 Corbett Avenue as a landmark. It was passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257412,
+      "summary": "The final item in the landmarking package (Items 47-68), this ordinance designates Engine Company No. 33 at 117 Broad Street as a city landmark. It was passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257414,
+      "summary": "The Board considered a motion approving the mayoral reappointment of Lindsey Maclise to the Building Inspection Commission for a term ending July 1, 2028. The motion was approved without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257415,
+      "summary": "The Board considered a motion approving the mayoral reappointment of Eleanor Blume to the Public Works Commission for a term ending July 2, 2030. The motion was approved without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257416,
+      "summary": "The Board acted on a motion approving the mayoral reappointment of John Trasvina to the Board of Appeals for a term ending July 1, 2030. The motion was approved without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257417,
+      "summary": "The Board considered Item 72 approving the mayoral reappointment of Joshua Arce to the Public Utilities Commission, followed by Item 73 approving President Mandelman's reappointment of Robin Abad Ocubillo to the Board of Appeals. Both motions were approved without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257419,
+      "summary": "The Board considered a motion reappointing Kimberlee Hartwig-Schulman to the Sanitation and Streets Commission for a term ending July 1, 2030. The motion was approved without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257423,
+      "summary": "The Board considered an ordinance accepting irrevocable offers of public infrastructure and establishing official street grades and sidewalk widths for Phase 2 of the Hunters View HOPE SF project. The ordinance was passed on first reading without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257424,
+      "summary": "The Board acted on a resolution adding the commemorative street name 'Dr. Carlota Texidor del Portillo Way' to Bartlett Street between 21st and 22nd Streets to honor her educational and civic leadership. The resolution was adopted without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257425,
+      "summary": "The Board considered a resolution declaring intent to initiate utility undergrounding on Homestead Street between 24th and 25th Streets. The resolution was adopted without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257429,
+      "summary": "Items 78 through 81 were taken together to approve determinations of public convenience and necessity for four liquor licenses, including a transfer for Reggie and Maude's at 456-460 Larkin Street. All four resolutions were adopted without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "small_business"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257430,
+      "summary": "Considered under the liquor license package (Items 78-81), this resolution determines public convenience and necessity for a Type 64 theater liquor license for the Tenderloin Museum at 835 Larkin Street. It was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "small_business"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257432,
+      "summary": "Considered under the liquor license bundle (Items 78-81), these resolutions address off-sale liquor license transfers for College Market and Hello Mart at 2135 Buchanan Street. Both were adopted without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "small_business"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257435,
+      "summary": "The Board considered a motion approving the mayoral reappointment of Kate Stacy to the Public Utilities Commission for a term ending August 1, 2030. The motion was approved without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257436,
+      "summary": "The Board considered a motion approving the mayoral appointment of Mike Chen to the Planning Commission for a term ending June 30, 2030. The motion was approved without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257438,
+      "summary": "The Board acted on Items 84 and 85 approving President Mandelman's appointments of Elizabeth McDonald and Joel Koppel to the Planning Commission for terms ending July 1, 2030. Both motions were approved without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257439,
+      "summary": "During Roll Call for Introductions, supervisors introduced various new legislative measures and hearing requests. Proposals included recycled water irrigation for Sunset Boulevard (Wong), World Hepatitis Day and behavioral health contract demands at Kaiser (Chen), a public property portfolio inquiry for food security (Mahmood), downtown and Mission drug market enforcement hearings (Mandelman), Rent Board term limit exemptions (Mandelman), a joint hearing on SFPD SVU sexual assault response (Melgar), and renter protections on elevator repairs and banked rent (Sauter). In memoriam tributes were offered for Jerry Fuller, Jeremiah Halsey, Cydney Constantine, and Dr. Estella Reyes Garcia.",
+      "outcome": "no_action",
+      "topics": [
+        "housing",
+        "public_safety",
+        "health",
+        "environment",
+        "labor",
+        "elections_governance"
+      ],
+      "speakers": [
+        {
+          "name": "Alan Wong",
+          "stance": "support",
+          "quote": "THE FUNDING WILL HELP CONNECT THE IRRIGATION SYSTEM SERVING APPROXIMATELY 60 ACRES OF MEDIANS AND ROADSIDE GREENSPACE TO SAN FRANCISCO'S RECYCLED WATER SYSTEM THAT WILL ELIMINATE THE USE OF POTABLE DRINKING WATER FOR IRRIGATION",
+          "t0": 8837.773,
+          "verified": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "stance": "support",
+          "quote": "THIS RESOLUTIONS URGED KAISER TO DROP ITS TERRIBLE THREE CONTRACT LIMITS AND REQUESTS THAT DAY COME TO THE BARGAINING TABLE IN GOOD FAITH.",
+          "t0": 9081.704,
+          "verified": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "AT THIS HEARING I AM INTERESTED IN BETTER UNDERSTANDING AND ALSO GIVING THE PUBLIC A BETTER OPPORTUNITY TO UNDERSTAND THE EFFORTS THAT HAVE BEEN MADE TO REDUCE STREET LEVEL DRUG ACTIVITY CITYWIDE AND THE MORE RECENT SPECIFIC EFFORTS FOCUSED ON THE MISSION.",
+          "t0": 9266.363,
+          "verified": true
+        },
+        {
+          "name": "Danny Sauter",
+          "stance": "support",
+          "quote": "EVERY OTHER CITY THAT ALLOWS BANK RENT HAS GUARDRAILS EVERY SINGLE ONE EXCEPT SAN FRANCISCO. AND WE HAVE LITERALLY BEEN CALLED THE WILD WEST OF RENT BANKING BECAUSE OF THIS.",
+          "t0": 10872.206,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257440,
+      "summary": "The Board opened the floor to general public comment both in person and remotely. Members of the public testified on a range of municipal matters, including concerns over removing peer specialists from street crisis response teams, support for cultural heritage and awareness months, critique of artificial intelligence in government, and vacant seats on the Sunshine Ordinance Task Force.",
+      "outcome": "no_action",
+      "topics": [
+        "health",
+        "elections_governance",
+        "public_safety"
+      ],
+      "speakers": [
+        {
+          "name": "Public commenter",
+          "stance": "oppose",
+          "quote": "I HAD TO TELL THEM THEY MAY BE WITNESSING THE REMOVAL OF PEER COUNSELORS FROM THE STREET CRISIS RESPONSE TEAM FROM FRONTLINE WORKERS TO DIRECTORS. NO ONE THAT I SPOKE TO HAD HEARD IT ANYWHERE ELSE.",
+          "t0": 11116.402,
+          "verified": true
+        },
+        {
+          "name": "Public commenter",
+          "stance": "oppose",
+          "quote": "YOU ARE FORCING THE TASK FORCE TO GO ON HIATUS CAUSING BUILD UP OF A BACKLOG OF SUNSHINE RELATED COMPLAINTS AND DELAYING REDRESS FOR THOSE WHO HAVE FILED THEM.",
+          "t0": 11515.215,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": [
+        "Preserving peer specialists on Street Crisis Response Teams",
+        "Delays and vacancies on the Sunshine Ordinance Task Force",
+        "Concerns over AI implementation in city operations",
+        "Advocacy for South Asian and Afghan American Heritage Months"
+      ]
+    },
+    {
+      "meta_id": 1257443,
+      "summary": "The Board called the 'For Adoption Without Committee Reference' calendar, encompassing Items 88 through 95. Several items (88, 89, 90, 93, 94) were severed for separate consideration, and the remaining unsevered items (91, 92, and 95) were adopted on a 9-0 roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Alan Wong",
+          "vote": "absent",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257444,
+      "summary": "Supervisor Matt Dorsey spoke in support of a resolution declaring August 2026 as Afghan-American Heritage Month in San Francisco, recognizing the cultural contributions and civic service of the Afghan American community. The resolution was adopted without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "TODAY I AM PROUD TO ASK YOU TO SUPPORT THIS RESOLUTION DECLARING AUGUST AS AFGHAN-AMERICAN HERITAGE MONTH FOR THE CITY AND COUNTY OF SAN FRANCISCO.",
+          "t0": 13034.967,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257445,
+      "summary": "Supervisor Matt Dorsey introduced a resolution recognizing August 21, 2026 as National Fentanyl Prevention and Awareness Day, honoring overdose victims, supporting recovery efforts, and announcing the upcoming Sunset Vigil at City Hall. The resolution was adopted unanimously on roll call with nine affirmative votes.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "public_safety"
+      ],
+      "speakers": [
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "HERE IN SAN FRANCISCO, MORE THAN THE MORE THAN 3000 PEOPLE WE'VE LOST TO FENTANYL RELATED OVERDOSES SINCE 2020 HAS MADE THIS THE DEADLIEST PUBLIC HEALTH EMERGENCY IN OUR CITY SINCE THE DARKEST DAYS OF THE AIDS CRISIS.",
+          "t0": 13209.887,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257446,
+      "summary": "Supervisor Bilal Mahmood spoke in favor of a resolution declaring July 18 through August 17, 2026 as South Asian American Heritage Month, joined by Supervisor Matt Dorsey. The resolution celebrates the historical and cultural contributions of South Asian Americans and was adopted without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "DEEPLY HONORED TO HAVE HAD THE OPPORTUNITY TO INTRODUCE THIS RESOLUTION RECOGNIZING THE MANY CONTRIBUTIONS OF SOUTH ASIAN AMERICAN COMMUNITIES THAT HAVE HELPED SHAPE SAN FRANCISCO INTO DIVERSE, DYNAMIC AND INCLUSIVE CITY THAT WE ARE TODAY",
+          "t0": 13353.298,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257449,
+      "summary": "Supervisor Myrna Melgar spoke on a resolution declaring July 2026 as Disability Pride Month, highlighting local accessibility milestones, disability rights history, and city department collaborations. The resolution was adopted without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "other",
+        "health"
+      ],
+      "speakers": [
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "AS WE RECOGNIZE JULY 2026 AS DISABILITY PRIDE MONTH WE REAFFIRM OUR COMMITMENT TO ACCESSIBILITY EQUITY IN CONTINUING THE COLLABORATIVE WORK OUR COMBINED TEAMS HAVE ADVANCED OVER THE PAST YEAR.",
+          "t0": 13772.546,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257450,
+      "summary": "The Board considered a motion authorizing the preparation of proponent and opponent ballot arguments for the November 3, 2026 general election. The Clerk read amendments assigning supervisors to draft arguments on specific measures, which were adopted without objection. The amended motion was approved on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1257475,
+      "summary": "The Board adjourned the meeting in memory of Gerald Allen Fuller, Sydney Ellen Constantine, Jeremiah Francis Halsey, and Dr. Estella Reyes Garcia.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    }
+  ],
+  "quote_verification": {
+    "verified": 16,
+    "partial": 1,
+    "dropped": 3
+  }
+}

@@ -1,0 +1,1100 @@
+{
+  "clip_id": 49850,
+  "items": [
+    {
+      "meta_id": 1154818,
+      "summary": "President Pro Tem Shamann Walton called the meeting of the Board of Supervisors to order. Roll call was taken, a quorum was established, and the Board recited the land acknowledgment and Pledge of Allegiance.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1154819,
+      "summary": "Mayor Daniel Lurie appeared before the Board to highlight recent initiatives, including the private Breaking the Cycle Fund for behavioral health and homelessness, addressing the $800 million budget deficit, and launching the Rebuilding the Ranks public safety staffing plan. Supervisor Melgar asked the Mayor about renewing the city's commitment to Vision Zero traffic safety, and Mayor Lurie detailed enforcement, speed safety cameras, and street infrastructure improvements.",
+      "outcome": "no_action",
+      "topics": [
+        "public_safety",
+        "transit",
+        "budget"
+      ],
+      "speakers": [
+        {
+          "name": "Mayor",
+          "stance": "neutral",
+          "quote": "Our team has spent hours with many of you in this room talking about solutions to two significant challenges facing our city the behavioral health crisis and the $800 million budget deficit.",
+          "t0": 183.216,
+          "verified": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "stance": "question",
+          "quote": "So today my question is what commitments and investments do you intend to make in order to renew our goal of zero deaths and establish the next iteration of a vision zero policy for us?",
+          "t0": 472.541,
+          "verified": true
+        },
+        {
+          "name": "Mayor",
+          "stance": "neutral",
+          "quote": "And I want to be crystal clear I believe that traffic safety is public safety. I want san franciscans to feel safe on our streets.",
+          "t0": 498.769,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1154820,
+      "summary": "The Board held its formal policy discussion with Mayor Daniel Lurie regarding traffic safety and Vision Zero initiatives. Supervisor Melgar and Mayor Lurie discussed funding, law enforcement staffing, and speed cameras.",
+      "outcome": "no_action",
+      "topics": [
+        "public_safety",
+        "transit",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1154821,
+      "summary": "The Clerk announced a communication from Board President Rafael Mandelman requesting an excused absence and designating Supervisor Shamann Walton as President Pro Tem. The Board voted unanimously to excuse President Mandelman.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1154822,
+      "summary": "The Board considered the approval of the meeting minutes from the regular Board of Supervisors meeting on April 8, 2025. The motion to approve the minutes passed unanimously.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1154824,
+      "summary": "The Board considered Consent Agenda items 2 through 5, comprising routine administrative code changes, zoning map updates, fee waivers, and substance use treatment policies. With no members severing any items, the consent agenda was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "health",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1154839,
+      "summary": "The Board considered an ordinance de-appropriating and appropriating funds for the Police Department and Sheriff's Department, including $61 million for Police overtime and $30 million for Sheriff overtime. The ordinance passed on final reading with an 8-2 vote, with Supervisors Fielder and Walton voting in opposition.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Jackie Fielder",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1154843,
+      "summary": "The Board considered a resolution retroactively authorizing the Department of Public Works to accept and expend approximately $1.36 million in grant funding from the Metropolitan Transportation Commission for pedestrian and bicycle projects. The resolution was adopted unanimously.",
+      "outcome": "passed",
+      "topics": [
+        "transit",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1154844,
+      "summary": "The Board considered a resolution approving the sale of a vacant city-owned lot to adjacent property owner Bayview McKinnon LLC for approximately $375,000 and finding the property to be exempt surplus land. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1154845,
+      "summary": "The Board considered a resolution authorizing a three-year lease agreement with Bayview Plaza, LLC for 16,000 square feet at 3801 Third Street for the Human Services Agency at an initial base rent of $526,251 per year. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1154846,
+      "summary": "The Board considered a resolution approving a five-year lease with Bayview Plaza, LLC for Suite 400 at 3801 Third Street on behalf of the Department of Public Health at an initial base rent of $489,225 per year. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "budget",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1154847,
+      "summary": "The Board considered a resolution approving a second contract modification and one-year extension with Hallmark Aviation Services, L.P. for airport information and guest assistance services at San Francisco International Airport, increasing the total contract amount to not exceed $20,001,419. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1154848,
+      "summary": "The Board considered a resolution retroactively authorizing the Department of Public Health to accept and expend a monetary gift of $204,250 from Epic Systems Corporation to support federally qualified health centers. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1154849,
+      "summary": "The Board considered a resolution retroactively authorizing the Department of Public Health to accept and expend a $115,000 safety net gift from Epic Systems Corporation. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1154850,
+      "summary": "The Board considered a resolution approving a second amendment to a grant agreement with the Homeless Prenatal Program for supportive housing assistance and rapid rehousing services, extending the term through June 30, 2029, and increasing the total to approximately $22.6 million. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "homelessness",
+        "housing",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1154852,
+      "summary": "The Board considered a resolution authorizing an amendment to the memorandum of understanding with the California Electronic Recording Transaction Network Authority, updating fee structures and extending the MOU term through January 10, 2035. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1154854,
+      "summary": "The Board considered a motion approving the mayoral nomination of Dan Calamuci to the Building Inspection Commission for a term ending July 1, 2027. The motion was approved without objection.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1154855,
+      "summary": "The Board considered a motion appointing Ted Jackson and Jane Redmond to the In-Home Supportive Services Public Authority for terms ending March 1, 2028. The motion was approved without objection.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance",
+        "health"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1154856,
+      "summary": "Supervisors introduced new legislation during the first part of Roll Call for Introductions. Supervisor Mahmood introduced resolutions to rename two blocks of Pierce Street in honor of Dr. Amos C. Brown and authorized a permit for Golden City Football Club to play at Kezar Stadium. Supervisor Melgar introduced an affordable housing and zoning package for the west side, updated priority conservation areas, and recognized Bike to Wherever Day.",
+      "outcome": "no_action",
+      "topics": [
+        "housing",
+        "parks",
+        "small_business",
+        "transit",
+        "environment"
+      ],
+      "speakers": [
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "Colleagues today I'm excited to introduce two resolutions to honor DR. Amos c brown with a street renaming of two blocks off pier street alongside third baptist church which DR. Brown has led for nearly 50 years.",
+          "t0": 1488.4,
+          "verified": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "This resolution authorizes a long term permit between the recreation and parks department and golden city football club, a new professional soccer team that will soon call keyser home .",
+          "t0": 1673.959,
+          "verified": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "The first is the creation of an enhanced infrastructure financing district for the west side to eventually provide funding for affordable housing development on the west side, an area of the city that has seen very little of that for decades.",
+          "t0": 1844.499,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1154857,
+      "summary": "The Board held special commendations recognizing community leaders and organizations. Honorees included retiring educator Principal Liana Szeto of Alice Fong Yu Alternative School, the historic El Farolito soccer club, martial artist and Bruce Lee's sister Phoebe Lee, and Wah Mei School alongside the Sunset Chinese Cultural District.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Chyanne Chen",
+          "stance": "support",
+          "quote": "Today it it's my great honor to commend principal lisa siddall, a principal sitter what you want to come and send by the post?",
+          "t0": 2151.91,
+          "verified": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "support",
+          "quote": "I would like to honor a massive source of pride for district nine the mission's very own alpha elite the football club which is which is a local soccer and football club that represents the best of not only san francisco but also the latino and working class community",
+          "t0": 2817.484,
+          "verified": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "Today I have the distinct honor of commanding a pillar of san francisco's asian-american community feebly.",
+          "t0": 3286.592,
+          "verified": true
+        },
+        {
+          "name": "Joel Engardio",
+          "stance": "support",
+          "quote": "Colleagues, today I'm honoring one of our most important partners in serving the chinese-american community in the sunset wami school. Wami is the first bilingual preschool in san francisco.",
+          "t0": 3599.876,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1154860,
+      "summary": "The Board convened a Committee of the Whole hearing on the Department of Public Works' report of assessment costs for graffiti blight abatement on private properties. Numerous property owners and representatives testified during public comment about unfair fines, lack of notification, repeated vandalism, and challenges cleaning graffiti on high walls and historic buildings. The hearing was recessed to allow DPW staff to confer with affected owners in the hallway.",
+      "outcome": "no_action",
+      "topics": [
+        "small_business",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Alicia Witt",
+          "stance": "neutral",
+          "quote": "Today we request the approval of the list for assessment of blight blighted properties since there is an outstanding balance on these properties public works is requesting that these assessments be added to the property tax bill",
+          "t0": 4198.883,
+          "verified": true
+        },
+        {
+          "name": "Danny Sauter",
+          "stance": "question",
+          "quote": "My concern is is why we're having that process held here. It seems like a very poor use of everyone's time as you're seeing once you get together in the hallway like you're having that communication",
+          "t0": 6612.662,
+          "verified": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "question",
+          "quote": "Can you walk us through the the kind of process for you know, someone gets a citation, what is their expectation around them communicating that they've abated this what is their recourse for contesting it?",
+          "t0": 6695.814,
+          "verified": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "stance": "question",
+          "quote": "I wonder what is currently the but the notice how many language do you send out or just one",
+          "t0": 7045.568,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": [
+        "Failure of DPW to properly notify owners or acknowledge prompt graffiti abatement",
+        "Cost and safety hazards of removing high-elevation graffiti",
+        "Victimization of small property owners and merchants by persistent graffiti vandalism",
+        "Need for multilingual notices in Chinese and Spanish"
+      ]
+    },
+    {
+      "meta_id": 1154863,
+      "summary": "The Board considered the resolution approving assessment costs for blighted properties. Following public comment and questions to DPW staff, the Board recessed the item to allow staff to confer with contesting property owners before voting.",
+      "outcome": "no_action",
+      "topics": [
+        "small_business",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1154868,
+      "summary": "The Board considered an appeal of the CEQA categorical exemption determination issued for the proposed project at 1310 Junipero Serra Boulevard, involving the demolition of maintenance structures and construction of a new 20,000-square-foot maintenance building. Supervisor Melgar moved to continue the hearing and associated motions for one week to allow the parties to finalize a settlement agreement, which the Board approved unanimously.",
+      "outcome": "continued",
+      "topics": [
+        "planning_land_use",
+        "environment"
+      ],
+      "speakers": [
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "",
+          "t0": 7392.82,
+          "verified": false
+        }
+      ],
+      "votes": [
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": [
+        "Support for continuance to reach agreement",
+        "Concerns regarding hazardous fumes and proximity of the facility to St. Thomas More School students"
+      ]
+    },
+    {
+      "meta_id": 1154872,
+      "summary": "The Board considered a motion affirming the categorical exemption determination under CEQA for the project at 1310 Junipero Serra Boulevard. The motion was continued for one week to May 20, 2025.",
+      "outcome": "continued",
+      "topics": [
+        "planning_land_use",
+        "environment"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1154873,
+      "summary": "The Board considered a motion conditionally reversing the categorical exemption determination under CEQA for 1310 Junipero Serra Boulevard. The item was continued for one week to May 20, 2025.",
+      "outcome": "continued",
+      "topics": [
+        "planning_land_use",
+        "environment"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1154874,
+      "summary": "The Board considered a motion directing the preparation of findings in support of reversing the CEQA categorical exemption for 1310 Junipero Serra Boulevard. The motion was continued for one week to May 20, 2025.",
+      "outcome": "continued",
+      "topics": [
+        "planning_land_use",
+        "environment"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1154876,
+      "summary": "The Board considered an appeal of the Conditional Use Authorization approved by the Planning Commission for the construction of a maintenance facility building at 1310 Junipero Serra Boulevard. The hearing and related motions were continued for one week to May 20, 2025.",
+      "outcome": "continued",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1154879,
+      "summary": "The Board considered a motion approving the Conditional Use Authorization for 1310 Junipero Serra Boulevard. The item was continued for one week to May 20, 2025.",
+      "outcome": "continued",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1154880,
+      "summary": "The Board considered a motion disapproving the Conditional Use Authorization for 1310 Junipero Serra Boulevard. The item was continued for one week to May 20, 2025.",
+      "outcome": "continued",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1154881,
+      "summary": "The Board considered a motion directing the preparation of findings in support of the Board's disapproval of the Conditional Use Authorization for 1310 Junipero Serra Boulevard. The motion was continued for one week to May 20, 2025.",
+      "outcome": "continued",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1154882,
+      "summary": "During the continuation of Roll Call for Introductions, Supervisor Walton requested an investigative hearing into reports that the San Francisco Parks Alliance misspent or siphoned restricted funds belonging to neighborhood park partner groups. Supervisor Dorsey called for a hearing with city agencies on implementing the Recovery First drug policy and updating annual overdose prevention reporting.",
+      "outcome": "no_action",
+      "topics": [
+        "parks",
+        "health",
+        "budget",
+        "elections_governance"
+      ],
+      "speakers": [
+        {
+          "name": "Shamann Walton",
+          "stance": "neutral",
+          "quote": "Colleagues today I'm introducing a hearing request to get to the bottom of the recent allegations about the san francisco parks alliance having misspent restricted funds from a wide range of local parks and open space organizations according to recent new reports.",
+          "t0": 7862.362,
+          "verified": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "stance": "neutral",
+          "quote": "Colleagues with today's final passage of the recovery first ordinance I am calling for a hearing to solicit input from relative relevant city agencies for possible revisions to the 2021 ordinance mandating annual reports on overdose prevention policies",
+          "t0": 8076.279,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1154883,
+      "summary": "The Board heard general public comment on various matters within its jurisdiction. Speakers addressed Jewish American Heritage Month, dangerous pedestrian intersections and Vision Zero, student journalism and the reassignment of Lowell High School newspaper advisor Eric Gustafson, Kezar Stadium usage, and Parks Alliance accountability.",
+      "outcome": "no_action",
+      "topics": [
+        "other",
+        "transit",
+        "parks",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": [
+        "Support for Jewish American Heritage Month and fighting antisemitism",
+        "Demand for urgent traffic safety and daylighting at dangerous intersections",
+        "Outrage over retaliation and reassignment of Lowell High School journalism advisor Eric Gustafson",
+        "Opposition to exclusive privatization of Kezar Stadium by new professional soccer team",
+        "Concerns over mismanagement of community funds by the San Francisco Parks Alliance"
+      ]
+    },
+    {
+      "meta_id": 1154884,
+      "summary": "The Board resumed consideration of the Committee of the Whole hearing on blighted property assessment costs after DPW staff conferred with property owners in the hallway. DPW reported that three citations were waived and agreements were reached with other owners.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1154885,
+      "summary": "The Board approved the amended report of assessment costs submitted by the Director of Public Works for blighted property inspections and abatements, reflecting fee waivers agreed upon during the meeting. The resolution passed with a unanimous 10-0 roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1154886,
+      "summary": "The Board considered resolutions introduced for adoption without committee reference (Items 30 through 37). Supervisor Melgar severed Item 34, and the remaining items\u2014including support for striking Flying Food workers, state housing legislation AB 1165, and Jewish American Heritage Month\u2014were adopted unanimously.",
+      "outcome": "passed",
+      "topics": [
+        "labor",
+        "housing",
+        "small_business",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1154888,
+      "summary": "The Board considered resolutions on the For Adoption Without Committee Reference calendar (Items 30-33 and 35-37). The measures passed unanimously by roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "labor",
+        "housing",
+        "small_business",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1154893,
+      "summary": "The Board considered severed Item 34, a resolution supporting student journalism, affirming the importance of a free press, and upholding free speech following the reassignment of Lowell High School newspaper advisor Eric Gustafson. Supervisors Melgar, Engardio, Mahmood, and Fielder spoke in strong support of student reporters and First Amendment protections, and the resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "This resolution is about defending student journalism and the right to a free press. Very few times in my lifetime has been as important to do that as right now given what we are going through as a nation.",
+          "t0": 10442.442,
+          "verified": true
+        },
+        {
+          "name": "Joel Engardio",
+          "stance": "support",
+          "quote": "High schools can produce good journalism that challenges teachers and the district and abides by free speech. We did it 35 years ago and we can do it today.",
+          "t0": 10600.503,
+          "verified": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "I feel they also recognize how important it is to uplift and stand up for student journalists. And so I appreciate and commend again you introducing this resolution.",
+          "t0": 10675.212,
+          "verified": false
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "support",
+          "quote": "Thanks to all the co sponsors but most importantly thank you so much to the youth for coming out all the way to city hall on a school day. It is a testament to your courage and your strength",
+          "t0": 10697.368,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1154914,
+      "summary": "With no imperative agenda items or in memoriam adjournments presented, President Pro Tem Walton adjourned the Board of Supervisors meeting.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    }
+  ],
+  "quote_verification": {
+    "verified": 19,
+    "partial": 1,
+    "dropped": 1
+  }
+}

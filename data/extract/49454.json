@@ -1,0 +1,786 @@
+{
+  "clip_id": 49454,
+  "items": [
+    {
+      "meta_id": 1142612,
+      "summary": "The Board of Supervisors convened for its regular meeting and conducted roll call. Supervisor Danny Sauter was excused from the meeting without objection to attend to his newborn. The Board then recited the ancestral land acknowledgement and the Pledge of Allegiance.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1142613,
+      "summary": "The Board considered the approval of meeting minutes from the February 25, 2025, and March 4, 2025, regular meetings. The minutes were approved following a unanimous roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1142615,
+      "summary": "The Clerk read standard communications regarding access to the legislative chamber, broadcast channels, submission of written public comments, and procedures for requesting disability accommodations.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1142616,
+      "summary": "The Board took up the consent agenda comprising items 1 through 9. With no requests to sever any items, the consent agenda was approved via a unanimous roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "settlements",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1142618,
+      "summary": "The Board considered items 1 through 9 on the consent agenda, which included litigation settlements with Coinbase, Inc. ($1,600,000), Lester Hogan, Ada M. Guzman, Veronica Fulton, Michael E. Johnson, Broadway San Francisco, LLC, Hanover Insurance Company, and Idemitsu Americas Holdings Corporation. The ordinances were passed on first reading and resolutions adopted as part of the consent roll call.",
+      "outcome": "passed",
+      "topics": [
+        "settlements"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1142632,
+      "summary": "The Board considered a resolution approving the Police Commission's statement of purpose pursuant to Charter Section 4.102. The resolution was adopted without objection on same house, same call.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1142633,
+      "summary": "The Board considered a resolution approving a ten-year Port Commission lease with Everett & Jones BBQ SF International, LLC, for restaurant space at 300 Jefferson Street. The lease sets base rent at 5% of gross revenues, no less than $10,000 per month. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1142634,
+      "summary": "The Board considered a resolution authorizing the execution and delivery of multifamily housing revenue notes in an amount not to exceed $64,000,000 for the construction of a 92-unit affordable rental housing project at 850 Turk Street. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1142635,
+      "summary": "The Board considered a resolution authorizing a loan agreement not to exceed $11,595,214 through the Mayor's Office of Housing and Community Development with Hazel Eddy Woolsey LLC. The loan finances three affordable rental housing projects known as the Bernal Bundle at 1652-1654 Eddy Street, 3554 17th Street, and 195 Woolsey Street. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1142637,
+      "summary": "The Board considered a resolution authorizing the Department of Technology Chief Information Officer to enter into a no-cost, two-year memorandum of understanding with InnovateUS to provide customer feedback. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1142638,
+      "summary": "The Board considered a resolution authorizing designated city and Recreation and Park Department officials to solicit donations for the India Basin Waterfront Park initiative from nonprofits and foundations for six months, granting a behested payment waiver. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "parks",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1142640,
+      "summary": "The Board considered an ordinance amending the Administrative Code to create the Castro Upper Market Entertainment Zone and clarify boundaries of existing entertainment zones. The ordinance was passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1142641,
+      "summary": "The Board considered a motion appointing Amerika Nachele Sanchez to the Sunshine Ordinance Task Force for a term ending April 27, 2026. The motion was approved without objection.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1142642,
+      "summary": "The Board considered a motion approving the Treasurer's nomination of Meghan Wallace to the Treasury Oversight Committee for a term ending June 17, 2026. The motion was approved without objection.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1142644,
+      "summary": "The Board considered an ordinance amending the Planning Code and Zoning Map to establish the 600 Townsend Street West Special Use District to legalize longstanding office uses at the site. The ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1142645,
+      "summary": "During the roll call for introductions, supervisors introduced new legislation and recognitions. Supervisor Chyanne Chen introduced a resolution supporting a citywide affordable housing site strategy, Supervisor Bilal Mahmood introduced a resolution declaring April as Autism Awareness Month, Supervisor Rafael Mandelman recognized Education and Sharing Day and adjourned in memory of peace activist David Hartsough, and Supervisor Stephen Sherrill commemorated the 83rd anniversary of the Bataan Death March.",
+      "outcome": "no_action",
+      "topics": [
+        "housing",
+        "health",
+        "transit",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Chyanne Chen",
+          "stance": "support",
+          "quote": "Today I am introducing a resolution affirming that the support of board of supervisors for an affordable housing site is strategy that ensures that we make proactive and meaningful progress towards our affordable housing goals.",
+          "t0": 657.577,
+          "verified": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "I'd like to introduce a resolution declaring APRIL autism awareness month.",
+          "t0": 808.29,
+          "verified": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "I'm introducing a resolution recognizing APRIL 9th 2025 as education and sharing day in san francisco.",
+          "t0": 1152.946,
+          "verified": false
+        },
+        {
+          "name": "Stephen Sherrill",
+          "stance": "support",
+          "quote": "tomorrow marks the 83rd anniversary of the bataan death MARCH on APRIL 9th, 19 42 during world war two.",
+          "t0": 1264.393,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1142646,
+      "summary": "The Board opened general public comment early before the 2:30 p.m. special order. Members of the public spoke regarding violence and requests for safety town halls in the Castro, physical exercise installations to reduce overdose deaths, and mental health support services for veterans.",
+      "outcome": "no_action",
+      "topics": [
+        "public_safety",
+        "health",
+        "homelessness"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": [
+        "safety concerns and request for town halls in the Castro",
+        "installing outdoor fitness bars to mitigate drug overdoses",
+        "veterans mental health care resources and VA services"
+      ]
+    },
+    {
+      "meta_id": 1142647,
+      "summary": "The Board held a special order to recognize community commendations. Supervisor Shamann Walton commended Mary and Edmund Woo for their family's long-standing operation of the Potrero Terrace Market since 1960. Supervisor Myrna Melgar commended Chris Duderstadt, founder of the Public Bench Project, for building and donating over 210 benches across San Francisco public spaces.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "parks",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "Today we commend the entire wu family and marian edmund wu for their lifelong commitment to patrol who put preserving a legacy built on love labor and deep community ties and for continuing to honor their parents vision.",
+          "t0": 2007.378,
+          "verified": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "Since 2012 chris has led the public bench project. this incredible organization builds and provides public benches free of charge to any san franciscan who requests one.",
+          "t0": 2191.966,
+          "verified": true
+        },
+        {
+          "name": "Public commenter",
+          "stance": "support",
+          "quote": "Since founding the public bench project, chris has built and installed over 210 benches .",
+          "t0": 2274.549,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1142651,
+      "summary": "The Board resumed general public comment prior to the 3:00 p.m. special order. Commenters addressed mayoral accountability, delays and staff dismissals in Sunshine Ordinance Task Force hearings, a purported federal claim, ongoing needs for child care funding under Baby Prop C, municipal funding cuts affecting transgender organizations, neighborhood neglect in the Fillmore, and resolutions opposing the federal Alien Enemies Act.",
+      "outcome": "no_action",
+      "topics": [
+        "budget",
+        "health",
+        "elections_governance",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": [
+        "mayoral accountability and community town halls",
+        "Sunshine Ordinance enforcement delays",
+        "early childhood education and preserving Baby Prop C funding",
+        "funding for transgender community organizations",
+        "opposition to federal Alien Enemies Act deportations"
+      ]
+    },
+    {
+      "meta_id": 1142653,
+      "summary": "The Board held a public hearing on an appeal of the Planning Commission's approval of a conditional use authorization for 4100 3rd Street to convert a mixed-use building with SRO units. The appellant, Babette Brackett, stated that she had reached an agreement with project sponsor Friends of the Children SF Bay Area to preserve historic elements and provide community culinary access, and withdrew her appeal. The public hearing was closed.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "housing"
+      ],
+      "speakers": [
+        {
+          "name": "Public commenter",
+          "stance": "neutral",
+          "quote": "I'd like to in the spirit of our agreement that we made I would like to withdraw my petition for the appeal being that the issues that I raised. Ftc has agreed that they will honor the historic preservation and have pleasantly and warmly invited some of our merchants back in",
+          "t0": 4058.49,
+          "verified": true
+        },
+        {
+          "name": "Public commenter",
+          "stance": "support",
+          "quote": "I'm susan collette, executive director friends of the children S.F. Bay area and I affirm all right, so the the applicant and the appellants are in agreement",
+          "t0": 4134.67,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1142657,
+      "summary": "Following the withdrawal of the appeal by the appellant and concurrence by the project sponsor, the Board voted to approve the Conditional Use Authorization for 4100 3rd Street on a unanimous roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1142658,
+      "summary": "Because the Board voted to approve the conditional use authorization for 4100 3rd Street, the companion motion to disapprove the conditional use authorization was tabled without objection.",
+      "outcome": "no_action",
+      "topics": [
+        "planning_land_use",
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1142659,
+      "summary": "Because the conditional use authorization for 4100 3rd Street was approved, the motion directing the preparation of findings to disapprove the authorization was tabled without objection.",
+      "outcome": "no_action",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1142661,
+      "summary": "The Board resumed general public comment following the conditional use hearing. Members of the public spoke honoring the late peace activist David Hartsough, condemning federal invocations of the Alien Enemies Act, urging continued budget support for early childhood educators and Baby Prop C, supporting Education and Sharing Day, and raising concerns about crime and retail theft.",
+      "outcome": "no_action",
+      "topics": [
+        "public_safety",
+        "budget",
+        "health",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": [
+        "tributes to peace activist David Hartsough",
+        "condemning the federal Alien Enemies Act deportations",
+        "protecting Baby Prop C childcare funding and equitable pay for Black educators",
+        "retail robbery, street crime, and drug dealing enforcement"
+      ]
+    },
+    {
+      "meta_id": 1142662,
+      "summary": "The Board took up the agenda of items introduced for adoption without committee reference. Supervisor Melgar severed items 30, 31, and 35 for separate consideration, and the remaining items were adopted on a unanimous roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1142664,
+      "summary": "The Board adopted the unsevered items on the For Adoption Without Committee Reference agenda. These measures included declaring San Francisco as a sanctuary for women seeking housing, designating the Arts Commission as state-local partner with the California Arts Council, and recognizing Asian American and Pacific Islander Heritage Month and National Crime Victims' Rights Week.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "public_safety",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1142669,
+      "summary": "Supervisor Melgar requested that a resolution waiving Department of Public Works and Board of Appeals permit fees for the Detroit Steps Project be referred to the Budget and Finance Committee to correct a procedural error. The item was referred to committee.",
+      "outcome": "referred",
+      "topics": [
+        "budget",
+        "parks",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Myrna Melgar",
+          "stance": "neutral",
+          "quote": "in working with our city attorney this week we discovered a procedural error. So I need to send this resolution to committee to budget and finance so I'd like to make a motion that we send this to committee.",
+          "t0": 7039.111,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1142670,
+      "summary": "The Board considered a resolution condemning President Trump's use of the Alien Enemies Act to deport non-citizens as an abuse of power and constitutional violation. Supervisor Melgar offered a line amendment clarifying the historic targeting of Japanese immigrant leaders in World War II, which was accepted, and the amended resolution was unanimously adopted.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "The alien enemies act is being misused to justify mass deportations under the false pretense that the violent actions of a few constitute an invasion by the country of venezuela.",
+          "t0": 7106.179,
+          "verified": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "this is happening to people who are illegally seeking asylum or status here in this country, this can happen to any immigrant. It can happen actually to any native born person because they're not using due process",
+          "t0": 7291.967,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1142674,
+      "summary": "The Board considered a resolution proclaiming April 5 through April 11, 2025, as the Week of the Young Child in San Francisco and reaffirming the city's commitment to universal, accessible early care and education. Supervisor Melgar highlighted the successes of Baby Prop C funding in reducing waitlists and increasing educator pay, and the resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "budget",
+        "labor",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "with a formation of the department of early education early care educators are seeing increase in their wages and more investment in their professional development and we have seen a decrease of 73% in the waitlist since 2018.",
+          "t0": 7459.57,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1142711,
+      "summary": "President Mandelman requested that the meeting adjourn in memory of peace activist David Hartsough. There being no further business, the meeting was adjourned.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    }
+  ],
+  "quote_verification": {
+    "verified": 12,
+    "partial": 1,
+    "dropped": 0
+  }
+}

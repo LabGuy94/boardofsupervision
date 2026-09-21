@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Woodland editorial — BoardOfSupervision</title>
+    <style>
+      :root { color-scheme: dark; font-family: Inter, ui-sans-serif, system-ui, sans-serif; color: #eaf1e5; background: #0a100b; }
+      * { box-sizing: border-box; }
+      body { margin: 0; min-width: 320px; background: radial-gradient(circle at 8% 0%, #244329 0, transparent 29rem), radial-gradient(circle at 100% 35%, #182f22 0, transparent 27rem), #0a100b; }
+      main { width: min(1180px, calc(100% - 48px)); margin: 0 auto; padding: 34px 0 58px; }
+      header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 46px; }
+      .brand { display: flex; align-items: center; gap: 11px; font-size: 1.05rem; font-weight: 760; letter-spacing: -.04em; }
+      .leaf { width: 18px; height: 24px; border-radius: 90% 10% 90% 10%; transform: rotate(-32deg); background: linear-gradient(140deg, #d7ef9f, #4a8e5e); box-shadow: 0 0 24px #91bb7155; }
+      .quiet-link { color: #a9bba8; font-size: .88rem; text-decoration: none; }
+      .quiet-link:hover { color: #eff8e9; }
+      .hero { display: grid; grid-template-columns: minmax(0, 1.14fr) minmax(340px, .86fr); gap: 54px; align-items: end; }
+      .kicker, .eyebrow { color: #b8d686; font-size: .84rem; }
+      h1 { max-width: 700px; margin: 14px 0 20px; font: 600 clamp(3rem, 6vw, 5.4rem)/.98 Georgia, 'Times New Roman', serif; letter-spacing: -.06em; }
+      .intro { max-width: 600px; color: #b9cbb9; font-size: 1.05rem; line-height: 1.65; }
+      .query { display: flex; gap: 10px; margin-top: 32px; padding: 7px; border: 1px solid #829a6a66; border-radius: 15px; background: #0e1910cc; box-shadow: 0 18px 45px #0005; }
+      input { min-width: 0; flex: 1; border: 0; outline: 0; padding: 13px 15px; color: #eff6ea; background: transparent; font: inherit; }
+      button { border: 0; border-radius: 10px; padding: 12px 16px; color: #192214; background: #d2ed9d; font: 700 .9rem inherit; cursor: pointer; }
+      .chips { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 15px; }
+      .chip { border: 1px solid #b1ca9455; border-radius: 999px; padding: 6px 10px; color: #b5c7b1; font-size: .76rem; }
+      .feature { overflow: hidden; border: 1px solid #a8c98b2e; border-radius: 20px; background: linear-gradient(145deg, #1a2c1b, #101a11); box-shadow: 0 26px 60px #0004; }
+      .feature-copy { padding: 26px 28px 20px; }
+      h2 { margin: 8px 0; font-size: 1.55rem; letter-spacing: -.04em; }
+      .feature p { color: #b9cbb6; line-height: 1.55; }
+      .citation { display: flex; justify-content: space-between; align-items: center; gap: 15px; margin: 18px -28px -20px; padding: 16px 28px; border-top: 1px solid #b7d99822; color: #d8efad; font-size: .84rem; }
+      .video { position: relative; min-height: 170px; background: linear-gradient(130deg, #101911, #020502); }
+      .video::before { content: ''; position: absolute; inset: 26px; border: 1px solid #b7d99826; border-radius: 12px; background: repeating-linear-gradient(90deg, transparent 0 42px, #b7d99807 42px 43px); }
+      .play { position: absolute; top: 50%; left: 50%; width: 48px; height: 48px; border-radius: 50%; transform: translate(-50%, -50%); color: #dcefad; border: 1px solid #dcefad77; background: #23351fcc; display: grid; place-items: center; }
+      .record { display: grid; grid-template-columns: .8fr 1.2fr; gap: 24px; margin-top: 82px; padding-top: 22px; border-top: 1px solid #aec99433; }
+      .record h3 { margin: 0; font: 500 2rem/1.05 Georgia, serif; letter-spacing: -.04em; }
+      .record p { margin: 8px 0 0; color: #9eaf9d; line-height: 1.55; }
+      .items { display: grid; gap: 1px; overflow: hidden; border: 1px solid #aec9942b; border-radius: 15px; background: #aec9942b; }
+      .item { display: grid; grid-template-columns: 74px 1fr auto; gap: 18px; align-items: baseline; padding: 16px 18px; background: #101911; }
+      .time { color: #c7e89a; font-family: ui-monospace, SFMono-Regular, monospace; font-size: .79rem; }
+      .item strong { font-size: .94rem; }
+      .item span:last-child { color: #9eaf9d; font-size: .82rem; }
+      @media (max-width: 760px) { main { width: min(100% - 28px, 600px); padding-top: 22px; } header { margin-bottom: 32px; } .hero, .record { grid-template-columns: 1fr; gap: 28px; } h1 { font-size: 3.5rem; } .feature { margin-top: 6px; } .item { grid-template-columns: 58px 1fr; } .item span:last-child { grid-column: 2; } }
+    </style>
+  </head>
+  <body>
+    <main>
+      <header>
+        <div class="brand"><span class="leaf"></span>BoardOfSupervision</div>
+        <a class="quiet-link" href="#record">Explore the meeting record</a>
+      </header>
+      <section class="hero">
+        <div>
+          <p class="kicker">The San Francisco Board of Supervisors</p>
+          <h1>Public decisions, with their context intact.</h1>
+          <p class="intro">Ask a plain-language question. Read a concise answer. Follow every claim back to the moment it was said in the public meeting.</p>
+          <form class="query"><input value="What did the Board decide about street trees?" aria-label="Ask the meeting record" /><button type="button">Ask</button></form>
+          <div class="chips"><span class="chip">Street tree standards</span><span class="chip">Housing remarks</span><span class="chip">Lawsuit settlements</span></div>
+        </div>
+        <aside class="feature">
+          <div class="feature-copy">
+            <p class="eyebrow">A cited answer</p>
+            <h2>Street tree standards passed on a 7–4 vote.</h2>
+            <p>The ordinance updates planting requirements, appeal rules, and the Adopt-A-Tree Fund.</p>
+            <div class="citation"><span>Sep 15 · Item 16 · 11:36</span><span>Open the moment ↗</span></div>
+          </div>
+          <div class="video"><span class="play">▶</span></div>
+        </aside>
+      </section>
+      <section class="record" id="record">
+        <div><h3>The record at a glance</h3><p>A quieter, editorial way to move from a question to the agenda, transcript, and official video.</p></div>
+        <div class="items">
+          <div class="item"><span class="time">02:32</span><strong>The Mayor’s appearance before the Board</strong><span>View context</span></div>
+          <div class="item"><span class="time">10:36</span><strong>Consent agenda and settlements</strong><span>15 items</span></div>
+          <div class="item"><span class="time">11:36</span><strong>Street tree standards</strong><span>7–4 passed</span></div>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>

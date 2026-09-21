@@ -1,0 +1,1201 @@
+{
+  "clip_id": 49929,
+  "items": [
+    {
+      "meta_id": 1158144,
+      "summary": "President Rafael Mandelman convened the regular meeting of the San Francisco Board of Supervisors on May 20, 2025. The clerk called the roll, establishing a quorum with ten members present, followed by the ancestral land acknowledgment and the recitation of the Pledge of Allegiance.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1158145,
+      "summary": "The clerk read general communications and administrative announcements, informing the public how to view the broadcast, submit written comments, and request ADA accommodations or language assistance.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1158146,
+      "summary": "The Board considered the approval of the meeting minutes from the April 15, 2025, regular Board meeting. A roll call vote was taken and the minutes were approved unanimously, subject to pending public comment.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1158151,
+      "summary": "The Board considered an ordinance appropriating $194,000,000 in General Obligation Bond proceeds from Series 2025F to the Department of Public Health, Public Works, and the Municipal Transportation Agency for health facility acquisition and capital improvements. The ordinance passed on first reading.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "health",
+        "transit",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1158152,
+      "summary": "The Board considered a resolution providing for the issuance and sale of not to exceed $390,000,000 in General Obligation Bonds under the Healthy, Safe and Vibrant San Francisco 2024 bond program. The resolution was adopted.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "health",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1158153,
+      "summary": "The Board considered a resolution authorizing the issuance and sale of Series 2025F General Obligation Bonds in an aggregate principal amount not to exceed $194,000,000 on a taxable or tax-exempt basis. The resolution was adopted.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "health",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1158154,
+      "summary": "The Board considered an ordinance de-appropriating and appropriating $250,000 to the Department of Children, Youth & Families to support the District 10 safety plan and participatory budgeting initiatives. The ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1158155,
+      "summary": "The Board considered an ordinance amending the Administrative Code to permit city departments to enter into and amend agreements for the accelerated procurement of fire apparatus without standard solicitation and contracting requirements. The ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1158156,
+      "summary": "The Board considered a resolution retroactively authorizing the Department of Emergency Management to accept and expend approximately $2.7 million in FEMA Regional Catastrophic Preparedness Grant funds. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1158157,
+      "summary": "The Board approved a grant agreement between the Human Services Agency and the Glide Foundation for the Free Meals Program in an amount not to exceed $14,115,847 for the period from July 2025 through June 2029.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "health",
+        "homelessness"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1158158,
+      "summary": "The Board approved a grant agreement between the Department of Disability and Aging Services and the San Francisco-Marin Food Bank for the Food Assistance Program in an amount not to exceed $12,604,048 through June 2029.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "health"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1158159,
+      "summary": "The Board approved a resolution authorizing the sale of an approximately 46,000-square-foot portion of SFPUC Parcel 21 in South San Francisco to the City of South San Francisco for $132,000 as exempt surplus land.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1158160,
+      "summary": "The Board adopted a resolution authorizing the acquisition of permanent access and temporary construction easements from the Bay Area Rapid Transit District for $306,000 for the Regional Groundwater Storage and Recovery Project in San Mateo County.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "environment",
+        "transit"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1158161,
+      "summary": "The Board approved a 75-year ground lease and an amended and restated loan agreement in an amount not to exceed $22,577,900 with 160 Freelon Housing Partners, L.P., to develop an 85-unit 100% affordable rental housing project at 160 Freelon Street.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "housing",
+        "homelessness"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1158162,
+      "summary": "The Board approved a resolution authorizing the execution and delivery of multifamily housing revenue notes not to exceed $76,000,000 to finance the construction of the 85-unit affordable rental housing development at 160 Freelon Street.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1158163,
+      "summary": "The Board approved a resolution authorizing the Treasure Island Development Authority to apply jointly for up to $50,000,000 in grant funding under the state's Affordable Housing and Sustainable Communities Program for the Treasure Island Parcel IC4.3 project.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "housing",
+        "transit",
+        "environment"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1158164,
+      "summary": "The Board received notifications of items forwarded without recommendation from the Budget and Finance Committee.",
+      "outcome": "no_action",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1158165,
+      "summary": "The Board considered a resolution retroactively authorizing the Human Rights Commission to execute a $300,000 grant amendment with the Lavender Youth Recreation and Information Center (LYRIC) for youth services and research on the transgender and gender-nonconforming community. Supervisor Chan highlighted procedural contracting issues while urging payment for services rendered, and the resolution was adopted.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "health",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "both organizations provide very critical services so I think the city ought to invest in and continue to invest in it . And yet in this case item 14 is a retroactive payments that we have to pay back to lyric because we have only verbally authorizing the spending",
+          "t0": 879.955,
+          "verified": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "I want to thank the committee for its work from my perspective as the sponsor of the legislation I, I did think that it was important that we pay lyric for services delivered with the understanding that they were being asked to do this by the city",
+          "t0": 1045.155,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1158166,
+      "summary": "The Board approved a fifth amendment to an agreement between the Department of Public Health and the Bayview Hunters Point Foundation for mental health and substance abuse services, extending the term by 18 months and increasing the total amount to approximately $18,079,996.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "health"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1158168,
+      "summary": "The Board considered a resolution determining that the transfer of a Type 21 off-sale general liquor license to El Chavo Supermercado at 15 Ocean Avenue will serve the public convenience and necessity of the City. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "small_business"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1158169,
+      "summary": "The Board considered a resolution determining that the transfer of a Type 20 off-sale beer and wine liquor license to Casa Guadalupe Supermarket 2 at 3400 Cesar Chavez Street will serve the public convenience and necessity, requesting conditions from the state ABC. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "small_business"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1158171,
+      "summary": "The Board approved the mayoral nomination of Meghan Thurlow to the San Francisco Public Utilities Commission for a term ending August 1, 2028.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1158172,
+      "summary": "The Board approved the mayoral nomination of Rebecca Saroyan to the Board of Appeals for a term ending July 1, 2028.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1158173,
+      "summary": "The Board received the committee report items forwarded from the Government Audit and Oversight Committee.",
+      "outcome": "no_action",
+      "topics": [
+        "settlements"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1158174,
+      "summary": "The Board considered an ordinance authorizing a settlement with Pacific Gas and Electric Company in Federal Energy Regulatory Commission matters regarding wholesale distribution tariffs and secondary voltage service for SFPUC customers. The ordinance passed on first reading.",
+      "outcome": "passed",
+      "topics": [
+        "settlements",
+        "environment"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1158175,
+      "summary": "The Board considered an ordinance authorizing the settlement of a personal injury lawsuit filed by Arthur Fraser against the City for $111,500 following a trip-and-fall over a sidewalk utility box. The ordinance passed on first reading.",
+      "outcome": "passed",
+      "topics": [
+        "settlements"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1158176,
+      "summary": "The Board adopted a resolution waiving the behested payment ordinance for six months to allow the Mayor, Fire Chief, and public safety leadership to solicit private donations to support the procurement of fire apparatus.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1158177,
+      "summary": "The Board adopted a resolution of intention to renew and expand the Dogpatch & Northwest Potrero Hill Green Benefit District, levy multi-year assessments, approve management plans, and schedule a public hearing for July 22, 2025.",
+      "outcome": "passed",
+      "topics": [
+        "parks",
+        "environment",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1158178,
+      "summary": "During the roll call for introductions, Supervisor Bilal Mahmood provided an update on the Portal project's procurement advancement and presented an in memoriam honoring the late licensed architect and historic preservationist Alan Wayne Martinez.",
+      "outcome": "no_action",
+      "topics": [
+        "transit",
+        "planning_land_use"
+      ],
+      "speakers": [
+        {
+          "name": "Bilal Mahmood",
+          "stance": "neutral",
+          "quote": "in MARCH the mtc commission unanimously advanced the portal project to mtc's topmost level of regional priority and its map framework. That action will align our local advocacy with the regional efforts to complete the project's funding plan over the next two years.",
+          "t0": 1422.204,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1158179,
+      "summary": "The Board held its 2:30 p.m. special order for ceremonial commendations. Supervisors presented commendations celebrating Asian American and Pacific Islander Heritage Month, National Public Works Week, and the 33-year public safety career of retiring San Francisco Police Department Assistant Chief David Lazar.",
+      "outcome": "no_action",
+      "topics": [
+        "public_safety",
+        "small_business",
+        "health",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "We are here to celebrate the work and legacy of carol ito. ... carol is a lifelong advocate, organizer and mentor who has quietly and powerfully shaped public service, woman's leadership and neighborhood empowerment for more than four decades",
+          "t0": 2069.26,
+          "verified": false
+        },
+        {
+          "name": "Chyanne Chen",
+          "stance": "support",
+          "quote": "Today I'm very thrilled to honor myself how yang hung for 40 years of service masako has been serving the community through his work to uplift guitar therapy and provide much needed health care to our residents in san francisco",
+          "t0": 2959.962,
+          "verified": true
+        },
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "I have the honor and privilege to recognize jia li, director of the health care system for after her two decades of tenure at the san francisco veterans affairs health care system.",
+          "t0": 3569.513,
+          "verified": false
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "support",
+          "quote": "in honor of aapi heritage month I am so proud to officially commend elaine, jen and many ly the owner and manager of imperial garden which has served thousands of residents in the portola since 1995",
+          "t0": 4076.827,
+          "verified": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "one of san francisco's most dedicated, most well respected and accomplished public safety and civic leaders is assistant chief of police david lazaar.",
+          "t0": 4504.56,
+          "verified": true
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "assistant chief lazo, I know that we have not always seen eye to eye but I just want to say to you that I know that your work and your entire career was dedicated to making sure that all san francisco residents were safe.",
+          "t0": 4755.916,
+          "verified": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "if there is a public safety challenge facing the san francisco police department, david lazer will be thrown at it and will be asked to solve it. >> you are you have been the swiss army knife of sfpd and we are all grateful for the work that you've done.",
+          "t0": 5381.816,
+          "verified": true
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "christine is a powerful example of what resilience service and a love for community look like in action as the executive director of all my usos she has turned personal tragedy into a lasting legacy of healing and hope.",
+          "t0": 6952.107,
+          "verified": true
+        },
+        {
+          "name": "Joel Engardio",
+          "stance": "support",
+          "quote": "Colleagues today I'm honoring the dance groups from the sunset district. I want to invite the dance groups to come. Everyone to come up so they can see your beautiful costumes.",
+          "t0": 7228.621,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1158181,
+      "summary": "The clerk convened the 3:00 p.m. special order public hearings on the environmental review exemption and conditional use authorization appeals for 1310 Junipero Serra Boulevard.",
+      "outcome": "no_action",
+      "topics": [
+        "planning_land_use",
+        "environment"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1158183,
+      "summary": "Legal counsel for St. Thomas More school and the San Francisco Golf Club announced they had reached a comprehensive settlement agreement addressing construction traffic, dust control, and battery fire alarms for the 1310 Junipero Serra Boulevard project.",
+      "outcome": "no_action",
+      "topics": [
+        "planning_land_use",
+        "environment"
+      ],
+      "speakers": [
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "thank you colleagues for your patience and understanding as we got to a place with a path forward that is you know, acceptable to both parties and if I also want to just thank profusely mike parra on my staff who worked for months to get us to this place",
+          "t0": 8798.678,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1158186,
+      "summary": "The Board held the public hearing on the appeal of the categorical exemption from environmental review under CEQA for the 1310 Junipero Serra Boulevard maintenance facility project. The hearing was concluded and filed.",
+      "outcome": "no_action",
+      "topics": [
+        "planning_land_use",
+        "environment"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1158190,
+      "summary": "The Board approved a motion affirming the Planning Department's categorical exemption determination for the 1310 Junipero Serra Boulevard project, while tabling the alternative motions to reverse and prepare findings.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "environment"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1158195,
+      "summary": "The Board opened the public hearing on the conditional use authorization appeal for 1310 Junipero Serra Boulevard. Following an announced agreement between the parties, the hearing was closed and the motion approving the original Planning Commission decision was tabled.",
+      "outcome": "no_action",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1158199,
+      "summary": "The Board approved a motion amending the conditional use decision to disapprove the original conditional use authorization and approve a revised authorization containing negotiated safety, traffic, dust control, and alarm conditions for 1310 Junipero Serra Boulevard.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "environment"
+      ],
+      "speakers": [
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "",
+          "t0": 9039.689,
+          "verified": false
+        }
+      ],
+      "votes": [
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1158200,
+      "summary": "The Board adopted a motion directing the preparation of findings in support of the revised conditional use authorization for the 1310 Junipero Serra Boulevard project.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1158201,
+      "summary": "The Board held a public hearing on the Department of Building Inspection's annual report of delinquent charges and assessment of costs for building code enforcement violations. Counsel for an affected property owner raised objections regarding ongoing litigation, and the hearing was closed.",
+      "outcome": "no_action",
+      "topics": [
+        "housing",
+        "planning_land_use",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": [
+        "Property owner objection to delinquent code enforcement assessments pending in court litigation"
+      ]
+    },
+    {
+      "meta_id": 1158203,
+      "summary": "The Board adopted a resolution approving the Department of Building Inspection's report of delinquent charges for building code enforcement violations and associated fees, as amended to remove resolved property addresses.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "housing",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1158207,
+      "summary": "The Board held general public comment. Members of the public addressed contracting issues surrounding the Juneteenth celebration, the impact of terminating the GIFT program on transgender Latinas, concerns about Waymo on Market Street, and funding for Free City College.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": [
+        "Opposition to RFP process and lack of timely funding for the Juneteenth festival",
+        "Severe economic and safety impacts on transgender Latinas following elimination of the GIFT program",
+        "Opposition to Waymo autonomous vehicles operating on Market Street and impact on transit and taxis",
+        "Request for full and sustainable funding for Free City College tuition"
+      ]
+    },
+    {
+      "meta_id": 1158208,
+      "summary": "The Board considered items on the For Adoption Without Committee Reference calendar, rescinded an initial mistaken roll call vote, and took action on individual items.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1158211,
+      "summary": "The Board adopted a resolution proclaiming May 22, 2025, as El Farolito FC Day in the City and County of San Francisco.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1158214,
+      "summary": "The Board approved a motion approving Final Map 11177 for the Balboa Reservoir Mixed-Use Project.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1158212,
+      "summary": "The Board considered a resolution commemorating Bike to Wherever Day on May 15, 2025, and celebrating San Francisco's commitment to sustainable, active transportation. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "transit",
+        "environment"
+      ],
+      "speakers": [
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "I just wanted to express my gratitude to supervisor melgar for introducing this resolution to celebrate bike to wherever day ... I am proud to be one of the bike iest supervisors even if I am a distant second to supervisor melgar",
+          "t0": 12398.961,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1158213,
+      "summary": "The Board adopted a resolution recognizing May 24 through June 1, 2025, as Queer and Transgender Asian and Pacific Islander (QTAPI) Week in the City and County of San Francisco.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "I love the fact that you topic week and transgender asian and pacific islander week in san francisco falls right at the end of apa heritage month and right before the beginning of pride. I think that is lovely and is one of the things I appreciated about being able to sponsor this resolution",
+          "t0": 12506.468,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1158215,
+      "summary": "President Mandelman inquired whether there were any imperative agenda items. The clerk confirmed none were submitted.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1158240,
+      "summary": "The Board adjourned the meeting in memory of Alan Wayne Martinez and Peter Flannery.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    }
+  ],
+  "quote_verification": {
+    "verified": 10,
+    "partial": 5,
+    "dropped": 1
+  }
+}

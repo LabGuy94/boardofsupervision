@@ -1,0 +1,1257 @@
+{
+  "clip_id": 50352,
+  "items": [
+    {
+      "meta_id": 1170071,
+      "summary": "President Rafael Mandelman convened the regular meeting of the San Francisco Board of Supervisors, and the clerk called the roll with all members present. President Mandelman led the land acknowledgement and the Pledge of Allegiance, and acknowledged SFGovTV staff.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1170075,
+      "summary": "Mayor Daniel Lurie addressed the Board of Supervisors on his six-month anniversary in office. He highlighted efforts to address an $800 million budget deficit, collaboration with various supervisors on housing, public safety, behavioral health, and neighborhood initiatives. The matter was discussed and filed.",
+      "outcome": "no_action",
+      "topics": [
+        "budget",
+        "housing",
+        "public_safety",
+        "homelessness",
+        "small_business"
+      ],
+      "speakers": [
+        {
+          "name": "Mayor",
+          "stance": "neutral",
+          "quote": "Today marks six months since I took office. We still have work ahead. But City Hall is demonstrating what a new era of collaboration can achieve. We're on track to close an $800 million budget deficit while investing in our recovery strengthening public safety staffing.",
+          "t0": 160.28,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1170072,
+      "summary": "The Clerk of the Board announced communications, noting instructions for public participation in the chamber or remotely, and clarified that public comment on the city budget had already occurred in committee. She also provided details on written comment submission and ADA accommodations.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [
+        {
+          "name": "Clerk",
+          "stance": "neutral",
+          "quote": "For items three through 32. These are the items that comprise the city's budget. They have had their public comment in committee and you are not able to speak on the budget today.",
+          "t0": 446.471,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1170073,
+      "summary": "The Board considered the approval of the meeting minutes from the June 3, 2025 meeting. On a motion moved by Supervisor Chan and seconded by Supervisor Walton, the minutes were approved unanimously by roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1170077,
+      "summary": "The Board took up the consent agenda comprising Items 1 and 2, which included fee waivers for certain small businesses and condominium conversion regulations for ADUs. The consent agenda ordinances were finally passed unanimously on roll call.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "housing",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1170079,
+      "summary": "Items 1 and 2 on the consent agenda were called together, including an extension of fee waivers for certain small businesses and planning code amendments regarding condominium conversion of accessory dwelling units. Both ordinances were finally passed without objection on roll call.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "housing",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1170085,
+      "summary": "The clerk introduced Items 3 through 32 regarding the city's annual budget. Under Charter rules, the budget cannot be adopted earlier than July 15. The items were called together and continued to the July 15, 2025 meeting.",
+      "outcome": "continued",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1170084,
+      "summary": "The regular agenda items covering the FY 2025-2026 and 2026-2027 city budget package (Items 3 through 32) were called together. Budget Chair Connie Chan offered two technical amendments which were adopted without objection. The package was then continued to July 15, 2025 by roll call vote.",
+      "outcome": "continued",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1170087,
+      "summary": "Item 3, the Budget and Appropriation Ordinance for FY 2025-2026 and FY 2026-2027, was called as part of the budget package. Supervisor Chan moved technical amendments to the budget spending plan, which passed without objection. The ordinance was continued to July 15, 2025 by roll call vote.",
+      "outcome": "continued",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "",
+          "t0": 1348.749,
+          "verified": false
+        }
+      ],
+      "votes": [
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1170088,
+      "summary": "Item 4, the Annual Salary Ordinance for FY 2025-2026 and FY 2026-2027, was called with the budget package. Technical amendments were made, and the item was continued to July 15, 2025 on roll call vote.",
+      "outcome": "continued",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1170089,
+      "summary": "Item 5, amending the Administrative Code regarding City Hall short-term license fees, was considered alongside the annual budget package. The item was continued to July 15, 2025.",
+      "outcome": "continued",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1170090,
+      "summary": "Item 6, amending the Administrative Code to transfer data collection oversight from the City Administrator to the Human Rights Commission, was called with the budget package. It was continued to July 15, 2025.",
+      "outcome": "continued",
+      "topics": [
+        "budget",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1170091,
+      "summary": "Item 7, amending the Administrative Code to clarify the status of the Treasure Island Development Authority as a city department, was called with the budget items. It was continued to July 15, 2025.",
+      "outcome": "continued",
+      "topics": [
+        "budget",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1170092,
+      "summary": "Item 8, an ordinance eliminating the Budget Savings Incentive Fund in the Administrative Code, was heard as part of the budget package. The board continued the item to July 15, 2025.",
+      "outcome": "continued",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1170093,
+      "summary": "Item 9, setting the Neighborhood Beautification and Graffiti Clean-up Fund tax designation ceiling for tax year 2025, was called with the budget package. It was continued to July 15, 2025.",
+      "outcome": "continued",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1170094,
+      "summary": "Item 10, modifying baseline funding for early care and education programs using interest from commercial rents taxes, was called as part of the budget package. The item was continued to July 15, 2025.",
+      "outcome": "continued",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1170095,
+      "summary": "Item 11, authorizing the Public Defender's Office to retroactively accept and expend a $3.4 million grant from Crankstart Foundation for the Immigration Defense Unit and amending the salary ordinance, was called with the budget items. It was continued to July 15, 2025.",
+      "outcome": "continued",
+      "topics": [
+        "budget",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1170096,
+      "summary": "Item 12, an ordinance establishing vehicle registration fees to fund fingerprint identification programs and creating the Police Fingerprint Identification Fund, was called with the budget. It was continued to July 15, 2025.",
+      "outcome": "continued",
+      "topics": [
+        "budget",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1170099,
+      "summary": "Item 13, de-appropriating approximately $87,000 in San Francisco Public Utilities Commission capital projects budget for FY 2025-2026, was called with the budget items. It was continued to July 15, 2025.",
+      "outcome": "continued",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1170100,
+      "summary": "Item 14, authorizing the issuance of water revenue bonds and indebtedness not to exceed $1.05 billion by the SFPUC for capital water and Hetch Hetchy projects, was called with the budget. The matter was continued to July 15, 2025.",
+      "outcome": "continued",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1170101,
+      "summary": "Item 15, de-appropriating approximately $13 million in SFPUC funding to benefit the Water Enterprise division, was heard as part of the budget package. It was continued to July 15, 2025.",
+      "outcome": "continued",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1170104,
+      "summary": "Item 16, authorizing court reservation fees for tennis and pickleball courts outside Golden Gate Park, was called alongside Item 17 regarding recreation program fees. The items were included in the budget package and continued to July 15, 2025.",
+      "outcome": "continued",
+      "topics": [
+        "budget",
+        "parks"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1170106,
+      "summary": "Item 18, amending various municipal codes to revise environmental health permits, fees, and penalties for veterinary hospitals, refuse collectors, food safety classes, and tobacco sales, was heard with the budget items. It was continued to July 15, 2025.",
+      "outcome": "continued",
+      "topics": [
+        "budget",
+        "health"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1170107,
+      "summary": "Item 19, setting patient rates for Department of Public Health services and authorizing charity care fee reductions for low-income patients, was called as part of the budget. It was continued to July 15, 2025.",
+      "outcome": "continued",
+      "topics": [
+        "budget",
+        "health"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1170108,
+      "summary": "Item 20, modifying permit fees and waiving fees for sidewalk caf\u00e9 tables, chairs, and display merchandise encroachments, was called with the budget package. It was continued to July 15, 2025.",
+      "outcome": "continued",
+      "topics": [
+        "budget",
+        "small_business"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1170109,
+      "summary": "Item 21, approving the FY 2025-2026 budget for the Office of Community Investment and Infrastructure and bond issuance up to $223 million, was introduced with the budget items. It was continued to July 15, 2025.",
+      "outcome": "continued",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1170110,
+      "summary": "Item 22, adjusting the Access Line Tax with the 2025 Consumer Price Index rate, was called with the budget package. It was continued to July 15, 2025.",
+      "outcome": "continued",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1170111,
+      "summary": "Item 23, approving the Homelessness and Supportive Housing Fund expenditure plan for FY 2025-2026 and FY 2026-2027, was called as part of the budget package. It was continued to July 15, 2025.",
+      "outcome": "continued",
+      "topics": [
+        "budget",
+        "homelessness",
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1170112,
+      "summary": "Item 24, authorizing the Public Library to accept and expend an annual grant of up to $1,072,600 from Friends of the San Francisco Public Library, was called with the budget items. It was continued to July 15, 2025.",
+      "outcome": "continued",
+      "topics": [
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1170113,
+      "summary": "Item 25, concurring with Proposition J contracting-out certifications for previously approved department services across multiple city agencies, was called with the budget package. It was continued to July 15, 2025.",
+      "outcome": "continued",
+      "topics": [
+        "budget",
+        "labor"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1170114,
+      "summary": "Item 26, authorizing Recreation and Parks to accept and expend a $3.6 million bequest from the estate of William Benjamin Bobo for benches and park furnishings citywide, was heard with the budget. It was continued to July 15, 2025.",
+      "outcome": "continued",
+      "topics": [
+        "budget",
+        "parks"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1170115,
+      "summary": "Item 27, authorizing the SFMTA to set paid parking rates in Golden Gate Park, was called as part of the budget package. It was continued to July 15, 2025.",
+      "outcome": "continued",
+      "topics": [
+        "budget",
+        "parks",
+        "transit"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1170116,
+      "summary": "Item 28, authorizing recurring state grant funds for the Department of Public Health for FY 2025-2026, was called together with Items 29 through 32. The item was continued to July 15, 2025.",
+      "outcome": "continued",
+      "topics": [
+        "budget",
+        "health"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1170117,
+      "summary": "Item 29, approving a grant agreement under the Community Care Expansion Program for $9.9 million to construct a substance use disorder stepdown facility at Treasure Island, was called with the budget package. It was continued to July 15, 2025.",
+      "outcome": "continued",
+      "topics": [
+        "budget",
+        "health"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1170118,
+      "summary": "Item 30, retroactively authorizing DPH to accept and expend $2.5 million from the California Department of Health Care Services via the San Francisco Health Plan for recuperative care support, was called with the budget. It was continued to July 15, 2025.",
+      "outcome": "continued",
+      "topics": [
+        "budget",
+        "health",
+        "homelessness"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1170119,
+      "summary": "Item 31, authorizing DPH to expend $6 million for the Epic Enhancement Implementation Project, and Item 32, reallocating Our City Our Home funds for homelessness services, were called with the budget items. The board approved technical amendments and continued the items to July 15, 2025.",
+      "outcome": "continued",
+      "topics": [
+        "budget",
+        "health",
+        "homelessness"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1170124,
+      "summary": "Item 33 amended the Park Code to apply its regulations to certain parks on Treasure Island and Yerba Buena Island and other properties managed by Recreation and Parks. The ordinance was passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "parks"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1170125,
+      "summary": "Item 34 amended the Planning Code to update eligibility for the priority processing program for commercial uses, including certain formula retail establishments. Item 35 extended the awning amnesty program to unpermitted signs and gates and modified design standards. Both ordinances passed on first reading.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "small_business"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1170127,
+      "summary": "Item 36 amended the Planning Code to streamline temporary use authorizations, allow seasonal campaign offices for up to one year, and extend pop-up retail authorizations to three years. The ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "small_business"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1170128,
+      "summary": "Item 37 amended the Public Works and Administrative Codes to streamline encroachment approvals by replacing permit requirements with registration for caf\u00e9 tables, chairs, and merchandise displays, and exempting them from Shared Spaces. The ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "small_business"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1170130,
+      "summary": "Item 38 amended the Police Code to adjust various entertainment fees. The ordinance was passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1170131,
+      "summary": "The Board held a special commendation honoring Sam Mogannam, second-generation grocer and owner of Bi-Rite Market, for his contributions to San Francisco's food culture, community engagement, and sustainability initiatives. Supervisors Mandelman, Mahmood, Fielder, and Chan praised his dedication before Mogannam thanked the Board.",
+      "outcome": "no_action",
+      "topics": [
+        "small_business",
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "So today we honor you for your amazing contributions to San Francisco's food culture and community and for being a great San Franciscan.",
+          "t0": 1864.841,
+          "verified": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "Bi-Rite isn't just a grocery store but it's a vision for how you think about equity within communities. And I've seen how you've collaborated with Booker T. Washington on food access and that has been really amazing to see in District 5.",
+          "t0": 1887.731,
+          "verified": false
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "support",
+          "quote": "Sam exemplifies what it means to be a San Franciscan and that the prosperity that you generate you also dedicate yourself to sharing with the rest of San Franciscans.",
+          "t0": 1956.332,
+          "verified": false
+        },
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "I don't think it's just the past generation but the future generation of San Franciscans really are lucky to have you as one of us.",
+          "t0": 2059.707,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1170139,
+      "summary": "The Rules Committee recommended amended motions regarding appointments to the Enhanced Infrastructure Financing District Public Financing Authority No. 1. The items were called together and approved without objection.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1170140,
+      "summary": "Item 41 approved the presidential nomination of Gayle Starr to the Enhanced Infrastructure Financing District Public Financing Authority No. 1 for a term ending June 6, 2029. The motion was approved without objection.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1170141,
+      "summary": "Item 42 approved the presidential nomination of Kath Tsakalakis to the Enhanced Infrastructure Financing District Public Financing Authority No. 1 for a term ending June 6, 2027. The motion was approved without objection.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1170142,
+      "summary": "During roll call for introductions, Supervisor Danny Sauter requested a hearing on the Central Subway's current performance and future extension to North Beach and Fisherman's Wharf. Other supervisors submitted matters without oral remarks.",
+      "outcome": "no_action",
+      "topics": [
+        "transit"
+      ],
+      "speakers": [
+        {
+          "name": "Danny Sauter",
+          "stance": "neutral",
+          "quote": "Today I am calling for a hearing on the current performance and future extension of the Central Subway. As you know the Central Subway has been open since November 2022 and this followed more than two decades of planning and community advocacy",
+          "t0": 2418.149,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1170143,
+      "summary": "The Board heard public comment on general city matters, the Mayor's appearance, and non-budget agenda items. Public commenters addressed immigrant sanctuary protections, policing conduct, court employee retirement incentives, and equity and funding concerns for the Black community.",
+      "outcome": "no_action",
+      "topics": [
+        "public_safety",
+        "budget",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": [
+        "Enforcement of sanctuary city protections and concerns over ICE presence",
+        "Funding equity and transparency for the Black community and Dream Keeper Initiative",
+        "Court staff retirement incentives to prevent furloughs and layoffs",
+        "Police responsiveness to restraining orders and fireworks enforcement"
+      ]
+    },
+    {
+      "meta_id": 1170151,
+      "summary": "Items 46 through 50 were called for adoption without committee reference. Supervisor Walton severed Items 49 and 50, and Supervisor Dorsey severed Item 47, leaving Items 46 and 48 for immediate consideration. Items 46 and 48 were adopted unanimously on roll call.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1170153,
+      "summary": "Items on the adoption without committee reference agenda, including a resolution supporting NABET Local 51 union workers at KQED, were called. The non-severed items were adopted unanimously on roll call.",
+      "outcome": "passed",
+      "topics": [
+        "labor",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1170155,
+      "summary": "Item 47 urged UC Health and Blue Shield of California to resolve their medical reimbursement dispute to preserve patient care access. Supervisor Dorsey announced that the parties reached an agreement resolving the dispute, and the resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "health"
+      ],
+      "speakers": [
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "My office received word from the San Francisco Health Service System whose board I serve on that the dispute between UC Health and Blue Shield of California that we were urging to be resolved has in fact been resolved.",
+          "t0": 7674.351,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1170157,
+      "summary": "Item 49 urged the establishment of a relief fund for small businesses along Third Street impacted by the Islais Creek Bridge Replacement Project. Item 50 was briefly rescinded and re-voted to approve a 90-day extension for ongoing negotiations. Both resolutions were adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "settlements",
+        "planning_land_use"
+      ],
+      "speakers": [
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "The upcoming Islais Creek Bridge project is going to shut down a big stretch of Third Street for years and that's going to hit Bayview small businesses hard. These are family run spots immigrant owned, Black owned and they will depend on foot traffic",
+          "t0": 7770.58,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1170145,
+      "summary": "The Board convened in closed session with the City Attorney regarding existing litigation in which the City is a petitioner against Pacific Gas and Electric Company. Upon returning to open session, the Board voted unanimously not to disclose its closed session deliberations and reported that no action was taken.",
+      "outcome": "passed",
+      "topics": [
+        "settlements",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1170137,
+      "summary": "Item 40 established the Ocean Avenue Community Benefit District, authorizing a 15-year levy of assessments following a public hearing as a Committee of the Whole and the approval of boundary amendments. The Department of Elections reported 70.41% weighted ballots in favor, and the Board adopted the amended resolution unanimously.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "planning_land_use"
+      ],
+      "speakers": [
+        {
+          "name": "Chyanne Chen",
+          "stance": "support",
+          "quote": "",
+          "t0": 3707.119,
+          "verified": false
+        },
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "",
+          "t0": 3840.585,
+          "verified": false
+        },
+        {
+          "name": "Clerk",
+          "stance": "neutral",
+          "quote": "The returned weighted ballots voting for the Ocean Avenue Community Benefit District was 70.41% and the returned weighted ballots voting against the Ocean Avenue Community Benefit District was 29.59% further indicating there was no majority protest.",
+          "t0": 11668.988,
+          "verified": false
+        }
+      ],
+      "votes": [
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Joel Engardio",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": [
+        "Support for street cleaning, pressure washing, and graffiti abatement services",
+        "Support for expanding services into Lakeside Village",
+        "Questions regarding assessment calculation and residential property inclusions",
+        "Opposition to additional tax burdens and non-profit business models"
+      ]
+    },
+    {
+      "meta_id": 1170176,
+      "summary": "With no imperative agenda items, in memoriam requests, or further business, President Mandelman adjourned the Board of Supervisors meeting.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    }
+  ],
+  "quote_verification": {
+    "verified": 3,
+    "partial": 7,
+    "dropped": 3
+  }
+}

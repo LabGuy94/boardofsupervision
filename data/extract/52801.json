@@ -1,0 +1,854 @@
+{
+  "clip_id": 52801,
+  "items": [
+    {
+      "meta_id": 1251708,
+      "summary": "The Board of Supervisors convened for its regular meeting on July 7, 2026. After calling the roll and confirming a quorum, the Board recited the ancestral land acknowledgment and the Pledge of Allegiance. President Mandelman also acknowledged the SFGovTV staff for their technical work broadcasting the meeting.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1251709,
+      "summary": "The Clerk of the Board announced general meeting procedures, viewing options, and public testimony rules. She noted that remote public comment was resuming in accordance with SB 707, outlined decorum expectations, and explained reasonable accommodation procedures under the Americans with Disabilities Act.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1251710,
+      "summary": "The Board considered the approval of the meeting minutes from the June 2, 2026 regular meeting. Supervisor Chen moved to approve the minutes, seconded by Supervisor Fielder. The minutes were approved unanimously on a roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1251715,
+      "summary": "The Board considered Items 1 through 4 on the consent agenda. The items included three lawsuit settlements totaling over $3 million and an ordinance amending the Police Code to expand protections under the Fair Chance Ordinance. All items were finally passed unanimously on a single roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "settlements",
+        "public_safety",
+        "labor"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1251724,
+      "summary": "The Board considered a proposed Charter amendment to authorize the establishment of a Municipal Finance Corporation and Public Bank as nonprofit corporations for the November 3, 2026 election ballot. The measure sets forth governance principles and mission guidelines. The Charter amendment was ordered submitted on a 9-2 vote, with Supervisors Sherrill and Wong dissenting.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1251728,
+      "summary": "The Board considered an ordinance amending the Planning Code to principally permit the relocation and re-establishment of certain historic liquor license establishments within the Third Street Alcohol Restricted Use District and Bayview Neighborhood Commercial District. Following a roll call vote, the ordinance passed on first reading unanimously.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "small_business"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1251729,
+      "summary": "The Board considered an ordinance waiving the street encroachment permit fee and annual public right-of-way occupancy fee for the installation and maintenance of a waste bin enclosure on the sidewalk adjacent to the Harry Street Steps. The ordinance was passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1251732,
+      "summary": "The Board considered an ordinance establishing a new permit type for cannabis caf\u00e9s to authorize the on-premises sale and consumption of cannabis products and food. Supervisor Melgar spoke against the measure, arguing that permitting indoor smoking undermines the city's long-standing public health progress. The ordinance passed on first reading by a 7-4 vote, with Supervisors Melgar, Wong, Chan, and Chen dissenting.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "small_business",
+        "planning_land_use"
+      ],
+      "speakers": [
+        {
+          "name": "Myrna Melgar",
+          "stance": "oppose",
+          "quote": "HOWEVER, WHAT I DON'T LIKE ABOUT THIS LEGISLATION IS THAT IT PERMITS ENDORSE SMOKING AND I THINK THAT IS GOING BACKWARD ON OUR PUBLIC HEALTH GOALS.",
+          "t0": 636.349,
+          "verified": false
+        }
+      ],
+      "votes": [
+        {
+          "name": "Myrna Melgar",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1251735,
+      "summary": "The Board considered a proposed Charter amendment updating city commissions, advisory bodies, and specified initiative ordinances. In accordance with Board rules requiring a minimum waiting period between readings for Charter amendments, the item was continued to July 14, 2026, following a unanimous roll call vote.",
+      "outcome": "continued",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1251736,
+      "summary": "The Board considered a proposed Charter amendment to increase mandatory appropriations to the Housing Trust Fund and extend its sunset date to 2058. Supervisors Chan and Walton commented on the importance of dedicated affordable housing funding, while Supervisor Walton voiced concerns about contradictory housing policy decisions. The measure was continued without objection to July 14, 2026.",
+      "outcome": "continued",
+      "topics": [
+        "housing",
+        "budget",
+        "elections_governance"
+      ],
+      "speakers": [
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "THIS AFFORDABLE HOUSING TRUST FUND IS ONE OF THOSE STRATEGY THAT IS NEEDED IN ORDER TO BRING OUR AFFORDABLE HOUSING PRODUCTION TO SCALE IN COMING YEARS",
+          "t0": 965.99,
+          "verified": false
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "neutral",
+          "quote": "I DO THINK THAT IT'S ARBITRARY TO SUPPORT THIS LEGISLATION TO SUPPORT MORE RESOURCES GOING TO THE HOUSING TRUST FUND AND THEN TURN AROUND AND SUPPORT REDUCING THE AMOUNT OF AFFORDABLE HOUSING.",
+          "t0": 1009.276,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1251737,
+      "summary": "The Board considered a motion appointing Michael Chung and Tangerine Brigham to the San Francisco Health Authority, with their residency requirements waived. The appointments were approved without objection.",
+      "outcome": "passed",
+      "topics": [
+        "health",
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1251739,
+      "summary": "The Clerk presented the committee reports section, noting that Items 12, 13, and 15 were forwarded as amended recommendations from the Rules Committee meeting on July 6, 2026.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1251740,
+      "summary": "The Board considered an ordinance amending the Administrative Code to establish the Chestnut Street Entertainment Zone and update relevant cross-references. The ordinance was passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1251741,
+      "summary": "The Board considered motions approving the Mayor's nominations of Richard Lee and Vanessa Hartigan for appointment to the Port Commission. The appointments were approved without objection.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1251743,
+      "summary": "The Board considered a motion approving the Mayor's reappointment of William Adams to the Port Commission for a term ending May 1, 2030. The reappointment was approved without objection.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1251744,
+      "summary": "Supervisors introduced new legislation and inquiries during roll call. Supervisor Sauter introduced an inquiry on sidewalk repairs, Supervisor Chan introduced resolutions defending the National Archives and opposing offshore drilling, Supervisor Mahmood called for hearings on property mismanagement and Fourth of July autonomous vehicle gridlock along with rooftop restroom legislation, and President Mandelman introduced hardware store tax relief and an extreme heat preparedness hearing.",
+      "outcome": "no_action",
+      "topics": [
+        "housing",
+        "transit",
+        "public_safety",
+        "environment",
+        "small_business"
+      ],
+      "speakers": [
+        {
+          "name": "Danny Sauter",
+          "stance": "neutral",
+          "quote": "COLLEAGUES TODAY I AM SUBMITTING A LETTER OF INQUIRY TO THE DEPARTMENT OF PUBLIC WORKS TO BETTER ANSWER HOW THE CITY MAINTAINS ITS SIDEWALKS AND CURB RAMPS.",
+          "t0": 1192.463,
+          "verified": true
+        },
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "THE FIRST RESOLUTION I'M INTRODUCING TODAY URGES THE NATIONAL ARCHIVES AND RECORDS ADMINISTRATION TO HALT THE CLOSURE OF THE NATIONAL ARCHIVE AT SAN FRANCISCO AND LOCATE AND RELOCATION OF THE FACILITY'S RECORDS AND ARTIFACTS",
+          "t0": 1327.677,
+          "verified": false
+        },
+        {
+          "name": "Bilal Mahmood",
+          "stance": "neutral",
+          "quote": "THAT IS WHY TODAY I AM SUBMITTING A LETTER OF INQUIRY TO THE MAYOR'S OFFICE OF MTA AND THE DEPARTMENT EMERGENCY MANAGEMENT AND THE FIRE DEPARTMENT TO LEARN ABOUT WHAT WENT WRONG ON OUR STREETS.",
+          "t0": 1970.491,
+          "verified": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "",
+          "t0": 4557.901,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1251738,
+      "summary": "The Board held a special order of business to present commendations to four notable civic contributors. Commendations were presented to community advocate Keith Goldstein, California Dragon Boat Association founder Dorothy Young, retiring Gordon J. Lau Elementary School principal Gloria Choi, and SFPD Captain Angela Wilhelm.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "TODAY IT IS MY GREAT HONOR TO RECOGNIZE AN EXTRAORDINARY COMMUNITY LEADER DEDICATED VOLUNTEER AND STEADFAST CHAMPION OF SAN FRANCISCO KEITH GOLDSTEIN.",
+          "t0": 2126.864,
+          "verified": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "stance": "support",
+          "quote": "COLLEAGUE IT'S MY GREAT HONOR TO CELEBRATE TO HONOR DOROTHY YOUNG, FOUNDER OF THE CALIFORNIA DRAGON BOAT ASSOCIATION AND RETIRED PHYSICAL THERAPIST WHO IS A BELOVED LEADER FIRST PADDLER AND FOUNDATIONAL PILLAR TO THE SAN FRANCISCO JARGON COMMUNITY",
+          "t0": 2886.66,
+          "verified": false
+        },
+        {
+          "name": "Danny Sauter",
+          "stance": "support",
+          "quote": "PRINCIPAL CHOI RETIRED LAST MONTH AFTER 37 YEARS WITH THE SAN FRANCISCO UNIFIED SCHOOL DISTRICT.",
+          "t0": 3464.402,
+          "verified": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "stance": "support",
+          "quote": "COLLEAGUES, TODAY I AM HONORED TO PRESENT A SPECIAL COMMENDATION TO CAPTAIN ANGELA WILHELM OF THE SAN FRANCISCO POLICE DEPARTMENT WHO UNTIL A FEW MONTHS AGO WAS THE CAPTAIN AT PARK STATION.",
+          "t0": 3991.223,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1251746,
+      "summary": "The Board opened general public comment to in-person and remote speakers. Members of the public voiced concerns regarding traffic gridlock caused by stalled autonomous vehicles, racial equity in economic development funding for the Western Addition, barriers faced by unhoused residents accessing county services, City College budget management, and ADA accessibility violations.",
+      "outcome": "no_action",
+      "topics": [
+        "transit",
+        "homelessness",
+        "budget",
+        "housing"
+      ],
+      "speakers": [
+        {
+          "name": "Public commenter",
+          "stance": "oppose",
+          "quote": "ON JULY 4TH WAYMO'S CAUSED MAJOR TRAFFIC HAVOC AROUND FISHERMAN'S WHARF AND NORTH BEACH AFTER THE FIREWORKS SHOW.",
+          "t0": 5346.901,
+          "verified": true
+        },
+        {
+          "name": "Public commenter",
+          "stance": "neutral",
+          "quote": "I'M JUST TRYING TO FIGURE OUT WHERE DOES THE AFRICAN-AMERICAN COMMUNITY LIE IN 2026 AFTER ALL THIS HISTORIC MESS THAT WE'VE BEEN THROUGH THAT WE KEEP GOING THROUGH?",
+          "t0": 5558.303,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": [
+        "autonomous vehicle gridlock and remote connectivity failures during major events",
+        "economic development and support for Black-owned businesses in the Western Addition",
+        "bureaucratic barriers to homeless benefits and technological resources",
+        "City College funding and municipal deficits",
+        "ADA compliance and accessibility maintenance in residential properties"
+      ]
+    },
+    {
+      "meta_id": 1251747,
+      "summary": "The Board introduced resolutions for adoption without committee reference. Item 18 was severed for separate discussion and co-sponsorship requests, while Items 19 and 20 were voted on together.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1251751,
+      "summary": "The Board considered a resolution supporting California State Assembly Bill No. 1573, titled The Unseen and Unheard Housing Act. Taken together on a roll call with Item 20, the resolution was unanimously adopted.",
+      "outcome": "passed",
+      "topics": [
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1251752,
+      "summary": "The Board considered a resolution approving a 90-day extension for Planning Commission review of proposed development impact fee waivers on corner lots. The resolution was adopted unanimously on roll call alongside Item 19.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Alan Wong",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1251750,
+      "summary": "The Board considered a resolution urging the Federal Communications Commission to fairly evaluate and renew the broadcast license for KGO-TV Channel 7. Multiple supervisors emphasized the importance of independent journalism, diversity in news coverage, and in-depth investigative reporting. The resolution was adopted without objection with broad co-sponsorship.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "THIS IS A CRITICAL POINT AND TIME FOR INDEPENDENT JOURNALISM. NOT ONLY THAT I BELIEVE IN SAN FRANCISCO BAY AREA BUT SURELY WILL IMPACT NATIONWIDE IF WE DO NOT EXPRESS A STRONG AND AFFIRMATIVE SUPPORT FROM THIS BODY.",
+          "t0": 6299.351,
+          "verified": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "THERE'S AN ETHOS THAT INFORMS THIS ORGANIZATION ABOUT BUILDING A BETTER BAY AREA AND I REALLY APPRECIATE SOME OF THE LONG FORM DOCUMENTARY WORK THAT JOURNALISTS LIKE TARA CAMPBELL HAVE DONE",
+          "t0": 6440.9,
+          "verified": true
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "support",
+          "quote": "I HAVE SEEN KGO REALLY BE BOLD AND WHO THEY PUT IN FRONT OF THE CAMERA, PARTICULARLY THE LAST FEW YEARS AT A TIME WHERE WE HAVE SEEN THE SAME ANCHORS ACROSS TV STATIONS",
+          "t0": 6493.285,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1251753,
+      "summary": "The Clerk confirmed there were no imperative agenda items for consideration. President Mandelman then adjourned the meeting in memoriam of Jake Sigg, Ira Sandler, and Jeff Littlefield.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    }
+  ],
+  "quote_verification": {
+    "verified": 11,
+    "partial": 4,
+    "dropped": 1
+  }
+}

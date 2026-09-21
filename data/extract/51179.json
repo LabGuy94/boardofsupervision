@@ -1,0 +1,1064 @@
+{
+  "clip_id": 51179,
+  "items": [
+    {
+      "meta_id": 1193591,
+      "summary": "President Mandelman convened the regular meeting of the Board of Supervisors and the clerk conducted the opening roll call. Ten supervisors were present, establishing a quorum, followed by the land acknowledgement and the Pledge of Allegiance.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1193595,
+      "summary": "Mayor Daniel Lurie appeared before the Board for his monthly appearance. He discussed progress on the Family Zoning Plan, reported a decrease in monthly overdose deaths, and addressed the recent resignation of District 4 Supervisor Alvarez.",
+      "outcome": "no_action",
+      "topics": [
+        "health",
+        "public_safety",
+        "planning_land_use",
+        "elections_governance"
+      ],
+      "speakers": [
+        {
+          "name": "Mayor",
+          "stance": "neutral",
+          "quote": "",
+          "t0": 187.926,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1193592,
+      "summary": "The Clerk announced official communications, noting a memo received from Supervisor Alvarez resigning her District 4 seat and outlining the voting thresholds in effect during the vacancy.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1193593,
+      "summary": "The Board considered the approval of the meeting minutes from the October 7, 2025 Board of Supervisors meeting. The minutes were approved unanimously on a roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1193597,
+      "summary": "The Board approved the consent agenda comprising items 1 through 20 on a single roll call vote. Sub-items included multiple litigation settlements, municipal code updates, planning fee adjustments, and building and housing code revisions.",
+      "outcome": "passed",
+      "topics": [
+        "settlements",
+        "labor",
+        "planning_land_use",
+        "budget",
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1193630,
+      "summary": "The Board considered an ordinance amending the Labor and Employment Code to exempt the Health Service System's life and long-term disability insurance services contract from the Minimum Compensation and Health Care Accountability Acts. The ordinance was finally passed without objection.",
+      "outcome": "passed",
+      "topics": [
+        "labor",
+        "health"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1193634,
+      "summary": "The Board considered an ordinance amending the Administrative and Business and Tax Regulations Codes to establish the Small Business Rezoning Construction Relief Program and Fund. The ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "budget",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1193637,
+      "summary": "The Board considered an ordinance appropriating $3.5 million from the General Reserve to the Mayor's Office of Housing and Community Development for coordinated immigration legal defense and community response services. The ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "housing",
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1193640,
+      "summary": "The Board considered a resolution approving a fourth contract amendment with Lystek International Limited for Class A biosolids management services, increasing the contract by $20.7 million for a total not to exceed $36,670,000. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "environment",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1193641,
+      "summary": "The Board approved a resolution authorizing the Sheriff's Office to enter into a five-year contract with ARAMARK Correctional Services, Inc. for jail food services in an amount not to exceed $22,000,000.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1193642,
+      "summary": "The Board considered a resolution approving a lease amendment with Clear Channel Outdoor, LLC for airport advertising at SFO to add premises solely for promoting large sporting events. The resolution was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "transit",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1193643,
+      "summary": "The Board adopted a resolution retroactively authorizing the Police Department to accept and expend a grant of $654,609 from the Board of State and Community Corrections for criminology laboratory equipment and training.",
+      "outcome": "passed",
+      "topics": [
+        "public_safety",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1193644,
+      "summary": "The Board adopted a resolution authorizing the Mayor's Office of Housing and Community Development to execute an agreement for a $45,000,000 grant under the state Infill Infrastructure Grant Program.",
+      "outcome": "passed",
+      "topics": [
+        "housing",
+        "budget"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1193645,
+      "summary": "The Board adopted a resolution approving the issuance and sale of revenue obligations not to exceed $5,000,000 by the California Enterprise Development Authority for administrative facilities owned by Mission Economic Development Agency.",
+      "outcome": "passed",
+      "topics": [
+        "budget",
+        "housing"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1193647,
+      "summary": "The Board considered a commercial lease agreement with Mel's Drive-In at 801 Mission Street. Supervisor Dorsey noted that the item was forwarded without recommendation to highlight SFMTA lease management deficiencies identified by the Budget and Legislative Analyst, but supported the lease itself, which was adopted without objection.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "transit",
+        "budget"
+      ],
+      "speakers": [
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "IN THE PROCESS OF BRINGING THIS LEASE TO THE BOARD THE BLR IDENTIFIED INTERNAL CONTROL WEAKNESSES IN MTA'S LEASE MANAGEMENT PRACTICES. THESE INCLUDE ISSUES WITH LEASE DOCUMENTATION, SOLICITATION PRACTICE PROCESSES AND THE SUFFICIENCY OF WRITTEN POLICIES.",
+          "t0": 933.363,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1193650,
+      "summary": "The Board approved an ordinance amending the Planning Code and Zoning Map to establish the San Francisco Gateway Special Use District bounded by Kirkwood, Rankin, McKinnon, and Toland Streets. The ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1193651,
+      "summary": "The Board approved an ordinance approving a development agreement between the City and Prologis, L.P. for the San Francisco Gateway Project at Toland Street and Kirkwood Avenue for industrial and maker space. The ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "environment"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1193652,
+      "summary": "The Board debated an ordinance to require conditional use authorization before replacing legacy businesses in neighborhood commercial districts. Because the Planning Commission had disapproved the measure, eight votes were required to pass it; the amended ordinance received only six votes and failed.",
+      "outcome": "failed",
+      "topics": [
+        "small_business",
+        "planning_land_use"
+      ],
+      "speakers": [
+        {
+          "name": "Connie Chan",
+          "stance": "support",
+          "quote": "THIS ORDINANCE BEFORE YOU TODAY RECOGNIZES THAT LEGACY AND LONG TIME BUSINESSES ARE NOT JUST BUSINESS ENTITIES THEY ARE CULTURAL ASSETS AND ARE RECOGNIZED AS CONTRIBUTORS TO THE NEIGHBORHOODS THAT PAVE THE WAY FOR OTHER SMALL BUSINESS TO THRIVE.",
+          "t0": 1177.246,
+          "verified": false
+        },
+        {
+          "name": "Bilal Mahmood",
+          "stance": "oppose",
+          "quote": "BY REQUIRING A CONDITIONAL USE AUTHORIZATION TO FILL A SPACE THAT WAS FORMERLY HELD BY A LEGACY BUSINESS, IT CREATES NEGATIVE INCENTIVES TO BLOCK NEW LEGACY BUSINESS DESIGNATIONS OR EVEN WORSE INCENTIVIZE LANDLORDS TO KICK OUT A BUSINESS ONCE THEY APPROACH THEIR 30 YEAR THRESHOLD",
+          "t0": 1520.609,
+          "verified": true
+        },
+        {
+          "name": "Danny Sauter",
+          "stance": "oppose",
+          "quote": "I'M CONCERNED THAT THIS WILL WORK AS INTENDED IN SOME CASES BUT IN JUST AS MANY CASES IF NOT MORE IT WILL HAVE UNINTENDED CONSEQUENCES AND THAT IS NOT SOMETHING THAT IS JUST MY THOUGHT OR MY OPINION. IT IS SOMETHING THAT HAS BEEN FLAGGED AND SHARED BY THE PLANNING COMMISSION'S RECOMMENDATION",
+          "t0": 1695.931,
+          "verified": false
+        },
+        {
+          "name": "Stephen Sherrill",
+          "stance": "oppose",
+          "quote": "WE'VE SEEN EXAMPLES WHERE A CONDITIONAL USE REQUIREMENT IS ALREADY IN PLACE FOR SPACES FORMERLY FILLED WITH LEGACY BUSINESSES AND DISPLACEMENT STILL OCCURRED.",
+          "t0": 1765.333,
+          "verified": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "stance": "support",
+          "quote": "IT HAS WORKED IN MY DISTRICT AND I WILL BE SUPPORTING THIS.",
+          "t0": 1998.778,
+          "verified": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "stance": "support",
+          "quote": "IF WE CAN HAVE A LEGACY BUSINESS ITS CONTINUED OPERATING AFTER 50 YEARS WE TOTALLY 100% CHERISH IT AND ANYTHING THAT WE CAN DO AS MINIMAL AS A CEO TO MAKE SURE THAT WE PROTECT THOSE BUSINESS .",
+          "t0": 2231.497,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1193656,
+      "summary": "Supervisors presented commendations recognizing community members and organizations. Honorees included Sharaya Souza for Native American Heritage Month, Goat Hill Pizza on its 50th anniversary, Ken Sasse of the SFO Museum, Mary Ann Spencer Harvey, SEIU 2015 IHSS home care providers, and Johnny Rodriguez of the SF Community Health Center.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1193659,
+      "summary": "The Board convened as a Committee of the Whole to consider progress on US Department of Justice recommendations regarding police department reforms. On a motion by Supervisor Walton, the hearing was continued to December 2, 2025.",
+      "outcome": "continued",
+      "topics": [
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1193664,
+      "summary": "The Board held a public hearing on appeals of the Final Mitigated Negative Declaration for a proposed 29-story hotel at 570 Market Street. Appellants from adjacent historic properties argued an Environmental Impact Report was required due to vibration and noise risks, while the Planning Department, project sponsor, and union representatives defended the environmental review. Following presentations and public testimony, the hearing was closed.",
+      "outcome": "no_action",
+      "topics": [
+        "planning_land_use",
+        "environment"
+      ],
+      "speakers": [
+        {
+          "name": "Danny Sauter",
+          "stance": "neutral",
+          "quote": "",
+          "t0": 5790.286,
+          "verified": false
+        },
+        {
+          "name": "Department head",
+          "stance": "support",
+          "quote": "",
+          "t0": 6510.837,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": [
+        "support for union construction jobs from hotel development"
+      ]
+    },
+    {
+      "meta_id": 1193667,
+      "summary": "Following the public hearing, the Board voted on a motion by Supervisor Sauter to affirm the Planning Commission's approval of the Final Mitigated Negative Declaration for the 570 Market Street project. The motion was approved unanimously on a roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "planning_land_use",
+        "environment"
+      ],
+      "speakers": [
+        {
+          "name": "Danny Sauter",
+          "stance": "support",
+          "quote": "I WOULD LIKE TO MAKE A MOTION AND THAT MOTION WOULD BE TO APPROVE ITEM 39 AFFIRMING THE PLANNING COMMISSION'S APPROVAL OF THE FINAL MITIGATED NEGATIVE DECLARATION AND TABLING ITEMS 40 AND 41.",
+          "t0": 8171.986,
+          "verified": false
+        }
+      ],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1193668,
+      "summary": "The Board considered a motion to conditionally reverse the Planning Commission's approval of the Final Mitigated Negative Declaration for 570 Market Street. As part of Supervisor Sauter's approved motion on Item 39, this item was tabled.",
+      "outcome": "no_action",
+      "topics": [
+        "planning_land_use",
+        "environment"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1193669,
+      "summary": "The Board considered a motion directing the preparation of findings reversing the Planning Commission's approval of the Final Mitigated Negative Declaration for 570 Market Street. Pursuant to Supervisor Sauter's approved motion on Item 39, this item was tabled.",
+      "outcome": "no_action",
+      "topics": [
+        "planning_land_use",
+        "environment"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1193654,
+      "summary": "The Board considered a motion to appoint Barbara Ellen Walden and Monique Guidry to the Early Childhood Community Oversight and Advisory Committee. The motion was approved unanimously on a roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1193655,
+      "summary": "The Board considered appointments to the Our City, Our Home Oversight Committee. Supervisor Fielder divided the question on Seat 8 regarding William Lemon, expressing concern over replacing longtime advocate Jennifer Friedenbach, while Supervisors Dorsey and Sherrill praised Lemon's substance use recovery leadership. The appointment of Lemon passed 7-3, and the remaining appointments of Shanell Williams and Julia D'Antonio passed unanimously.",
+      "outcome": "passed",
+      "topics": [
+        "homelessness",
+        "health",
+        "elections_governance"
+      ],
+      "speakers": [
+        {
+          "name": "Jackie Fielder",
+          "stance": "oppose",
+          "quote": "THIS SEAT REQUIRES SOMEONE WITH EXPERIENCE IN HOMELESSNESS OR MENTAL HEALTH ADVOCACY AND HIS VOTE TODAY WILL UNSEAT A LONG TIME HOMELESSNESS ADVOCATE HERE IN SAN FRANCISCO, JENNIFER FRIEDEN. BACH HAS COMMITTED THE LAST 34 YEARS TO ENDING MASS HOMELESSNESS",
+          "t0": 8366.258,
+          "verified": true
+        },
+        {
+          "name": "Matt Dorsey",
+          "stance": "support",
+          "quote": "THE SEAT BEING CONTESTED HERE IS FOR AN INDIVIDUAL WITH EXPERIENCE ADVOCATING ON HOMELESSNESS OR MENTAL HEALTH ISSUES AND THERE IS NO MENTAL HEALTH ISSUE FACING OUR CITY TODAY NOT ONE MORE CONSEQUENTIAL OR MORE IMPACTFUL THAN SUBSTANCE USE DISORDERS",
+          "t0": 8642.555,
+          "verified": true
+        },
+        {
+          "name": "Connie Chan",
+          "stance": "oppose",
+          "quote": "GENEVIEVE AND BOG HAS DONE A LOT OF WORK AND REALLY KNOW THE OUR CITY, OUR HOME MEASURE ITSELF REALLY HAD A CLEAR UNDERSTANDING WHAT IT'S ABOUT.",
+          "t0": 8729.85,
+          "verified": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "stance": "oppose",
+          "quote": "I ALSO BELIEVE THAT JENNY WITH 30 YEARS OF SERVICES IN IN IN HOMELESSNESS AND ADVOCATING FOR THIS COMMUNITY AND AND MY VERY OWN AS A NEW SUPERVISOR VERY OWN VERY LIMITED INTERACTION WITH HER. SHE IS VERY QUALIFIED AND I WILL BE SUPPORTING HER TOO.",
+          "t0": 8905.31,
+          "verified": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "stance": "support",
+          "quote": "IT'S JUST EXCEEDINGLY CLEAR THAT, YOU KNOW, HE HAS A STRONG HISTORY OF ADVOCACY AND HIS WORK IN RECOVERY FOR SUBSTANCE USE DISORDER FOR MENTAL HEALTH IS INCREDIBLY IMPORTANT TO THE FUTURE.",
+          "t0": 8937.543,
+          "verified": true
+        }
+      ],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "no",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "no",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1193671,
+      "summary": "The Board considered an ordinance amending the Administrative Code to create the Fillmore Entertainment Zone. The ordinance passed on first reading without objection.",
+      "outcome": "passed",
+      "topics": [
+        "small_business",
+        "planning_land_use"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1193672,
+      "summary": "The Board considered a motion confirming the Controller's appointment of Alexandra Shepard as Inspector General for an indefinite term. The motion was approved without objection.",
+      "outcome": "passed",
+      "topics": [
+        "elections_governance"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1193673,
+      "summary": "Supervisors introduced new legislation and in memoriam statements during Roll Call for Introductions. Supervisor Mahmood honored disability justice activist Alice Wong, President Mandelman honored Mary Kay Inguaddio, Supervisor Sauter announced the San Francisco Clean Streets Act legislative package, and Supervisor Walton called for a hearing regarding homeless services and shelter siting in District 10.",
+      "outcome": "no_action",
+      "topics": [
+        "elections_governance",
+        "public_safety",
+        "homelessness",
+        "environment"
+      ],
+      "speakers": [
+        {
+          "name": "Bilal Mahmood",
+          "stance": "neutral",
+          "quote": "TODAY I WOULD LIKE TO INTRODUCE AND IN MEMORIAM TO HONOR THE LIFE OF ALICE WONG A GIANT IN THE DISABILITY JUSTICE COMMUNITY AND A PROLIFIC WRITER WHOSE WORK CONTINUES TO IMPACT THE LIVES OF MILLIONS.",
+          "t0": 9248.6,
+          "verified": true
+        },
+        {
+          "name": "Danny Sauter",
+          "stance": "support",
+          "quote": "COLLEAGUES TODAY I INITIATED A DRAFTING REQUEST WITH THE CITY ATTORNEY'S OFFICE FOR SERIES OF LEGISLATION THAT WILL COMPRISE THE SAN FRANCISCO CLEAN STREETS ACT. THIS LEGISLATIVE PACKAGE WILL RESULT IN CLEANER STREETS.",
+          "t0": 9758.85,
+          "verified": true
+        },
+        {
+          "name": "Shamann Walton",
+          "stance": "oppose",
+          "quote": "COLLEAGUES TODAY I'M ALSO INTRODUCING A HEARING CONCERNING WHY THE MAYOR'S OFFICE, THE DEPARTMENT OF HOMELESSNESS AND SUPPORTIVE HOUSING, THE DEPARTMENT OF EMERGENCY MANAGEMENT, MTA, NASA OF PORT ARE TRYING TO TURN BAYVIEW INTO A CONTAINMENT ZONE",
+          "t0": 10184.5,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1193674,
+      "summary": "Members of the public addressed the Board on general public comment matters. Topics included street vending regulations, municipal transit parcel tax proposals, protections for the transgender community, Sikh Awareness and Appreciation Month, tribute to Alice Wong, and concerns regarding out-of-county patient transfers from San Francisco acute hospitals to nursing facilities.",
+      "outcome": "no_action",
+      "topics": [
+        "other",
+        "health",
+        "public_safety"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": [
+        "immigrant street vendor enforcement and permitting",
+        "transgender community protections and sanctuary city ordinances",
+        "Sikh Awareness and Appreciation Month support",
+        "tributes to disability justice activist Alice Wong",
+        "out-of-county skilled nursing facility transfers",
+        "public library materials and electronic media access"
+      ]
+    },
+    {
+      "meta_id": 1193677,
+      "summary": "The Board considered items 46 through 49 on the calendar for adoption without committee reference. Items 47 and 49 were severed for individual consideration, while the remaining items were taken together.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1193678,
+      "summary": "The Board adopted a resolution recognizing November 2025 as Transgender Awareness Month in the City and County of San Francisco. The resolution was adopted unanimously on a roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1193680,
+      "summary": "The Board considered a resolution supporting immigrant communities and local autonomy. The resolution was adopted unanimously on a roll call vote.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [
+        {
+          "name": "Matt Dorsey",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Jackie Fielder",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Bilal Mahmood",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Rafael Mandelman",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Myrna Melgar",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Danny Sauter",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Stephen Sherrill",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Shamann Walton",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Connie Chan",
+          "vote": "aye",
+          "inferred": true
+        },
+        {
+          "name": "Chyanne Chen",
+          "vote": "aye",
+          "inferred": true
+        }
+      ],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1193679,
+      "summary": "The Board adopted a resolution recognizing November 2025 as Sikh Awareness and Appreciation Month in the City and County of San Francisco. Supervisor Mahmood spoke on the history and contributions of the Sikh community and the importance of solidarity against hate.",
+      "outcome": "passed",
+      "topics": [
+        "other"
+      ],
+      "speakers": [
+        {
+          "name": "Bilal Mahmood",
+          "stance": "support",
+          "quote": "ITEM 47 RECOGNIZES THE MONTH OF NOVEMBER 2025 AS SICK AWARENESS AND APPRECIATION MONTH REPRESENTING A COMMITMENT TO ENSURING THAT ALL PEOPLE OF FAITH INCLUDING THE SIKH COMMUNITY CAN PRACTICE THEIR RELIGION FREELY AND FEARLESSLY",
+          "t0": 12348.972,
+          "verified": false
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1193681,
+      "summary": "The Board adopted a resolution declaring November 17, 2025 as World Prematurity Awareness Day in San Francisco and urging interagency efforts to eliminate racial and ethnic disparities in birth outcomes. Supervisor Melgar spoke on the acute birth disparities facing local pregnant people.",
+      "outcome": "passed",
+      "topics": [
+        "health"
+      ],
+      "speakers": [
+        {
+          "name": "Myrna Melgar",
+          "stance": "support",
+          "quote": "SAN FRANCISCO HAS ONE OF THE WORST BIRTH DISPARITIES IN CALIFORNIA WITH ONE IN EVERY 12 BABIES BORN PRETERM WITH BLACK PACIFIC ISLANDERS NATIVE AMERICANS AND LATIN A PREGNANT PEOPLE EXPERIENCING DISPROPORTIONATELY HIGHER RATES OF PRETERM BIRTH THAN THEIR WHITE COUNTERPARTS.",
+          "t0": 12442.732,
+          "verified": true
+        }
+      ],
+      "votes": [],
+      "public_comment_themes": []
+    },
+    {
+      "meta_id": 1193682,
+      "summary": "The Clerk read the in memoriam dedications for Reginald Cummings, Alice Wong, and Mary Kay Inguaddio. The Board then adjourned the meeting in their honor.",
+      "outcome": "no_action",
+      "topics": [
+        "other"
+      ],
+      "speakers": [],
+      "votes": [],
+      "public_comment_themes": []
+    }
+  ],
+  "quote_verification": {
+    "verified": 13,
+    "partial": 5,
+    "dropped": 3
+  }
+}

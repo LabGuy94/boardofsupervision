@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 292 80" width="292" height="80" color="#1e3a5f" role="img" aria-labelledby="title">
+  <title id="title">Board of SuperVision — The public eye</title>
+  <g transform="translate(0 8)">
+  <path d="M4 34C11 25 21 19 32 19S53 25 60 34C53 43 43 49 32 49S11 43 4 34Z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M20 42V36H22V33C22 27 25 23 29 22V18H31V14H33V18H35V22C39 23 42 27 42 33V36H44V42Z" fill="currentColor"/>
+  </g>
+  <g fill="#1e3a5f" font-family="Georgia, 'Source Serif 4', serif">
+    <text x="82" y="32" font-size="24">Board of</text>
+    <text x="82" y="63" font-size="30">Super<tspan fill="#245c92" font-weight="700">Vision</tspan></text>
+  </g>
+</svg>

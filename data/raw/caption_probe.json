@@ -1,0 +1,92 @@
+[
+  {
+    "clip_id": 14929,
+    "date": "2012-04-24",
+    "cues": 1262,
+    "available": true
+  },
+  {
+    "clip_id": 14874,
+    "date": "2012-04-17",
+    "cues": 1835,
+    "available": true
+  },
+  {
+    "clip_id": 14800,
+    "date": "2012-04-10",
+    "cues": 4541,
+    "available": true
+  },
+  {
+    "clip_id": 14725,
+    "date": "2012-04-03",
+    "cues": 4841,
+    "available": true
+  },
+  {
+    "clip_id": 14643,
+    "date": "2012-03-27",
+    "cues": 4695,
+    "available": true
+  },
+  {
+    "clip_id": 9112,
+    "date": "2009-12-15",
+    "cues": 8722,
+    "available": true
+  },
+  {
+    "clip_id": 9061,
+    "date": "2009-12-08",
+    "cues": 3844,
+    "available": true
+  },
+  {
+    "clip_id": 8996,
+    "date": "2009-11-24",
+    "cues": 5848,
+    "available": true
+  },
+  {
+    "clip_id": 8950,
+    "date": "2009-11-17",
+    "cues": 3414,
+    "available": true
+  },
+  {
+    "clip_id": 8879,
+    "date": "2009-11-10",
+    "cues": 4886,
+    "available": true
+  },
+  {
+    "clip_id": 2886,
+    "date": "2006-12-12",
+    "cues": 6380,
+    "available": true
+  },
+  {
+    "clip_id": 2841,
+    "date": "2006-12-05",
+    "cues": 4707,
+    "available": true
+  },
+  {
+    "clip_id": 2811,
+    "date": "2006-11-21",
+    "cues": 8493,
+    "available": true
+  },
+  {
+    "clip_id": 2762,
+    "date": "2006-11-14",
+    "cues": 5954,
+    "available": true
+  },
+  {
+    "clip_id": 2733,
+    "date": "2006-11-07",
+    "cues": 3345,
+    "available": true
+  }
+]

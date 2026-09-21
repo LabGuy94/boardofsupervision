@@ -1,0 +1,15 @@
+{
+  "from": "2026-04-07",
+  "to": "2026-04-07",
+  "meetings": 1,
+  "cost": 0.11728875,
+  "results": [
+    {
+      "clip_id": 52134,
+      "status": "extracted",
+      "cost": 0.11728875,
+      "cost_calls": 1,
+      "loaded": true
+    }
+  ]
+}
